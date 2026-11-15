@@ -10,7 +10,7 @@ const SITE = process.env.HOB_SITE || 'https://nunnaconsulting.com/NAIC/hallofbui
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
 export function emailsFor(b) {
-  const wing = `${SITE}#/wing/${b.id}`;
+  const wing = `${SITE}#/section/${b.id}`;
   return b.challenge.map((d) => {
     // Pair a day with the principle that shares its words, if any; the last day always looks back.
     const p = d.day < 7 ? b.principles.find((x) => x.title.toLowerCase().split(' ').some((w) => w.length > 4 && d.title.toLowerCase().includes(w))) : null;
@@ -20,7 +20,7 @@ export function emailsFor(b) {
       `Day ${d.day} of your ${b.name} challenge`, '',
       `Today: ${d.title}.`, d.action, '',
       why,
-      '', `Read the wing again: ${wing}`, '',
+      '', `Read the Section again: ${wing}`, '',
       'Hall of Builders, an NAIC project. Educational content.',
     ].join('\n');
     const html = `<div style="font-family:Georgia,serif;max-width:560px;margin:auto;color:#1c1a17;line-height:1.6">
@@ -28,7 +28,7 @@ export function emailsFor(b) {
 <h1 style="font-size:26px;margin:0 0 12px">${esc(d.title)}</h1>
 <p style="font-size:18px;background:#f6efe1;padding:12px 14px;border-radius:8px"><b>Today:</b> ${esc(d.action)}</p>
 <p>${esc(why)}</p>
-<p><a href="${esc(wing)}" style="color:#8a6d3b">Read the ${esc(b.name)} wing again</a></p>
+<p><a href="${esc(wing)}" style="color:#8a6d3b">Read the ${esc(b.name)} Section again</a></p>
 <p style="font-size:12px;color:#777">Hall of Builders, an NAIC project. Educational content; every claim on the site links to its source.</p></div>`;
     return { day: d.day, subject, text, html };
   });

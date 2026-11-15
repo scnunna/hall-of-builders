@@ -31,19 +31,19 @@ function lobby() {
       <h3>${esc(w.name)}</h3>
       <p class="door-title">${esc(w.title)}</p>
       <p>${esc(w.hook)}</p>
-      ${w.status === 'open' ? `<a class="btn btn-gold" href="#/wing/${w.id}">Enter the wing</a>` : `<a class="btn btn-ghost" href="#/vote">Get notified</a>`}
+      ${w.status === 'open' ? `<a class="btn btn-gold" href="#/section/${w.id}">Enter the Section</a>` : `<a class="btn btn-ghost" href="#/vote">Get notified</a>`}
     </article>`).join('');
   return `
   <section class="hero">
     <p class="eyebrow">A museum of how great builders thought</p>
     <h1>Learn from the greats.<br><em>Then practise it.</em></h1>
-    <p class="lead">Each wing tells one builder's story, distils five principles with sources, and gives you a free 7-day challenge to try them in your own life.</p>
-    <div class="row"><a class="btn btn-gold" href="#/wing/musashi">Start with Musashi</a><a class="btn btn-ghost" href="#/quiz">Which Builder are you?</a></div>
+    <p class="lead">Each Section tells one builder's story, distils five principles with sources, and gives you a free 7-day challenge to try them in your own life.</p>
+    <div class="row"><a class="btn btn-gold" href="#/section/musashi">Start with Musashi</a><a class="btn btn-ghost" href="#/quiz">Which Builder are you?</a></div>
   </section>
-  <section class="wrap"><h2 class="sec">The wings</h2><div class="doors">${doors}</div></section>
+  <section class="wrap"><h2 class="sec">The Sections</h2><div class="doors">${doors}</div></section>
   <section class="wrap band">
     <h2 class="sec">You decide who comes next</h2>
-    <p>Vote for the next builders to join the Hall. The most-wanted ones get a wing, a mini book and a collectible.</p>
+    <p>Vote for the next builders to join the Hall. The most-wanted ones get a Section, a mini book and a collectible.</p>
     <a class="btn btn-gold" href="#/vote">Vote the Hall</a>
   </section>`;
 }
@@ -69,10 +69,10 @@ function wing(b: Builder) {
   <section class="hero wing-hero">
     <div class="hero-art">${scene(`hero-${b.id}`)}</div>
     <div>
-      <p class="eyebrow">Wing ${String(hall.wings.findIndex((w) => w.id === b.id) + 1).padStart(2, '0')} · ${esc(b.years)}</p>
+      <p class="eyebrow">Section ${String(hall.wings.findIndex((w) => w.id === b.id) + 1).padStart(2, '0')} · ${esc(b.years)}</p>
       <h1>${esc(b.name)}<br><em>${esc(b.title)}</em></h1>
       <p class="lead">${esc(b.tagline)}</p>
-      <nav class="row" aria-label="In this wing"><a class="btn btn-gold" href="#story" data-jump>Story</a><a class="btn btn-ghost" href="#principles" data-jump>5 principles</a><a class="btn btn-ghost" href="#challenge" data-jump>7-day challenge</a></nav>
+      <nav class="row" aria-label="In this Section"><a class="btn btn-gold" href="#story" data-jump>Story</a><a class="btn btn-ghost" href="#principles" data-jump>5 principles</a><a class="btn btn-ghost" href="#challenge" data-jump>7-day challenge</a></nav>
     </div>
   </section>
   <section class="wrap" id="story"><h2 class="sec">The story</h2><p class="muted">Six moments, about 90 seconds to read. Placeholder ink art; illustrated panels are coming.</p><div class="panels">${story}</div></section>
@@ -111,7 +111,7 @@ function quiz() {
 function vote() {
   const opts = hall.candidates.map((n, i) => `<label class="vote-opt"><input type="checkbox" name="v" value="${esc(n)}" /> <span>${esc(n)}</span></label>`).join('');
   return `
-  <section class="hero"><p class="eyebrow">Vote the Hall</p><h1>Who should we <em>build next?</em></h1><p class="lead">Pick up to three. The most-wanted builders get a wing, a mini book and a collectible. We email you when your pick opens.</p></section>
+  <section class="hero"><p class="eyebrow">Vote the Hall</p><h1>Who should we <em>build next?</em></h1><p class="lead">Pick up to three. The most-wanted builders get a Section, a mini book and a collectible. We email you when your pick opens.</p></section>
   <section class="wrap">
     <form id="vote-pick" class="vote-grid">${opts}</form>
     <p class="muted small" id="vote-count">0 of 3 picked</p>
@@ -142,8 +142,8 @@ function wireQuiz() {
     const out = document.getElementById('result')!;
     out.innerHTML = `
       <article class="result reveal in"><p class="eyebrow">Your Builder</p><h2>${esc(r.title)}</h2><p class="door-title">${esc(r.name)}</p><p>${esc(r.line)}</p>
-      <div class="row"><button class="btn btn-gold" id="share">Share my card</button>${open ? `<a class="btn btn-ghost" href="#/wing/${id}">Enter the ${esc(r.name.split(' ').pop()!)} wing</a>` : ''}</div>
-      ${open ? '' : `<p>The ${esc(r.name)} wing opens soon. Get an email when it does:</p>${leadForm({ id: 'qr', kind: 'magnet', topic: `hall-of-builders:${id}:wing-open`, tags: ['hall-of-builders', id, 'quiz'], button: 'Notify me', note: 'Email me when this wing opens.' })}`}
+      <div class="row"><button class="btn btn-gold" id="share">Share my card</button>${open ? `<a class="btn btn-ghost" href="#/section/${id}">Enter the ${esc(r.name.split(' ').pop()!)} Section</a>` : ''}</div>
+      ${open ? '' : `<p>The ${esc(r.name)} Section opens soon. Get an email when it does:</p>${leadForm({ id: 'qr', kind: 'magnet', topic: `hall-of-builders:${id}:wing-open`, tags: ['hall-of-builders', id, 'quiz'], button: 'Notify me', note: 'Email me when this Section opens.' })}`}
       </article>`;
     wireLeadForms(out);
     out.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
@@ -172,8 +172,8 @@ function wireVote() {
 
 function route() {
   const h = location.hash.replace(/^#/, '') || '/';
-  const m = h.match(/^\/wing\/([a-z]+)/);
-  if (h.startsWith('/wing/') && m && builders[m[1]]) { main.innerHTML = wing(builders[m[1]]); document.title = `${builders[m[1]].name} | Hall of Builders`; }
+  const m = h.match(/^\/(?:wing|section)\/([a-z]+)/);   // old /wing/ links keep working
+  if (m && builders[m[1]]) { main.innerHTML = wing(builders[m[1]]); document.title = `${builders[m[1]].name} | Hall of Builders`; }
   else if (h === '/quiz') { main.innerHTML = quiz(); document.title = 'Which Builder are you? | Hall of Builders'; }
   else if (h === '/vote') { main.innerHTML = vote(); document.title = 'Vote the Hall | Hall of Builders'; }
   else if (h.startsWith('/')) { main.innerHTML = lobby(); document.title = 'Hall of Builders'; }
