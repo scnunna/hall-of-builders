@@ -1,0 +1,16 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "07-meditations",
+ "panels": [
+  { "key": "01-rome", "year": "121" },
+  { "key": "02-student", "year": "130", "near": true },
+  { "key": "03-adoption", "year": "138", "near": true },
+  { "key": "04-coemperors", "year": "161" },
+  { "key": "05-plague", "year": "165", "near": true },
+  { "key": "06-danube", "year": "168", "near": true },
+  { "key": "07-meditations", "year": "170", "near": true },
+  { "key": "08-triumph", "year": "176", "near": true },
+  { "key": "09-farewell", "year": "180" },
+  { "key": "10-legacy", "year": "181", "near": true }
+ ]
+}

@@ -30,16 +30,17 @@ export function placePanels(m: Museum, art: Art) {
   return at;
 }
 
-export function museumHTML(id: string, name: string, m: Museum, art: Art, allSources: Record<string, Src>) {
+export function museumHTML(id: string, name: string, years: string, m: Museum, art: Art, allSources: Record<string, Src>) {
   const img = (k: string) => `${import.meta.env.BASE_URL}art/${id}/${k}.webp`;
   const cite = (ids: string[] = []) => ids.map((s) => allSources[s] ? `<a class="cite" href="${esc(allSources[s].url)}" target="_blank" rel="noopener" title="${esc(allSources[s].label)}">source</a>` : '').join(' ');
   const panelAt = placePanels(m, art);
   const first = yearOf(m.timeline[0].date), last = yearOf(m.timeline[m.timeline.length - 1].date);
+  const life = years.replace(/\s*-\s*/, ' to ');   // the person's own lifespan (the timeline may continue with legacy entries)
 
   const events = m.timeline.map((e, i) => {
     const pic = panelAt[i];
     const cls = `ev ${e.turning ? 'turn' : ''} k-${esc(e.kind)}`;
-    const head = `<p class="ev-meta"><b>${esc(e.date.slice(0, 4))}</b>${e.age != null ? ` · age ${e.age}` : ''} · ${esc(e.place)}</p><h3>${esc(e.title)}</h3><p>${esc(e.text)} ${cite(e.sources)}</p>`;
+    const head = `<p class="ev-meta"><b>${yearOf(e.date)}</b>${e.age != null ? ` · age ${e.age}` : ''} · ${esc(e.place)}</p><h3>${esc(e.title)}</h3><p>${esc(e.text)} ${cite(e.sources)}</p>`;
     if (pic && e.turning) return `<article class="${cls} splash-panel" data-year="${yearOf(e.date)}"><div class="sp-img"><img src="${img(pic)}" alt="" loading="lazy" decoding="async"></div><div class="sp-text"><span class="badge">Turning point</span>${head}</div></article>`;
     return `<article class="${cls}" data-year="${yearOf(e.date)}">${pic ? `<figure class="ev-img"><img src="${img(pic)}" alt="" loading="lazy" decoding="async"></figure>` : ''}<div class="ev-body">${e.turning ? '<span class="badge">Turning point</span>' : ''}${head}</div></article>`;
   }).join('');
@@ -75,13 +76,13 @@ export function museumHTML(id: string, name: string, m: Museum, art: Art, allSou
     <section class="m-splash" aria-label="${esc(name)}">
       <div class="m-splash-img"><img src="${img(art.splash)}" alt="" fetchpriority="high"></div>
       <div class="m-splash-text">
-        <p class="eyebrow">The museum of a life's work · ${first} - ${last}</p>
+        <p class="eyebrow">The museum of a life's work · ${esc(life)}</p>
         <h1>${esc(name)}</h1>
-        <p class="m-scroll">Scroll to walk through his life <span aria-hidden="true">&darr;</span></p>
+        <p class="m-scroll">Scroll to walk through the life <span aria-hidden="true">&darr;</span></p>
       </div>
     </section>
     <div class="m-bar" aria-hidden="true"><span class="m-year">${first}</span><span class="m-track"><span class="m-fill"></span></span><span class="m-end">${last}</span></div>`,
-    timeline: `<section class="wrap m-life" id="life"><h2 class="sec">A life, ${first} to ${last}</h2><p class="muted small">Graphic-novel panels are AI-generated artistic interpretations, not historical records. ${esc(art.style)}</p><div class="spine">${events}</div></section>`,
+    timeline: `<section class="wrap m-life" id="life"><h2 class="sec">A life, ${esc(life)}</h2><p class="muted small">Graphic-novel panels are AI-generated artistic interpretations, not historical records. ${esc(art.style)}</p><div class="spine">${events}</div></section>`,
     works: `<section class="wrap band" id="works"><h2 class="sec">The life's work</h2><div class="works">${works}</div></section>`,
     patents,
     books: `<section class="wrap" id="books"><h2 class="sec">Read more</h2><p class="muted small">Their own books come first, with free public-domain copies where they exist. Some links may become affiliate links; it never changes what we recommend. <a href="#/legal/disclosures">Disclosures</a></p><ul class="books">${books}</ul></section>`,

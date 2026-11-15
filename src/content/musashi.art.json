@@ -1,0 +1,16 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "05-ganryujima",
+ "panels": [
+  { "key": "01-harima", "year": "1584", "near": true },
+  { "key": "02-firstduel", "year": "1596", "near": true },
+  { "key": "03-road", "year": "1599", "near": true },
+  { "key": "04-kyoto", "year": "1604", "near": true },
+  { "key": "05-ganryujima", "year": "1612" },
+  { "key": "06-twoswords", "year": "1613", "near": true },
+  { "key": "07-brush", "year": "1625", "near": true },
+  { "key": "08-kumamoto", "year": "1640", "near": true },
+  { "key": "09-reigando", "year": "1643", "near": true },
+  { "key": "10-dokkodo", "year": "1645" }
+ ]
+}

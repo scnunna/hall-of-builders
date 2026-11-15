@@ -1,0 +1,457 @@
+{
+  "sources": {
+    "w-musashi": { "label": "Miyamoto Musashi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Miyamoto_Musashi" },
+    "w-fiverings": { "label": "The Book of Five Rings (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Book_of_Five_Rings" },
+    "w-dokkodo": { "label": "Dokkodo (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Dokk%C5%8Dd%C5%8D" },
+    "hyoho-dokkodo": { "label": "Dokkodo, tr. Hyakutake-Watkin (hyoho.com)", "url": "https://www.hyoho.com/Hyoho6.html" },
+    "w-niten": { "label": "Hyoho Niten Ichi-ryu (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Hy%C5%8Dh%C5%8D_Niten_Ichi-ry%C5%AB" },
+    "w-iori": { "label": "Miyamoto Iori (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Miyamoto_Iori" },
+    "w-kojiro": { "label": "Sasaki Kojiro (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Sasaki_Kojir%C5%8D" },
+    "w-ganryujima": { "label": "Ganryu-jima (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ganry%C5%AB-jima" },
+    "w-reigando": { "label": "Reigando (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Reigand%C5%8D" },
+    "w-eiseibunko": { "label": "Eisei Bunko Museum (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Eisei_Bunko_Museum" },
+    "niten-official": { "label": "Hyoho Niten Ichi-ryu Hombu Dojo (official site)", "url": "https://hyohonitenichiryu.com/" },
+    "c-paintings": { "label": "Paintings by Miyamoto Musashi (Wikimedia Commons category)", "url": "https://commons.wikimedia.org/wiki/Category:Paintings_by_Miyamoto_Musashi" },
+    "c-shrike": { "label": "Shrike in a Barren Tree, Kuboso Memorial Museum of Arts (Wikimedia Commons)", "url": "https://commons.wikimedia.org/wiki/File:Kobokumeigekizu.jpg" },
+    "c-rogan": { "label": "Wild Geese and Reeds, right screen, Eisei Bunko Museum (Wikimedia Commons)", "url": "https://commons.wikimedia.org/wiki/File:Miyamoto_Musashi_RoGan-zu(right).jpg" },
+    "c-hotei": { "label": "Hotei Watching a Cockfight (Wikimedia Commons)", "url": "https://commons.wikimedia.org/wiki/File:Hotei_Watching_a_Cockfight.jpg" },
+    "bunka-plum": { "label": "Red Plum and Doves, Important Cultural Property record (Cultural Heritage Online, Agency for Cultural Affairs)", "url": "https://online.bunka.go.jp/index.php/heritages/detail/150238" },
+    "eisei-site": { "label": "Eisei Bunko Museum (official site, Japanese)", "url": "https://www.eiseibunko.com/" },
+    "tuttle-bennett": { "label": "The Complete Musashi, tr. Alex Bennett (Tuttle Publishing)", "url": "https://www.tuttlepublishing.com/japan/the-complete-musashi-the-book-of-five-rings-and-other-works" },
+    "pw-wilson": { "label": "The Lone Samurai by William Scott Wilson (Publishers Weekly review)", "url": "https://www.publishersweekly.com/9784770029423" },
+    "cinii-harris": { "label": "A Book of Five Rings, tr. Victor Harris, 1974 (CiNii Books record)", "url": "https://ci.nii.ac.jp/ncid/BA10140790?l=en" }
+  },
+  "timeline": [
+    {
+      "date": "1584",
+      "age": 0,
+      "place": "Miyamoto, Harima or Mimasaka Province, Japan",
+      "title": "Born in a village called Miyamoto",
+      "text": "Musashi was born around 1584, though some sources say 1583. In The Book of Five Rings he says he was born in Harima Province, but one historian places his home village in Mimasaka Province. His father was Shinmen Munisai, a swordsman and master of the jutte, a short iron truncheon.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-musashi"]
+    },
+    {
+      "date": "1596",
+      "age": 13,
+      "place": "Hirafuku, Hyogo, Japan",
+      "title": "First duel, against Arima Kihei",
+      "text": "As a boy he fought and beat Arima Kihei, a trained swordsman of the Kashima Shinto school. One account dates this to 1596. Accounts give his age as anywhere from about 11 to 13.",
+      "turning": true,
+      "kind": "duel",
+      "sources": ["w-musashi"]
+    },
+    {
+      "date": "1599",
+      "age": 16,
+      "place": "Place unrecorded, Japan",
+      "title": "Second duel, at about sixteen",
+      "text": "He defeated Tadashima Akiyama, a swordsman from Tajima Province. Sources disagree on whether he was 15 or 16 at the time.",
+      "turning": false,
+      "kind": "duel",
+      "sources": ["w-musashi"]
+    },
+    {
+      "date": "1600",
+      "age": null,
+      "place": "Kyushu, Japan",
+      "title": "The year of Sekigahara",
+      "text": "This was the year of the great battle of Sekigahara. Older accounts put Musashi on the losing Western side, but later research suggests he fought for the Eastern side under Kuroda Yoshitaka, at Ishigakihara and Fuka Castle in Kyushu. Whether he was at Sekigahara itself is still debated.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-musashi"]
+    },
+    {
+      "date": "1604",
+      "age": null,
+      "place": "Kyoto, Yamashiro Province, Japan",
+      "title": "Challenging the Yoshioka school",
+      "text": "In Kyoto he challenged the Yoshioka, a famous family school of swordsmanship. He first beat its head, Yoshioka Seijuro, on Rendai Moor.",
+      "turning": true,
+      "kind": "duel",
+      "sources": ["w-musashi"]
+    },
+    {
+      "date": "1604",
+      "age": null,
+      "place": "Kyoto, Yamashiro Province, Japan",
+      "title": "Denshichiro and the pine at Ichijo-ji",
+      "text": "He then defeated Seijuro's brother Denshichiro. A third match against the young Matashichiro was fought by a pine tree at Ichijo-ji, and ended the Yoshioka challenge.",
+      "turning": false,
+      "kind": "duel",
+      "sources": ["w-musashi"]
+    },
+    {
+      "date": "1604",
+      "age": null,
+      "place": "Nara, Yamato Province, Japan",
+      "title": "Years on the road",
+      "text": "He spent the following years travelling and testing himself against other fighters. Recorded opponents include Okuzoin Doei of the Hozoin spear school in Nara and a sickle-and-chain fighter named Shishido. Exact dates for many of these meetings are not known.",
+      "turning": false,
+      "kind": "duel",
+      "sources": ["w-musashi"]
+    },
+    {
+      "date": "1608",
+      "age": null,
+      "place": "Edo, Musashi Province, Japan",
+      "title": "Meeting Muso Gonnosuke",
+      "text": "In Edo, the city that is now Tokyo, he faced Muso Gonnosuke, a master of the staff. Other duels in Edo, against Hayashi Osedo and Tsujikaze Tenma, are dated to 1610.",
+      "turning": false,
+      "kind": "duel",
+      "sources": ["w-musashi"]
+    },
+    {
+      "date": "1612-04-13",
+      "age": null,
+      "place": "Ganryu Island, Nagato Province, Japan",
+      "title": "The duel on Ganryu Island",
+      "text": "He fought Sasaki Kojiro on a small island off Shimonoseki, and Kojiro was killed. Tradition says Musashi arrived late and carved a wooden sword from a boat oar on the way, but there are differing accounts of how the duel really went. The island, once called Funa-jima, was later named after Kojiro's Ganryu school.",
+      "turning": true,
+      "kind": "duel",
+      "sources": ["w-musashi", "w-kojiro", "w-ganryujima"]
+    },
+    {
+      "date": "1614",
+      "age": null,
+      "place": "Osaka, Settsu Province, Japan",
+      "title": "The sieges of Osaka",
+      "text": "He is believed to have served under the lord Mizuno Katsushige during the Osaka campaigns of 1614 and 1615, carrying a banner and guarding the lord's son. No important deeds of his there are documented.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-musashi"]
+    },
+    {
+      "date": "1621",
+      "age": null,
+      "place": "Tatsuno, Harima Province, Japan",
+      "title": "Duel with Miyake Gunbei",
+      "text": "In Tatsuno he defeated Miyake Gunbei. By this time his reputation as a fighter was well established.",
+      "turning": false,
+      "kind": "duel",
+      "sources": ["w-musashi"]
+    },
+    {
+      "date": "1623",
+      "age": null,
+      "place": "Edo, Musashi Province, Japan",
+      "title": "Adopting Iori",
+      "text": "While living in Edo he adopted a boy of about eleven, who became Miyamoto Iori. Iori later served the Ogasawara clan and rose to become one of its leading retainers.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-iori", "w-musashi"]
+    },
+    {
+      "date": "1626",
+      "age": null,
+      "place": "Place unrecorded, Japan",
+      "title": "Loss of his son Mikinosuke",
+      "text": "His earlier adopted son Mikinosuke, who had served in the Osaka campaign, took his own life in 1626. He followed the samurai custom of junshi, dying after the death of one's lord.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-musashi"]
+    },
+    {
+      "date": "1628",
+      "age": null,
+      "place": "Nagoya, Owari Province, Japan",
+      "title": "Meeting in Owari",
+      "text": "In Nagoya he met Yagyu Hyogonosuke, a leading swordsman of the Yagyu school. In 1641 one of his followers, Hirao Yoemon, became master of arms for the Owari domain.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-musashi"]
+    },
+    {
+      "date": "1634",
+      "age": null,
+      "place": "Kokura, Buzen Province, Japan",
+      "title": "Guest of the Ogasawara",
+      "text": "He moved to Kokura with Iori as a guest of the lord Ogasawara Tadazane. That same year he is recorded as defeating Takada Matabei, a spear specialist.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-musashi", "w-iori"]
+    },
+    {
+      "date": "1638",
+      "age": null,
+      "place": "Shimabara, Hizen Province, Japan",
+      "title": "The Shimabara Rebellion",
+      "text": "He took part in putting down the Shimabara Rebellion, the only battle service of his that is clearly documented. One record says he was knocked from his horse by a stone thrown by a peasant. Iori's stipend was raised that year for his part in the siege.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-musashi", "w-iori"]
+    },
+    {
+      "date": "1640",
+      "age": null,
+      "place": "Kumamoto, Higo Province, Japan",
+      "title": "Retainer of the Hosokawa clan",
+      "text": "He became an official retainer of Hosokawa Tadatoshi, lord of Kumamoto, with a stipend of 300 koku and a residence on the grounds of Chiba Castle. He had been connected with Tadatoshi for some years before, though accounts differ on the dates. Around this time he chose students to carry on his school.",
+      "turning": true,
+      "kind": "honour",
+      "sources": ["w-musashi", "w-niten"]
+    },
+    {
+      "date": "1641",
+      "age": null,
+      "place": "Kumamoto, Higo Province, Japan",
+      "title": "Thirty-five Instructions on Strategy",
+      "text": "He wrote the Hyoho Sanju Go, thirty-five instructions on strategy, for Lord Tadatoshi. It became the basis of The Book of Five Rings.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-musashi"]
+    },
+    {
+      "date": "1642",
+      "age": null,
+      "place": "Kumamoto, Higo Province, Japan",
+      "title": "Failing health",
+      "text": "He began to suffer attacks of neuralgia, a nerve pain. His health would not recover.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-musashi"]
+    },
+    {
+      "date": "1643",
+      "age": null,
+      "place": "Reigando cave, Higo Province, Japan",
+      "title": "Retreat to the Reigando cave",
+      "text": "He withdrew to Reigando, the Spirit Rock Cave west of Kumamoto, to live simply and write. He spent many of his final months there.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-musashi", "w-reigando"]
+    },
+    {
+      "date": "1645",
+      "age": null,
+      "place": "Kumamoto, Higo Province, Japan",
+      "title": "The Book of Five Rings is finished",
+      "text": "In the second month of 1645 he finished The Book of Five Rings, written in five books named Earth, Water, Fire, Wind and Void. It set down the teachings of his school for his students.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-musashi", "w-fiverings"]
+    },
+    {
+      "date": "1645-06",
+      "age": null,
+      "place": "Kumamoto, Higo Province, Japan",
+      "title": "The Dokkodo and a final gift",
+      "text": "About a week before his death he wrote the Dokkodo, 21 short precepts on living alone with discipline. He gave it, with the manuscript of The Book of Five Rings, to his closest student, Terao Magonojo.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-musashi", "w-dokkodo", "hyoho-dokkodo"]
+    },
+    {
+      "date": "1645-06-13",
+      "age": null,
+      "place": "Kumamoto, Higo Province, Japan",
+      "title": "Death",
+      "text": "Musashi died on 13 June 1645, aged about 60 to 62, possibly of lung cancer. One record says he died in the Reigando cave, another at his house in Kumamoto. A tomb was set up for him on Mount Iwato on his lord's orders.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-musashi"]
+    }
+  ],
+  "works": [
+    {
+      "year": "1645",
+      "type": "book",
+      "title": "The Book of Five Rings (Go Rin no Sho)",
+      "text": "His book on strategy and swordsmanship, written between 1643 and 1645 to record what he taught his students. It is divided into five books.",
+      "sources": ["w-fiverings", "w-musashi"]
+    },
+    {
+      "year": "1645",
+      "type": "book",
+      "title": "The Earth Book",
+      "text": "An introduction to strategy that compares learning a craft to building a house. It ends with nine practical principles for students.",
+      "sources": ["w-fiverings"]
+    },
+    {
+      "year": "1645",
+      "type": "book",
+      "title": "The Water Book",
+      "text": "Describes his own style: basic technique, a calm and balanced spirit, stance, and the five attitudes of holding the sword.",
+      "sources": ["w-fiverings"]
+    },
+    {
+      "year": "1645",
+      "type": "book",
+      "title": "The Fire Book",
+      "text": "About the heat of a fight: reading the situation, acting first, and timing in both single combat and group battle.",
+      "sources": ["w-fiverings"]
+    },
+    {
+      "year": "1645",
+      "type": "book",
+      "title": "The Wind Book",
+      "text": "A critique of rival schools of swordsmanship. The Japanese word for wind can also mean style.",
+      "sources": ["w-fiverings"]
+    },
+    {
+      "year": "1645",
+      "type": "book",
+      "title": "The Book of the Void",
+      "text": "A short closing book on knowledge, the mind and emptiness, shaped by Zen Buddhism.",
+      "sources": ["w-fiverings"]
+    },
+    {
+      "year": "1641",
+      "type": "book",
+      "title": "Hyoho Sanju Go (Thirty-five Instructions on Strategy)",
+      "text": "Written for Lord Hosokawa Tadatoshi. It laid the groundwork for The Book of Five Rings.",
+      "sources": ["w-musashi"]
+    },
+    {
+      "year": "1645",
+      "type": "book",
+      "title": "Dokkodo (The Path of Aloneness)",
+      "text": "Twenty-one short precepts written about a week before he died, for his student Terao Magonojo. It reads as a condensed version of his earlier teaching.",
+      "sources": ["w-dokkodo", "hyoho-dokkodo"],
+      "url": "https://www.hyoho.com/Hyoho6.html"
+    },
+    {
+      "year": "1640",
+      "type": "school",
+      "title": "Hyoho Niten Ichi-ryu",
+      "text": "His school of fighting with the long and short sword together, founded some time between 1604 and 1640. It is still taught today, and Japan's classical martial arts associations recognise its main line as heir to his tradition.",
+      "sources": ["w-niten", "niten-official"],
+      "url": "https://hyohonitenichiryu.com/"
+    },
+    {
+      "year": "1645",
+      "type": "art",
+      "title": "Shrike in a Barren Tree (Koboku Meigeki-zu)",
+      "text": "An ink painting on paper of a shrike perched on a dead branch, his best-known picture. It is held by the Kuboso Memorial Museum of Arts in Izumi and listed as an Important Cultural Property. The exact year is unknown.",
+      "sources": ["c-shrike", "w-musashi"],
+      "url": "https://commons.wikimedia.org/wiki/File:Kobokumeigekizu.jpg"
+    },
+    {
+      "year": "1645",
+      "type": "art",
+      "title": "Wild Geese and Reeds (Rogan-zu)",
+      "text": "A pair of six-panel folding screens in ink, attributed to Musashi and held by the Eisei Bunko Museum in Tokyo, home of the Hosokawa family collection. The exact year is unknown.",
+      "sources": ["c-rogan", "w-musashi", "w-eiseibunko"],
+      "url": "https://commons.wikimedia.org/wiki/File:Miyamoto_Musashi_RoGan-zu(right).jpg"
+    },
+    {
+      "year": "1645",
+      "type": "art",
+      "title": "Hotei Watching a Cockfight",
+      "text": "An ink painting of the cheerful monk Hotei watching two roosters fight, dated about 1630 to 1645 in image records. The sources we opened do not say which museum holds it.",
+      "sources": ["c-hotei", "w-musashi"],
+      "url": "https://commons.wikimedia.org/wiki/File:Hotei_Watching_a_Cockfight.jpg"
+    },
+    {
+      "year": "1645",
+      "type": "art",
+      "title": "Red Plum and Doves",
+      "text": "A hanging scroll in ink on paper, made in the Edo period. It was named an Important Cultural Property in 1959 and is held by the Eisei Bunko Museum.",
+      "sources": ["bunka-plum"],
+      "url": "https://online.bunka.go.jp/index.php/heritages/detail/150238"
+    },
+    {
+      "year": "1645",
+      "type": "art",
+      "title": "Calligraphy and ink painting",
+      "text": "Besides fighting and writing, he practised calligraphy and ink painting, especially the broken ink style. The Book of Five Rings urges students to train in other arts too.",
+      "sources": ["w-musashi", "c-shrike", "c-paintings"],
+      "url": "https://commons.wikimedia.org/wiki/Category:Paintings_by_Miyamoto_Musashi"
+    },
+    {
+      "year": "1645",
+      "type": "art",
+      "title": "Wooden sword (Jisso Enman no Bokuto)",
+      "text": "A long red oak wooden sword that his school says he made, kept at Usa Jingu shrine in Oita and not on public display. Its shape suggests he used it as a staff in his later years.",
+      "sources": ["niten-official"],
+      "url": "https://hyohonitenichiryu.com/"
+    }
+  ],
+  "resources": [
+    {
+      "label": "Miyamoto Musashi (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Miyamoto_Musashi",
+      "what": "A full, sourced account of his life, duels, writings and art, including where accounts disagree."
+    },
+    {
+      "label": "The Book of Five Rings (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/The_Book_of_Five_Rings",
+      "what": "What each of the five books covers, and a list of English translations."
+    },
+    {
+      "label": "Dokkodo (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Dokk%C5%8Dd%C5%8D",
+      "what": "Background on his 21 final precepts and who they were written for."
+    },
+    {
+      "label": "Dokkodo, tr. Hyakutake-Watkin (hyoho.com)",
+      "url": "https://www.hyoho.com/Hyoho6.html",
+      "what": "An English translation of all 21 precepts with commentary, free to read online (the translation is copyrighted)."
+    },
+    {
+      "label": "Hyoho Niten Ichi-ryu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Hy%C5%8Dh%C5%8D_Niten_Ichi-ry%C5%AB",
+      "what": "The history of his two-sword school and how it was passed down to today."
+    },
+    {
+      "label": "Hyoho Niten Ichi-ryu Hombu Dojo (official site)",
+      "url": "https://hyohonitenichiryu.com/",
+      "what": "The living school he founded, with news, demonstrations and an English version."
+    },
+    {
+      "label": "Paintings by Miyamoto Musashi (Wikimedia Commons)",
+      "url": "https://commons.wikimedia.org/wiki/Category:Paintings_by_Miyamoto_Musashi",
+      "what": "Public domain images of his ink paintings, with notes on which museum holds each one."
+    },
+    {
+      "label": "Red Plum and Doves (Cultural Heritage Online)",
+      "url": "https://online.bunka.go.jp/index.php/heritages/detail/150238",
+      "what": "Japan's official cultural property record for one of his paintings held by the Eisei Bunko Museum (in Japanese)."
+    },
+    {
+      "label": "Eisei Bunko Museum (official site)",
+      "url": "https://www.eiseibunko.com/",
+      "what": "The Tokyo museum of the Hosokawa family, the clan Musashi served at the end of his life (in Japanese)."
+    },
+    {
+      "label": "Reigando (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Reigand%C5%8D",
+      "what": "The cave near Kumamoto where he wrote The Book of Five Rings, and how to visit it."
+    }
+  ],
+  "books": [
+    {
+      "title": "A Book of Five Rings",
+      "author": "Miyamoto Musashi, translated by Victor Harris",
+      "year": "1974",
+      "kind": "by-him",
+      "free": null,
+      "note": "The first English translation, published by Overlook Press. We did not find a verified public domain English translation online, so we link none."
+    },
+    {
+      "title": "Dokkodo",
+      "author": "Miyamoto Musashi, translated by Colin Hyakutake-Watkin",
+      "year": "1645",
+      "kind": "by-him",
+      "free": null,
+      "note": "His 21 last precepts. The translation dates from 1992 and can be read on hyoho.com, but it is copyrighted, not public domain."
+    },
+    {
+      "title": "The Complete Musashi: The Book of Five Rings and Other Works",
+      "author": "Miyamoto Musashi, translated by Alex Bennett",
+      "year": "2021",
+      "kind": "by-him",
+      "free": null,
+      "note": "A modern translation (Tuttle) that also includes his shorter writings, among them Combat Strategy in 35 Articles and The Path Walked Alone. An earlier edition appeared in 2018."
+    },
+    {
+      "title": "The Lone Samurai: The Life of Miyamoto Musashi",
+      "author": "William Scott Wilson",
+      "year": "2004",
+      "kind": "biography",
+      "free": null,
+      "note": "A biography by a translator of The Book of Five Rings, covering his travels, duels, teaching, art and writing. Reviewers note how few primary sources survive."
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "sources": {
+    "w-aurelius": {
+      "label": "Marcus Aurelius (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+    },
+    "w-meditations": {
+      "label": "Meditations (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Meditations"
+    },
+    "long-thoughts": {
+      "label": "Thoughts of Marcus Aurelius Antoninus, tr. George Long (Project Gutenberg #15877)",
+      "url": "https://www.gutenberg.org/ebooks/15877"
+    },
+    "w-early": {
+      "label": "Early life of Marcus Aurelius (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Early_life_of_Marcus_Aurelius"
+    },
+    "w-marcomannic": {
+      "label": "Marcomannic Wars (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Marcomannic_Wars"
+    },
+    "w-plague": {
+      "label": "Antonine Plague (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Antonine_Plague"
+    },
+    "w-cassius": {
+      "label": "Avidius Cassius (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Avidius_Cassius"
+    },
+    "w-column": {
+      "label": "Column of Marcus Aurelius (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Column_of_Marcus_Aurelius"
+    },
+    "w-statue": {
+      "label": "Equestrian Statue of Marcus Aurelius (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Equestrian_Statue_of_Marcus_Aurelius"
+    },
+    "w-endowment": {
+      "label": "Financial endowment, history section (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Financial_endowment"
+    },
+    "w-atticus-phil": {
+      "label": "Atticus (philosopher) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Atticus_(philosopher)"
+    },
+    "w-herodes": {
+      "label": "Herodes Atticus (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Herodes_Atticus"
+    },
+    "w-rusticus": {
+      "label": "Junius Rusticus (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Junius_Rusticus"
+    },
+    "w-hadot": {
+      "label": "Pierre Hadot (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Hadot"
+    },
+    "w-birley": {
+      "label": "Anthony Birley (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Anthony_Birley"
+    },
+    "iep": {
+      "label": "Marcus Aurelius, Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/marcus/"
+    },
+    "sep": {
+      "label": "Marcus Aurelius, Stanford Encyclopedia of Philosophy (Rachana Kamtekar, rev. 2025)",
+      "url": "https://plato.stanford.edu/entries/marcus-aurelius/"
+    },
+    "britannica": {
+      "label": "Marcus Aurelius, Encyclopaedia Britannica (John Anthony Crook)",
+      "url": "https://www.britannica.com/biography/Marcus-Aurelius-Roman-emperor"
+    },
+    "capitolini": {
+      "label": "Equestrian statue of Marcus Aurelius, Musei Capitolini (official page)",
+      "url": "https://www.museicapitolini.org/en/opera/statua-equestre-di-marco-aurelio"
+    },
+    "ia-long": {
+      "label": "Meditations of Marcus Aurelius, tr. George Long, 1910 edition scan (Internet Archive)",
+      "url": "https://archive.org/details/meditationsofmar00marc_0"
+    },
+    "ia-fronto": {
+      "label": "The Correspondence of Marcus Cornelius Fronto, ed. and tr. C. R. Haines, 1919, vol. 1 scan (Internet Archive)",
+      "url": "https://archive.org/details/correspondenceof01fronuoft"
+    },
+    "robertson-site": {
+      "label": "Books, Donald J. Robertson (author's site)",
+      "url": "https://donaldrobertson.name/books/"
+    }
+  },
+  "timeline": [
+    {
+      "date": "0121-04-26",
+      "age": 0,
+      "place": "Rome, Italia, (Italy)",
+      "title": "Born in Rome",
+      "text": "Marcus was born in Rome on 26 April 121, in his family's villa on the Caelian Hill. His father was the praetor Marcus Annius Verus. Through marriage, the family was related to the emperors Trajan and Hadrian.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-aurelius", "britannica"]
+    },
+    {
+      "date": "0125",
+      "age": 3,
+      "place": "Rome, Italia, (Italy)",
+      "title": "Raised by his grandfather",
+      "text": "His father probably died in 125 or 126, when Marcus was three; the exact year is not certain. He was raised by his paternal grandfather, whom he later thanked for teaching him good character and how to avoid bad temper.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-aurelius"]
+    },
+    {
+      "date": "0127",
+      "age": 6,
+      "place": "Rome, Italia, (Italy)",
+      "title": "Noticed by Hadrian",
+      "text": "At six, Marcus was enrolled in the equestrian order on the recommendation of the emperor Hadrian, which was unusually young. Hadrian was fond of him and nicknamed him Verissimus, meaning \"most true\".",
+      "turning": false,
+      "kind": "honour",
+      "sources": ["w-early", "iep"]
+    },
+    {
+      "date": "0132",
+      "age": null,
+      "place": "Rome, Italia, (Italy)",
+      "title": "The philosopher's cloak",
+      "text": "In April 132, encouraged by his teacher Diognetus, the boy took up the dress and habits of a philosopher. He studied in a rough Greek cloak and slept on the ground until his mother persuaded him to use a bed.",
+      "turning": false,
+      "kind": "philosophy",
+      "sources": ["w-aurelius"]
+    },
+    {
+      "date": "0138-01-24",
+      "age": 16,
+      "place": "Rome, Italia, (Italy)",
+      "title": "Adopted into the line of emperors",
+      "text": "After Hadrian's first heir died, Hadrian chose Antoninus, Marcus's uncle by marriage, as his successor on 24 January 138. As part of the deal, Antoninus adopted Marcus and Lucius, the son of the dead heir. Hadrian died that July and Antoninus, later called Pius, became emperor.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["w-aurelius", "britannica"]
+    },
+    {
+      "date": "0138",
+      "age": null,
+      "place": "Rome, Italia, (Italy)",
+      "title": "Taught by the best speakers of the age",
+      "text": "As heir, Marcus studied Greek and Latin speech with tutors including Herodes Atticus and Marcus Cornelius Fronto, the most admired orators of their time. Accounts differ on when they started: Wikipedia says probably not before his adoption in 138, while the Herodes Atticus article says Antoninus invited Herodes to Rome in 140.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-aurelius", "w-herodes"]
+    },
+    {
+      "date": "0140",
+      "age": 18,
+      "place": "Rome, Italia, (Italy)",
+      "title": "First consulship",
+      "text": "Marcus served as consul for 140, with Antoninus as his colleague. As heir he moved into the imperial palace on the Palatine and later warned himself in the Meditations not to be \"dipped into the purple dye\".",
+      "turning": false,
+      "kind": "honour",
+      "sources": ["w-aurelius", "britannica"]
+    },
+    {
+      "date": "0145",
+      "age": null,
+      "place": "Rome, Italia, (Italy)",
+      "title": "Second consulship and marriage",
+      "text": "On 1 January 145 Marcus became consul for a second time. In April of that year he married Faustina, the daughter of Antoninus, as had been planned since 138.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-aurelius", "britannica"]
+    },
+    {
+      "date": "0146",
+      "age": 25,
+      "place": "Rome, Italia, (Italy)",
+      "title": "From speeches to philosophy",
+      "text": "By about age 25 Marcus had grown tired of rhetoric exercises and his formal education ended. The Stoic Junius Rusticus became his strongest influence and lent him the discourses of Epictetus. Fronto complained that Rusticus had \"wooed Marcus away\" from oratory.",
+      "turning": true,
+      "kind": "philosophy",
+      "sources": ["w-aurelius", "iep", "sep", "w-rusticus"]
+    },
+    {
+      "date": "0147-12-01",
+      "age": 26,
+      "place": "Rome, Italia, (Italy)",
+      "title": "A junior partner in power",
+      "text": "Antoninus gave Marcus the tribunician power and the imperium, the main formal powers of an emperor. From then on he shared the emperor's counsels and, as Antoninus aged, took on more of the work of government.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-aurelius", "britannica"]
+    },
+    {
+      "date": "0161-03-07",
+      "age": 39,
+      "place": "Lorium, Italia, (Italy)",
+      "title": "Emperor, but not alone",
+      "text": "Antoninus died at Lorium, giving the watchword \"aequanimitas\" (equanimity) on his last night. The Senate planned to confirm Marcus alone, but he refused unless his adoptive brother Lucius Verus got equal powers. For the first time, Rome had two emperors.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["w-aurelius", "britannica"]
+    },
+    {
+      "date": "0161",
+      "age": null,
+      "place": "Rome, Italia, (Italy)",
+      "title": "First crises: war and flood",
+      "text": "In late 161 the Parthian king Vologases IV invaded Armenia and destroyed a Roman legion. Around the same time, in autumn 161 or spring 162, the Tiber flooded Rome and caused famine, and the two emperors dealt with it personally.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-aurelius"]
+    },
+    {
+      "date": "0162",
+      "age": null,
+      "place": "Rome, Italia, (Italy)",
+      "title": "Lucius goes east, Marcus stays",
+      "text": "In summer 162 Lucius left to direct the Parthian war in person. Marcus stayed in Rome, because the city \"demanded the presence of an emperor\", and kept up a heavy load of legal work.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-aurelius"]
+    },
+    {
+      "date": "0166",
+      "age": null,
+      "place": "Rome, Italia, (Italy)",
+      "title": "Victory over Parthia",
+      "text": "Roman generals, above all Avidius Cassius, took Armenia and Mesopotamia and burned the palace at Ctesiphon in 165. After a further push into Media in 166 the war ended. Wikipedia dates the war 161 to 166; Britannica dates it 162 to 166.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-aurelius", "britannica"]
+    },
+    {
+      "date": "0166",
+      "age": null,
+      "place": "Rome, Italia, (Italy)",
+      "title": "The Antonine Plague",
+      "text": "A deadly epidemic, probably smallpox, was first recorded at Smyrna in 165 and reached Rome in 166, possibly carried by soldiers returning from the east. It is estimated to have killed five to ten million people and badly weakened the army.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-aurelius", "w-plague"]
+    },
+    {
+      "date": "0168",
+      "age": null,
+      "place": "Aquileia, Italia, (Italy)",
+      "title": "The emperors go north",
+      "text": "Germanic peoples such as the Marcomanni had crossed the Danube in 166. In spring 168 Marcus and Lucius set up headquarters at Aquileia and raised two new legions. With the plague thinning the ranks, Marcus also recruited gladiators, slaves and bandits.",
+      "turning": true,
+      "kind": "war",
+      "sources": ["w-marcomannic", "w-plague", "w-aurelius"]
+    },
+    {
+      "date": "0169",
+      "age": 47,
+      "place": "Northern Italy, Italia, (Italy)",
+      "title": "Death of Lucius Verus",
+      "text": "Lucius died on the way back to Rome in January or February 169, leaving Marcus sole emperor. Sources disagree on the cause: Wikipedia's main article says probably the plague, while the Marcomannic Wars article and Britannica say a stroke.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-aurelius", "w-marcomannic", "britannica"]
+    },
+    {
+      "date": "0169",
+      "age": null,
+      "place": "Rome, Italia, (Italy)",
+      "title": "Selling the palace treasures",
+      "text": "To pay for the war, Marcus auctioned off imperial property rather than raise taxes. Historian Michael Kulikowski calls it the only workable alternative to new taxes.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-marcomannic", "britannica"]
+    },
+    {
+      "date": "0170",
+      "age": null,
+      "place": "Carnuntum, Pannonia, (Austria)",
+      "title": "Notes to himself",
+      "text": "On campaign Marcus began writing the private notebook we call the Meditations, in Greek. Book 1 is marked as written among the Quadi on the Granua and Book 2 at Carnuntum. Wikipedia dates the writing 170 to 180; the Internet Encyclopedia of Philosophy suggests about 171 to 175.",
+      "turning": true,
+      "kind": "philosophy",
+      "sources": ["w-aurelius", "w-meditations", "iep", "long-thoughts"]
+    },
+    {
+      "date": "0171",
+      "age": null,
+      "place": "Aquileia, Italia, (Italy)",
+      "title": "Italy invaded and freed",
+      "text": "A Germanic coalition beat a Roman force near Carnuntum, then besieged Aquileia, the first enemy attack on Italy in about 270 years. Marcus moved troops from other frontiers, and by late 171 the invaders had been pushed out of Roman territory.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-marcomannic"]
+    },
+    {
+      "date": "0172",
+      "age": null,
+      "place": "Danube frontier, Pannonia, (Central Europe)",
+      "title": "Across the Danube",
+      "text": "Roman forces crossed the Danube and subdued the Marcomanni and their allies, and Marcus took the title Germanicus. In 173 a trapped legion was saved by a sudden storm, the \"Miracle of the Rain\"; ancient writers disagree on whether it came from an Egyptian magician or Christian prayer.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-marcomannic", "w-aurelius"]
+    },
+    {
+      "date": "0175",
+      "age": 54,
+      "place": "Danube frontier, Pannonia, (Central Europe)",
+      "title": "Peace with the Iazyges",
+      "text": "After defeating the Quadi in 174, Marcus turned on the Sarmatian Iazyges, who surrendered in 175. Their king returned 100,000 Roman prisoners and supplied 8,000 cavalry, and Marcus took the title Sarmaticus.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-marcomannic"]
+    },
+    {
+      "date": "0175",
+      "age": null,
+      "place": "Danube frontier, Pannonia, (Central Europe)",
+      "title": "A general rebels, an emperor forgives",
+      "text": "In spring 175 Avidius Cassius, commander in the east, declared himself emperor after false reports that Marcus had died. Cassius was killed by one of his own officers after about three months; Marcus refused to look at his head and ordered it buried. He then asked the Senate for no bloodshed against the rebels and pardoned members of Cassius's family.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-cassius", "w-marcomannic"]
+    },
+    {
+      "date": "0176",
+      "age": null,
+      "place": "Athens, Achaea, (Greece)",
+      "title": "Four chairs of philosophy",
+      "text": "After a journey to the east, Marcus set up four paid teaching chairs in Athens in 176, one each for the Platonic, Aristotelian, Stoic and Epicurean schools. They are often called the earliest endowed chairs.",
+      "turning": false,
+      "kind": "philosophy",
+      "sources": ["iep", "w-endowment", "w-atticus-phil", "w-cassius"]
+    },
+    {
+      "date": "0176-12-23",
+      "age": 55,
+      "place": "Rome, Italia, (Italy)",
+      "title": "Triumph in Rome",
+      "text": "Back in Rome for the first time in nearly eight years, Marcus and his son Commodus celebrated a joint triumph over the Germans and Sarmatians. From 177 Commodus ruled jointly with his father.",
+      "turning": false,
+      "kind": "honour",
+      "sources": ["w-marcomannic", "w-aurelius"]
+    },
+    {
+      "date": "0178-08",
+      "age": 57,
+      "place": "Carnuntum, Pannonia, (Austria)",
+      "title": "The second northern campaign",
+      "text": "The Quadi and Marcomanni rose again in 177, and Marcus marched north once more. He reached Carnuntum in August 178 and campaigned against the Marcomanni and then the Quadi through 179 and 180.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-marcomannic"]
+    },
+    {
+      "date": "0180-03-17",
+      "age": 58,
+      "place": "Vindobona, Pannonia Superior, (Austria) or Sirmium, Pannonia Inferior, (Serbia)",
+      "title": "Death on campaign",
+      "text": "Marcus died on 17 March 180 in his military quarters, of a cause that is unknown. Sources disagree on the place: Vindobona (modern Vienna) or near Sirmium (modern Sremska Mitrovica). He was deified and his ashes were taken to Hadrian's mausoleum in Rome; his son Commodus succeeded him.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["w-aurelius", "britannica", "w-marcomannic"]
+    },
+    {
+      "date": "0193",
+      "age": null,
+      "place": "Rome, Italia, (Italy)",
+      "title": "The Column is finished",
+      "text": "A victory column with a spiral frieze of his northern campaigns, modeled on Trajan's Column, was completed in Rome around 193. It still stands in the Piazza Colonna.",
+      "turning": false,
+      "kind": "honour",
+      "sources": ["w-column", "w-aurelius"]
+    },
+    {
+      "date": "1538",
+      "age": null,
+      "place": "Rome, (Italy)",
+      "title": "The statue moves to the Capitol",
+      "text": "Pope Paul III had the bronze equestrian statue of Marcus moved from the Lateran to the Capitoline Hill, and Michelangelo built the new square around it. It is the only one of Rome's many large bronze horse statues to survive.",
+      "turning": false,
+      "kind": "honour",
+      "sources": ["capitolini", "w-statue"]
+    },
+    {
+      "date": "1558",
+      "age": null,
+      "place": "Zurich, (Switzerland)",
+      "title": "The Meditations in print",
+      "text": "Wilhelm Xylander published the first printed edition of the Meditations in Zurich, from a manuscript that was lost soon after. The oldest surviving complete manuscript, from the 14th century, is in the Vatican library.",
+      "turning": false,
+      "kind": "honour",
+      "sources": ["w-aurelius", "iep"]
+    }
+  ],
+  "works": [
+    {
+      "year": "0170",
+      "type": "book",
+      "title": "The Meditations",
+      "text": "A private notebook in 12 books, written in Greek on campaign, on how to judge clearly, act justly and accept what you cannot control. It was probably never meant for publication and its original title, if any, is unknown.",
+      "sources": ["w-meditations", "w-aurelius", "long-thoughts", "iep"],
+      "url": "https://www.gutenberg.org/ebooks/15877"
+    },
+    {
+      "year": "0138",
+      "type": "book",
+      "title": "Letters with Fronto",
+      "text": "A long correspondence with his Latin tutor Fronto, covering about 138 to 166. It survived in damaged manuscripts rediscovered and published from 1815, and shows Marcus as a student, heir and young emperor.",
+      "sources": ["iep", "sep", "w-aurelius", "ia-fronto"],
+      "url": "https://archive.org/details/correspondenceof01fronuoft"
+    },
+    {
+      "year": "0161",
+      "type": "reform",
+      "title": "Two emperors at once",
+      "text": "Marcus refused the throne unless Lucius Verus received equal powers, creating Rome's first joint rule by two emperors.",
+      "sources": ["w-aurelius", "britannica"]
+    },
+    {
+      "year": "0161",
+      "type": "reform",
+      "title": "Support for poor children",
+      "text": "At the start of the new reign, new provisions were made for the support of poor children, following earlier imperial programmes.",
+      "sources": ["w-aurelius"]
+    },
+    {
+      "year": "0161",
+      "type": "law",
+      "title": "Law for the less powerful",
+      "text": "Jurists called him \"an emperor most skilled in the law\". He took special interest in freeing slaves, guardianship of orphans and minors, and choosing city councillors. Britannica notes these were careful refinements of existing law, not radical change.",
+      "sources": ["w-aurelius", "britannica"]
+    },
+    {
+      "year": "0161",
+      "type": "reform",
+      "title": "Managing the silver coin",
+      "text": "On taking power he cut the silver in the denarius from 83.5% to 79%. In 168 he raised it to 82%, then went back two years later because of the war.",
+      "sources": ["w-aurelius"]
+    },
+    {
+      "year": "0162",
+      "type": "war",
+      "title": "The Parthian War",
+      "text": "Directed from Rome while Lucius led in the east, the war drove the Parthians out of Armenia and took Mesopotamia by 166.",
+      "sources": ["w-aurelius", "britannica"]
+    },
+    {
+      "year": "0168",
+      "type": "war",
+      "title": "The Marcomannic Wars",
+      "text": "About 14 years of war on the Danube against the Marcomanni, Quadi and Iazyges, much of it with Marcus in the field. He raised two new legions and set up a defensive zone to protect northern Italy.",
+      "sources": ["w-marcomannic", "w-aurelius"]
+    },
+    {
+      "year": "0169",
+      "type": "reform",
+      "title": "Paying for war without new taxes",
+      "text": "He auctioned imperial property to fund the war instead of raising taxes.",
+      "sources": ["w-marcomannic", "britannica"]
+    },
+    {
+      "year": "0175",
+      "type": "law",
+      "title": "Mercy after the revolt",
+      "text": "After the Avidius Cassius revolt he asked the Senate for no bloodshed and pardoned the rebel's daughter and son-in-law.",
+      "sources": ["w-cassius"]
+    },
+    {
+      "year": "0176",
+      "type": "teaching",
+      "title": "Four chairs of philosophy in Athens",
+      "text": "Paid chairs for the Platonic, Aristotelian, Stoic and Epicurean schools. The Platonist Atticus may have been the first to hold the Platonic chair.",
+      "sources": ["iep", "w-endowment", "w-atticus-phil"]
+    },
+    {
+      "year": "0176",
+      "type": "monument",
+      "title": "The equestrian statue",
+      "text": "A larger than life bronze of Marcus on horseback, his hand raised. Dates differ: Wikipedia says about 175, while the Capitoline Museums say probably 176 for his triumph, or 180 after his death. The original is now indoors in the Capitoline Museums and a 1981 replica stands outside.",
+      "sources": ["capitolini", "w-statue", "w-aurelius"],
+      "url": "https://www.museicapitolini.org/en/opera/statua-equestre-di-marco-aurelio"
+    },
+    {
+      "year": "0193",
+      "type": "monument",
+      "title": "The Column of Marcus Aurelius",
+      "text": "A Doric column in Rome whose spiral frieze, about 112 metres long, shows his wars against Germanic and Sarmatian peoples. It was finished around 193; sources differ on whether work began in his last years or after his death.",
+      "sources": ["w-column", "w-aurelius"],
+      "url": "https://en.wikipedia.org/wiki/Column_of_Marcus_Aurelius"
+    }
+  ],
+  "resources": [
+    {
+      "label": "Thoughts of Marcus Aurelius Antoninus (Project Gutenberg #15877)",
+      "url": "https://www.gutenberg.org/ebooks/15877",
+      "what": "George Long's translation of the Meditations, free to read online or download."
+    },
+    {
+      "label": "Meditations, tr. George Long, 1910 edition (Internet Archive)",
+      "url": "https://archive.org/details/meditationsofmar00marc_0",
+      "what": "A scanned printed copy of the Long translation, with an introduction by W. L. Courtney."
+    },
+    {
+      "label": "Correspondence of Fronto, Loeb edition 1919 (Internet Archive)",
+      "url": "https://archive.org/details/correspondenceof01fronuoft",
+      "what": "The letters between Marcus and his tutor Fronto, in Latin with C. R. Haines's English translation."
+    },
+    {
+      "label": "Marcus Aurelius (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+      "what": "A detailed, well sourced account of his life, reign and legacy."
+    },
+    {
+      "label": "Meditations (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Meditations",
+      "what": "How the book was written, its themes, and how it survived to be printed."
+    },
+    {
+      "label": "Marcomannic Wars (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Marcomannic_Wars",
+      "what": "Year by year story of the northern wars that filled most of his reign."
+    },
+    {
+      "label": "Marcus Aurelius (Internet Encyclopedia of Philosophy)",
+      "url": "https://iep.utm.edu/marcus/",
+      "what": "A clear guide to his Stoic ideas and the influence of Epictetus."
+    },
+    {
+      "label": "Marcus Aurelius (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/marcus-aurelius/",
+      "what": "A deeper scholarly entry on his writings and philosophy, revised in 2025."
+    },
+    {
+      "label": "Equestrian statue of Marcus Aurelius (Musei Capitolini)",
+      "url": "https://www.museicapitolini.org/en/opera/statua-equestre-di-marco-aurelio",
+      "what": "The museum that holds the original bronze explains its date and history."
+    },
+    {
+      "label": "Column of Marcus Aurelius (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Column_of_Marcus_Aurelius",
+      "what": "The victory column in Rome and the war scenes carved around it."
+    }
+  ],
+  "books": [
+    {
+      "title": "Meditations (Thoughts of Marcus Aurelius Antoninus)",
+      "author": "Marcus Aurelius, translated by George Long",
+      "year": "0170",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/15877",
+      "note": "Written in Greek between about 170 and 180. Twelve short books of notes to himself; start anywhere."
+    },
+    {
+      "title": "The Correspondence of Marcus Cornelius Fronto with Marcus Aurelius Antoninus",
+      "author": "Marcus Cornelius Fronto and Marcus Aurelius, edited and translated by C. R. Haines",
+      "year": "1919",
+      "kind": "by-him",
+      "free": "https://archive.org/details/correspondenceof01fronuoft",
+      "note": "His letters as a young student and emperor, in the Loeb edition (Heinemann, London). Volume 1 is linked."
+    },
+    {
+      "title": "How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius",
+      "author": "Donald J. Robertson",
+      "year": "2019",
+      "kind": "biography",
+      "free": null,
+      "note": "A modern, readable introduction to his Stoic philosophy (St. Martin's Press; cited on Wikipedia and listed on the author's site)."
+    },
+    {
+      "title": "Marcus Aurelius: A Biography",
+      "author": "Anthony R. Birley",
+      "year": "1993",
+      "kind": "biography",
+      "free": null,
+      "note": "The standard scholarly life story, widely cited in the Wikipedia articles; Routledge edition as listed on Wikipedia."
+    },
+    {
+      "title": "The Inner Citadel: The Meditations of Marcus Aurelius",
+      "author": "Pierre Hadot, translated by Michael Chase",
+      "year": "1998",
+      "kind": "biography",
+      "free": null,
+      "note": "A classic study of the Meditations as spiritual exercises (Harvard University Press; French original 1992)."
+    }
+  ]
+}

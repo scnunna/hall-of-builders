@@ -34,7 +34,8 @@ const cites = (b: Builder, ids: string[] = []) => ids.length
 function lobby() {
   const doors = hall.wings.map((w) => `
     <article class="door ${w.status}">
-      <div class="door-arch" aria-hidden="true">${w.status === 'open' ? scene(`hero-${w.id}`) : '<span class="soon-mark">Opening soon</span>'}</div>
+      <div class="door-arch" aria-hidden="true">${w.status !== 'open' ? '<span class="soon-mark">Opening soon</span>'
+        : arts[`./content/${w.id}.art.json`] && museums[`./content/${w.id}.museum.json`] ? `<img src="${import.meta.env.BASE_URL}art/${w.id}/${arts[`./content/${w.id}.art.json`].splash}.webp" alt="" loading="lazy">` : scene(`hero-${w.id}`)}</div>
       <p class="eyebrow">${esc(w.years)}</p>
       <h3>${esc(w.name)}</h3>
       <p class="door-title">${esc(w.title)}</p>
@@ -97,7 +98,7 @@ function wing(b: Builder) {
   const m = museums[`./content/${b.id}.museum.json`]; const art = arts[`./content/${b.id}.art.json`];
   if (m && art) {
     const all = { ...(b.sources as Record<string, Source>), ...m.sources };
-    const x = museumHTML(b.id, b.name, m, art, all);
+    const x = museumHTML(b.id, b.name, b.years, m, art, all);
     const srcList = Object.values(all).map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join('');
     return `${x.splash}
     <nav class="m-nav" aria-label="In this museum"><a href="#life" data-jump>Life</a><a href="#works" data-jump>Work</a>${m.patents?.length ? '<a href="#patents" data-jump>Patents</a>' : ''}<a href="#principles" data-jump>Principles</a><a href="#challenge" data-jump>Challenge</a><a href="#books" data-jump>Books</a></nav>
