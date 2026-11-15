@@ -42,7 +42,7 @@ export function museumHTML(id: string, name: string, years: string, m: Museum, a
     const cls = `ev ${e.turning ? 'turn' : ''} k-${esc(e.kind)}`;
     const head = `<p class="ev-meta"><b>${yearOf(e.date)}</b>${e.age != null ? ` · age ${e.age}` : ''} · ${esc(e.place)}</p><h3>${esc(e.title)}</h3><p>${esc(e.text)} ${cite(e.sources)}</p>`;
     if (pic && e.turning) return `<article class="${cls} splash-panel" data-year="${yearOf(e.date)}"><div class="sp-img"><img src="${img(pic)}" alt="" loading="lazy" decoding="async"></div><div class="sp-text"><span class="badge">Turning point</span>${head}</div></article>`;
-    return `<article class="${cls}" data-year="${yearOf(e.date)}">${pic ? `<figure class="ev-img"><img src="${img(pic)}" alt="" loading="lazy" decoding="async"></figure>` : ''}<div class="ev-body">${e.turning ? '<span class="badge">Turning point</span>' : ''}${head}</div></article>`;
+    return `<article class="${cls}${pic ? ' has-img' : ''}" data-year="${yearOf(e.date)}">${pic ? `<figure class="ev-img"><img src="${img(pic)}" alt="" loading="lazy" decoding="async"></figure>` : ''}<div class="ev-body">${e.turning ? '<span class="badge">Turning point</span>' : ''}${head}</div></article>`;
   }).join('');
 
   const works = m.works.map((w) => `<article class="work rv"><p class="ev-meta"><b>${esc(w.year)}</b> · ${esc(w.type)}</p><h3>${w.url ? `<a href="${esc(w.url)}" target="_blank" rel="noopener">${esc(w.title)}</a>` : esc(w.title)}</h3><p>${esc(w.text)} ${cite(w.sources)}</p></article>`).join('');
@@ -82,7 +82,7 @@ export function museumHTML(id: string, name: string, years: string, m: Museum, a
       </div>
     </section>
     <div class="m-bar" aria-hidden="true"><span class="m-year">${first}</span><span class="m-track"><span class="m-fill"></span></span><span class="m-end">${last}</span></div>`,
-    timeline: `<section class="wrap m-life" id="life"><h2 class="sec">A life, ${esc(life)}</h2><p class="muted small">Graphic-novel panels are AI-generated artistic interpretations, not historical records. ${esc(art.style)}</p><div class="spine">${events}</div></section>`,
+    timeline: `<section class="wrap m-life" id="life"><h2 class="sec">A life, ${esc(life)}</h2><p class="muted small">${esc(art.style)}</p><div class="spine">${events}</div></section>`,
     works: `<section class="wrap band" id="works"><h2 class="sec">The life's work</h2><div class="works">${works}</div></section>`,
     patents,
     books: `<section class="wrap" id="books"><h2 class="sec">Read more</h2><p class="muted small">Their own books come first, with free public-domain copies where they exist. Some links may become affiliate links; it never changes what we recommend. <a href="#/legal/disclosures">Disclosures</a></p><ul class="books">${books}</ul></section>`,
