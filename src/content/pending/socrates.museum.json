@@ -1,0 +1,350 @@
+{
+  "sources": {
+    "w-socrates": { "label": "Socrates (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Socrates" },
+    "sep": { "label": "Socrates, Stanford Encyclopedia of Philosophy (Debra Nails, rev. 2022)", "url": "https://plato.stanford.edu/entries/socrates/" },
+    "w-trial": { "label": "Trial of Socrates (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Trial_of_Socrates" },
+    "w-apology": { "label": "Apology (Plato) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Apology_(Plato)" },
+    "w-crito": { "label": "Crito (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Crito" },
+    "w-phaedo": { "label": "Phaedo (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Phaedo" },
+    "w-memorabilia": { "label": "Memorabilia (Xenophon) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Memorabilia_(Xenophon)" },
+    "w-clouds": { "label": "The Clouds (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Clouds" },
+    "w-chaerephon": { "label": "Chaerephon (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Chaerephon" },
+    "w-problem": { "label": "Socratic problem (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Socratic_problem" },
+    "w-method": { "label": "Socratic method (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Socratic_method" },
+    "w-plato": { "label": "Plato (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Plato" },
+    "w-david": { "label": "The Death of Socrates (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Death_of_Socrates" },
+    "g-apology": { "label": "Plato, Apology, tr. Benjamin Jowett (Project Gutenberg #1656)", "url": "https://www.gutenberg.org/ebooks/1656" },
+    "g-crito": { "label": "Plato, Crito, tr. Benjamin Jowett (Project Gutenberg #1657)", "url": "https://www.gutenberg.org/ebooks/1657" },
+    "g-phaedo": { "label": "Plato, Phaedo, tr. Benjamin Jowett (Project Gutenberg #1658)", "url": "https://www.gutenberg.org/ebooks/1658" },
+    "g-memorabilia": { "label": "Xenophon, The Memorabilia, tr. H. G. Dakyns (Project Gutenberg #1177)", "url": "https://www.gutenberg.org/ebooks/1177" }
+  },
+  "timeline": [
+    {
+      "date": "-0469",
+      "age": 0,
+      "place": "Alopece, Athens, Attica, (Greece)",
+      "title": "Born in Athens",
+      "text": "Socrates was born in 470 or 469 BC in Alopece, a district just outside the walls of Athens. His father Sophroniscus was a stoneworker and his mother Phaenarete a midwife. He learned reading, writing, gymnastics, poetry and music like other Athenian boys. Everything we know about him comes from others, mainly his students Plato and Xenophon, because he wrote nothing himself.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-socrates", "sep"]
+    },
+    {
+      "date": "-0432",
+      "age": 37,
+      "place": "Potidaea, Chalcidice, (Greece)",
+      "title": "A soldier at Potidaea",
+      "text": "Like other Athenian citizens, Socrates served as a foot soldier (hoplite). In the summer of 432 he was sent to put down a revolt at Potidaea, and the long siege that followed lasted nearly three years. According to Plato's Symposium, he saved the life and armour of the wounded young Alcibiades there.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["sep", "w-socrates"]
+    },
+    {
+      "date": "-0431",
+      "age": 38,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The great war begins",
+      "text": "The Peloponnesian War between Athens and Sparta began and lasted, on and off, until 404 BC. It shaped the rest of Socrates's life: plague in 430, the death of Pericles in 429, defeat after defeat, and finally the fall of the city.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["sep"]
+    },
+    {
+      "date": "-0429",
+      "age": 40,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Home, and back to questions",
+      "text": "The army returned to Athens in May 429. At the start of Plato's Charmides, Socrates comes home from Potidaea and is greeted eagerly by his friend Chaerephon. He went straight back to the gyms and public places where the young men spent their time, asking them what courage, friendship and wisdom really are.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["sep", "w-chaerephon"]
+    },
+    {
+      "date": "-0424",
+      "age": 45,
+      "place": "Delium, Boeotia, (Greece)",
+      "title": "Calm in retreat at Delium",
+      "text": "At the battle of Delium the Athenian army was surprised by enemy cavalry and defeated. Socrates's steady, brave conduct in the retreat was praised by the general Laches and later by Alcibiades, as Plato tells it.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["sep", "w-socrates"]
+    },
+    {
+      "date": "-0424",
+      "age": 45,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Plato is born",
+      "text": "Plato was born in 424 or 423 BC. He probably knew Socrates for most of his life and was about twenty-five at the trial. His dialogues are our fullest picture of Socrates, though scholars debate how much of what Plato's Socrates says is the real man and how much is Plato.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["sep", "w-problem"]
+    },
+    {
+      "date": "-0423",
+      "age": 46,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Mocked on stage in The Clouds",
+      "text": "At the spring drama festival, Aristophanes's comedy The Clouds showed Socrates as a fraud running a school that taught young men tricks of argument and disrespect for the gods. The play came last in the competition, but it made Socrates famous. Years later, at his trial, he blamed it for the rumours against him.",
+      "turning": true,
+      "kind": "setback",
+      "sources": ["w-clouds", "sep", "w-apology"]
+    },
+    {
+      "date": "-0422",
+      "age": 47,
+      "place": "Amphipolis, Macedonia, (Greece)",
+      "title": "The last campaign",
+      "text": "Socrates fought at Amphipolis, another Athenian defeat after a surprise attack. As far as we know, it was his last time at war. Plato says he served with distinction in three campaigns.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["sep", "w-socrates"]
+    },
+    {
+      "date": "-0416",
+      "age": 53,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The Symposium and a family",
+      "text": "Plato's Symposium is set at a dinner in February 416, where Socrates, Aristophanes, Alcibiades and others give speeches in praise of love. At about this time, in his fifties, Socrates married Xanthippe. They had three sons. Sources mention a second marriage too, and it is not clear which came first.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["sep", "w-socrates"]
+    },
+    {
+      "date": "-0406",
+      "age": 63,
+      "place": "Athens, Attica, (Greece)",
+      "title": "One vote against the crowd",
+      "text": "After the sea battle of Arginusae, Athenians were furious that the generals had not rescued the men in the water. By lot, Socrates was on the committee running the Assembly when it moved to try the generals all together, which was against the law. Plato's Apology has him say he was the only one on the committee to vote against it, even when threatened with arrest. The generals were condemned anyway.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["g-apology", "sep"]
+    },
+    {
+      "date": "-0404",
+      "age": 65,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Refusing the Thirty Tyrants",
+      "text": "Athens lost the war, and Sparta put a harsh group known as the Thirty Tyrants in charge. They ordered Socrates and four others to bring in Leon of Salamis to be executed. The other four went. Socrates simply went home. He said the regime fell soon after, or it might have killed him.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-socrates", "g-apology", "sep"]
+    },
+    {
+      "date": "-0403",
+      "age": 66,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Democracy returns",
+      "text": "Democrats fought their way back into the city and the Thirty fell. Among the dead were Critias and Charmides, men who had spent time around Socrates. His links to them, and to the turncoat general Alcibiades, made many Athenians suspicious of him.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["sep", "w-chaerephon"]
+    },
+    {
+      "date": "-0399",
+      "age": 70,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The trial",
+      "text": "A young poet, Meletus, with Anytus and Lycon, charged Socrates with impiety and corrupting the young. In a trial of about one day before a jury of hundreds of citizens, Socrates, as Plato tells it, explained that the oracle at Delphi had told his friend Chaerephon no one was wiser than he, and that he had spent his life testing it by questioning people. He was found guilty. Asked to propose a penalty, he first suggested free meals for life as a public benefactor, then a fine. The jury chose death. A later writer gives the vote as 280 to 220; Plato gives no numbers.",
+      "turning": true,
+      "kind": "setback",
+      "sources": ["w-socrates", "w-trial", "w-apology", "sep"]
+    },
+    {
+      "date": "-0399",
+      "age": 70,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Crito's offer",
+      "text": "His execution was delayed for about a month, and he spent it in prison talking with friends. A day or two before the end, his childhood friend Crito arranged an escape. Socrates talked it through with him and refused: breaking the law now, he argued, would be a wrong, and one should never return wrong for wrong.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["sep", "w-crito", "g-crito"]
+    },
+    {
+      "date": "-0399",
+      "age": 70,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The last day",
+      "text": "Plato's Phaedo tells of his last day, spent discussing whether the soul lives on. In the end he calmly drank the cup of hemlock, as the sentence required. His last words, in Plato's account, were a reminder to Crito to pay a debt of a rooster to Asclepius, the god of healing. Plato says he was not there himself.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-socrates", "w-phaedo", "sep", "g-phaedo"]
+    },
+    {
+      "date": "-0383",
+      "age": null,
+      "place": "Athens, Attica, (Greece)",
+      "title": "His students carry on",
+      "text": "Socrates's friends began writing dialogues with him as the main speaker, creating a new kind of book. Plato founded his Academy, roughly in 383 BC according to Wikipedia (other sources say 387), and Aristotle later studied there. Xenophon wrote the Memorabilia to defend his old teacher's name.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-plato", "w-socrates", "w-memorabilia"]
+    },
+    {
+      "date": "1787",
+      "age": null,
+      "place": "(France)",
+      "title": "The Death of Socrates",
+      "text": "The French painter Jacques-Louis David painted The Death of Socrates, showing him reaching calmly for the cup as his friends grieve. It is now in the Metropolitan Museum of Art in New York and is the best known image of him.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-david", "sep"]
+    },
+    {
+      "date": "1818",
+      "age": null,
+      "place": "(Germany)",
+      "title": "The Socratic problem",
+      "text": "The philosopher Friedrich Schleiermacher published a famous essay on how far we can trust Xenophon's picture of Socrates. Since then scholars have argued over how much of the \"real\" Socrates can be recovered from Plato, Xenophon and Aristophanes. Most agree it can never be fully known.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-socrates", "w-problem"]
+    }
+  ],
+  "works": [
+    {
+      "year": "-0399",
+      "type": "dialogue (by Plato)",
+      "title": "Apology",
+      "text": "Plato's version of the speech Socrates gave at his trial. Many scholars think it is the most historically reliable picture of him.",
+      "sources": ["w-apology", "w-socrates", "g-apology"],
+      "url": "https://www.gutenberg.org/ebooks/1656"
+    },
+    {
+      "year": "-0399",
+      "type": "dialogue (by Plato)",
+      "title": "Crito",
+      "text": "Socrates in prison explains to his friend Crito why he will not escape.",
+      "sources": ["w-crito", "g-crito"],
+      "url": "https://www.gutenberg.org/ebooks/1657"
+    },
+    {
+      "year": "-0399",
+      "type": "dialogue (by Plato)",
+      "title": "Phaedo",
+      "text": "Socrates's last day, spent arguing about the soul, ending with his death.",
+      "sources": ["w-phaedo", "g-phaedo"],
+      "url": "https://www.gutenberg.org/ebooks/1658"
+    },
+    {
+      "year": "-0399",
+      "type": "dialogue (by Plato)",
+      "title": "Euthyphro",
+      "text": "On the way to his preliminary hearing, Socrates questions a man who is sure he knows what holiness is.",
+      "sources": ["sep"]
+    },
+    {
+      "year": "-0416",
+      "type": "dialogue (by Plato)",
+      "title": "Symposium",
+      "text": "A dinner party of famous Athenians giving speeches on love, ending with Alcibiades's portrait of Socrates.",
+      "sources": ["sep", "w-socrates"]
+    },
+    {
+      "year": "-0399",
+      "type": "memoir (by Xenophon)",
+      "title": "Memorabilia",
+      "text": "Xenophon's collection of stories and conversations, written to defend Socrates against the charges that killed him.",
+      "sources": ["w-memorabilia", "g-memorabilia"],
+      "url": "https://www.gutenberg.org/ebooks/1177"
+    },
+    {
+      "year": "-0423",
+      "type": "play (by Aristophanes)",
+      "title": "The Clouds",
+      "text": "A comedy mocking Socrates, written while he was alive. Our earliest surviving source about him.",
+      "sources": ["w-clouds", "sep"]
+    },
+    {
+      "year": "-0429",
+      "type": "teaching",
+      "title": "The Socratic method",
+      "text": "His way of teaching by short questions and answers, testing a claim until its weak points show. Still used in classrooms and law schools.",
+      "sources": ["w-method", "w-socrates"]
+    },
+    {
+      "year": "-0406",
+      "type": "public service",
+      "title": "Standing against the Assembly",
+      "text": "His lone vote against the illegal mass trial of the Arginusae generals.",
+      "sources": ["g-apology", "sep"]
+    },
+    {
+      "year": "-0404",
+      "type": "public service",
+      "title": "Refusing an unjust order",
+      "text": "His refusal to help the Thirty Tyrants arrest Leon of Salamis.",
+      "sources": ["w-socrates", "g-apology"]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Plato, Apology, tr. Benjamin Jowett (Project Gutenberg #1656)",
+      "url": "https://www.gutenberg.org/ebooks/1656",
+      "what": "Socrates's defence at his trial. Short, and the best place to start."
+    },
+    {
+      "label": "Plato, Crito, tr. Benjamin Jowett (Project Gutenberg #1657)",
+      "url": "https://www.gutenberg.org/ebooks/1657",
+      "what": "Why he refused to escape from prison."
+    },
+    {
+      "label": "Plato, Phaedo, tr. Benjamin Jowett (Project Gutenberg #1658)",
+      "url": "https://www.gutenberg.org/ebooks/1658",
+      "what": "His last day and death."
+    },
+    {
+      "label": "Xenophon, The Memorabilia, tr. H. G. Dakyns (Project Gutenberg #1177)",
+      "url": "https://www.gutenberg.org/ebooks/1177",
+      "what": "A second student's memories of Socrates, more practical and down to earth."
+    },
+    {
+      "label": "Socrates (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/socrates/",
+      "what": "A careful scholarly account with a year by year timeline of his life."
+    },
+    {
+      "label": "Socrates (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Socrates",
+      "what": "A detailed overview of his life, trial and the debate over our sources."
+    },
+    {
+      "label": "Socratic method (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Socratic_method",
+      "what": "How his way of questioning works, with examples."
+    }
+  ],
+  "books": [
+    {
+      "title": "Apology, Crito and Phaedo (The Trial and Death of Socrates)",
+      "author": "Plato, translated by Benjamin Jowett",
+      "year": "-0399",
+      "kind": "biography",
+      "free": "https://www.gutenberg.org/ebooks/1656",
+      "note": "Socrates wrote nothing. These three dialogues by his student Plato tell the story of his trial, his time in prison and his death. Crito and Phaedo are free on Gutenberg as #1657 and #1658."
+    },
+    {
+      "title": "The Memorabilia",
+      "author": "Xenophon, translated by H. G. Dakyns",
+      "year": "-0399",
+      "kind": "biography",
+      "free": "https://www.gutenberg.org/ebooks/1177",
+      "note": "Another student's memoir of Socrates, with everyday advice on friendship, family and self-control."
+    },
+    {
+      "title": "The Clouds",
+      "author": "Aristophanes",
+      "year": "-0423",
+      "kind": "biography",
+      "free": null,
+      "note": "The comedy that mocked him while he was alive. Read it to see how ordinary Athenians may have seen him."
+    },
+    {
+      "title": "Socrates: Ironist and Moral Philosopher",
+      "author": "Gregory Vlastos",
+      "year": "1991",
+      "kind": "biography",
+      "free": null,
+      "note": "A landmark scholarly study of the Socrates of Plato's early dialogues (Cornell University Press)."
+    }
+  ]
+}

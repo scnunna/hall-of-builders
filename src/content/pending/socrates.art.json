@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "06-apology",
+ "panels": [
+  { "key": "01-alopece", "year": "-469" },
+  { "key": "02-potidaea", "year": "-432" },
+  { "key": "03-delium", "year": "-424" },
+  { "key": "04-clouds", "year": "-423" },
+  { "key": "05-leon", "year": "-404" },
+  { "key": "06-apology", "year": "-399" },
+  { "key": "07-crito", "year": "-399" },
+  { "key": "08-phaedo", "year": "-399" }
+ ]
+}
