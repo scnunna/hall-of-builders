@@ -33,10 +33,10 @@ SETS = {
   "04-coemperors": f"two Roman emperors side by side on a marble dais, {AURELIUS} and a younger Roman co-emperor, both in purple-trimmed togas, crowd of senators below, 161 AD",
   "05-plague": "a worried Roman city street during an epidemic in 166 AD, physicians in tunics tending the sick under arches, smoke from braziers, somber mood, not graphic",
   "06-danube": f"{AURELIUS} in Roman military armour and a red cloak on horseback leading legions along the wide cold Danube river, wooden forts, winter forest, 170s AD",
-  "07-meditations": f"{AURELIUS} in a military tent at night by an oil lamp writing private notes in Greek on a wax tablet and parchment, armour hung behind him, Carnuntum 170s AD, quiet reflection",
+  "07-meditations": f"{AURELIUS} in a military tent at night by an oil lamp writing private notes in Greek on a wax tablet and parchment by the light of a small flat terracotta Roman oil lamp with a single open flame, armour hung behind him, Carnuntum 170s AD, quiet reflection",
   "08-triumph": f"{AURELIUS} in a triumphal chariot entering Rome in 176 AD, cheering crowds, laurel wreaths, triumphal arch, celebration",
   "09-farewell": f"an aged {AURELIUS} with a grey beard lying on a camp bed in a frontier fortress in 180 AD surrounded by respectful officers, calm and dignified, not sad",
-  "10-legacy": "a bronze equestrian statue of a bearded Roman emperor raising his hand, standing in a Renaissance piazza on the Capitoline Hill, golden light, timeless",
+  "10-legacy": "a bronze equestrian statue of a bearded Roman emperor raising his right hand, on a stone pedestal in the centre of the Piazza del Campidoglio in Rome, oval star-patterned stone paving, flat-roofed Renaissance palazzo facades with giant pilasters on three sides, no domes, golden evening light, timeless",
  },
 }
 
