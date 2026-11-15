@@ -1,0 +1,63 @@
+{
+  "id": "lovelace",
+  "name": "Ada Lovelace",
+  "years": "1815 - 1852",
+  "title": "The Visionary",
+  "tagline": "She translated a paper about a machine that was never built, and her long Notes showed what computers might one day do.",
+  "sources": {
+    "w-lovelace": { "label": "Ada Lovelace (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ada_Lovelace" },
+    "w-noteg": { "label": "Note G (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Note_G" },
+    "fourmilab": { "label": "Sketch of the Analytical Engine, with Notes by the Translator, A. A. L. (1843), full text at Fourmilab", "url": "https://www.fourmilab.ch/babbage/sketch.html" },
+    "babbage-passages": { "label": "Charles Babbage, Passages from the Life of a Philosopher (1864), Project Gutenberg #57532", "url": "https://www.gutenberg.org/ebooks/57532" },
+    "chm": { "label": "Ada Lovelace, The Babbage Engine (Computer History Museum)", "url": "https://www.computerhistory.org/babbage/adalovelace/" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Look past the numbers",
+      "idea": "Babbage built his engines to calculate. Ada saw something bigger: if the rules of a subject could be written as symbols, the machine could work on that subject too, even music. This is the idea behind every computer today.",
+      "quote": { "text": "...the engine might compose elaborate and scientific pieces of music of any degree of complexity or extent.", "credit": "Notes on Menabrea's Sketch of the Analytical Engine, Note A (1843)" },
+      "practice": "Pick a tool you use every day. Write down one thing it could do that it was not built for.",
+      "sources": ["fourmilab", "w-lovelace", "chm"]
+    },
+    {
+      "title": "Explain with a good picture",
+      "idea": "To show how the engine worked, Ada compared it to the Jacquard loom, which used punched cards to weave patterns into cloth. One clear comparison made a strange new machine easy to imagine.",
+      "quote": { "text": "We may say most aptly, that the Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.", "credit": "Notes on Menabrea's Sketch of the Analytical Engine, Note A (1843)" },
+      "practice": "Think of something you know well that others find hard. Explain it to a friend using one comparison to something everyday.",
+      "sources": ["fourmilab", "w-lovelace"]
+    },
+    {
+      "title": "Be honest about limits",
+      "idea": "Ada warned readers not to overrate the engine. It could only do what people knew how to tell it to do. Being clear about what a tool cannot do is part of understanding it. Alan Turing argued with this line more than a hundred years later.",
+      "quote": { "text": "The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.", "credit": "Notes on Menabrea's Sketch of the Analytical Engine, Note G (1843)" },
+      "practice": "Next time you are excited about a new idea or tool, write one honest line about what it cannot do.",
+      "sources": ["fourmilab", "w-lovelace"]
+    },
+    {
+      "title": "Work out every step",
+      "idea": "Note G ends by tracing, step by step, how the engine could compute the Bernoulli numbers. Babbage later wrote that when he offered to do this part for her, she found a serious mistake in his work and sent it back to be fixed.",
+      "quote": { "text": "We will terminate these Notes by following up in detail the steps through which the engine could compute the Numbers of Bernoulli...", "credit": "Notes on Menabrea's Sketch of the Analytical Engine, Note G (1843)" },
+      "practice": "Take one task you do by habit. Write out every step in order, then check each step for a mistake.",
+      "sources": ["fourmilab", "babbage-passages", "w-noteg"]
+    },
+    {
+      "title": "Spot what repeats",
+      "idea": "In her Notes, Ada named a group of steps that is done again and again a cycle. Seeing what repeats lets you write it once and use it many times, which is how programmers think about loops today.",
+      "quote": { "text": "A cycle of operations, then, must be understood to signify any set of operations which is repeated more than once.", "credit": "Notes on Menabrea's Sketch of the Analytical Engine, Note E (1843)" },
+      "practice": "Find one job you repeat every week. Write its steps once as a short checklist you can reuse.",
+      "sources": ["fourmilab"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Beyond its purpose", "action": "Pick one everyday tool. Write down one new thing it could do if someone used it differently." },
+    { "day": 2, "title": "One good picture", "action": "Explain something you know well to a friend using one comparison to something everyday." },
+    { "day": 3, "title": "Every step", "action": "Write out, step by step, how you do one task you usually do without thinking." },
+    { "day": 4, "title": "Check the work", "action": "Go back over yesterday's steps, or something you made this week, and look for one mistake to fix." },
+    { "day": 5, "title": "Find the cycle", "action": "Spot one set of steps you repeat often. Turn it into a short checklist you can reuse." },
+    { "day": 6, "title": "Honest limits", "action": "Pick an idea you are excited about. Write one clear line about what it cannot do." },
+    { "day": 7, "title": "Your own notes", "action": "Like Ada, add your own notes to something you read this week: what it means and where it could lead.", "sources": ["w-lovelace"] }
+  ],
+  "reflect": "What is one thing you use every day that could do far more than it was built for, if someone imagined it?",
+  "keepsake": "Ada Lovelace Builder Collectible"
+}

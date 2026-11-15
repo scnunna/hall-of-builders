@@ -1,0 +1,61 @@
+{
+  "id": "saladin",
+  "name": "Saladin",
+  "years": "c. 1137 - 1193",
+  "title": "The Just Sultan",
+  "tagline": "A Kurdish officer's son who united Egypt and Syria, retook Jerusalem in 1187, and won the respect of friends and enemies for his justice and generosity.",
+  "sources": {
+    "w-saladin": { "label": "Saladin (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Saladin" },
+    "w-ibnshaddad": { "label": "Baha al-Din ibn Shaddad (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Baha_al-Din_ibn_Shaddad" },
+    "ia-wilson": { "label": "The Life of Saladin by Beha ed-Din, ed. and tr. C. W. Wilson, Palestine Pilgrims' Text Society, 1897 (Internet Archive)", "url": "https://archive.org/details/lifesaladin00condgoog" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Hear every complaint",
+      "idea": "His judge and biographer Baha ad-Din ibn Shaddad wrote that Saladin held open court twice a week, even while travelling. Anyone could bring a complaint, and he once made his own favourite nephew answer a case in court.",
+      "quote": { "text": "Every one who had a grievance was admitted -- great and small, aged women and feeble men.", "credit": "Baha ad-Din ibn Shaddad, about Saladin, The Life of Saladin, Part I ch. 2 (p. 15), tr. C. W. Wilson (1897)" },
+      "practice": "Set aside ten minutes today to really listen to one complaint from someone, at home or work, without defending yourself. Then decide one fair step to fix it.",
+      "sources": ["ia-wilson", "w-ibnshaddad"]
+    },
+    {
+      "title": "Give more than you keep",
+      "idea": "Saladin controlled the wealth of Egypt and Syria, yet gave so much away that he died with almost nothing in his treasury. For him, wealth was a tool to reward and support people, not to store.",
+      "quote": { "text": "He who had possessed such abundance of riches, left in his treasury, at his death, but forty-seven Nasri dirhems, and one Tyrian gold piece.", "credit": "Baha ad-Din ibn Shaddad, about Saladin, The Life of Saladin, Part I ch. 3 (p. 19), tr. C. W. Wilson (1897)" },
+      "practice": "Give one useful thing today that costs you time rather than money: help, a skill, or a thank-you note.",
+      "sources": ["ia-wilson", "w-saladin"]
+    },
+    {
+      "title": "Teach restraint early",
+      "idea": "When his young sons asked to kill some old prisoners, Saladin refused. He wanted them to grow up seeing that power is not a game, and that harm is never something to laugh about.",
+      "quote": { "text": "They shall not become accustomed in their youth to the shedding of blood and laugh at it.", "credit": "Saladin, as recorded by Baha ad-Din ibn Shaddad, The Life of Saladin, ch. 95 (p. 239), tr. C. W. Wilson (1897)" },
+      "practice": "Notice one moment today when you could mock or belittle someone. Choose to stay silent or say something kind instead.",
+      "sources": ["ia-wilson"]
+    },
+    {
+      "title": "Mercy for the other side",
+      "idea": "During the siege of Acre, a Frankish mother whose baby had been taken came to Saladin's camp. Her own leaders told her he was compassionate. He paid the buyer back, returned the child, and sent them home safely.",
+      "quote": { "text": "When the Sultan heard the cause of her grief he was affected even to tears, and commanded the child to be brought.", "credit": "Baha ad-Din ibn Shaddad, The Life of Saladin, ch. 99 (p. 244), tr. C. W. Wilson (1897)" },
+      "practice": "Think of someone you see as being on the other side. Do one small, fair or kind thing for them this week.",
+      "sources": ["ia-wilson"]
+    },
+    {
+      "title": "Know when to make peace",
+      "idea": "After years of war, neither Saladin nor Richard of England could win outright. Saladin's own biographer recorded Richard's message that it was time to stop the bloodshed, and in 1192 they agreed a truce.",
+      "quote": { "text": "Tell your lord you and I can go on no longer, and the best thing for us to do is to put an end to the shedding of blood.", "credit": "Richard I's message to Saladin, as recorded by Baha ad-Din ibn Shaddad, The Life of Saladin, ch. 158 (p. 353), tr. C. W. Wilson (1897)" },
+      "practice": "Pick one argument that is going nowhere. Write down what a fair deal would look like for both sides, and offer it.",
+      "sources": ["ia-wilson", "w-saladin"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Open court", "action": "Listen fully to one complaint from someone today. Do not defend yourself; just understand it." },
+    { "day": 2, "title": "Fair to all", "action": "Make one decision today by the same rule for everyone, including people you like." },
+    { "day": 3, "title": "Give time", "action": "Give an hour of help or a useful skill to someone who needs it, expecting nothing back." },
+    { "day": 4, "title": "No mocking", "action": "Go a whole day without making fun of anyone, even as a joke." },
+    { "day": 5, "title": "Kind to the other side", "action": "Do one fair or kind thing for someone you disagree with." },
+    { "day": 6, "title": "Write it down", "action": "Saladin spent time each day with his secretary answering petitions. Spend ten minutes answering requests you have been putting off.", "sources": ["ia-wilson"] },
+    { "day": 7, "title": "Make the truce", "action": "End one old argument. Offer a deal that is fair to both sides." }
+  ],
+  "reflect": "Who is someone on the \"other side\" from you, and what would it look like to treat them with the fairness you want for yourself?",
+  "keepsake": "Saladin Builder Collectible"
+}

@@ -1,0 +1,330 @@
+{
+  "sources": {
+    "w-ibnb": { "label": "Ibn Battuta (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ibn_Battuta" },
+    "w-rihla": { "label": "Rihla (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Rihla" },
+    "gibb": { "label": "Ibn Battuta, Travels in Asia and Africa 1325-1354, tr. H. A. R. Gibb, Routledge 1929 (Internet Archive)", "url": "https://archive.org/details/pli.kerala.rare.27987" },
+    "w-ibnjubayr": { "label": "Ibn Jubayr (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ibn_Jubayr" },
+    "w-ibnjuzayy": { "label": "Ibn Juzayy (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ibn_Juzayy" },
+    "w-tughluq": { "label": "Muhammad bin Tughluq (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Muhammad_bin_Tughluq" },
+    "w-suleyman": { "label": "Mansa Suleyman (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mansa_Suleyman" },
+    "w-dunn": { "label": "Ross E. Dunn (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ross_E._Dunn" },
+    "orias": { "label": "The Travels of Ibn Battuta: A Virtual Tour (ORIAS, UC Berkeley)", "url": "https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta" },
+    "ia-lee": { "label": "The Travels of Ibn Batuta, tr. Samuel Lee, 1829 (Internet Archive)", "url": "https://archive.org/details/in.ernet.dli.2015.120232" },
+    "ia-defremery": { "label": "Voyages d'Ibn Batoutah, ed. and tr. C. Defremery and B. R. Sanguinetti, vol. 1 (Internet Archive)", "url": "https://archive.org/details/voyagestextearab01ibnb" }
+  },
+  "timeline": [
+    {
+      "date": "1304-02-24", "age": 0, "place": "Tangier, Marinid Sultanate, (Morocco)",
+      "title": "Born in Tangier",
+      "text": "Abu Abdallah Muhammad ibn Battuta was born in Tangier on 24 February 1304. His family were Berbers of the Lawata clan and included scholars of Islamic law who served as judges (qadis).",
+      "turning": false, "kind": "life", "sources": ["w-ibnb"]
+    },
+    {
+      "date": "1325-06-14", "age": 21, "place": "Tangier, Marinid Sultanate, (Morocco)",
+      "title": "Setting out alone",
+      "text": "On 14 June 1325 he left Tangier to make the pilgrimage (Hajj) to Mecca and visit the Prophet's tomb in Medina. He travelled alone at first, and wrote that parting from his parents grieved them all. He planned to be away about 16 months. He did not return to Morocco for 24 years.",
+      "turning": true, "kind": "life", "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "date": "1326", "age": 22, "place": "Alexandria and Cairo, Mamluk Sultanate, (Egypt)",
+      "title": "Egypt",
+      "text": "After crossing North Africa by Tlemcen, Bejaia and Tunis, he reached Alexandria in early spring 1326 and spent about a month in Cairo. He tried to cross the Red Sea from the port of Aydhab, but a local revolt made him turn back.",
+      "turning": false, "kind": "work", "sources": ["w-ibnb", "gibb"]
+    },
+    {
+      "date": "1326-08-09", "age": 22, "place": "Damascus, Mamluk Sultanate, (Syria)",
+      "title": "Ramadan in Damascus",
+      "text": "He entered Damascus on 9 August 1326 and stayed at a college of his Maliki school of law. He spent Ramadan there and studied with local scholars. In 2010 the writer Tim Mackintosh-Smith found manuscripts in Cairo copied by Ibn Battuta in Damascus in 1326, which supports the date. Much of the book's description of the city, however, was copied from the earlier traveller Ibn Jubayr.",
+      "turning": false, "kind": "work", "sources": ["gibb", "w-ibnb", "w-ibnjubayr"]
+    },
+    {
+      "date": "1326-11", "age": 22, "place": "Mecca, Hejaz, (Saudi Arabia)",
+      "title": "The first Hajj",
+      "text": "He left Damascus with the pilgrim caravan on 1 September 1326, visited Medina, and completed his first pilgrimage at Mecca in November 1326. The Rihla's account of the Mecca ceremonies is largely taken from Ibn Jubayr, so it is not all his own description.",
+      "turning": true, "kind": "life", "sources": ["gibb", "w-ibnb", "w-ibnjubayr"]
+    },
+    {
+      "date": "1327", "age": 23, "place": "Baghdad and Tabriz, Ilkhanate, (Iraq and Iran)",
+      "title": "Iraq and Persia",
+      "text": "Instead of going home, he joined a caravan to Iraq. He visited Najaf, Basra, Isfahan and Shiraz, returned to Baghdad in June 1327, and travelled with the court of the Ilkhan ruler Abu Sa'id to Tabriz.",
+      "turning": false, "kind": "work", "sources": ["w-ibnb"]
+    },
+    {
+      "date": "1328", "age": 24, "place": "Mecca, Hejaz, (Saudi Arabia)",
+      "title": "Years of study in Mecca",
+      "text": "He returned to Mecca for a second pilgrimage and, by his own account, stayed there for several years of study and devotion. The dates in this part of the Rihla do not fit well, and historians think he may have left soon after the Hajj of 1328.",
+      "turning": false, "kind": "life", "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "date": "1330", "age": null, "place": "Mogadishu, Mombasa and Kilwa, East African coast, (Somalia, Kenya, Tanzania)",
+      "title": "Down the coast of East Africa",
+      "text": "He sailed down the Red Sea to Yemen and Aden, then along the East African coast to Mogadishu, Mombasa and Kilwa, and back by Oman and Hormuz. Sources disagree on whether this was in 1330 or 1332. His visit to Sanaa in Yemen is doubted.",
+      "turning": false, "kind": "work", "sources": ["w-ibnb"]
+    },
+    {
+      "date": "1332", "age": null, "place": "Konya and Bursa, Anatolia, (Turkey)",
+      "title": "Across Anatolia",
+      "text": "On his way toward India he crossed Anatolia, visiting towns such as Alanya, Antalya, Konya and Bursa. Historians date this trip to 1330 or 1332, and some parts of the Anatolian route are doubted.",
+      "turning": false, "kind": "work", "sources": ["w-ibnb"]
+    },
+    {
+      "date": "1332", "age": null, "place": "Steppe of the Golden Horde and Constantinople, (Russia and Turkey)",
+      "title": "The Golden Horde and Constantinople",
+      "text": "He joined the camp of Uzbeg Khan, ruler of the Golden Horde, and travelled with a princess of the khan's household to Constantinople, where he stayed about a month. He also claims a trip north to Bolghar on the Volga, which historians consider very unlikely.",
+      "turning": false, "kind": "work", "sources": ["w-ibnb"]
+    },
+    {
+      "date": "1333-09-12", "age": 29, "place": "Indus River, Sind, (Pakistan)",
+      "title": "Reaching the Indus",
+      "text": "After passing through Bukhara, Samarkand and the Hindu Kush, he reached the Indus River on 12 September 1333, the edge of the lands ruled by the sultan of Delhi.",
+      "turning": false, "kind": "work", "sources": ["w-ibnb", "gibb"]
+    },
+    {
+      "date": "1334", "age": 30, "place": "Delhi, Delhi Sultanate, (India)",
+      "title": "Judge in Delhi",
+      "text": "In Delhi the sultan Muhammad bin Tughluq welcomed foreign scholars with gifts and pensions. When he offered posts, Ibn Battuta asked for work in law, and was appointed a qadi (judge) of the Maliki school. He served in Delhi for about six years.",
+      "turning": true, "kind": "work", "sources": ["gibb", "w-ibnb", "w-tughluq"]
+    },
+    {
+      "date": "1341", "age": 37, "place": "Delhi, Delhi Sultanate, (India)",
+      "title": "Favour and danger at court",
+      "text": "Life at the court swung between high honour and suspicion. He ran deep into debt, which the sultan paid, and his plan to leave on the excuse of another pilgrimage was blocked. He also wrote critically of the sultan's harsh punishments.",
+      "turning": false, "kind": "setback", "sources": ["gibb", "w-ibnb", "w-tughluq"]
+    },
+    {
+      "date": "1342-07-22", "age": 38, "place": "Delhi, Delhi Sultanate, (India)",
+      "title": "Envoy to China",
+      "text": "The sultan chose him to lead an embassy with gifts to the Yuan emperor of China. The Rihla gives the starting date as 22 July 1342, but the historian Ross Dunn argues for 1341.",
+      "turning": true, "kind": "work", "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "date": "1342", "age": null, "place": "Northern India and Calicut, Malabar Coast, (India)",
+      "title": "Robbed, then shipwrecked",
+      "text": "Soon after setting out he was attacked by bandits, robbed and held captive, but rejoined his party within about ten days. At Calicut a storm sank one of the embassy's ships while he was ashore at a mosque. The other ship sailed on and was later seized in Sumatra.",
+      "turning": false, "kind": "setback", "sources": ["w-ibnb"]
+    },
+    {
+      "date": "1343", "age": null, "place": "Male, Maldive Islands, (Maldives)",
+      "title": "Chief judge of the Maldives",
+      "text": "Rather than return to Delhi after the failed embassy, he went to the Maldives, probably around 1343. The chief minister made him chief qadi. He tried to apply Islamic law strictly, married into the ruling family, and left after about nine months following conflicts with the rulers. His story of how the islands became Muslim differs from the Maldives' own official chronicle.",
+      "turning": false, "kind": "work", "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "date": "1344", "age": null, "place": "Sri Pada (Adam's Peak), Ceylon, (Sri Lanka)",
+      "title": "Adam's Peak",
+      "text": "He visited Ceylon and climbed Sri Pada (Adam's Peak) to visit the mark on its summit that pilgrims call the Foot of Adam. He then returned to southern India.",
+      "turning": false, "kind": "work", "sources": ["w-ibnb", "gibb"]
+    },
+    {
+      "date": "1345", "age": null, "place": "Sylhet, Bengal, (Bangladesh)",
+      "title": "Bengal and Sumatra",
+      "text": "In 1345 he reached Chittagong and travelled to Sylhet to meet the Sufi teacher Shah Jalal. He then sailed about 40 days to Samudra Pasai in northern Sumatra and continued east on a junk.",
+      "turning": false, "kind": "work", "sources": ["w-ibnb"]
+    },
+    {
+      "date": "1345", "age": null, "place": "Quanzhou (Zaytun), Yuan China, (China)",
+      "title": "China, as he tells it",
+      "text": "The Rihla says he landed at Quanzhou in 1345, stayed two weeks in Guangzhou, visited Hangzhou and described Beijing. Some scholars doubt he went to China at all, or think parts of this section borrow from other writers. He wrote that China was the safest country for a traveller.",
+      "turning": false, "kind": "work", "sources": ["w-ibnb", "gibb"]
+    },
+    {
+      "date": "1346", "age": null, "place": "Quanzhou, Yuan China, (China)",
+      "title": "Turning for home",
+      "text": "In 1346 he returned to Quanzhou and set out for Morocco. On the way west he heard that Abu Sa'id, the Ilkhan ruler whose court he had joined in 1327, had died.",
+      "turning": false, "kind": "life", "sources": ["w-ibnb"]
+    },
+    {
+      "date": "1348", "age": 44, "place": "Damascus, Mamluk Sultanate, (Syria)",
+      "title": "News of loss, and the Black Death",
+      "text": "In Damascus in 1348 he learned that his father had died 15 years earlier. That summer the Black Death spread through Syria, Palestine and Egypt. He wrote that in Cairo he was told deaths reached 21,000 a day, a figure he reports from others.",
+      "turning": false, "kind": "setback", "sources": ["w-ibnb", "gibb"]
+    },
+    {
+      "date": "1348-11-16", "age": 44, "place": "Mecca, Hejaz, (Saudi Arabia)",
+      "title": "The last pilgrimage",
+      "text": "He reached Mecca on 16 November 1348 and made his final pilgrimage there in early 1349, then visited Medina and Jerusalem before heading west by sea.",
+      "turning": false, "kind": "life", "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "date": "1349-11-13", "age": 45, "place": "Fez, Marinid Sultanate, (Morocco)",
+      "title": "Home at last",
+      "text": "At Taza he learned that his mother had died of the plague a few months before. He reached Fez on 13 November 1349 and presented himself to the Marinid sultan Abu Inan, after 24 years away.",
+      "turning": true, "kind": "life", "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "date": "1350", "age": 46, "place": "Gibraltar and Granada, al-Andalus, (Spain)",
+      "title": "A visit to al-Andalus",
+      "text": "In 1350 he joined volunteers going to defend Gibraltar. The threat had passed by the time he arrived, so he toured al-Andalus and ended his visit in Granada.",
+      "turning": false, "kind": "work", "sources": ["w-ibnb"]
+    },
+    {
+      "date": "1352-02-18", "age": 47, "place": "Sijilmasa and Taghaza, Sahara, (Morocco and Mali)",
+      "title": "Across the Sahara",
+      "text": "On 18 February 1352 he left Sijilmasa with a merchant caravan. After 25 days it reached Taghaza, a salt-mining village whose houses and mosque were built of blocks of salt. The desert crossing to Walata took about two months.",
+      "turning": false, "kind": "work", "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "date": "1352-06-28", "age": 48, "place": "Mali capital, Mali Empire, (West Africa)",
+      "title": "At the court of Mali",
+      "text": "He arrived at the Mali capital on 28 June 1352 and met Mansa Sulayman. He complained that the king's welcome gift was small, but praised the safety of the country. His account is one of the most valued sources on Mali at its height, though some question how reliable it is as a first-hand report.",
+      "turning": false, "kind": "work", "sources": ["gibb", "w-suleyman", "w-ibnb"]
+    },
+    {
+      "date": "1353", "age": 49, "place": "Timbuktu and Gao, Mali Empire, (Mali)",
+      "title": "Timbuktu, Gao and the call home",
+      "text": "He left the capital on 27 February 1353 and went to Timbuktu, Gao and Takedda. A message from the sultan of Morocco ordered him home. He set off in September 1353 and was back in Morocco early in 1354.",
+      "turning": false, "kind": "work", "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "date": "1355-12-09", "age": 51, "place": "Fez, Marinid Sultanate, (Morocco)",
+      "title": "The Rihla is dictated",
+      "text": "Sultan Abu Inan ordered the court secretary Ibn Juzayy to write down his stories. The dictation was finished on 9 December 1355. Ibn Juzayy edited and shortened the text and added passages copied without credit from Ibn Jubayr and others, so the book is not entirely Ibn Battuta's own. The historian Ibn Khaldun records that many at court did not believe his tales.",
+      "turning": true, "kind": "work", "sources": ["gibb", "w-ibnb", "w-ibnjuzayy", "w-rihla"]
+    },
+    {
+      "date": "1368", "age": null, "place": "Morocco",
+      "title": "Death",
+      "text": "After the Rihla he served as a judge in Morocco. He died in 1368 or 1369; sources disagree on the year and give little detail about his last years. A tomb in Tangier is said to be his, but this is not certain.",
+      "turning": false, "kind": "life", "sources": ["w-ibnb"]
+    },
+    {
+      "date": "1829", "age": null, "place": "London, (United Kingdom)",
+      "title": "First English translation",
+      "text": "The Rihla was little known outside the Muslim world until the 1800s. In 1829 Samuel Lee published an English translation in London, based on shortened Arabic manuscripts.",
+      "turning": false, "kind": "legacy", "sources": ["w-ibnb", "ia-lee"]
+    },
+    {
+      "date": "1853", "age": null, "place": "Paris, (France)",
+      "title": "The full text in print",
+      "text": "Using manuscripts bought by the Bibliotheque Nationale, Charles Defremery and Beniamino Sanguinetti published the full Arabic text with a French translation in four volumes, from 1853 to 1858.",
+      "turning": false, "kind": "legacy", "sources": ["w-ibnb", "ia-defremery"]
+    },
+    {
+      "date": "1929", "age": null, "place": "London, (United Kingdom)",
+      "title": "Gibb's translation",
+      "text": "H. A. R. Gibb published an English selection, Travels in Asia and Africa 1325-1354, in 1929. The complete Hakluyt Society translation by Gibb and C. F. Beckingham followed between 1958 and 1994. Today his journey is often estimated at about 75,000 miles.",
+      "turning": false, "kind": "legacy", "sources": ["w-ibnb", "gibb", "orias"]
+    }
+  ],
+  "works": [
+    {
+      "year": "1355", "type": "book",
+      "title": "The Rihla (A Gift to Those Who Contemplate the Wonders of Cities and the Marvels of Travelling)",
+      "text": "His travel book, dictated to Ibn Juzayy in Fez and finished in December 1355. It describes Muslim societies and their neighbours from West Africa to China. Scholars value it highly but question parts: some passages were copied from Ibn Jubayr and al-Abdari, and some journeys (Bolghar, Sanaa, parts of China) are doubted.",
+      "sources": ["w-rihla", "w-ibnb", "gibb", "w-ibnjubayr"],
+      "url": "https://archive.org/details/pli.kerala.rare.27987"
+    },
+    {
+      "year": "1325", "type": "journey",
+      "title": "The pilgrimage road across North Africa",
+      "text": "His first journey, from Tangier through Tlemcen, Tunis and Alexandria to Cairo, made alone at first and then with merchants and pilgrims.",
+      "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "year": "1326", "type": "study",
+      "title": "Study in Damascus and Mecca",
+      "text": "He studied with scholars in Damascus and later spent time in Mecca. Manuscripts he copied in Damascus in 1326 were found in Cairo in 2010.",
+      "sources": ["w-ibnb", "gibb"]
+    },
+    {
+      "year": "1330", "type": "journey",
+      "title": "Account of the East African coast",
+      "text": "One of the few medieval descriptions of Mogadishu, Mombasa and Kilwa, written by a visitor. The date is given as 1330 or 1332.",
+      "sources": ["w-ibnb"]
+    },
+    {
+      "year": "1332", "type": "journey",
+      "title": "Anatolia, the Golden Horde and Constantinople",
+      "text": "Accounts of the Turkish towns of Anatolia, the camp of Uzbeg Khan and a month in Constantinople. His claimed trip to Bolghar on the Volga is considered very unlikely.",
+      "sources": ["w-ibnb"]
+    },
+    {
+      "year": "1334", "type": "office",
+      "title": "Maliki judge of Delhi",
+      "text": "He served as a qadi under Sultan Muhammad bin Tughluq for about six years, and his account is a major source on the sultan's court.",
+      "sources": ["gibb", "w-ibnb", "w-tughluq"]
+    },
+    {
+      "year": "1342", "type": "embassy",
+      "title": "Embassy to the Yuan emperor",
+      "text": "He led the sultan's gifts and envoys toward China. The mission was robbed and then lost ships in a storm at Calicut. The year is 1342 in the Rihla but may have been 1341.",
+      "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "year": "1343", "type": "office",
+      "title": "Chief judge of the Maldives",
+      "text": "For about nine months he was chief qadi in Male, where he tried to change local customs to fit Islamic law, before leaving after disputes with the rulers.",
+      "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "year": "1345", "type": "journey",
+      "title": "Account of China",
+      "text": "Descriptions of Quanzhou, Guangzhou and Hangzhou, and of China's post stations that kept travellers safe. Some scholars doubt he went to China, or think this section borrows from others.",
+      "sources": ["w-ibnb", "gibb"]
+    },
+    {
+      "year": "1348", "type": "record",
+      "title": "Witness to the Black Death",
+      "text": "He described the plague as it spread through Syria, Palestine and Egypt in 1348, and learned on his way home that his mother had died of it.",
+      "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "year": "1352", "type": "journey",
+      "title": "Account of the Mali Empire",
+      "text": "His description of the Sahara salt town of Taghaza, Walata, the court of Mansa Sulayman, Timbuktu and Gao. It is one of the most valued sources on Mali at its height, though its reliability as a first-hand report has been questioned.",
+      "sources": ["gibb", "w-suleyman", "w-ibnb"]
+    }
+  ],
+  "resources": [
+    { "label": "Travels in Asia and Africa 1325-1354, tr. H. A. R. Gibb, 1929 (Internet Archive)", "url": "https://archive.org/details/pli.kerala.rare.27987", "what": "Gibb's selected English translation, with his introduction and notes, free to read online." },
+    { "label": "Travels in Asia and Africa 1325-1354, another scan (Internet Archive)", "url": "https://archive.org/details/in.ernet.dli.2015.62872", "what": "A second scanned copy of the 1929 Gibb translation from the Digital Library of India." },
+    { "label": "The Travels of Ibn Batuta, tr. Samuel Lee, 1829 (Internet Archive)", "url": "https://archive.org/details/in.ernet.dli.2015.120232", "what": "The first English translation, made from shortened Arabic manuscripts." },
+    { "label": "Voyages d'Ibn Batoutah, vol. 1 (Internet Archive)", "url": "https://archive.org/details/voyagestextearab01ibnb", "what": "The Arabic text with French translation by Defremery and Sanguinetti, the standard edition for over a century." },
+    { "label": "The Travels of Ibn Battuta: A Virtual Tour (ORIAS, UC Berkeley)", "url": "https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta", "what": "A free illustrated tour of his journey in 15 stages, built with help from historian Ross Dunn, with maps and student activities." },
+    { "label": "Ibn Battuta (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ibn_Battuta", "what": "A detailed overview of his journeys, the Rihla and the debate over its reliability." },
+    { "label": "Rihla (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Rihla", "what": "The Arabic travel-writing tradition his book belongs to." },
+    { "label": "Ibn Jubayr (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ibn_Jubayr", "what": "The 12th-century traveller whose descriptions of Damascus, Mecca and Medina were copied into the Rihla." }
+  ],
+  "books": [
+    {
+      "title": "Travels in Asia and Africa 1325-1354",
+      "author": "Ibn Battuta, translated and selected by H. A. R. Gibb",
+      "year": "1929",
+      "kind": "by-him",
+      "free": "https://archive.org/details/pli.kerala.rare.27987",
+      "note": "The best short way into the Rihla in English, in the Broadway Travellers series (Routledge, London)."
+    },
+    {
+      "title": "The Travels of Ibn Batuta",
+      "author": "Ibn Battuta, translated by Samuel Lee",
+      "year": "1829",
+      "kind": "by-him",
+      "free": "https://archive.org/details/in.ernet.dli.2015.120232",
+      "note": "The first English version, from abridged manuscripts. Shorter and older in style than Gibb."
+    },
+    {
+      "title": "The Adventures of Ibn Battuta: A Muslim Traveler of the Fourteenth Century",
+      "author": "Ross E. Dunn",
+      "year": "1986",
+      "kind": "biography",
+      "free": null,
+      "note": "The standard modern account of his life and world (University of California Press; reissued 2005)."
+    },
+    {
+      "title": "Travels with a Tangerine",
+      "author": "Tim Mackintosh-Smith",
+      "year": "2002",
+      "kind": "biography",
+      "free": null,
+      "note": "A modern traveller follows his route from Tangier to the east (Picador edition as listed on Wikipedia)."
+    },
+    {
+      "title": "The Odyssey of Ibn Battuta",
+      "author": "David Waines",
+      "year": "2010",
+      "kind": "biography",
+      "free": null,
+      "note": "A scholarly study of the Rihla and how it tells its stories (University of Chicago Press)."
+    }
+  ]
+}

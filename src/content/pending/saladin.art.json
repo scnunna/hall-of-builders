@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "06-jerusalem",
+ "panels": [
+  { "key": "01-tikrit", "year": "1137" },
+  { "key": "02-vizier", "year": "1169" },
+  { "key": "03-damascus", "year": "1174" },
+  { "key": "04-citadel", "year": "1176" },
+  { "key": "05-hattin", "year": "1187" },
+  { "key": "06-jerusalem", "year": "1187" },
+  { "key": "07-mother", "year": "1189" },
+  { "key": "08-truce", "year": "1192" }
+ ]
+}

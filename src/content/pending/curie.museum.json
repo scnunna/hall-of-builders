@@ -1,0 +1,860 @@
+{
+  "sources": {
+    "w-curie": {
+      "label": "Marie Curie (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    "pc-gut": {
+      "label": "Pierre Curie, by Marie Curie, with Autobiographical Notes, tr. Charlotte and Vernon Kellogg, 1923 (Project Gutenberg #69617)",
+      "url": "https://www.gutenberg.org/ebooks/69617"
+    },
+    "aip-girl1": {
+      "label": "Marie Curie: Polish Girlhood (American Institute of Physics)",
+      "url": "https://history.aip.org/exhibits/curie/polgirl1.htm"
+    },
+    "aip-girl2": {
+      "label": "Marie Curie: The Governess (American Institute of Physics)",
+      "url": "https://history.aip.org/exhibits/curie/polgirl2.htm"
+    },
+    "aip-stud": {
+      "label": "Marie Curie: A Student in Paris (American Institute of Physics)",
+      "url": "https://history.aip.org/exhibits/curie/stud1.htm"
+    },
+    "aip-res1": {
+      "label": "Marie Curie: Research Breakthroughs (American Institute of Physics)",
+      "url": "https://history.aip.org/exhibits/curie/resbr1.htm"
+    },
+    "aip-res2": {
+      "label": "Marie Curie: The Discovery of Polonium and Radium (American Institute of Physics)",
+      "url": "https://history.aip.org/exhibits/curie/resbr2.htm"
+    },
+    "aip-recdis": {
+      "label": "Marie Curie: Recognition and Disappointment (American Institute of Physics)",
+      "url": "https://history.aip.org/exhibits/curie/recdis2.htm"
+    },
+    "aip-trag": {
+      "label": "Marie Curie: Tragedy and Adjustment (American Institute of Physics)",
+      "url": "https://history.aip.org/exhibits/curie/trag1.htm"
+    },
+    "aip-scandal": {
+      "label": "Marie Curie: Scandal and Recovery, 1910-1913 (American Institute of Physics)",
+      "url": "https://history.aip.org/exhibits/curie/scandal1.htm"
+    },
+    "aip-war": {
+      "label": "Marie Curie: War Duty, 1914-1919 (American Institute of Physics)",
+      "url": "https://history.aip.org/exhibits/curie/war1.htm"
+    },
+    "aip-radinst1": {
+      "label": "Marie Curie: The Radium Institute (American Institute of Physics)",
+      "url": "https://history.aip.org/exhibits/curie/radinst1.htm"
+    },
+    "aip-radinst3": {
+      "label": "Marie Curie: The Radium Institute, last years (American Institute of Physics)",
+      "url": "https://history.aip.org/exhibits/curie/radinst3.htm"
+    },
+    "w-polonium": {
+      "label": "Polonium (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Polonium"
+    },
+    "w-radium": {
+      "label": "Radium (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Radium"
+    },
+    "w-institute": {
+      "label": "Curie Institute (Paris) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Curie_Institute_(Paris)"
+    },
+    "w-warsaw": {
+      "label": "Maria Skłodowska-Curie National Research Institute of Oncology (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Maria_Sk%C5%82odowska-Curie_National_Research_Institute_of_Oncology"
+    },
+    "w-curium": {
+      "label": "Curium (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Curium"
+    },
+    "w-irene": {
+      "label": "Irène Joliot-Curie (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie"
+    },
+    "wq-curie": {
+      "label": "Marie Curie (Wikiquote)",
+      "url": "https://en.wikiquote.org/wiki/Marie_Curie"
+    },
+    "ia-rayons": {
+      "label": "Rayons émis par les composés de l'uranium et du thorium, 1898 (Internet Archive)",
+      "url": "https://archive.org/details/rayonsmisparle00curi"
+    },
+    "ia-polonium": {
+      "label": "Sur une substance nouvelle radio-active, contenue dans la pechblende, 1898 (Internet Archive)",
+      "url": "https://archive.org/details/surunesubstancen127curi"
+    },
+    "gut-recherches": {
+      "label": "Recherches sur les substances radioactives, 1903 thesis (Project Gutenberg #43233)",
+      "url": "https://www.gutenberg.org/ebooks/43233"
+    },
+    "ia-substances": {
+      "label": "Radio-active Substances, Chemical News Office, London, 1904 (Internet Archive)",
+      "url": "https://archive.org/details/radioactivesubst00curi"
+    },
+    "ia-traite": {
+      "label": "Traité de radioactivité, vol. 1, Gauthier-Villars, 1910 (Internet Archive)",
+      "url": "https://archive.org/details/traitderadioac01curi"
+    },
+    "gut-radiologie": {
+      "label": "La Radiologie et la Guerre, 1921 (Project Gutenberg #44098)",
+      "url": "https://www.gutenberg.org/ebooks/44098"
+    },
+    "ia-vassar": {
+      "label": "The Discovery of Radium, address at Vassar College, 14 May 1921 (Internet Archive)",
+      "url": "https://archive.org/details/discoveryofradiu00curi"
+    },
+    "lv-pierre": {
+      "label": "Pierre Curie, LibriVox audiobook (Internet Archive)",
+      "url": "https://archive.org/details/pierre_curie_cg_2304_librivox"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1867-11-07",
+      "age": 0,
+      "place": "Warsaw, Congress Poland, (Poland)",
+      "title": "Born in Warsaw",
+      "text": "Maria Salomea Skłodowska was born in Warsaw, then under Russian rule. She was the youngest of five children. Both her parents were teachers, and her father taught mathematics and physics.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-curie",
+        "aip-girl1"
+      ]
+    },
+    {
+      "date": "1878-05",
+      "age": 10,
+      "place": "Warsaw, Congress Poland, (Poland)",
+      "title": "Losing her mother",
+      "text": "Her mother died of tuberculosis when Maria was ten, a few years after her oldest sister died of typhus. She later called her mother's death the first great sorrow of her life.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-curie",
+        "aip-girl1"
+      ]
+    },
+    {
+      "date": "1883-06-12",
+      "age": 15,
+      "place": "Warsaw, Congress Poland, (Poland)",
+      "title": "Top of her class",
+      "text": "She finished secondary school with a gold medal. Women could not enter the University of Warsaw, so the usual path to higher study was closed to her.",
+      "turning": false,
+      "kind": "honour",
+      "sources": [
+        "w-curie",
+        "aip-girl1"
+      ]
+    },
+    {
+      "date": "1884",
+      "age": 16,
+      "place": "Warsaw, Congress Poland, (Poland)",
+      "title": "A pact and a secret school",
+      "text": "Maria and her sister Bronisława joined the Flying University, an illegal night school that moved from place to place. Maria agreed to work and help pay for Bronisława's medical studies in Paris, and Bronisława would later help her in turn. The exact year of the pact is not certain.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "aip-girl1",
+        "aip-girl2",
+        "w-curie"
+      ]
+    },
+    {
+      "date": "1886",
+      "age": 18,
+      "place": "Szczuki, Congress Poland, (Poland)",
+      "title": "Years as a governess",
+      "text": "After about two years of tutoring, she took a better-paid job as a live-in governess in the countryside for about three years. She kept studying on her own in the evenings. Sources give slightly different dates for these years.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "aip-girl2",
+        "w-curie"
+      ]
+    },
+    {
+      "date": "1890",
+      "age": 22,
+      "place": "Warsaw, Congress Poland, (Poland)",
+      "title": "Her first laboratory",
+      "text": "Back in Warsaw, she was allowed to practise in a small laboratory run by her cousin, mostly in the evenings and on Sundays. Some experiments failed, but she wrote that this first trial confirmed her taste for experimental research.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "pc-gut",
+        "w-curie"
+      ]
+    },
+    {
+      "date": "1891-11",
+      "age": 24,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "A student in Paris",
+      "text": "She arrived in Paris and enrolled at the University of Paris (the Sorbonne) to study physics, chemistry and mathematics. She lived simply in the Latin Quarter and gave almost all her time to study.",
+      "turning": true,
+      "kind": "life",
+      "sources": [
+        "aip-girl2",
+        "aip-stud",
+        "w-curie"
+      ]
+    },
+    {
+      "date": "1893",
+      "age": 25,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "First in physics",
+      "text": "She finished first in her physics degree. A scholarship for an outstanding Polish student helped her stay on for a second degree.",
+      "turning": false,
+      "kind": "honour",
+      "sources": [
+        "aip-stud",
+        "w-curie"
+      ]
+    },
+    {
+      "date": "1894",
+      "age": 26,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "Steel, mathematics and Pierre",
+      "text": "She placed second in mathematics and took on a paid study of the magnetic properties of steels. Looking for lab space, she was introduced to the physicist Pierre Curie, who helped her find room to work.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "aip-stud",
+        "w-curie"
+      ]
+    },
+    {
+      "date": "1895-07-26",
+      "age": 27,
+      "place": "Sceaux, Île-de-France, (France)",
+      "title": "Marriage",
+      "text": "Marie and Pierre married in a simple civil ceremony at the town hall in Sceaux. Their shared work would shape the rest of both their lives.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-curie",
+        "aip-stud"
+      ]
+    },
+    {
+      "date": "1897",
+      "age": 29,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "A thesis on uranium rays",
+      "text": "Their daughter Irène was born in September. Marie then chose a doctoral topic: the strange rays from uranium found by Henri Becquerel in 1896. She measured them with an electrometer that Pierre and his brother had invented. Her own account places the start after Irène's birth; the AIP exhibit dates it to 1896.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "pc-gut",
+        "aip-res1",
+        "w-curie"
+      ]
+    },
+    {
+      "date": "1898-04-12",
+      "age": 30,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "Rays from thorium too",
+      "text": "Her paper on the rays from uranium and thorium was presented to the Academy of Sciences. She argued that the rays come from the atoms themselves. She coined the word \"radioactivity\" for this behaviour.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-curie",
+        "aip-res1",
+        "ia-rayons"
+      ]
+    },
+    {
+      "date": "1898-07",
+      "age": 30,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "Polonium",
+      "text": "The ore pitchblende was more active than its uranium could explain. Marie and Pierre reported a new element hidden in it and named it polonium, after Poland. It was the first element found only by its radioactivity.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "aip-res2",
+        "w-polonium",
+        "ia-polonium"
+      ]
+    },
+    {
+      "date": "1898-12-26",
+      "age": 31,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "Radium",
+      "text": "With the chemist Gustave Bémont, the Curies announced a second new element and named it radium, from the Latin word for ray.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-radium",
+        "aip-res2",
+        "w-curie"
+      ]
+    },
+    {
+      "date": "1899",
+      "age": 31,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "The shed",
+      "text": "They worked in an old wooden shed with a glass roof that let in the rain. Marie treated up to twenty kilograms of ore at a time, stirring boiling material with an iron bar. Pierre studied the rays while she did the chemistry.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "pc-gut",
+        "aip-res2"
+      ]
+    },
+    {
+      "date": "1902",
+      "age": 34,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "A tenth of a gram",
+      "text": "After more than three years of work on tonnes of ore residues, she separated about one tenth of a gram of pure radium chloride. The same year her father died in Warsaw.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "aip-res2",
+        "w-curie",
+        "pc-gut"
+      ]
+    },
+    {
+      "date": "1903-06",
+      "age": 35,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "Doctor of science",
+      "text": "She received her doctorate from the University of Paris for her thesis on radioactive substances. It was soon translated into English and German.",
+      "turning": false,
+      "kind": "honour",
+      "sources": [
+        "w-curie",
+        "gut-recherches",
+        "ia-substances"
+      ]
+    },
+    {
+      "date": "1903-12",
+      "age": 36,
+      "place": "Stockholm, (Sweden)",
+      "title": "The first Nobel Prize",
+      "text": "Marie, Pierre and Henri Becquerel shared the Nobel Prize in Physics. At first only the men had been nominated, until a committee member intervened. She was the first woman to win a Nobel Prize. The Curies were not able to travel to Stockholm for the lecture until June 1905.",
+      "turning": true,
+      "kind": "honour",
+      "sources": [
+        "w-curie",
+        "aip-recdis"
+      ]
+    },
+    {
+      "date": "1904",
+      "age": 36,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "No patent on radium",
+      "text": "Marie became chief of Pierre's laboratory with a salary. As a radium industry grew, the couple chose not to patent their method. They published the exact process and answered questions from other scientists and engineers. Some historians note this story was later shaped by her American publicist, and that French law then limited patents in a married woman's own name. Their second daughter, Ève, was born in December 1904.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "pc-gut",
+        "w-curie",
+        "aip-recdis"
+      ]
+    },
+    {
+      "date": "1906-04-19",
+      "age": 38,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "Pierre's death",
+      "text": "Pierre was killed when a horse-drawn wagon struck him on a rainy Paris street. Marie refused a state pension and went back to work, remembering that he had said she should continue even without him.",
+      "turning": true,
+      "kind": "setback",
+      "sources": [
+        "w-curie",
+        "aip-trag"
+      ]
+    },
+    {
+      "date": "1906-05-13",
+      "age": 38,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "The first woman professor",
+      "text": "The University of Paris offered her Pierre's post. She became the first woman to hold a professorship there.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-curie",
+        "aip-trag"
+      ]
+    },
+    {
+      "date": "1909",
+      "age": 41,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "Plans for a Radium Institute",
+      "text": "The University of Paris and the Pasteur Institute founded the Radium Institute. It had two parts: a physics and chemistry laboratory led by Marie, and a laboratory for medical research led by Claudius Regaud.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-institute"
+      ]
+    },
+    {
+      "date": "1910",
+      "age": 42,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "Radium metal",
+      "text": "With the chemist André-Louis Debierne, she isolated radium as a pure metal by electrolysis. She also published her two-volume Treatise on Radioactivity and helped set an international radium standard, later kept near Paris at Sèvres.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-radium",
+        "pc-gut",
+        "ia-traite",
+        "w-curie"
+      ]
+    },
+    {
+      "date": "1911-01-23",
+      "age": 43,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "Turned away by the Academy",
+      "text": "She stood for a seat in the French Academy of Sciences and lost to Édouard Branly. Many members opposed admitting women. Sources differ on the margin: one or two votes.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "aip-scandal",
+        "w-curie",
+        "pc-gut"
+      ]
+    },
+    {
+      "date": "1911-12",
+      "age": 44,
+      "place": "Stockholm, (Sweden)",
+      "title": "A second Nobel Prize",
+      "text": "She won the Nobel Prize in Chemistry alone, for the discovery of radium and polonium. She was the first person to win two Nobel Prizes. She was ill at the time but travelled to Stockholm to receive it.",
+      "turning": false,
+      "kind": "honour",
+      "sources": [
+        "w-curie",
+        "pc-gut"
+      ]
+    },
+    {
+      "date": "1914",
+      "age": 46,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "The Curie laboratory",
+      "text": "The building for her laboratory at the Radium Institute was finished in 1914. Weeks later the First World War began, her researchers were called up, and the research had to wait.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-institute",
+        "aip-war",
+        "w-curie"
+      ]
+    },
+    {
+      "date": "1914-10",
+      "age": 46,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "The little Curies",
+      "text": "To help surgeons find bullets and broken bones, she set up X-ray stations and fitted cars with X-ray machines. Soldiers called them \"petites Curies\". She learned to drive and, with her daughter Irène, trained helpers. In all she equipped 20 cars and about 200 X-ray rooms.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "aip-war",
+        "pc-gut",
+        "w-curie"
+      ]
+    },
+    {
+      "date": "1920",
+      "age": 52,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "The Curie Foundation",
+      "text": "With Claudius Regaud she set up the Curie Foundation to fund the institute's research and treatment of patients. The same year she learned she had cataracts, which the AIP exhibit links to radiation exposure.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-institute",
+        "aip-radinst1",
+        "aip-radinst3"
+      ]
+    },
+    {
+      "date": "1921-05-20",
+      "age": 53,
+      "place": "Washington, D.C., (United States)",
+      "title": "A gram of radium",
+      "text": "On a tour to raise funds, she spoke at Vassar College on 14 May. Six days later President Warren G. Harding gave her a gram of radium bought with money raised by American women, for her laboratory.",
+      "turning": false,
+      "kind": "honour",
+      "sources": [
+        "w-curie",
+        "aip-radinst1",
+        "ia-vassar"
+      ]
+    },
+    {
+      "date": "1929",
+      "age": 61,
+      "place": "Washington, D.C., (United States)",
+      "title": "Radium for Warsaw",
+      "text": "She made a second tour of the United States to equip a radium institute in Warsaw, and met President Herbert Hoover.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "aip-radinst1",
+        "w-warsaw"
+      ]
+    },
+    {
+      "date": "1932-05-29",
+      "age": 64,
+      "place": "Warsaw, (Poland)",
+      "title": "The Warsaw Radium Institute",
+      "text": "The Radium Institute in Warsaw officially opened, with her sister Bronisława as director. Sources give 1925 for its creation and 1932 for its opening.",
+      "turning": false,
+      "kind": "honour",
+      "sources": [
+        "w-warsaw",
+        "w-curie",
+        "aip-radinst1"
+      ]
+    },
+    {
+      "date": "1934-07-04",
+      "age": 66,
+      "place": "Passy, Haute-Savoie, (France)",
+      "title": "Death",
+      "text": "She died at a sanatorium in the French Alps of aplastic anaemia, an illness of the bone marrow believed to come from long exposure to radiation. She was buried beside Pierre at Sceaux.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-curie",
+        "aip-radinst3"
+      ]
+    },
+    {
+      "date": "1935",
+      "age": null,
+      "place": "Stockholm, (Sweden)",
+      "title": "Her daughter's Nobel Prize",
+      "text": "Irène Joliot-Curie and her husband Frédéric won the Nobel Prize in Chemistry for creating new radioactive elements, work done in 1934 at the Radium Institute.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "w-irene"
+      ]
+    },
+    {
+      "date": "1944",
+      "age": null,
+      "place": "Berkeley, California, (United States)",
+      "title": "The element curium",
+      "text": "Scientists at the University of California, Berkeley made element 96 and named it curium, after Marie and Pierre Curie.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "w-curium"
+      ]
+    },
+    {
+      "date": "1995-04",
+      "age": null,
+      "place": "Paris, Île-de-France, (France)",
+      "title": "Into the Panthéon",
+      "text": "Her remains and Pierre's were moved to the Panthéon in Paris. She was the first woman honoured there for her own achievements.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "w-curie",
+        "aip-radinst3"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "year": "1898",
+      "type": "paper",
+      "title": "Rays from uranium and thorium compounds",
+      "text": "Her first major paper (in French), showing that thorium also gives off rays and that the rays are a property of the atoms.",
+      "sources": [
+        "ia-rayons",
+        "aip-res1",
+        "w-curie"
+      ],
+      "url": "https://archive.org/details/rayonsmisparle00curi"
+    },
+    {
+      "year": "1898",
+      "type": "discovery",
+      "title": "Polonium",
+      "text": "A new element reported with Pierre in July 1898 and named after Poland. It was the first element found by its radioactivity alone.",
+      "sources": [
+        "w-polonium",
+        "aip-res2",
+        "ia-polonium"
+      ],
+      "url": "https://archive.org/details/surunesubstancen127curi"
+    },
+    {
+      "year": "1898",
+      "type": "discovery",
+      "title": "Radium",
+      "text": "A second new element announced on 26 December 1898 with Pierre Curie and Gustave Bémont, named from the Latin word for ray.",
+      "sources": [
+        "w-radium",
+        "aip-res2"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Radium"
+    },
+    {
+      "year": "1898",
+      "type": "idea",
+      "title": "The word \"radioactivity\"",
+      "text": "She coined the term for the way some elements give off rays from inside their atoms.",
+      "sources": [
+        "aip-res1",
+        "w-curie"
+      ],
+      "url": "https://history.aip.org/exhibits/curie/resbr1.htm"
+    },
+    {
+      "year": "1902",
+      "type": "discovery",
+      "title": "Pure radium chloride",
+      "text": "About a tenth of a gram, separated by hand from tonnes of ore residues over more than three years. It let her measure radium's atomic weight.",
+      "sources": [
+        "aip-res2",
+        "pc-gut",
+        "w-curie"
+      ],
+      "url": "https://history.aip.org/exhibits/curie/resbr2.htm"
+    },
+    {
+      "year": "1903",
+      "type": "book",
+      "title": "Research on Radioactive Substances (doctoral thesis)",
+      "text": "Her thesis for the University of Paris, soon published in English (1904) and German.",
+      "sources": [
+        "gut-recherches",
+        "ia-substances",
+        "w-curie"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/43233"
+    },
+    {
+      "year": "1904",
+      "type": "practice",
+      "title": "An open process for radium",
+      "text": "With Pierre she published the exact method for preparing radium instead of patenting it, which helped a radium industry start in France and abroad.",
+      "sources": [
+        "pc-gut",
+        "w-curie"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/69617"
+    },
+    {
+      "year": "1910",
+      "type": "book",
+      "title": "Treatise on Radioactivity",
+      "text": "A two-volume textbook (in French) summing up the new science of radioactivity.",
+      "sources": [
+        "ia-traite",
+        "w-curie"
+      ],
+      "url": "https://archive.org/details/traitderadioac01curi"
+    },
+    {
+      "year": "1910",
+      "type": "discovery",
+      "title": "Radium metal",
+      "text": "With André-Louis Debierne she isolated radium as a pure metal by electrolysis, a delicate operation she said had not been repeated since.",
+      "sources": [
+        "w-radium",
+        "pc-gut"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Radium"
+    },
+    {
+      "year": "1910",
+      "type": "standard",
+      "title": "The international radium standard",
+      "text": "She prepared a reference sample of radium so labs and hospitals everywhere could measure doses the same way. It was kept at the International Bureau of Weights and Measures at Sèvres.",
+      "sources": [
+        "pc-gut",
+        "w-curie"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/69617"
+    },
+    {
+      "year": "1914",
+      "type": "institution",
+      "title": "The Curie laboratory of the Radium Institute",
+      "text": "The physics and chemistry half of the Radium Institute in Paris, which she directed. Its 1914 building now houses the Musée Curie.",
+      "sources": [
+        "w-institute",
+        "w-curie"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Curie_Institute_(Paris)"
+    },
+    {
+      "year": "1914",
+      "type": "service",
+      "title": "Mobile X-ray units",
+      "text": "Twenty X-ray cars and about 200 X-ray rooms for military hospitals in the First World War, plus training for the people who ran them.",
+      "sources": [
+        "pc-gut",
+        "aip-war",
+        "w-curie"
+      ],
+      "url": "https://history.aip.org/exhibits/curie/war1.htm"
+    },
+    {
+      "year": "1921",
+      "type": "book",
+      "title": "Radiology and the War",
+      "text": "Her short book (in French) on how X-rays were used to help wounded soldiers, and what that taught medicine.",
+      "sources": [
+        "gut-radiologie"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/44098"
+    },
+    {
+      "year": "1921",
+      "type": "lecture",
+      "title": "The Discovery of Radium",
+      "text": "Her address at Vassar College on 14 May 1921, telling the story of radium and arguing for pure science.",
+      "sources": [
+        "ia-vassar",
+        "wq-curie"
+      ],
+      "url": "https://archive.org/details/discoveryofradiu00curi"
+    },
+    {
+      "year": "1923",
+      "type": "book",
+      "title": "Pierre Curie, with Autobiographical Notes",
+      "text": "Her life of Pierre, followed by her own short life story written for American readers.",
+      "sources": [
+        "pc-gut"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/69617"
+    },
+    {
+      "year": "1932",
+      "type": "institution",
+      "title": "The Warsaw Radium Institute",
+      "text": "A research and cancer treatment centre in her home city, funded partly by her fundraising tours. It is today Poland's national oncology institute.",
+      "sources": [
+        "w-warsaw",
+        "aip-radinst1"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Maria_Sk%C5%82odowska-Curie_National_Research_Institute_of_Oncology"
+    }
+  ],
+  "resources": [
+    {
+      "label": "Pierre Curie, with Autobiographical Notes (Project Gutenberg #69617)",
+      "url": "https://www.gutenberg.org/ebooks/69617",
+      "what": "Her own book about Pierre and her life, in the 1923 Kellogg translation, free to read or download."
+    },
+    {
+      "label": "Pierre Curie, LibriVox audiobook (Internet Archive)",
+      "url": "https://archive.org/details/pierre_curie_cg_2304_librivox",
+      "what": "A free volunteer recording of the same book."
+    },
+    {
+      "label": "The Discovery of Radium (Internet Archive)",
+      "url": "https://archive.org/details/discoveryofradiu00curi",
+      "what": "A scan of her 1921 Vassar College address."
+    },
+    {
+      "label": "Radio-active Substances, 1904 (Internet Archive)",
+      "url": "https://archive.org/details/radioactivesubst00curi",
+      "what": "The English translation of her doctoral thesis."
+    },
+    {
+      "label": "Recherches sur les substances radioactives (Project Gutenberg #43233)",
+      "url": "https://www.gutenberg.org/ebooks/43233",
+      "what": "Her 1903 thesis in the original French."
+    },
+    {
+      "label": "La Radiologie et la Guerre (Project Gutenberg #44098)",
+      "url": "https://www.gutenberg.org/ebooks/44098",
+      "what": "Her 1921 book on X-rays in the First World War, in French."
+    },
+    {
+      "label": "Marie Curie and the Science of Radioactivity (American Institute of Physics)",
+      "url": "https://history.aip.org/exhibits/curie/",
+      "what": "An illustrated online exhibit on her life, chapter by chapter."
+    },
+    {
+      "label": "Marie Curie (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Marie_Curie",
+      "what": "A detailed overview of her life, work and legacy with references."
+    }
+  ],
+  "books": [
+    {
+      "title": "Pierre Curie, with Autobiographical Notes",
+      "author": "Marie Curie, translated by Charlotte and Vernon Kellogg",
+      "year": "1923",
+      "kind": "by-her",
+      "free": "https://www.gutenberg.org/ebooks/69617",
+      "note": "Her life of Pierre and her own short life story. The best place to hear her voice (Macmillan, New York)."
+    },
+    {
+      "title": "Radio-active Substances",
+      "author": "Marie Curie",
+      "year": "1904",
+      "kind": "by-her",
+      "free": "https://archive.org/details/radioactivesubst00curi",
+      "note": "The English edition of her doctoral thesis (Chemical News Office, London). Technical, but clearly written."
+    },
+    {
+      "title": "The Discovery of Radium",
+      "author": "Marie Curie",
+      "year": "1921",
+      "kind": "by-her",
+      "free": "https://archive.org/details/discoveryofradiu00curi",
+      "note": "A short public talk given at Vassar College; easy to read in one sitting."
+    },
+    {
+      "title": "Madame Curie",
+      "author": "Ève Curie, translated by Vincent Sheean",
+      "year": "1937",
+      "kind": "biography",
+      "free": null,
+      "note": "The classic life story by her younger daughter, quoted widely (listed on Wikipedia and Wikiquote)."
+    },
+    {
+      "title": "Marie Curie: A Life",
+      "author": "Susan Quinn",
+      "year": "1996",
+      "kind": "biography",
+      "free": null,
+      "note": "A full modern biography drawing on her letters and notebooks (listed on Wikipedia)."
+    },
+    {
+      "title": "The Elements of Marie Curie",
+      "author": "Dava Sobel",
+      "year": "2024",
+      "kind": "biography",
+      "free": null,
+      "note": "A recent book on Curie and the many women scientists she trained at the Radium Institute (listed on Wikipedia)."
+    }
+  ]
+}

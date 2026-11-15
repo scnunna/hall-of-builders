@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "03-scaffold",
+ "panels": [
+  { "key": "01-moscow", "year": "1821" },
+  { "key": "02-poorfolk", "year": "1846" },
+  { "key": "03-scaffold", "year": "1849" },
+  { "key": "04-omsk", "year": "1850" },
+  { "key": "05-petersburg", "year": "1866" },
+  { "key": "06-gambler", "year": "1866" },
+  { "key": "07-karamazov", "year": "1879" },
+  { "key": "08-pushkin", "year": "1880" }
+ ]
+}

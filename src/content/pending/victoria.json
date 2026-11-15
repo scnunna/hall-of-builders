@@ -1,0 +1,68 @@
+{
+  "id": "victoria",
+  "name": "Queen Victoria",
+  "years": "1819 - 1901",
+  "title": "The Long Reign",
+  "tagline": "She became queen at 18, reigned for 63 years over a growing empire, and kept a journal for almost 70 years.",
+  "sources": {
+    "w-victoria": { "label": "Queen Victoria (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Queen_Victoria" },
+    "w-journals": { "label": "Queen Victoria's journals (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Queen_Victoria%27s_journals" },
+    "w-vc": { "label": "Victoria Cross (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Victoria_Cross" },
+    "w-exhibition": { "label": "Great Exhibition (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Great_Exhibition" },
+    "w-netley": { "label": "Royal Victoria Hospital, Netley (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Royal_Victoria_Hospital,_Netley" },
+    "w-famine-india": { "label": "Great Famine of 1876-1878 (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Great_Famine_of_1876%E2%80%931878" },
+    "w-rebellion": { "label": "Indian Rebellion of 1857 (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857" },
+    "letters1": { "label": "The Letters of Queen Victoria, vol. 1, 1837-1843, ed. A. C. Benson and Viscount Esher (Project Gutenberg #20023)", "url": "https://www.gutenberg.org/ebooks/20023" },
+    "letters2": { "label": "The Letters of Queen Victoria, vol. 2, 1844-1853, ed. A. C. Benson and Viscount Esher (Project Gutenberg #24780)", "url": "https://www.gutenberg.org/ebooks/24780" },
+    "letters3": { "label": "The Letters of Queen Victoria, vol. 3, 1854-1861, ed. A. C. Benson and Viscount Esher (Project Gutenberg #28649)", "url": "https://www.gutenberg.org/ebooks/28649" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Start with your duty",
+      "idea": "Victoria was woken at 6 in the morning and told she was queen. She was 18. That same day she wrote in her journal that she was young and had a lot to learn, but would do her best. She did not wait to feel ready before she began.",
+      "quote": { "text": "Since it has pleased Providence to place me in this station, I shall do my utmost to fulfil my duty towards my country; I am very young and perhaps in many, though not in all things, inexperienced, but I am sure that very few have more real goodwill and more real desire to do what is fit and right than I have.", "credit": "Journal, 20 June 1837, in The Letters of Queen Victoria, vol. 1, ed. A. C. Benson and Viscount Esher (1907)" },
+      "practice": "Name one new job or role you feel unready for. Write one line on what you lack, and one line on what you already bring to it.",
+      "sources": ["letters1", "w-victoria"]
+    },
+    {
+      "title": "Give credit where it is due",
+      "idea": "The Great Exhibition of 1851 was Prince Albert's project. When it opened, Victoria wrote to her uncle that the day was Albert's triumph. She named the person whose work made it happen, plainly and with pride.",
+      "quote": { "text": "I wish you could have witnessed the 1st May 1851, the greatest day in our history, the most beautiful and imposing and touching spectacle ever seen, and the triumph of my beloved Albert.", "credit": "Letter to the King of the Belgians, 3 May 1851, in The Letters of Queen Victoria, vol. 2, ed. A. C. Benson and Viscount Esher (1907)" },
+      "practice": "Think of a recent success you shared in. Tell one person who helped, by name, what their part made possible.",
+      "sources": ["letters2", "w-exhibition"]
+    },
+    {
+      "title": "Honour the act, not the rank",
+      "idea": "When the Victoria Cross was designed, Victoria changed its motto. She did not want it to suggest that only people with the medal were brave. The award was open to soldiers and sailors of any rank.",
+      "quote": { "text": "The motto would be better \"For Valour\" than \"For the Brave,\" as this would lead to the inference that only those are deemed brave who have got the Victoria Cross.", "credit": "Letter to Lord Panmure, 5 January 1856, in The Letters of Queen Victoria, vol. 3, ed. A. C. Benson and Viscount Esher (1907)" },
+      "practice": "Notice one good or brave act today by someone with no title or spotlight. Tell them you saw it.",
+      "sources": ["letters3", "w-vc"]
+    },
+    {
+      "title": "Act while the moment is right",
+      "idea": "During the Crimean War, the public was shocked by reports of poor army hospitals. Victoria wrote to her war minister that this was the time to build better ones, while people cared and the money could be found. A year later she laid the first stone of a large military hospital at Netley.",
+      "quote": { "text": "This is absolutely necessary, and now is the moment to have them built.", "credit": "Letter to Lord Panmure on hospitals for sick and wounded soldiers, 5 March 1855, in The Letters of Queen Victoria, vol. 3, ed. A. C. Benson and Viscount Esher (1907)" },
+      "practice": "Pick one helpful thing you have been putting off. Ask: is now the easiest time it will ever be? If so, take the first step today.",
+      "sources": ["letters3", "w-netley"]
+    },
+    {
+      "title": "Choose your words with care",
+      "idea": "In 1858, after the Indian Rebellion, the British Crown took direct rule of India. Victoria objected to the first draft of the proclamation to the people of India and asked for a new one with a more generous tone. The final text promised religious toleration. It was still a statement of colonial rule, and later Indian critics such as Dadabhai Naoroji made the famines under that rule central to their case against it.",
+      "quote": { "text": "Such a document should breathe feelings of generosity, benevolence, and religious feeling.", "credit": "Letter to the Earl of Derby, 15 August 1858, in The Letters of Queen Victoria, vol. 3, ed. A. C. Benson and Viscount Esher (1907)" },
+      "practice": "Before you send an important message today, read it once as the person receiving it. Change one line to make it clearer or kinder.",
+      "sources": ["letters3", "w-rebellion", "w-famine-india"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Begin anyway", "action": "Name one task you feel unready for. Do the first small part of it today." },
+    { "day": 2, "title": "Keep a journal", "action": "Like Victoria, write five lines tonight about what you did and who you met today.", "sources": ["w-journals"] },
+    { "day": 3, "title": "Name the helper", "action": "Thank one person by name for their part in something that went well." },
+    { "day": 4, "title": "For valour", "action": "Notice a kind or brave act by someone who gets little credit. Tell them you saw it." },
+    { "day": 5, "title": "Now is the moment", "action": "Pick one thing you have put off that would help someone else. Start it today." },
+    { "day": 6, "title": "Read it as them", "action": "Before sending an important message, reread it as the receiver. Make one line kinder or clearer." },
+    { "day": 7, "title": "Look back", "action": "Read your journal from the week. Write one rule for doing your duty well, in your own words." }
+  ],
+  "reflect": "Who helped with something you are proud of, and have you told them so?",
+  "keepsake": "Queen Victoria Builder Collectible"
+}

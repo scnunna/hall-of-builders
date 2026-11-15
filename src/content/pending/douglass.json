@@ -1,0 +1,63 @@
+{
+  "id": "douglass",
+  "name": "Frederick Douglass",
+  "years": "c. 1818 - 1895",
+  "title": "The Free Voice",
+  "tagline": "Born into slavery, he learned to read in secret, escaped to freedom, and spent his life speaking, writing and printing the truth about liberty.",
+  "sources": {
+    "w-douglass": { "label": "Frederick Douglass (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Frederick_Douglass" },
+    "nps-bio": { "label": "Frederick Douglass, Frederick Douglass National Historic Site (National Park Service)", "url": "https://www.nps.gov/frdo/learn/historyculture/frederickdouglass.htm" },
+    "gut-narrative": { "label": "Narrative of the Life of Frederick Douglass, an American Slave (Project Gutenberg #23)", "url": "https://www.gutenberg.org/ebooks/23" },
+    "gut-bondage": { "label": "My Bondage and My Freedom (Project Gutenberg #202)", "url": "https://www.gutenberg.org/ebooks/202" },
+    "ws-july": { "label": "What to the Slave Is the Fourth of July? (Wikisource, 1852 pamphlet text)", "url": "https://en.wikisource.org/wiki/What_to_the_Slave_Is_the_Fourth_of_July%3F" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Reading is the road out",
+      "idea": "As a boy in Baltimore, Douglass heard his master forbid anyone to teach him to read, because learning would make him unfit to be a slave. He took the warning as a map. From then on he learned letters any way he could, trading bread with street boys for lessons.",
+      "quote": { "text": "From that moment, I understood the pathway from slavery to freedom.", "credit": "Narrative of the Life of Frederick Douglass, ch. VI (1845)" },
+      "practice": "Pick one thing someone once told you was not for you. Spend 15 minutes today learning the first step of it.",
+      "sources": ["gut-narrative", "w-douglass"]
+    },
+    {
+      "title": "Read the best, again and again",
+      "idea": "With fifty cents he had earned, Douglass bought a school book of famous speeches, The Columbian Orator. He read the same speeches over and over. Each time he understood more, and he found words for thoughts he had never been able to say.",
+      "quote": { "text": "...for the more I read them, the better I understood them.", "credit": "My Bondage and My Freedom, ch. XI (1855)" },
+      "practice": "Choose one short piece of great writing or a great speech. Read it three times this week and write down one new thing you notice each time.",
+      "sources": ["gut-bondage"]
+    },
+    {
+      "title": "Be glad of honest work",
+      "idea": "Three days after reaching New Bedford as a free man, Douglass found work loading oil onto a ship. It was hard and dirty, but the pay was his own. He called that day the starting point of a new life.",
+      "quote": { "text": "I can work! I can work for a living; I am not afraid of work; I have no Master Hugh to rob me of my earnings", "credit": "My Bondage and My Freedom, ch. XXII (1855)" },
+      "practice": "Do one task today that you have been putting off, and do it well. Notice how it feels to finish it.",
+      "sources": ["gut-bondage", "w-douglass"]
+    },
+    {
+      "title": "Speak, even when you shake",
+      "idea": "At an anti-slavery meeting on Nantucket in 1841, Douglass was asked to speak to a mostly white crowd. He was afraid and did not want to. He stood up anyway, and after a few moments the words came. It was the start of his life as a speaker.",
+      "quote": { "text": "I spoke but a few moments, when I felt a degree of freedom, and said what I desired with considerable ease.", "credit": "Narrative of the Life of Frederick Douglass, ch. XI (1845)" },
+      "practice": "In your next meeting or class, say one thing you would usually keep to yourself. Keep it short and true.",
+      "sources": ["gut-narrative", "w-douglass"]
+    },
+    {
+      "title": "Tell hard truths with hope",
+      "idea": "In his 1852 Rochester speech, Douglass told the crowd plainly that their Fourth of July meant nothing to the enslaved. But he did not end in anger. He ended by saying he still believed the country could change, and pointed to the Declaration of Independence as the standard to live up to.",
+      "quote": { "text": "Allow me to say, in conclusion, notwithstanding the dark picture I have this day presented of the state of the nation, I do not despair of this country.", "credit": "What to the Slave Is the Fourth of July? (1852)" },
+      "practice": "Think of one problem you have been afraid to name. Write it down honestly, then write one reason you believe it can get better.",
+      "sources": ["ws-july", "w-douglass"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "The first step", "action": "Pick one skill someone said was not for you. Spend 15 minutes on its very first step." },
+    { "day": 2, "title": "Trade a lesson", "action": "Like Douglass trading bread for reading lessons, offer to teach someone something small in return for learning something from them.", "sources": ["gut-narrative"] },
+    { "day": 3, "title": "Read it three times", "action": "Choose one great short speech or essay. Read it three times today and note one new idea each time." },
+    { "day": 4, "title": "Good work", "action": "Do the task you have been avoiding, and do it carefully. Write one line about how it felt to finish." },
+    { "day": 5, "title": "Speak up once", "action": "In a conversation, class or meeting, say one honest thing you would usually keep quiet. Keep it short." },
+    { "day": 6, "title": "Write it down", "action": "Douglass wrote his own story so others could understand. Write one page about something you have lived through and learned from.", "sources": ["w-douglass"] },
+    { "day": 7, "title": "Truth and hope", "action": "Name one hard problem around you in a sentence. Then write one sentence on why you have hope it can change, and one step you can take." }
+  ],
+  "reflect": "What is one thing you were told was not for you, and what is the first step you could take to learn it anyway?",
+  "keepsake": "Frederick Douglass Builder Collectible"
+}

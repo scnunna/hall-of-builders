@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "06-fuji",
+ "panels": [
+  { "key": "01-edo", "year": "1766", "near": true },
+  { "key": "02-carver", "year": "1774" },
+  { "key": "03-studio", "year": "1778" },
+  { "key": "04-manga", "year": "1814" },
+  { "key": "05-daruma", "year": "1817" },
+  { "key": "06-fuji", "year": "1831" },
+  { "key": "07-fire", "year": "1839" },
+  { "key": "08-obuse", "year": "1844" }
+ ]
+}

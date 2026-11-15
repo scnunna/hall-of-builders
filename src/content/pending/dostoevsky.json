@@ -1,0 +1,66 @@
+{
+  "id": "dostoevsky",
+  "name": "Fyodor Dostoevsky",
+  "years": "1821 - 1881",
+  "title": "The Deep Heart",
+  "tagline": "He stood before a firing squad, spent four years in a Siberian prison camp, fought debt all his life, and turned all of it into some of the greatest novels ever written.",
+  "sources": {
+    "w-dostoevsky": { "label": "Fyodor Dostoevsky (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky" },
+    "w-karamazov": { "label": "The Brothers Karamazov (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov" },
+    "w-underground": { "label": "Notes from Underground (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Notes_from_Underground" },
+    "w-crime": { "label": "Crime and Punishment (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Crime_and_Punishment" },
+    "w-gambler": { "label": "The Gambler (novel) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Gambler_(novel)" },
+    "g-karamazov": { "label": "The Brothers Karamazov, tr. Constance Garnett (Project Gutenberg #28054)", "url": "https://www.gutenberg.org/ebooks/28054" },
+    "g-crime": { "label": "Crime and Punishment, tr. Constance Garnett (Project Gutenberg #2554)", "url": "https://www.gutenberg.org/ebooks/2554" },
+    "g-underground": { "label": "Notes from the Underground, tr. Constance Garnett (Project Gutenberg #600)", "url": "https://www.gutenberg.org/ebooks/600" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Do not lie to yourself",
+      "idea": "In The Brothers Karamazov, the wise old monk Zossima tells a visitor that the first step is honesty with yourself. Dostoevsky spent his novels showing people who explain away what they have done, and what it costs them. These are a character's words, but they sit at the heart of the book.",
+      "quote": { "text": "Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to such a pass that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others.", "credit": "The Brothers Karamazov, Book II, ch. 2 (spoken by Father Zossima), tr. Constance Garnett (1912)" },
+      "practice": "Tonight, write one small thing you have been telling yourself that is not quite true. Write the honest version next to it.",
+      "sources": ["g-karamazov", "w-karamazov"]
+    },
+    {
+      "title": "Love by doing, not dreaming",
+      "idea": "Zossima warns that it is easy to love people in your imagination, all at once and with everyone watching. Real love is slow, patient work with real people. Dostoevsky lived this in his own hard years: on the road to the Siberian prison camp, he comforted his fellow prisoners.",
+      "quote": { "text": "...love in action is a harsh and dreadful thing compared with love in dreams.", "credit": "The Brothers Karamazov, Book II, ch. 4 (spoken by Father Zossima), tr. Constance Garnett (1912)" },
+      "practice": "Pick one person near you. Do one quiet, practical thing for them today without being asked and without telling anyone.",
+      "sources": ["g-karamazov", "w-dostoevsky"]
+    },
+    {
+      "title": "Turn hard years into material",
+      "idea": "Dostoevsky did not waste what happened to him. His prison years became The House of the Dead. The morning he faced a firing squad became a scene in The Idiot. His gambling became The Gambler. In Crime and Punishment, the young Raskolnikov says that suffering comes with a deep heart. That is the character's view, not a rule, but Dostoevsky clearly knew the feeling.",
+      "quote": { "text": "Pain and suffering are always inevitable for a large intelligence and a deep heart.", "credit": "Crime and Punishment, Part III, ch. 5 (spoken by Raskolnikov), tr. Constance Garnett (1914)" },
+      "practice": "Think of one hard time you have lived through. Write three things it taught you that you could pass on to someone else.",
+      "sources": ["g-crime", "w-dostoevsky", "w-gambler"]
+    },
+    {
+      "title": "Give the other side its best voice",
+      "idea": "Dostoevsky was a believer, yet he gave the doubter Ivan Karamazov some of the strongest arguments against faith ever written, in the chapters Rebellion and The Grand Inquisitor. They are among the most praised parts of the book. He showed that you understand your own view better when you let the other side speak at full strength.",
+      "quote": { "text": "It's not God that I don't accept, Alyosha, only I most respectfully return Him the ticket.", "credit": "The Brothers Karamazov, Book V, ch. 4 \"Rebellion\" (spoken by Ivan Karamazov), tr. Constance Garnett (1912)" },
+      "practice": "Choose a view you disagree with. Write the best honest case for it in five sentences, as if you believed it.",
+      "sources": ["g-karamazov", "w-karamazov", "w-dostoevsky"]
+    },
+    {
+      "title": "Love the work, not just the finish",
+      "idea": "The bitter narrator of Notes from Underground argues that people are not ants building a perfect ant-heap. He thinks we may love the striving more than the result. Again this is a character speaking, but Dostoevsky, who wrote huge novels under constant deadlines, kept going because the work itself mattered to him.",
+      "quote": { "text": "...man is a frivolous and incongruous creature, and perhaps, like a chess player, loves the process of the game, not the end of it.", "credit": "Notes from the Underground, Part I, ch. 9 (spoken by the Underground Man), tr. Constance Garnett (1918)" },
+      "practice": "Pick one task you have been rushing to finish. Do 20 minutes of it today with full attention to doing it well, not fast.",
+      "sources": ["g-underground", "w-underground"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "The honest line", "action": "Write one thing you have been telling yourself that is not quite true. Write the honest version beside it." },
+    { "day": 2, "title": "Love in action", "action": "Do one quiet, practical kindness for someone near you, and tell no one." },
+    { "day": 3, "title": "Hard years", "action": "Write three lessons from a hard time in your life that could help someone else." },
+    { "day": 4, "title": "The other voice", "action": "Write the strongest fair case for a view you disagree with, in five sentences." },
+    { "day": 5, "title": "Dictate it", "action": "Like Dostoevsky with his stenographer, say your next piece of work out loud and record or write it down fast. Tidy it up after.", "sources": ["w-gambler"] },
+    { "day": 6, "title": "The process", "action": "Spend 20 minutes on one task, aiming to do it well rather than fast." },
+    { "day": 7, "title": "Your notebook", "action": "Read back your notes from the week. Write one rule in your own words for living honestly." }
+  ],
+  "reflect": "What is one story you tell yourself that you would stop believing if you were completely honest?",
+  "keepsake": "Fyodor Dostoevsky Builder Collectible"
+}

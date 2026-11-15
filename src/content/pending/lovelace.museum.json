@@ -1,0 +1,627 @@
+{
+  "sources": {
+    "w-lovelace": {
+      "label": "Ada Lovelace (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ada_Lovelace"
+    },
+    "w-noteg": {
+      "label": "Note G (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Note_G"
+    },
+    "w-engine": {
+      "label": "Analytical engine (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Analytical_engine"
+    },
+    "w-babbage": {
+      "label": "Charles Babbage (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Charles_Babbage"
+    },
+    "w-memoirs": {
+      "label": "Scientific Memoirs (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Scientific_Memoirs"
+    },
+    "w-adalang": {
+      "label": "Ada (programming language) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ada_(programming_language)"
+    },
+    "w-adaday": {
+      "label": "Ada Lovelace Day (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ada_Lovelace_Day"
+    },
+    "w-turing": {
+      "label": "Computing Machinery and Intelligence (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence"
+    },
+    "fourmilab": {
+      "label": "Sketch of the Analytical Engine, with Notes by the Translator, A. A. L. (1843), full text at Fourmilab",
+      "url": "https://www.fourmilab.ch/babbage/sketch.html"
+    },
+    "ws-sketch": {
+      "label": "Sketch of the Analytical Engine, Scientific Memoirs vol. 3 (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/Scientific_Memoirs/3/Sketch_of_the_Analytical_Engine_invented_by_Charles_Babbage,_Esq."
+    },
+    "babbage-passages": {
+      "label": "Charles Babbage, Passages from the Life of a Philosopher (1864), Project Gutenberg #57532",
+      "url": "https://www.gutenberg.org/ebooks/57532"
+    },
+    "chm": {
+      "label": "Ada Lovelace, The Babbage Engine (Computer History Museum)",
+      "url": "https://www.computerhistory.org/babbage/adalovelace/"
+    },
+    "chm-rev": {
+      "label": "Augusta Ada King, Countess of Lovelace, Revolution exhibit (Computer History Museum)",
+      "url": "https://www.computerhistory.org/revolution/calculators/1/51/207"
+    },
+    "sm-blog": {
+      "label": "Ada Lovelace: visionary of the computer age (Science Museum blog)",
+      "url": "https://blog.sciencemuseum.org.uk/ada-lovelace-visionary-of-the-computer-age/"
+    },
+    "clay": {
+      "label": "Ada Lovelace's mathematical papers (Clay Mathematics Institute)",
+      "url": "https://www.claymath.org/collections/ada-lovelaces-mathematical-papers/"
+    },
+    "bodleian": {
+      "label": "Ada Lovelace blog (Bodleian Libraries, Oxford)",
+      "url": "https://blogs.bodleian.ox.ac.uk/adalovelace/"
+    },
+    "ia-faster": {
+      "label": "Faster Than Thought (1953), Internet Archive",
+      "url": "https://archive.org/details/fasterthanthough0000unse"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1815-12-10",
+      "age": 0,
+      "place": "London, England, (United Kingdom)",
+      "title": "Born in London",
+      "text": "Augusta Ada Byron was born on 10 December 1815. She was the only child of the poet Lord Byron and his wife Anne Isabella Milbanke, known as Lady Byron.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-lovelace",
+        "chm"
+      ]
+    },
+    {
+      "date": "1816-04-21",
+      "age": 0,
+      "place": "London, England, (United Kingdom)",
+      "title": "Her parents part",
+      "text": "In January 1816 Lady Byron left with five-week-old Ada for her parents' home. In April Lord Byron signed a deed of separation and soon left England for good. Ada never had a relationship with her father.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-lovelace"
+      ]
+    },
+    {
+      "date": "1824-04",
+      "age": 8,
+      "place": "Missolonghi, (Greece)",
+      "title": "Her father dies abroad",
+      "text": "Lord Byron died in Greece in April 1824, when Ada was eight. Her mother had her taught mathematics and science from an early age, which was unusual for a girl at the time.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-lovelace",
+        "chm"
+      ]
+    },
+    {
+      "date": "1828-02",
+      "age": 12,
+      "place": "England, (United Kingdom)",
+      "title": "Flyology",
+      "text": "At twelve, Ada started a project she called Flyology. She studied how birds fly and planned to build wings, working through the problem like an engineer.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-lovelace"
+      ]
+    },
+    {
+      "date": "1829-06",
+      "age": 13,
+      "place": "England, (United Kingdom)",
+      "title": "A long illness",
+      "text": "In June 1829 she was left unable to walk after an illness with measles. She spent nearly a year resting in bed. By 1831 she could walk again with crutches.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-lovelace"
+      ]
+    },
+    {
+      "date": "1832",
+      "age": 16,
+      "place": "London, England, (United Kingdom)",
+      "title": "A gift for mathematics",
+      "text": "Around 1832 her talent for mathematics began to show. She was taught privately by tutors including William Frend, the doctor William King and the scientist Mary Somerville. She never went to school or university.",
+      "turning": true,
+      "kind": "life",
+      "sources": [
+        "w-lovelace",
+        "bodleian"
+      ]
+    },
+    {
+      "date": "1833-06-05",
+      "age": 17,
+      "place": "London, England, (United Kingdom)",
+      "title": "Meeting Babbage",
+      "text": "On 5 June 1833, at one of his Saturday evening parties, Ada met the mathematician and inventor Charles Babbage. Mary Somerville, their mutual friend, made the introduction. The two became lifelong friends.",
+      "turning": true,
+      "kind": "life",
+      "sources": [
+        "w-lovelace",
+        "w-babbage",
+        "bodleian"
+      ]
+    },
+    {
+      "date": "1833-06",
+      "age": 17,
+      "place": "London, England, (United Kingdom)",
+      "title": "The Difference Engine",
+      "text": "Later that June, Babbage invited her to see a working part of his Difference Engine, a machine for calculating tables of numbers. She was fascinated by it and called it the \"gem of all mechanism\".",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-lovelace",
+        "sm-blog"
+      ]
+    },
+    {
+      "date": "1835-07-08",
+      "age": 19,
+      "place": "London, England, (United Kingdom)",
+      "title": "Marriage",
+      "text": "On 8 July 1835 Ada married William King. He was not related to her earlier tutor of the same name.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-lovelace"
+      ]
+    },
+    {
+      "date": "1836",
+      "age": 20,
+      "place": "England, (United Kingdom)",
+      "title": "A family",
+      "text": "Ada and William had three children: Byron in 1836, Anne Isabella (Annabella) in 1837 and Ralph in 1839.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-lovelace"
+      ]
+    },
+    {
+      "date": "1837",
+      "age": 21,
+      "place": "London, England, (United Kingdom)",
+      "title": "Babbage's new engine",
+      "text": "Babbage first described the Analytical Engine in 1837. Unlike his earlier machine, it was designed to follow instructions on punched cards, with a store for numbers and a mill to calculate. From 1837 to 1840 he wrote about two dozen sample programs for it in his own notebooks. They were never published.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-engine",
+        "w-babbage",
+        "w-noteg"
+      ]
+    },
+    {
+      "date": "1838",
+      "age": 22,
+      "place": "England, (United Kingdom)",
+      "title": "Countess of Lovelace",
+      "text": "Her husband was made Earl of Lovelace in 1838, and Ada became the Countess of Lovelace. This is the name history remembers her by.",
+      "turning": false,
+      "kind": "honour",
+      "sources": [
+        "w-lovelace"
+      ]
+    },
+    {
+      "date": "1840",
+      "age": 24,
+      "place": "London, England, (United Kingdom)",
+      "title": "Lessons by letter",
+      "text": "In 1840 and 1841 she took an informal course by letter with the mathematics professor Augustus De Morgan. Her letters show her growing into a capable mathematician who was willing to question her teacher. They survive in the Bodleian Library in Oxford.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "clay",
+        "bodleian",
+        "w-lovelace"
+      ]
+    },
+    {
+      "date": "1840",
+      "age": 24,
+      "place": "Turin, Piedmont, (Italy)",
+      "title": "The Turin lecture",
+      "text": "Babbage gave a talk on the Analytical Engine in Turin. It was the only public explanation of the engine he ever gave. A young engineer, Luigi Menabrea, wrote it up in French.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-noteg",
+        "w-engine",
+        "w-lovelace"
+      ]
+    },
+    {
+      "date": "1842-10",
+      "age": 26,
+      "place": "Geneva, (Switzerland)",
+      "title": "Menabrea's paper",
+      "text": "Menabrea's French description of the engine was published in the Bibliotheque Universelle de Geneve in October 1842.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "ws-sketch",
+        "w-lovelace",
+        "w-engine"
+      ]
+    },
+    {
+      "date": "1842",
+      "age": 26,
+      "place": "London, England, (United Kingdom)",
+      "title": "The translation",
+      "text": "The scientist Charles Wheatstone asked Ada to translate Menabrea's paper into English. Babbage later wrote that he suggested she add notes of her own, an idea she took up at once. She worked on it for about nine months, writing to Babbage as she went.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-lovelace",
+        "babbage-passages",
+        "sm-blog"
+      ]
+    },
+    {
+      "date": "1843",
+      "age": 27,
+      "place": "London, England, (United Kingdom)",
+      "title": "Note G",
+      "text": "Her seventh note, Note G, set out in full detail how the engine could compute the Bernoulli numbers. It is often called the first published computer program, though the engine was never built, so it was never run. Babbage wrote that he had offered to do the algebra for this part, and that she sent it back after finding a serious mistake in his work. A modern check found a small error in one step of the printed table.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-noteg",
+        "fourmilab",
+        "babbage-passages",
+        "w-lovelace"
+      ]
+    },
+    {
+      "date": "1843",
+      "age": 27,
+      "place": "London, England, (United Kingdom)",
+      "title": "The Notes are published",
+      "text": "The translation appeared in Richard Taylor's Scientific Memoirs in the summer of 1843. Sources give the month as August or September. She signed only her initials, A. A. L. Her seven notes, A to G, were about three times as long as the paper itself.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-lovelace",
+        "w-noteg",
+        "w-memoirs",
+        "fourmilab"
+      ]
+    },
+    {
+      "date": "1843",
+      "age": 27,
+      "place": "London, England, (United Kingdom)",
+      "title": "Enchantress of Number",
+      "text": "In a letter that year, Babbage called her \"The Enchantress of Number\". The name has stayed with her.",
+      "turning": false,
+      "kind": "honour",
+      "sources": [
+        "w-lovelace"
+      ]
+    },
+    {
+      "date": "1844",
+      "age": 28,
+      "place": "England, (United Kingdom)",
+      "title": "New questions",
+      "text": "She visited the scientist Andrew Crosse to learn about electrical experiments, and wrote a review of a book on magnetism by Karl von Reichenbach. The review was never published.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-lovelace"
+      ]
+    },
+    {
+      "date": "1851",
+      "age": 35,
+      "place": "London, England, (United Kingdom)",
+      "title": "Debts",
+      "text": "In the late 1840s she lost large sums betting on horse races. In 1851 a plan with friends to build a mathematical model for betting failed and left her thousands of pounds in debt.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-lovelace"
+      ]
+    },
+    {
+      "date": "1852-11-27",
+      "age": 36,
+      "place": "Marylebone, London, (United Kingdom)",
+      "title": "An early death",
+      "text": "After months of illness, Ada died of cancer on 27 November 1852, aged 36. At her own request she was buried next to her father at the Church of St Mary Magdalene in Hucknall, Nottinghamshire.",
+      "turning": true,
+      "kind": "life",
+      "sources": [
+        "w-lovelace",
+        "chm-rev"
+      ]
+    },
+    {
+      "date": "1864",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "Babbage remembers",
+      "text": "In his memoir, Babbage wrote that the choice of examples in the Notes was entirely hers, and that she had entered fully into almost all the hard questions about the engine.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "babbage-passages"
+      ]
+    },
+    {
+      "date": "1950",
+      "age": null,
+      "place": "England, (United Kingdom)",
+      "title": "Lady Lovelace's objection",
+      "text": "In his paper Computing Machinery and Intelligence, Alan Turing answered her line that the engine could not originate anything. He called it \"Lady Lovelace's objection\" and argued that machines could still surprise us.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "w-turing",
+        "w-lovelace"
+      ]
+    },
+    {
+      "date": "1953",
+      "age": null,
+      "place": "England, (United Kingdom)",
+      "title": "The Notes return",
+      "text": "More than a century after her death, her Notes were reprinted in B. V. Bowden's book Faster Than Thought, and a new generation of computer builders read them.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "w-lovelace",
+        "ia-faster"
+      ]
+    },
+    {
+      "date": "1980-12-10",
+      "age": null,
+      "place": "Washington, D.C., (United States)",
+      "title": "A language named Ada",
+      "text": "The US Department of Defense approved the standard for a new programming language named Ada on her birthday. Its number, MIL-STD-1815, honours the year she was born.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "w-adalang",
+        "w-lovelace"
+      ]
+    },
+    {
+      "date": "1990",
+      "age": null,
+      "place": "Worldwide",
+      "title": "The first programmer debate",
+      "text": "Historians still disagree about how much of the programming was hers. Allan Bromley wrote in 1990 that all but one of the programs in the Notes had been prepared by Babbage years earlier. Others, such as Stephen Wolfram, argue she drove the Bernoulli work. Doron Swade says she published the first program rather than wrote it, but credits her with seeing that a machine could go beyond number.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "w-lovelace",
+        "w-noteg",
+        "sm-blog"
+      ]
+    },
+    {
+      "date": "2009",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "Ada Lovelace Day",
+      "text": "Suw Charman-Anderson started Ada Lovelace Day, held on the second Tuesday of October, to celebrate women in science, technology, engineering and mathematics.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "w-adaday"
+      ]
+    },
+    {
+      "date": "2015-12-10",
+      "age": null,
+      "place": "Oxford, England, (United Kingdom)",
+      "title": "Two hundred years",
+      "text": "For her 200th birthday, the Bodleian Library, the Science Museum in London and the Computer History Museum held exhibitions of her papers and work. Her mathematical papers began to be put online.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "bodleian",
+        "sm-blog",
+        "clay"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "year": "1843",
+      "type": "translation",
+      "title": "Sketch of the Analytical Engine (translation)",
+      "text": "Her English translation of Luigi Menabrea's French paper on Babbage's Analytical Engine, published in Scientific Memoirs and signed A. A. L.",
+      "sources": [
+        "ws-sketch",
+        "w-lovelace",
+        "w-memoirs"
+      ],
+      "url": "https://en.wikisource.org/wiki/Scientific_Memoirs/3/Sketch_of_the_Analytical_Engine_invented_by_Charles_Babbage,_Esq."
+    },
+    {
+      "year": "1843",
+      "type": "notes",
+      "title": "Note A: more than a calculator",
+      "text": "Explains how the Analytical Engine differs from the Difference Engine, compares its punched cards to the Jacquard loom, and suggests it could work on anything whose rules can be written as symbols, even music.",
+      "sources": [
+        "fourmilab",
+        "w-lovelace",
+        "chm"
+      ],
+      "url": "https://www.fourmilab.ch/babbage/sketch.html"
+    },
+    {
+      "year": "1843",
+      "type": "notes",
+      "title": "Notes B, C and D: tables of operations",
+      "text": "Show, with detailed diagrams, how numbers move between the engine's store and mill, and which operation acts at each step. Note D works through solving two equations in full.",
+      "sources": [
+        "fourmilab"
+      ],
+      "url": "https://www.fourmilab.ch/babbage/sketch.html"
+    },
+    {
+      "year": "1843",
+      "type": "notes",
+      "title": "Notes E and F: cycles",
+      "text": "Introduce the idea of a cycle, a group of operations repeated more than once, much like a loop in a modern program, and show how it saves cards and effort.",
+      "sources": [
+        "fourmilab"
+      ],
+      "url": "https://www.fourmilab.ch/babbage/sketch.html"
+    },
+    {
+      "year": "1843",
+      "type": "program",
+      "title": "Note G: the Bernoulli numbers",
+      "text": "A step-by-step method for the engine to compute the Bernoulli numbers, often called the first published computer program. Babbage had written unpublished programs from 1837, and historians disagree on how much of this one was hers.",
+      "sources": [
+        "w-noteg",
+        "fourmilab",
+        "babbage-passages",
+        "w-lovelace"
+      ],
+      "url": "https://www.fourmilab.ch/babbage/sketch.html"
+    },
+    {
+      "year": "1843",
+      "type": "notes",
+      "title": "Note G: what a machine cannot do",
+      "text": "Warns against overrating the engine: it can only do what we know how to order it to do. Alan Turing answered this idea in 1950 as \"Lady Lovelace's objection\".",
+      "sources": [
+        "fourmilab",
+        "w-turing"
+      ],
+      "url": "https://www.fourmilab.ch/babbage/sketch.html"
+    },
+    {
+      "year": "1840",
+      "type": "letters",
+      "title": "Letters with Augustus De Morgan",
+      "text": "Her informal mathematics course by letter in 1840 and 1841, now in the Lovelace Byron papers at the Bodleian Library, with images and transcripts online.",
+      "sources": [
+        "clay",
+        "bodleian"
+      ],
+      "url": "https://www.claymath.org/collections/ada-lovelaces-mathematical-papers/"
+    },
+    {
+      "year": "1828",
+      "type": "study",
+      "title": "Flyology",
+      "text": "A childhood project at twelve to study how birds fly and design wings, an early sign of her engineering way of thinking.",
+      "sources": [
+        "w-lovelace"
+      ]
+    },
+    {
+      "year": "1844",
+      "type": "article",
+      "title": "Review of Reichenbach's Researches on Magnetism",
+      "text": "A review she wrote of a book on magnetism by Karl von Reichenbach. It was never published.",
+      "sources": [
+        "w-lovelace"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Sketch of the Analytical Engine, with Notes (Fourmilab)",
+      "url": "https://www.fourmilab.ch/babbage/sketch.html",
+      "what": "The full text of the translation and all seven Notes, with the diagrams, free to read online."
+    },
+    {
+      "label": "Sketch of the Analytical Engine (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/Scientific_Memoirs/3/Sketch_of_the_Analytical_Engine_invented_by_Charles_Babbage,_Esq.",
+      "what": "The 1843 text from Scientific Memoirs, volume 3, with a link to the Notes."
+    },
+    {
+      "label": "Passages from the Life of a Philosopher (Project Gutenberg #57532)",
+      "url": "https://www.gutenberg.org/ebooks/57532",
+      "what": "Babbage's 1864 memoir, including his own account of how Ada wrote the Notes."
+    },
+    {
+      "label": "Ada Lovelace's mathematical papers (Clay Mathematics Institute)",
+      "url": "https://www.claymath.org/collections/ada-lovelaces-mathematical-papers/",
+      "what": "Images and transcripts of her letters with De Morgan and other mathematical papers."
+    },
+    {
+      "label": "Ada Lovelace blog (Bodleian Libraries)",
+      "url": "https://blogs.bodleian.ox.ac.uk/adalovelace/",
+      "what": "Posts from the Oxford library that holds her papers, including the 2015 bicentenary display."
+    },
+    {
+      "label": "Ada Lovelace, The Babbage Engine (Computer History Museum)",
+      "url": "https://www.computerhistory.org/babbage/adalovelace/",
+      "what": "A short museum guide to her role and the debate over it."
+    },
+    {
+      "label": "Ada Lovelace: visionary of the computer age (Science Museum blog)",
+      "url": "https://blog.sciencemuseum.org.uk/ada-lovelace-visionary-of-the-computer-age/",
+      "what": "The Science Museum on her ideas and the Babbage machines she saw."
+    },
+    {
+      "label": "Faster Than Thought (Internet Archive)",
+      "url": "https://archive.org/details/fasterthanthough0000unse",
+      "what": "The 1953 book that reprinted her Notes for the first computer age (library loan)."
+    }
+  ],
+  "books": [
+    {
+      "title": "Sketch of the Analytical Engine Invented by Charles Babbage, with Notes by the Translator",
+      "author": "L. F. Menabrea, translated with notes by Ada Augusta, Countess of Lovelace",
+      "year": "1843",
+      "kind": "by-her",
+      "free": "https://www.fourmilab.ch/babbage/sketch.html",
+      "note": "Her one published work. Read Note A for her big ideas and Note G for the Bernoulli program."
+    },
+    {
+      "title": "Ada Lovelace: The Making of a Computer Scientist",
+      "author": "Christopher Hollings, Ursula Martin and Adrian Rice",
+      "year": "2018",
+      "kind": "biography",
+      "free": null,
+      "note": "A short, illustrated book by historians of mathematics who studied her papers (Bodleian Library Publishing)."
+    },
+    {
+      "title": "Ada, the Enchantress of Numbers",
+      "author": "Betty Alexandra Toole",
+      "year": "1992",
+      "kind": "biography",
+      "free": null,
+      "note": "A selection of her letters with commentary (Strawberry Press), listed in the Wikipedia bibliography."
+    },
+    {
+      "title": "The Bride of Science: Romance, Reason, and Byron's Daughter",
+      "author": "Benjamin Woolley",
+      "year": "1999",
+      "kind": "biography",
+      "free": null,
+      "note": "A readable life story set among her family and Babbage's circle, listed in the Wikipedia bibliography."
+    }
+  ]
+}

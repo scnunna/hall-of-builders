@@ -1,0 +1,545 @@
+{
+  "sources": {
+    "w-dostoevsky": { "label": "Fyodor Dostoevsky (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky" },
+    "w-petrashevsky": { "label": "Petrashevsky Circle (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Petrashevsky_Circle" },
+    "w-gambler": { "label": "The Gambler (novel) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Gambler_(novel)" },
+    "w-anna": { "label": "Anna Dostoevskaya (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Anna_Dostoevskaya" },
+    "w-poorfolk": { "label": "Poor Folk (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Poor_Folk" },
+    "w-dead": { "label": "The House of the Dead (novel) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)" },
+    "w-underground": { "label": "Notes from Underground (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Notes_from_Underground" },
+    "w-crime": { "label": "Crime and Punishment (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Crime_and_Punishment" },
+    "w-idiot": { "label": "The Idiot (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Idiot" },
+    "w-demons": { "label": "Demons (Dostoevsky novel) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)" },
+    "w-diary": { "label": "A Writer's Diary (Wikipedia)", "url": "https://en.wikipedia.org/wiki/A_Writer%27s_Diary" },
+    "w-karamazov": { "label": "The Brothers Karamazov (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov" },
+    "w-garnett": { "label": "Constance Garnett (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Constance_Garnett" },
+    "g-karamazov": { "label": "The Brothers Karamazov, tr. Constance Garnett (Project Gutenberg #28054)", "url": "https://www.gutenberg.org/ebooks/28054" },
+    "g-crime": { "label": "Crime and Punishment, tr. Constance Garnett (Project Gutenberg #2554)", "url": "https://www.gutenberg.org/ebooks/2554" },
+    "g-underground": { "label": "Notes from the Underground, tr. Constance Garnett (Project Gutenberg #600)", "url": "https://www.gutenberg.org/ebooks/600" },
+    "g-possessed": { "label": "The Possessed (Demons), tr. Constance Garnett (Project Gutenberg #8117)", "url": "https://www.gutenberg.org/ebooks/8117" },
+    "g-gambler": { "label": "The Gambler, tr. C. J. Hogarth (Project Gutenberg #2197)", "url": "https://www.gutenberg.org/ebooks/2197" },
+    "g-idiot": { "label": "The Idiot, tr. Eva Martin (Project Gutenberg #2638)", "url": "https://www.gutenberg.org/ebooks/2638" }
+  },
+  "timeline": [
+    {
+      "date": "1821-11-11",
+      "age": 0,
+      "place": "Moscow, Moscow Governorate, (Russia)",
+      "title": "Born beside a hospital for the poor",
+      "text": "Fyodor was born on 11 November 1821 (30 October in the old Russian calendar), the second child of Dr Mikhail Dostoevsky. The family lived on the grounds of the Mariinsky Hospital for the Poor, and as a boy he met the patients while playing in its gardens. His nanny told him fairy tales and legends, and his mother taught him to read from the Bible.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1837-02-27",
+      "age": 15,
+      "place": "Moscow, Moscow Governorate, (Russia)",
+      "title": "His mother dies",
+      "text": "His mother died of tuberculosis. Around the same time, he and his older brother Mikhail were sent to Saint Petersburg to prepare for military engineering school, giving up the studies they loved.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1838-01",
+      "age": 16,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "An engineer who wanted to write",
+      "text": "He entered the Nikolayev Military Engineering Institute. He had little interest in mathematics or the army and preferred drawing, architecture and books. A classmate said no student looked less like a soldier, but he was respected for standing up for newcomers.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1839-06-16",
+      "age": 17,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "His father dies",
+      "text": "News came that his father had died while Fyodor was away at school. The official cause was a stroke. A neighbour accused the family's serfs of murder, but they were found not guilty at trial. Stories of an early seizure at this time come from later accounts now thought unreliable.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1843-08-12",
+      "age": 21,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "Engineer by day, translator by night",
+      "text": "He took a job as a lieutenant engineer. That summer his first published work appeared: a Russian translation of Balzac's novel Eugenie Grandet. His translations earned little, and money troubles pushed him to try writing a novel of his own.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1846-01-15",
+      "age": 24,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "Poor Folk makes his name",
+      "text": "His first novel, Poor Folk, told in letters between two poor people, was published and became a success. His roommate Grigorovich had carried the manuscript to the poet Nekrasov, who showed it to the powerful critic Belinsky. Belinsky called it Russia's first \"social novel\". Dostoevsky soon asked to resign from the army so he could write.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-dostoevsky", "w-poorfolk"]
+    },
+    {
+      "date": "1846-01-30",
+      "age": 24,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "The Double and harsh reviews",
+      "text": "His second novel, The Double, came out just two weeks later and was badly reviewed, including by Belinsky. Several short stories that followed, such as White Nights, also met a cool reception, and he struggled with money and poor health.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1847",
+      "age": null,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "The Petrashevsky Circle",
+      "text": "He began attending the Friday meetings of the Petrashevsky Circle, a group that discussed banned books, censorship and ending serfdom. Sources differ on the year: the main Wikipedia article says 1846, the article on the Circle says 1847. In 1848 a member named Speshnev formed a secret society inside the group, and Dostoevsky joined it, though he had doubts about its aims.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-dostoevsky", "w-petrashevsky"]
+    },
+    {
+      "date": "1849-12-22",
+      "age": 28,
+      "place": "Semyonov Place, Saint Petersburg, (Russia)",
+      "title": "Before the firing squad",
+      "text": "Arrested in April 1849, he spent eight months in the Peter and Paul Fortress, accused of reading and passing on a banned letter by Belinsky. The court sentenced the group to death. On a December morning they were taken to Semyonov Place and the first three men were placed before the firing squad. Then a messenger arrived: the tsar had changed the sentence to hard labour. The reprieve had been planned in advance as a deliberate deception. Sources give the date as 22 or 23 December.",
+      "turning": true,
+      "kind": "setback",
+      "sources": ["w-dostoevsky", "w-petrashevsky"]
+    },
+    {
+      "date": "1850",
+      "age": null,
+      "place": "Omsk, Tobolsk Governorate, (Russia)",
+      "title": "Four years in a prison camp",
+      "text": "After a long sleigh journey through winter, he reached the hard labour camp at Omsk in Siberia. On the way, at Tobolsk, the wives of earlier exiles gave the prisoners copies of the New Testament, and it was the only book he was allowed. He was kept in shackles, the barracks were filthy and cold, and his health suffered. Most other prisoners came to respect him.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1854-02-14",
+      "age": 32,
+      "place": "Semipalatinsk, Semipalatinsk Oblast, (Kazakhstan)",
+      "title": "Out of prison, into the army",
+      "text": "Released from the camp, he was sent to serve as a soldier in Semipalatinsk. He wrote to his brother asking for books by Kant, Hegel and historians. He tutored local children and made friends, including Baron Wrangel, who had witnessed the mock execution.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1857-02-07",
+      "age": 35,
+      "place": "Kuznetsk, Tomsk Governorate, (Russia)",
+      "title": "A first marriage",
+      "text": "After a letter of apology for his part in the circles, he was allowed to publish and to marry, though police watched him for the rest of his life. He married Maria Isaeva, a widow he had met in Semipalatinsk. He later wrote that they were not happy together but could not stop loving each other.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1859",
+      "age": null,
+      "place": "Tver, then Saint Petersburg, (Russia)",
+      "title": "Home after ten years",
+      "text": "Released from the army because of poor health, he was allowed back to European Russia. In Tver he saw his brother Mikhail for the first time in ten years, then returned to Saint Petersburg, exactly ten years after he had been sent away.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-dostoevsky", "w-petrashevsky"]
+    },
+    {
+      "date": "1860-09",
+      "age": 38,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "The House of the Dead",
+      "text": "He began publishing The House of the Dead, a novel built from his years in the Omsk camp. It ran from 1860 to 1862 and was the first published novel about Russian prisons. With Mikhail he also founded the magazine Vremya (Time), where his novel Humiliated and Insulted appeared.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-dostoevsky", "w-dead"]
+    },
+    {
+      "date": "1862-06-07",
+      "age": 40,
+      "place": "London, (United Kingdom)",
+      "title": "First journey west",
+      "text": "He made his first trip to Western Europe, visiting Germany, Paris, London and Italy. In London he met Alexander Herzen and saw the Crystal Palace, which he came to see as a symbol of soulless modern progress. He wrote about the trip in Winter Notes on Summer Impressions.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1863",
+      "age": 41,
+      "place": "Wiesbaden, Duchy of Nassau, (Germany)",
+      "title": "The roulette tables",
+      "text": "On a second trip he gambled at Wiesbaden and Baden-Baden and lost nearly all his money. He had written that the secret was to stay calm and never get excited, but within a week he had lost his winnings and had to ask his family for help. He gambled on and off until 1871.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-dostoevsky", "w-gambler"]
+    },
+    {
+      "date": "1864",
+      "age": null,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "Notes from Underground",
+      "text": "He published Notes from Underground in his new magazine Epoch. Told by a bitter, isolated man, it is often called one of the first works of existentialist literature.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-dostoevsky", "w-underground"]
+    },
+    {
+      "date": "1864",
+      "age": null,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "A year of loss",
+      "text": "His wife Maria and his brother Mikhail both died in 1864. He became the only parent of his stepson and took on the support of his brother's family. When Epoch failed, his debts grew, and only help from friends and relatives kept him from bankruptcy.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1866-01",
+      "age": 44,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "Crime and Punishment",
+      "text": "The first parts of Crime and Punishment appeared in The Russian Messenger and ran through the year. It follows Raskolnikov, a poor former student who talks himself into a murder and is then torn apart by guilt. It is often called one of the greatest works of world literature.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-dostoevsky", "w-crime"]
+    },
+    {
+      "date": "1866-10-30",
+      "age": 44,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "The Gambler in 26 days",
+      "text": "To pay debts he had signed a hard contract with the publisher Stellovsky: deliver a new novel by 1 November 1866, or Stellovsky could publish all his works for nine years without paying him. With a month left he had not started. A friend suggested a stenographer, and from 4 October Anna Snitkina took down his dictation in shorthand and copied it out. They finished The Gambler on 30 October, after 26 days. Sources give her age as 19 or 20.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-dostoevsky", "w-gambler", "w-anna"]
+    },
+    {
+      "date": "1867-02-15",
+      "age": 45,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "Marriage to Anna",
+      "text": "He married Anna Snitkina in Trinity Cathedral. She became his partner in work as well as life, taking down his novels and later running the business side of his books.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-dostoevsky", "w-anna"]
+    },
+    {
+      "date": "1867-04-14",
+      "age": 45,
+      "place": "Baden-Baden, Grand Duchy of Baden, (Germany)",
+      "title": "Fleeing debt, losing again",
+      "text": "The couple left for a delayed honeymoon in Germany. The 7,000 rubles from Crime and Punishment did not cover their debts, and Anna sold her valuables to pay for the trip. In Baden-Baden he quarrelled with the writer Turgenev and again lost heavily at roulette. A trip planned for three months lasted over four years.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1868-01",
+      "age": 46,
+      "place": "Geneva, (Switzerland)",
+      "title": "The Idiot",
+      "text": "The Idiot began to appear in January 1868. Its hero, Prince Myshkin, is a truly good man in a selfish world. Through him Dostoevsky told the story of a man reprieved in front of a firing squad, drawn from his own morning in 1849. He finished the novel in Florence in January 1869.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-dostoevsky", "w-idiot"]
+    },
+    {
+      "date": "1868-03-05",
+      "age": 46,
+      "place": "Geneva, (Switzerland)",
+      "title": "A daughter born and lost",
+      "text": "Their first child, Sofya, was born in Geneva. She died of pneumonia three months later. Anna remembered her husband weeping in despair. A second daughter, Lyubov, was born in Dresden in 1869.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1871-04",
+      "age": 49,
+      "place": "Wiesbaden, Prussia, (Germany)",
+      "title": "The last time at the tables",
+      "text": "He made a final visit to a gambling hall in Wiesbaden. Anna said he stopped gambling after this, but whether he gave it up completely is debated. In July the family came home to Saint Petersburg after more than four years abroad.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["w-dostoevsky", "w-gambler"]
+    },
+    {
+      "date": "1873-01",
+      "age": 51,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "Publishing their own books",
+      "text": "Demons, a novel about a group of young radicals, inspired by a real political murder in 1869, came out as a book from their own Dostoevsky Publishing Company. Anna ran the finances, sold copies from their flat and took only cash. It sold about 3,000 copies. The same month he began writing A Writer's Diary in the magazine The Citizen.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-dostoevsky", "w-demons"]
+    },
+    {
+      "date": "1875",
+      "age": null,
+      "place": "Staraya Russa and Saint Petersburg, (Russia)",
+      "title": "The Adolescent",
+      "text": "He finished The Adolescent, a novel about a young man and the father who barely knew him. Fathers and sons became a key theme of his last books. His son Alexey was born that August.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1876",
+      "age": null,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "A Writer's Diary",
+      "text": "He published A Writer's Diary as his own periodical: essays and a few stories on society, faith, politics and ethics. It sold more than twice as many copies as his earlier books. Readers wrote to him and visited him in large numbers.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-dostoevsky", "w-diary"]
+    },
+    {
+      "date": "1878-05",
+      "age": 56,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "The death of Alyosha",
+      "text": "His three-year-old son Alexey, called Alyosha, died after an epileptic seizure. Later that year Dostoevsky visited the Optina Monastery. He named the gentle hero of his next novel Alyosha.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-dostoevsky", "w-karamazov"]
+    },
+    {
+      "date": "1879-01",
+      "age": 57,
+      "place": "Staraya Russa and Saint Petersburg, (Russia)",
+      "title": "The Brothers Karamazov",
+      "text": "His last novel began to appear in The Russian Messenger and ran until November 1880. It asks big questions about God, free will and morality through the story of three brothers and their father. He wrote much of it in Staraya Russa, which inspired the setting. It is widely seen as one of the supreme achievements of world literature.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-karamazov", "w-dostoevsky"]
+    },
+    {
+      "date": "1880-06-08",
+      "age": 58,
+      "place": "Moscow, (Russia)",
+      "title": "The Pushkin Speech",
+      "text": "At the unveiling of a monument to the poet Pushkin in Moscow, he gave a speech that moved the audience deeply. It was met with thunderous applause, and even his old rival Turgenev embraced him. Critics on both left and right attacked it afterwards.",
+      "turning": false,
+      "kind": "honour",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1881-02-09",
+      "age": 59,
+      "place": "Saint Petersburg, (Russia)",
+      "title": "Death in Saint Petersburg",
+      "text": "After several lung haemorrhages, he died on 9 February 1881 (28 January in the old calendar). He asked for the parable of the Prodigal Son to be read to his children. He was buried in the Tikhvin Cemetery at the Alexander Nevsky Monastery. Reports of the funeral crowd differ widely, from 40,000 to more than 100,000.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "date": "1912",
+      "age": null,
+      "place": "London, (United Kingdom)",
+      "title": "Into English, and the world",
+      "text": "Constance Garnett's English translation of The Brothers Karamazov appeared in 1912, followed by Crime and Punishment in 1914. Her versions spread his novels across the English-speaking world. Today his books have been translated into more than 170 languages, and writers and thinkers from Chekhov to Camus have learned from him.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-garnett", "w-dostoevsky"]
+    }
+  ],
+  "works": [
+    {
+      "year": "1846",
+      "type": "novel",
+      "title": "Poor Folk",
+      "text": "His first novel, told in letters between two poor distant cousins. Belinsky called it Russia's first social novel, and it made Dostoevsky famous overnight.",
+      "sources": ["w-poorfolk", "w-dostoevsky"]
+    },
+    {
+      "year": "1846",
+      "type": "novel",
+      "title": "The Double",
+      "text": "A short novel about a clerk who meets a man exactly like himself. Poorly received at the time.",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "year": "1860",
+      "type": "novel",
+      "title": "The House of the Dead",
+      "text": "A fictionalised memoir of life in a Siberian prison camp, based on his four years at Omsk. The first published novel about Russian prisons.",
+      "sources": ["w-dead", "w-dostoevsky"]
+    },
+    {
+      "year": "1861",
+      "type": "magazine",
+      "title": "Vremya and Epoch",
+      "text": "Magazines he ran with his brother Mikhail. Vremya was shut down by the government, and the failure of Epoch left him deep in debt.",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "year": "1864",
+      "type": "novella",
+      "title": "Notes from Underground",
+      "text": "The confession of a bitter, isolated man who rebels against the idea that people act only by reason. Often called one of the first existentialist works.",
+      "sources": ["w-underground", "w-dostoevsky"],
+      "url": "https://www.gutenberg.org/ebooks/600"
+    },
+    {
+      "year": "1866",
+      "type": "novel",
+      "title": "Crime and Punishment",
+      "text": "A poor student convinces himself that a murder can be justified, then is torn apart by conscience. The first great novel of his mature years.",
+      "sources": ["w-crime", "w-dostoevsky"],
+      "url": "https://www.gutenberg.org/ebooks/2554"
+    },
+    {
+      "year": "1866",
+      "type": "novel",
+      "title": "The Gambler",
+      "text": "A short novel about a young tutor drawn into roulette at a German resort, drawing on his own gambling. Dictated to Anna Snitkina and finished in 26 days to meet a deadline.",
+      "sources": ["w-gambler", "w-dostoevsky"],
+      "url": "https://www.gutenberg.org/ebooks/2197"
+    },
+    {
+      "year": "1868",
+      "type": "novel",
+      "title": "The Idiot",
+      "text": "Prince Myshkin, a deeply good and open-hearted man, is mistaken for a fool by the people around him. Includes the story of a man reprieved before a firing squad.",
+      "sources": ["w-idiot", "w-dostoevsky"],
+      "url": "https://www.gutenberg.org/ebooks/2638"
+    },
+    {
+      "year": "1871",
+      "type": "novel",
+      "title": "Demons (The Possessed)",
+      "text": "A dark satire and tragedy about a small town thrown into chaos by young radicals, inspired by a real political murder of 1869.",
+      "sources": ["w-demons", "w-dostoevsky"],
+      "url": "https://www.gutenberg.org/ebooks/8117"
+    },
+    {
+      "year": "1873",
+      "type": "business",
+      "title": "The Dostoevsky Publishing Company",
+      "text": "The family's own publishing business, run by Anna, which sold his books directly and helped them climb out of debt.",
+      "sources": ["w-dostoevsky", "w-anna"]
+    },
+    {
+      "year": "1875",
+      "type": "novel",
+      "title": "The Adolescent",
+      "text": "A young man's story of finding his way and his difficult bond with the father who barely knew him.",
+      "sources": ["w-dostoevsky"]
+    },
+    {
+      "year": "1876",
+      "type": "essays",
+      "title": "A Writer's Diary",
+      "text": "A one-man periodical of essays and stories on Russian life, faith, politics and ethics. It outsold his earlier books.",
+      "sources": ["w-diary", "w-dostoevsky"]
+    },
+    {
+      "year": "1879",
+      "type": "novel",
+      "title": "The Brothers Karamazov",
+      "text": "His last and largest novel: three brothers, their father and a murder, with famous chapters such as Rebellion and The Grand Inquisitor.",
+      "sources": ["w-karamazov", "w-dostoevsky"],
+      "url": "https://www.gutenberg.org/ebooks/28054"
+    },
+    {
+      "year": "1880",
+      "type": "speech",
+      "title": "The Pushkin Speech",
+      "text": "A speech in Moscow on the poet Pushkin and the Russian spirit, one of the great public moments of his life.",
+      "sources": ["w-dostoevsky"]
+    }
+  ],
+  "resources": [
+    {
+      "label": "The Brothers Karamazov, tr. Constance Garnett (Project Gutenberg #28054)",
+      "url": "https://www.gutenberg.org/ebooks/28054",
+      "what": "His last novel in Garnett's classic 1912 translation, free to read or download."
+    },
+    {
+      "label": "Crime and Punishment, tr. Constance Garnett (Project Gutenberg #2554)",
+      "url": "https://www.gutenberg.org/ebooks/2554",
+      "what": "The novel that made him world famous, free in Garnett's translation."
+    },
+    {
+      "label": "Notes from the Underground, tr. Constance Garnett (Project Gutenberg #600)",
+      "url": "https://www.gutenberg.org/ebooks/600",
+      "what": "A short, sharp book and a good first taste of his thinking."
+    },
+    {
+      "label": "The Possessed (Demons), tr. Constance Garnett (Project Gutenberg #8117)",
+      "url": "https://www.gutenberg.org/ebooks/8117",
+      "what": "His novel about radical politics, free to read."
+    },
+    {
+      "label": "The Gambler, tr. C. J. Hogarth (Project Gutenberg #2197)",
+      "url": "https://www.gutenberg.org/ebooks/2197",
+      "what": "The short novel he dictated in 26 days."
+    },
+    {
+      "label": "Fyodor Dostoevsky (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky",
+      "what": "A detailed, well sourced account of his life and work."
+    },
+    {
+      "label": "Petrashevsky Circle (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Petrashevsky_Circle",
+      "what": "The group he joined as a young man, and the arrest and mock execution that followed."
+    },
+    {
+      "label": "Anna Dostoevskaya (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Anna_Dostoevskaya",
+      "what": "The stenographer who became his wife, publisher and memoirist."
+    }
+  ],
+  "books": [
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky, translated by Constance Garnett",
+      "year": "1866",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/2554",
+      "note": "The best place to start. A gripping story about guilt, pride and the chance of a new life."
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky, translated by Constance Garnett",
+      "year": "1880",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/28054",
+      "note": "His last and greatest novel. Long, but Book II and Book V stand on their own."
+    },
+    {
+      "title": "Notes from the Underground",
+      "author": "Fyodor Dostoevsky, translated by Constance Garnett",
+      "year": "1864",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/600",
+      "note": "Short and strange. The voice of a man who argues with everyone, including himself."
+    },
+    {
+      "title": "Dostoevsky: A Writer in His Time",
+      "author": "Joseph Frank",
+      "year": "2010",
+      "kind": "biography",
+      "free": null,
+      "note": "A single condensed volume of Frank's celebrated five-volume life of Dostoevsky, the biography the Wikipedia article quotes (Princeton University Press)."
+    },
+    {
+      "title": "Reminiscences (Memoirs of Anna Dostoyevskaya)",
+      "author": "Anna Dostoevskaya",
+      "year": "1925",
+      "kind": "biography",
+      "free": null,
+      "note": "His wife's own memoir of their life together, published after her death; English translations are widely available."
+    }
+  ]
+}

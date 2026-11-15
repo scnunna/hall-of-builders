@@ -1,0 +1,595 @@
+{
+  "sources": {
+    "w-newton": {
+      "label": "Isaac Newton (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    "w-principia": {
+      "label": "Philosophiae Naturalis Principia Mathematica (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica"
+    },
+    "w-opticks": {
+      "label": "Opticks (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Opticks"
+    },
+    "w-telescope": {
+      "label": "Newtonian telescope (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Newtonian_telescope"
+    },
+    "w-giants": {
+      "label": "Standing on the shoulders of giants (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants"
+    },
+    "w-calculus": {
+      "label": "Leibniz-Newton calculus controversy (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Leibniz%E2%80%93Newton_calculus_controversy"
+    },
+    "w-woolsthorpe": {
+      "label": "Woolsthorpe Manor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor"
+    },
+    "wa-newton": {
+      "label": "Sir Isaac Newton (Westminster Abbey)",
+      "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/sir-isaac-newton"
+    },
+    "np": {
+      "label": "The Newton Project (University of Oxford)",
+      "url": "https://www.newtonproject.ox.ac.uk/"
+    },
+    "pg-principia": {
+      "label": "Newton's Principia, tr. Andrew Motte (1729), American edition of 1846, full text (Project Gutenberg #76404)",
+      "url": "https://www.gutenberg.org/ebooks/76404"
+    },
+    "pg-opticks": {
+      "label": "Opticks, Isaac Newton, 4th edition (1730), full text (Project Gutenberg #33504)",
+      "url": "https://www.gutenberg.org/ebooks/33504"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1643-01-04",
+      "age": 0,
+      "place": "Woolsthorpe, Lincolnshire, (England)",
+      "title": "Born at Woolsthorpe",
+      "text": "Isaac Newton was born at Woolsthorpe Manor, a farmhouse in Lincolnshire. England then used the old Julian calendar, which records his birth as Christmas Day, 25 December 1642. By today's Gregorian calendar it was 4 January 1643. His father, also named Isaac, had died about three months before.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-newton",
+        "w-woolsthorpe"
+      ]
+    },
+    {
+      "date": "1646",
+      "age": 3,
+      "place": "Woolsthorpe, Lincolnshire, (England)",
+      "title": "Raised by his grandmother",
+      "text": "When he was three, his mother Hannah married the Reverend Barnabas Smith and went to live with him, leaving Isaac in the care of his grandmother, Margery Ayscough.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1655",
+      "age": null,
+      "place": "Grantham, Lincolnshire, (England)",
+      "title": "School in Grantham",
+      "text": "From about 12 to 17 he attended the King's School in Grantham. William Stukeley later wrote that he was skilled with tools and covered his room's walls with drawings of birds, ships and mathematical figures.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1659-10",
+      "age": 16,
+      "place": "Woolsthorpe, Lincolnshire, (England)",
+      "title": "Called home to farm",
+      "text": "His mother, widowed again, took him out of school to run the farm. He was not suited to it. His schoolmaster and an uncle persuaded her to send him back to school.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1661-06",
+      "age": 18,
+      "place": "Cambridge, Cambridgeshire, (England)",
+      "title": "Trinity College",
+      "text": "He was admitted to Trinity College, Cambridge, as a subsizar, a poorer student who paid his way partly by working as a servant. In 1664 he won a scholarship.",
+      "turning": true,
+      "kind": "life",
+      "sources": [
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1665-08",
+      "age": 22,
+      "place": "Cambridge, Cambridgeshire, (England)",
+      "title": "Degree, then plague",
+      "text": "He took his BA. Soon after, the university closed because of the Great Plague, and he went home to Woolsthorpe.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1666",
+      "age": null,
+      "place": "Woolsthorpe, Lincolnshire, (England)",
+      "title": "The years of wonders",
+      "text": "Working alone at home between 1665 and 1667, he developed early ideas on calculus (which he called fluxions), optics and gravity. An October 1666 manuscript records his calculus.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-newton",
+        "w-woolsthorpe",
+        "w-calculus"
+      ]
+    },
+    {
+      "date": "1667-10",
+      "age": 24,
+      "place": "Cambridge, Cambridgeshire, (England)",
+      "title": "Fellow of Trinity",
+      "text": "Back in Cambridge from April, he was elected a fellow of Trinity College in October.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1668",
+      "age": null,
+      "place": "Cambridge, Cambridgeshire, (England)",
+      "title": "The reflecting telescope",
+      "text": "Late in 1668 he built a telescope that used a curved mirror instead of a lens, to avoid the coloured blur that lenses cause. Its mirror was only about 33 mm across.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-telescope",
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1669",
+      "age": 26,
+      "place": "Cambridge, Cambridgeshire, (England)",
+      "title": "Lucasian Professor",
+      "text": "At 26 he succeeded his teacher Isaac Barrow as Lucasian Professor of Mathematics, and lectured on optics.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1672",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "Royal Society and light",
+      "text": "A second telescope was shown to King Charles II in January. Newton was elected a Fellow of the Royal Society and published his paper on white light being made of colours. Criticism of it, including from Robert Hooke, led to long and bitter arguments.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-telescope",
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1676-02",
+      "age": 33,
+      "place": "Cambridge, Cambridgeshire, (England)",
+      "title": "On the shoulders of giants",
+      "text": "In a letter to Hooke dated 5 February 1675 by the old calendar (1676 by ours), Newton wrote that if he had seen further it was by standing on the shoulders of giants. The image was centuries old, going back to Bernard of Chartres.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-giants"
+      ]
+    },
+    {
+      "date": "1684",
+      "age": null,
+      "place": "Cambridge, Cambridgeshire, (England)",
+      "title": "Halley's question",
+      "text": "The astronomer Edmond Halley visited, probably in August, to ask about planetary orbits. In November Newton sent him a short paper, De motu corporum in gyrum (On the motion of bodies in orbit). It grew into the Principia.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-principia",
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1686",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "Hooke's claim",
+      "text": "Hooke claimed he had found the inverse-square law of gravity first. He could not support the claim, but it caused delay and anger. Samuel Pepys licensed the book for printing on 30 June.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-principia"
+      ]
+    },
+    {
+      "date": "1687-07",
+      "age": 44,
+      "place": "London, England, (United Kingdom)",
+      "title": "The Principia",
+      "text": "Philosophiae Naturalis Principia Mathematica was published, with Halley paying the costs at his own risk. It set out the three laws of motion and universal gravitation.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-principia",
+        "w-newton",
+        "pg-principia"
+      ]
+    },
+    {
+      "date": "1689",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "Member of Parliament",
+      "text": "He served as Member of Parliament for Cambridge University in 1689-1690, and again in 1701-1702.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1693",
+      "age": null,
+      "place": "Cambridge, Cambridgeshire, (England)",
+      "title": "A year of crisis",
+      "text": "A close friendship ended suddenly, and Newton went through a period of deep distress, sending accusing letters to his friends Samuel Pepys and John Locke.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1696",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "Warden of the Mint",
+      "text": "He moved to London to run the Royal Mint during the Great Recoinage. He hunted counterfeiters himself, carrying out over 100 cross-examinations and prosecuting 28 coiners. In 1699 he became Master of the Mint, a post he held until his death.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1703",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "President of the Royal Society",
+      "text": "He became President of the Royal Society, and held the post until 1727. Hooke died the same year.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-newton",
+        "w-opticks"
+      ]
+    },
+    {
+      "date": "1704",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "Opticks",
+      "text": "He published Opticks in English, a book built on experiments with light and colour. He had held it back until after Hooke's death. It ended with open questions, the Queries, which grew in later editions.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-opticks",
+        "pg-opticks"
+      ]
+    },
+    {
+      "date": "1705-04",
+      "age": 62,
+      "place": "Cambridge, Cambridgeshire, (England)",
+      "title": "Knighted",
+      "text": "Queen Anne knighted him during a royal visit to Trinity College. He was the second scientist to be knighted, after Francis Bacon.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1712",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "The calculus quarrel",
+      "text": "A bitter dispute raged over whether Newton or the German thinker Gottfried Leibniz had invented calculus. A Royal Society committee ruled for Newton, but it never heard Leibniz's side and Newton wrote the report himself. Historians today agree both men invented it independently. Sources date the report to 1712 or early 1713.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-calculus",
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1713",
+      "age": null,
+      "place": "Cambridge, Cambridgeshire, (England)",
+      "title": "Principia, second edition",
+      "text": "A revised Principia, edited by Roger Cotes, added the General Scholium, where Newton wrote that he would 'frame no hypotheses' about the cause of gravity.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-principia",
+        "pg-principia"
+      ]
+    },
+    {
+      "date": "1720",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "The South Sea Bubble",
+      "text": "When the South Sea Company's shares collapsed, Newton lost at least 10,000 pounds and perhaps more than 20,000.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-newton"
+      ]
+    },
+    {
+      "date": "1726-04-15",
+      "age": 83,
+      "place": "Kensington, Middlesex, (England)",
+      "title": "The apple story",
+      "text": "Newton told his friend William Stukeley that the idea of gravity came to him when an apple fell in the garden at Woolsthorpe. This is an anecdote Stukeley wrote down later, in a 1752 memoir, not a record from the 1660s. Voltaire spread the story from 1727.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-newton",
+        "w-woolsthorpe"
+      ]
+    },
+    {
+      "date": "1727-03-31",
+      "age": 84,
+      "place": "Kensington, Middlesex, (England)",
+      "title": "Death in Kensington",
+      "text": "Newton died on 20 March 1727 by the old calendar (31 March by ours). He was buried in Westminster Abbey on 28 March (old calendar), the first scientist given that honour.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-newton",
+        "wa-newton"
+      ]
+    },
+    {
+      "date": "1729",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "The Principia in English",
+      "text": "Andrew Motte published the first English translation of the Principia, from the 1726 third edition.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "w-principia",
+        "pg-principia"
+      ]
+    },
+    {
+      "date": "1731",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "The monument in the Abbey",
+      "text": "His monument by Michael Rysbrack, designed by William Kent, was unveiled in Westminster Abbey. Alexander Pope's famous epitaph, 'Let Newton be! and all was light', was not allowed on it.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "wa-newton",
+        "w-newton"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "year": "1666",
+      "type": "mathematics",
+      "title": "Calculus (fluxions)",
+      "text": "A method for working with change and motion, recorded in an October 1666 manuscript but not published until 1737. Leibniz found it independently.",
+      "sources": [
+        "w-calculus",
+        "w-newton"
+      ]
+    },
+    {
+      "year": "1668",
+      "type": "invention",
+      "title": "The reflecting telescope",
+      "text": "A telescope using a mirror instead of a lens, free of the colour blur lenses produce. The design is still called the Newtonian telescope.",
+      "sources": [
+        "w-telescope"
+      ]
+    },
+    {
+      "year": "1672",
+      "type": "paper",
+      "title": "Paper on white light and colours",
+      "text": "His paper to the Royal Society arguing that white light is a mixture of colours.",
+      "sources": [
+        "w-newton",
+        "w-opticks"
+      ]
+    },
+    {
+      "year": "1684",
+      "type": "paper",
+      "title": "De motu corporum in gyrum",
+      "text": "A short paper for Halley on how bodies move in orbits, the seed of the Principia.",
+      "sources": [
+        "w-principia"
+      ]
+    },
+    {
+      "year": "1687",
+      "type": "book",
+      "title": "Philosophiae Naturalis Principia Mathematica",
+      "text": "The Mathematical Principles of Natural Philosophy: the three laws of motion and the law of universal gravitation, explaining both falling bodies and planets.",
+      "sources": [
+        "w-principia",
+        "pg-principia"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/76404"
+    },
+    {
+      "year": "1687",
+      "type": "law",
+      "title": "Three laws of motion",
+      "text": "Bodies keep moving or stay at rest unless a force acts; force changes motion; every action has an equal and opposite reaction.",
+      "sources": [
+        "pg-principia",
+        "w-principia"
+      ]
+    },
+    {
+      "year": "1687",
+      "type": "law",
+      "title": "Universal gravitation",
+      "text": "Every body attracts every other, with a force that weakens with the square of the distance.",
+      "sources": [
+        "w-principia",
+        "w-newton"
+      ]
+    },
+    {
+      "year": "1696",
+      "type": "public service",
+      "title": "The Royal Mint",
+      "text": "As Warden and then Master of the Mint, he oversaw the recoinage and pursued counterfeiters.",
+      "sources": [
+        "w-newton"
+      ]
+    },
+    {
+      "year": "1704",
+      "type": "book",
+      "title": "Opticks",
+      "text": "His book of experiments on light and colour, written in English and ending with his famous Queries.",
+      "sources": [
+        "w-opticks",
+        "pg-opticks"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/33504"
+    },
+    {
+      "year": "1713",
+      "type": "book",
+      "title": "General Scholium",
+      "text": "The closing essay added to the Principia's second edition, on method and on God, where he refused to guess the cause of gravity.",
+      "sources": [
+        "w-principia",
+        "pg-principia"
+      ]
+    },
+    {
+      "year": "1727",
+      "type": "papers",
+      "title": "Alchemy and theology papers",
+      "text": "Over half of his writing dealt with alchemy and religion, most never printed in his lifetime. The Newton Project is publishing it all online.",
+      "sources": [
+        "w-newton",
+        "np"
+      ],
+      "url": "https://www.newtonproject.ox.ac.uk/"
+    },
+    {
+      "year": "1728",
+      "type": "book",
+      "title": "The Chronology of Ancient Kingdoms Amended",
+      "text": "A revised dating of the ancient world, published after his death; part of the large body of writing he did outside physics.",
+      "sources": [
+        "w-newton"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/15784"
+    }
+  ],
+  "resources": [
+    {
+      "label": "Newton's Principia, tr. Andrew Motte (Project Gutenberg)",
+      "url": "https://www.gutenberg.org/ebooks/76404",
+      "what": "The classic English translation, free online. Start with the Laws of Motion and the Rules of Reasoning in Book III."
+    },
+    {
+      "label": "Opticks (Project Gutenberg)",
+      "url": "https://www.gutenberg.org/ebooks/33504",
+      "what": "The 1730 edition of his book on light, more readable than the Principia."
+    },
+    {
+      "label": "The Newton Project (University of Oxford)",
+      "url": "https://www.newtonproject.ox.ac.uk/",
+      "what": "Free transcriptions of Newton's papers, including notebooks, letters and religious writings."
+    },
+    {
+      "label": "Sir Isaac Newton (Westminster Abbey)",
+      "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/sir-isaac-newton",
+      "what": "His grave and monument, with details of the funeral."
+    },
+    {
+      "label": "Woolsthorpe Manor (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
+      "what": "His birthplace, now run by the National Trust, with the apple tree in the orchard."
+    },
+    {
+      "label": "Standing on the shoulders of giants (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants",
+      "what": "The history of the phrase, from Bernard of Chartres to Newton's letter."
+    },
+    {
+      "label": "Leibniz-Newton calculus controversy (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Leibniz%E2%80%93Newton_calculus_controversy",
+      "what": "A balanced account of who invented calculus and how the quarrel was handled."
+    }
+  ],
+  "books": [
+    {
+      "title": "The Mathematical Principles of Natural Philosophy (Principia)",
+      "author": "Isaac Newton, translated by Andrew Motte",
+      "year": "1687",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/76404",
+      "note": "Hard going. Read the Axioms, or Laws of Motion, and the Rules of Reasoning first."
+    },
+    {
+      "title": "Opticks",
+      "author": "Isaac Newton",
+      "year": "1704",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/33504",
+      "note": "Written in English and full of experiments you can picture; the Gutenberg text is the 1730 fourth edition."
+    },
+    {
+      "title": "The Chronology of Ancient Kingdoms Amended",
+      "author": "Isaac Newton",
+      "year": "1728",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/15784",
+      "note": "Shows his work outside physics; published the year after he died."
+    },
+    {
+      "title": "Never at Rest: A Biography of Isaac Newton",
+      "author": "Richard S. Westfall",
+      "year": "1980",
+      "kind": "biography",
+      "free": null,
+      "note": "The standard scholarly biography (Cambridge University Press); Wikipedia cites it often."
+    }
+  ]
+}

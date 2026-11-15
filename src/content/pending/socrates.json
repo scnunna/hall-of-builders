@@ -1,0 +1,65 @@
+{
+  "id": "socrates",
+  "name": "Socrates",
+  "years": "c. 470 BC - 399 BC",
+  "title": "The Questioner",
+  "tagline": "He never wrote a word. We know him only through his students, who remembered a barefoot soldier who asked questions all day and would not stop, even to save his life.",
+  "sources": {
+    "w-socrates": { "label": "Socrates (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Socrates" },
+    "w-apology": { "label": "Apology (Plato) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Apology_(Plato)" },
+    "w-method": { "label": "Socratic method (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Socratic_method" },
+    "sep": { "label": "Socrates, Stanford Encyclopedia of Philosophy (Debra Nails, rev. 2022)", "url": "https://plato.stanford.edu/entries/socrates/" },
+    "g-apology": { "label": "Plato, Apology, tr. Benjamin Jowett (Project Gutenberg #1656)", "url": "https://www.gutenberg.org/ebooks/1656" },
+    "g-crito": { "label": "Plato, Crito, tr. Benjamin Jowett (Project Gutenberg #1657)", "url": "https://www.gutenberg.org/ebooks/1657" },
+    "g-memorabilia": { "label": "Xenophon, The Memorabilia, tr. H. G. Dakyns (Project Gutenberg #1177)", "url": "https://www.gutenberg.org/ebooks/1177" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Know what you do not know",
+      "idea": "When a friend was told by the oracle at Delphi that no one was wiser than Socrates, Socrates went looking for someone wiser to prove it wrong. He questioned politicians, poets and craftsmen, and found that they thought they knew things they did not. His only edge, he decided, was that he knew he did not know. These are his words as Plato remembered them; Socrates wrote nothing himself.",
+      "quote": { "text": "...he knows nothing, and thinks that he knows; I neither know nor think that I know.", "credit": "Socrates as reported by Plato, Apology 21d, tr. Benjamin Jowett (1871)" },
+      "practice": "Pick one thing you are sure about. Write down how you know it. If the answer is weak, look it up or ask someone who knows.",
+      "sources": ["g-apology", "w-apology", "w-socrates"]
+    },
+    {
+      "title": "Examine your life",
+      "idea": "At his trial, Socrates refused to promise to stop questioning people, even to save himself. He said that talking every day about what it means to live well is the greatest good a person can have.",
+      "quote": { "text": "...the unexamined life is not worth living...", "credit": "Socrates as reported by Plato, Apology 38a, tr. Benjamin Jowett (1871)" },
+      "practice": "Tonight, ask yourself three questions: What did I do today? Why? Would I do it the same way again? Write one line for each.",
+      "sources": ["g-apology", "w-apology", "sep"]
+    },
+    {
+      "title": "Follow the best argument",
+      "idea": "Days before his execution, his old friend Crito begged him to escape from prison. Socrates did not refuse at once. He said they should first think it through together, and act on whatever reasoning held up best, even if it went against him.",
+      "quote": { "text": "For I am and always have been one of those natures who must be guided by reason, whatever the reason may be which upon reflection appears to me to be the best...", "credit": "Socrates as reported by Plato, Crito 46b, tr. Benjamin Jowett (1871)" },
+      "practice": "Before your next real decision, write the best reason for each option. Choose the one that still looks strongest after a night's sleep.",
+      "sources": ["g-crito", "sep"]
+    },
+    {
+      "title": "Never return wrong for wrong",
+      "idea": "Socrates told Crito that doing wrong is never right, even to someone who wronged you first. He knew most people disagreed, and he said so. He lived by it anyway, refusing to break the law to escape a sentence he thought was unjust.",
+      "quote": { "text": "Then we ought not to retaliate or render evil for evil to any one, whatever evil we may have suffered from him.", "credit": "Socrates as reported by Plato, Crito 49c, tr. Benjamin Jowett (1871)" },
+      "practice": "Next time someone is rude to you, do not answer in kind. Reply calmly, or wait, and see what happens.",
+      "sources": ["g-crito", "sep"]
+    },
+    {
+      "title": "Need little",
+      "idea": "His student Xenophon remembered a man who walked barefoot, owned one rough cloak and cared little for comfort. When a rival mocked his poor way of life, Socrates answered that needing less made a person freer and stronger. This is Xenophon's account, which differs in style from Plato's.",
+      "quote": { "text": "To have no wants at all is, to my mind, an attribute of Godhead; to have as few wants as possible the nearest approach to Godhead...", "credit": "Socrates as reported by Xenophon, Memorabilia I.6.10, tr. H. G. Dakyns (1897)" },
+      "practice": "Go one day without one small comfort you usually reach for, like a snack or a favourite app. Notice how much you actually miss it.",
+      "sources": ["g-memorabilia", "w-socrates"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "How do I know?", "action": "Pick one thing you are sure of. Write how you know it. Check it if the reason is weak." },
+    { "day": 2, "title": "Ask, don't tell", "action": "In one conversation today, only ask questions. Try to understand what the other person really thinks.", "sources": ["w-method"] },
+    { "day": 3, "title": "Three questions", "action": "Tonight write: What did I do today? Why? Would I do it again?" },
+    { "day": 4, "title": "Best reason", "action": "For one decision, write the strongest reason for each choice. Decide tomorrow." },
+    { "day": 5, "title": "Not in kind", "action": "When someone is short with you, answer calmly or not at all." },
+    { "day": 6, "title": "Fewer wants", "action": "Go a day without one small comfort. Notice how much you miss it." },
+    { "day": 7, "title": "Your dialogue", "action": "Write a short conversation with yourself about one big question, like what makes a good friend. Ask, answer, then question the answer." }
+  ],
+  "reflect": "What is one belief you hold that you have never really questioned?",
+  "keepsake": "Socrates Builder Collectible"
+}

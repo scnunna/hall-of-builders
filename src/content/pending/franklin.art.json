@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "05-kite",
+ "panels": [
+  { "key": "01-printshop", "year": "1718" },
+  { "key": "02-philadelphia", "year": "1723" },
+  { "key": "03-junto", "year": "1727" },
+  { "key": "04-stove", "year": "1742" },
+  { "key": "05-kite", "year": "1752" },
+  { "key": "06-london", "year": "1774" },
+  { "key": "07-paris", "year": "1778" },
+  { "key": "08-abolition", "year": "1790" }
+ ]
+}

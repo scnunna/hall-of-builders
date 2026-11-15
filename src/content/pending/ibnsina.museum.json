@@ -1,0 +1,630 @@
+{
+  "sources": {
+    "w-avicenna": {
+      "label": "Avicenna (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Avicenna"
+    },
+    "sep": {
+      "label": "Ibn Sina [Avicenna] (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/ibn-sina/"
+    },
+    "life1918": {
+      "label": "The Life of Avicenna, in The University Library of Autobiography, vol. 2 (1918; translator not named) (Internet Archive)",
+      "url": "https://archive.org/details/autobiography0002unse"
+    },
+    "browne": {
+      "label": "E. G. Browne, Arabian Medicine (1921), Lecture II (Internet Archive)",
+      "url": "https://archive.org/details/arabianmedicineb00brow"
+    },
+    "w-canon": {
+      "label": "The Canon of Medicine (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/The_Canon_of_Medicine"
+    },
+    "w-shifa": {
+      "label": "The Book of Healing (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/The_Book_of_Healing"
+    },
+    "w-floating": {
+      "label": "Floating man (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Floating_man"
+    },
+    "w-juzjani": {
+      "label": "Abu Ubayd al-Juzjani (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Abu_Ubayd_al-Juzjani"
+    },
+    "w-hayy": {
+      "label": "Hayy ibn Yaqdhan (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Hayy_ibn_Yaqdhan"
+    },
+    "w-gerard": {
+      "label": "Gerard of Cremona (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Gerard_of_Cremona"
+    },
+    "w-mausoleum": {
+      "label": "Avicenna Mausoleum (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Avicenna_Mausoleum"
+    },
+    "gut-soul": {
+      "label": "A Compendium on the Soul, tr. Edward Abbott Van Dyck (Project Gutenberg #58186)",
+      "url": "https://www.gutenberg.org/ebooks/58186"
+    },
+    "nlm": {
+      "label": "Islamic Medical Manuscripts: Biographies A (U.S. National Library of Medicine)",
+      "url": "https://www.nlm.nih.gov/hmd/arabic/bioA.html"
+    },
+    "ia-canon1489": {
+      "label": "Canon medicinae, Venice 1489 (Yale Cushing/Whitney Medical Library, Internet Archive)",
+      "url": "https://archive.org/details/4027800.med.yale.edu"
+    },
+    "ia-canon1593": {
+      "label": "Canon medicinae, Rome: Typographia Medicea 1593 (BIU Sante Paris, Internet Archive)",
+      "url": "https://archive.org/details/BIUSante_00095"
+    }
+  },
+  "timeline": [
+    {
+      "date": "0980",
+      "age": 0,
+      "place": "Afshana, near Bukhara, Transoxiana, (Uzbekistan)",
+      "title": "Born near Bukhara",
+      "text": "Abu Ali al-Husayn ibn Abd Allah ibn Sina was born in the village of Afshana, near Bukhara. Wikipedia gives about 980; the Stanford Encyclopedia of Philosophy says the 970s, perhaps as early as 964. His father, from Balkh, worked for the Samanid rulers.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-avicenna",
+        "sep",
+        "life1918"
+      ]
+    },
+    {
+      "date": "0990",
+      "age": 10,
+      "place": "Bukhara, Transoxiana, (Uzbekistan)",
+      "title": "The Quran by heart",
+      "text": "The family moved to Bukhara, a center of learning. A teacher taught him the Quran and Arabic literature, and by about age ten he knew the whole Quran by heart and amazed those around him.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-avicenna",
+        "life1918",
+        "browne"
+      ]
+    },
+    {
+      "date": "0992",
+      "age": null,
+      "place": "Bukhara, Transoxiana, (Uzbekistan)",
+      "title": "Outgrowing his teacher",
+      "text": "His father brought a tutor named al-Natili into the house to teach him logic. The boy soon solved questions better than his master. He went on alone through Euclid's geometry and Ptolemy's astronomy. The exact year is not recorded; this was in his early teens.",
+      "turning": false,
+      "kind": "philosophy",
+      "sources": [
+        "life1918",
+        "browne"
+      ]
+    },
+    {
+      "date": "0996",
+      "age": 16,
+      "place": "Bukhara, Transoxiana, (Uzbekistan)",
+      "title": "A doctor at sixteen",
+      "text": "He turned to medicine and found it \"not difficult\". After learning from books he began to visit the sick, and by sixteen other physicians were coming to study with him.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "life1918",
+        "browne"
+      ]
+    },
+    {
+      "date": "0997",
+      "age": 17,
+      "place": "Bukhara, Transoxiana, (Uzbekistan)",
+      "title": "Physician to the ruler",
+      "text": "When the Samanid ruler Nuh II fell ill, the young Ibn Sina was called to help treat him. As a reward he was allowed into the royal library, with rooms of chests full of books, some he never saw again anywhere. Wikipedia puts this at age 17; Browne says he was a little over 18.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-avicenna",
+        "life1918",
+        "browne"
+      ]
+    },
+    {
+      "date": "0998",
+      "age": null,
+      "place": "Bukhara, Transoxiana, (Uzbekistan)",
+      "title": "Forty readings and a cheap book",
+      "text": "He read Aristotle's Metaphysics forty times and knew it by heart without understanding it. Then a bookseller talked him into buying a small book by al-Farabi for three dirhams, and the meaning became clear. He gave to the poor the next day in thanks.",
+      "turning": true,
+      "kind": "philosophy",
+      "sources": [
+        "life1918",
+        "browne",
+        "gut-soul"
+      ]
+    },
+    {
+      "date": "0999",
+      "age": null,
+      "place": "Bukhara, Transoxiana, (Uzbekistan)",
+      "title": "The library burns",
+      "text": "The royal library later burned down. His enemies claimed he had set the fire so that only he would hold its knowledge. Browne, writing in 1921, reports this as a claim by his detractors; there is no evidence for it. The year of the fire is not recorded.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "browne",
+        "life1918"
+      ]
+    },
+    {
+      "date": "1001",
+      "age": 21,
+      "place": "Bukhara, Transoxiana, (Uzbekistan)",
+      "title": "His first books",
+      "text": "At about 21 he began to write, often at the request of neighbours. For one, Abu al-Husayn al-Arudi, he wrote a general book of philosophy named after him. His first work, the Compendium on the Soul, also dates from his youth.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "life1918",
+        "sep"
+      ]
+    },
+    {
+      "date": "1002",
+      "age": null,
+      "place": "Bukhara, Transoxiana, (Uzbekistan)",
+      "title": "His father dies",
+      "text": "His father died when he was 21 or 22; sources disagree. Ibn Sina took up government posts, but the fall of the Samanid state soon forced him to leave Bukhara.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-avicenna",
+        "life1918",
+        "browne",
+        "sep"
+      ]
+    },
+    {
+      "date": "1002",
+      "age": null,
+      "place": "Gurganj, Khwarazm, (Turkmenistan)",
+      "title": "To the court of Khwarazm",
+      "text": "He moved to Gurganj and served its ruler Ali ibn Mamun. The date is uncertain: one encyclopedia puts the move in 999, and Wikipedia gives a range from about 997 to 1009.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-avicenna",
+        "sep",
+        "life1918",
+        "browne"
+      ]
+    },
+    {
+      "date": "1012",
+      "age": null,
+      "place": "Gorgan, Tabaristan, (Iran)",
+      "title": "No country had room for him",
+      "text": "He left Gurganj and travelled through Nasa, Baward and Tus to Gorgan, hoping for the patronage of its learned ruler Qabus. But Qabus had been overthrown and died. Ibn Sina fell seriously ill on the road and wrote a sad verse about having no buyer for his worth.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-avicenna",
+        "life1918",
+        "browne"
+      ]
+    },
+    {
+      "date": "1012",
+      "age": null,
+      "place": "Gorgan, Tabaristan, (Iran)",
+      "title": "A lifelong student",
+      "text": "In Gorgan he met Abu Ubayd al-Juzjani, who became his student and companion for the rest of his life. Ibn Sina told him the story of his early years, and al-Juzjani later finished it. It is the main source for his life.",
+      "turning": true,
+      "kind": "life",
+      "sources": [
+        "w-juzjani",
+        "sep",
+        "browne"
+      ]
+    },
+    {
+      "date": "1014",
+      "age": null,
+      "place": "Ray, Jibal, (Iran)",
+      "title": "Physician at Ray",
+      "text": "He entered the service of the young ruler Majd al-Dawla and his mother Sayyida Shirin at Ray, near modern Tehran, and treated the ruler for melancholia.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-avicenna",
+        "sep"
+      ]
+    },
+    {
+      "date": "1014",
+      "age": null,
+      "place": "Ray, Jibal, (Iran)",
+      "title": "The Book of Healing begins",
+      "text": "He most likely began The Book of Healing (al-Shifa) around 1014. It became a huge encyclopedia of logic, natural science, mathematics and metaphysics.",
+      "turning": false,
+      "kind": "philosophy",
+      "sources": [
+        "w-shifa",
+        "w-avicenna"
+      ]
+    },
+    {
+      "date": "1015",
+      "age": null,
+      "place": "Hamadan, Jibal, (Iran)",
+      "title": "Vizier of Hamadan",
+      "text": "In Hamadan he won a public debate and soon became vizier, the chief minister, of the ruler Shams al-Dawla. By day he worked for the state; much of the night he taught students and dictated his books.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-avicenna",
+        "nlm",
+        "browne"
+      ]
+    },
+    {
+      "date": "1015",
+      "age": null,
+      "place": "Hamadan, Jibal, (Iran)",
+      "title": "Dismissed, then recalled",
+      "text": "Soldiers mutinied against him and he was dismissed and held for a time. When Shams al-Dawla fell ill again, he called Ibn Sina back, apologized and gave him his post again. The exact year is not recorded.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "browne"
+      ]
+    },
+    {
+      "date": "1020",
+      "age": null,
+      "place": "Hamadan, Jibal, (Iran)",
+      "title": "The Book of Healing completed",
+      "text": "He finished The Book of Healing around 1020, writing at the home of a friend. It was published around 1027.",
+      "turning": false,
+      "kind": "philosophy",
+      "sources": [
+        "w-shifa",
+        "w-avicenna"
+      ]
+    },
+    {
+      "date": "1021",
+      "age": null,
+      "place": "Fardajan fortress, near Hamadan, (Iran)",
+      "title": "Hiding and prison",
+      "text": "After Shams al-Dawla died in 1021, Ibn Sina refused to stay on under the new ruler and went into hiding. He was found and held for about four months in the fortress of Fardajan. There he is said to have written his famous floating man thought experiment and the allegory Hayy ibn Yaqzan.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-avicenna",
+        "w-floating",
+        "w-hayy"
+      ]
+    },
+    {
+      "date": "1024",
+      "age": null,
+      "place": "Isfahan, Jibal, (Iran)",
+      "title": "Calm years in Isfahan",
+      "text": "He went to Isfahan and served its ruler Ala al-Dawla, probably from about 1024; the year is uncertain. These were the most settled years of his life. For his patron he wrote the Danishnama, a book of philosophy in Persian.",
+      "turning": true,
+      "kind": "life",
+      "sources": [
+        "w-avicenna",
+        "sep"
+      ]
+    },
+    {
+      "date": "1025",
+      "age": null,
+      "place": "Hamadan, Jibal, (Iran)",
+      "title": "The Canon of Medicine",
+      "text": "He began the Canon in Gurganj, carried it on at Ray, and completed it by about 1025. Sources disagree on exactly when and where it was finished. Its five books cover the basics of medicine, medicines one by one, diseases of each part of the body, illnesses of the whole body, and compound remedies.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-canon",
+        "w-avicenna"
+      ]
+    },
+    {
+      "date": "1027",
+      "age": null,
+      "place": "Isfahan, Jibal, (Iran)",
+      "title": "The Book of Healing is published",
+      "text": "The Book of Healing was published around 1027. He later wrote The Book of Salvation (al-Najat), a shorter version of its teaching.",
+      "turning": false,
+      "kind": "philosophy",
+      "sources": [
+        "w-shifa",
+        "sep"
+      ]
+    },
+    {
+      "date": "1030",
+      "age": null,
+      "place": "Khuzistan, (Iran)",
+      "title": "On the move again",
+      "text": "In January 1030, when the army of Mahmud of Ghazni occupied Isfahan, he moved to Khuzistan for about two months. After returning he began Pointers and Reminders, one of his last great books.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-avicenna",
+        "sep"
+      ]
+    },
+    {
+      "date": "1032",
+      "age": null,
+      "place": "Isfahan, Jibal, (Iran)",
+      "title": "Watching the sky",
+      "text": "He claimed to have seen Venus pass across the face of the Sun in 1032. Modern scholars doubt he could have seen it; he may have seen a sunspot instead.",
+      "turning": false,
+      "kind": "philosophy",
+      "sources": [
+        "w-avicenna"
+      ]
+    },
+    {
+      "date": "1037-06-22",
+      "age": 56,
+      "place": "Hamadan, Jibal, (Iran)",
+      "title": "Death in Hamadan",
+      "text": "While travelling with Ala al-Dawla he fell seriously ill with colic. He died in Hamadan on 22 June 1037 and was buried there. Wikipedia gives his age as 56 or 57; Browne gives 58, probably counting lunar years. Worn out by hard work, he had carried on writing to the end.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-avicenna",
+        "browne"
+      ]
+    },
+    {
+      "date": "1052",
+      "age": null,
+      "place": "Toronto, Ontario, (Canada)",
+      "title": "An early copy survives",
+      "text": "The earliest known copy of the fifth volume of the Canon is dated 1052, only 15 years after his death. It is now kept in the Aga Khan Museum in Toronto.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "w-canon"
+      ]
+    },
+    {
+      "date": "1472",
+      "age": null,
+      "place": "Italy",
+      "title": "The Canon in print",
+      "text": "A Latin translation of the Canon had been made in Spain in the 1100s or 1200s; sources disagree on whether Gerard of Cremona or a later translator made it. The first printed edition appeared in 1472, and the Canon was taught in European universities for centuries, in Padua as late as 1715.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "w-canon",
+        "w-gerard",
+        "browne",
+        "ia-canon1489"
+      ]
+    },
+    {
+      "date": "1954-05",
+      "age": null,
+      "place": "Hamadan, (Iran)",
+      "title": "A new mausoleum",
+      "text": "A new tomb designed by the architect Hooshang Seyhoun was dedicated in Hamadan in May 1954, to mark the thousandth anniversary of his birth. It includes a small museum and a library.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "w-mausoleum"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "year": "1025",
+      "type": "book",
+      "title": "The Canon of Medicine (al-Qanun fi al-Tibb)",
+      "text": "A medical encyclopedia in five books, from general principles to diseases and remedies. Book 2 sets out rules for testing new drugs. In Latin it was a standard textbook in European universities for centuries.",
+      "sources": [
+        "w-canon",
+        "w-avicenna",
+        "browne"
+      ],
+      "url": "https://archive.org/details/4027800.med.yale.edu"
+    },
+    {
+      "year": "1020",
+      "type": "book",
+      "title": "The Book of Healing (al-Shifa)",
+      "text": "His largest work: an encyclopedia of logic, natural science, mathematics and metaphysics, begun around 1014 and finished around 1020. It includes ideas about how mountains form.",
+      "sources": [
+        "w-shifa",
+        "w-avicenna",
+        "sep"
+      ]
+    },
+    {
+      "year": "1027",
+      "type": "book",
+      "title": "The Book of Salvation (al-Najat)",
+      "text": "A shorter version of the teaching in The Book of Healing, written after it and drawn from his earlier writings; the exact year is not known.",
+      "sources": [
+        "sep",
+        "w-avicenna"
+      ]
+    },
+    {
+      "year": "1030",
+      "type": "book",
+      "title": "Pointers and Reminders (al-Isharat wa al-Tanbihat)",
+      "text": "One of his last great summaries of philosophy, begun after 1030 and written in a brief, hinting style.",
+      "sources": [
+        "sep",
+        "w-avicenna"
+      ]
+    },
+    {
+      "year": "1024",
+      "type": "book",
+      "title": "Danishnama-yi Alai (Book of Knowledge for Ala al-Dawla)",
+      "text": "His main work in Persian, his native language, covering logic, metaphysics and music theory, written for his patron in Isfahan.",
+      "sources": [
+        "w-avicenna",
+        "sep",
+        "browne"
+      ]
+    },
+    {
+      "year": "1001",
+      "type": "book",
+      "title": "A Compendium on the Soul",
+      "text": "His first work, written in his youth for the Samanid ruler; the exact year is not known. An English translation by Edward Abbott Van Dyck (1906) is free on Project Gutenberg.",
+      "sources": [
+        "sep",
+        "gut-soul"
+      ],
+      "url": "https://www.gutenberg.org/ebooks/58186"
+    },
+    {
+      "year": "1001",
+      "type": "book",
+      "title": "Philosophy for Arudi",
+      "text": "Written at about 21 for a neighbour who asked for a general book of learning; his first full summary of philosophy.",
+      "sources": [
+        "sep",
+        "life1918"
+      ]
+    },
+    {
+      "year": "1021",
+      "type": "idea",
+      "title": "The floating man",
+      "text": "A thought experiment: a person created floating in the air, with no senses working, would still know that he exists. Ibn Sina used it to argue that the self is not the same as the body.",
+      "sources": [
+        "w-floating",
+        "w-avicenna"
+      ]
+    },
+    {
+      "year": "1021",
+      "type": "book",
+      "title": "Hayy ibn Yaqzan",
+      "text": "A short philosophical allegory, written during his imprisonment. Its title was later borrowed by Ibn Tufail for a famous novel.",
+      "sources": [
+        "w-hayy",
+        "sep"
+      ]
+    },
+    {
+      "year": "1024",
+      "type": "book",
+      "title": "On the Science of the Pulse",
+      "text": "A short treatise in Persian, in nine chapters, dedicated to Ala al-Dawla, so probably written after he moved to Isfahan.",
+      "sources": [
+        "w-avicenna",
+        "browne"
+      ]
+    },
+    {
+      "year": "1037",
+      "type": "teaching",
+      "title": "The Life, told to al-Juzjani",
+      "text": "His own account of his early years, given to his student al-Juzjani, who added the rest of his life after his death. It is the main source for his biography.",
+      "sources": [
+        "sep",
+        "w-juzjani",
+        "life1918"
+      ],
+      "url": "https://archive.org/details/autobiography0002unse"
+    }
+  ],
+  "resources": [
+    {
+      "label": "The University Library of Autobiography, vol. 2 (1918) (Internet Archive)",
+      "url": "https://archive.org/details/autobiography0002unse",
+      "what": "A free scan with an English version of his own life story, as quoted on this page."
+    },
+    {
+      "label": "A Compendium on the Soul (Project Gutenberg #58186)",
+      "url": "https://www.gutenberg.org/ebooks/58186",
+      "what": "His first work, in Edward Abbott Van Dyck's 1906 English translation, free to read."
+    },
+    {
+      "label": "Arabian Medicine by E. G. Browne (1921) (Internet Archive)",
+      "url": "https://archive.org/details/arabianmedicineb00brow",
+      "what": "Lectures on the history of medicine in the Islamic world, with a chapter on Ibn Sina's life and the Canon."
+    },
+    {
+      "label": "Canon medicinae, Venice 1489 (Internet Archive)",
+      "url": "https://archive.org/details/4027800.med.yale.edu",
+      "what": "A scanned early printed Latin Canon from Yale's medical library."
+    },
+    {
+      "label": "Canon medicinae, Rome 1593 (Internet Archive)",
+      "url": "https://archive.org/details/BIUSante_00095",
+      "what": "The Canon printed in Rome by the Medici press in 1593, from the BIU Sante library in Paris."
+    },
+    {
+      "label": "Ibn Sina (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/ibn-sina/",
+      "what": "A careful scholarly overview of his life, works and philosophy."
+    },
+    {
+      "label": "Islamic Medical Manuscripts (U.S. National Library of Medicine)",
+      "url": "https://www.nlm.nih.gov/hmd/arabic/bioA.html",
+      "what": "Short biographies of physicians, including Ibn Sina, and the library's manuscripts of works about him."
+    },
+    {
+      "label": "The Canon of Medicine (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/The_Canon_of_Medicine",
+      "what": "An overview of the Canon's five books, its translations and its long life in universities."
+    }
+  ],
+  "books": [
+    {
+      "title": "A Compendium on the Soul",
+      "author": "Avicenna, translated by Edward Abbott Van Dyck",
+      "year": "1906",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/58186",
+      "note": "His first work, in a short English translation with a preface on his life."
+    },
+    {
+      "title": "The Life of Avicenna (in The University Library of Autobiography, vol. 2)",
+      "author": "Avicenna, as recorded by al-Juzjani",
+      "year": "1918",
+      "kind": "by-him",
+      "free": "https://archive.org/details/autobiography0002unse",
+      "note": "A short English version of his own account of his youth; the translator is not named."
+    },
+    {
+      "title": "Canon medicinae (The Canon of Medicine, Latin)",
+      "author": "Avicenna",
+      "year": "1489",
+      "kind": "by-him",
+      "free": "https://archive.org/details/4027800.med.yale.edu",
+      "note": "An early printed Latin edition (Venice). For readers of Latin or anyone curious to see the book."
+    },
+    {
+      "title": "Arabian Medicine",
+      "author": "Edward G. Browne",
+      "year": "1921",
+      "kind": "biography",
+      "free": "https://archive.org/details/arabianmedicineb00brow",
+      "note": "Classic lectures (Cambridge University Press) with a short life of Ibn Sina and a look at the Canon."
+    },
+    {
+      "title": "The Life of Ibn Sina: A Critical Edition and Annotated Translation",
+      "author": "William E. Gohlman",
+      "year": "1974",
+      "kind": "biography",
+      "free": null,
+      "note": "The scholarly edition of the autobiography and al-Juzjani's biography (State University of New York Press; listed on Wikipedia)."
+    }
+  ]
+}

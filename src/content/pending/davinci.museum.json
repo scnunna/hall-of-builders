@@ -1,0 +1,353 @@
+{
+  "sources": {
+    "w-leonardo": { "label": "Leonardo da Vinci (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci" },
+    "richter": { "label": "The Notebooks of Leonardo da Vinci, tr. Jean Paul Richter (1888) (Project Gutenberg #5000)", "url": "https://www.gutenberg.org/ebooks/5000" },
+    "w-lastsupper": { "label": "The Last Supper (Leonardo) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)" },
+    "w-monalisa": { "label": "Mona Lisa (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mona_Lisa" },
+    "louvre-monalisa": { "label": "From the Mona Lisa to the Wedding Feast at Cana, Musée du Louvre (official page)", "url": "https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana" },
+    "ng-rocks": { "label": "The Virgin of the Rocks, The National Gallery, London (official page)", "url": "https://www.nationalgallery.org.uk/paintings/leonardo-da-vinci-the-virgin-of-the-rocks" },
+    "w-ginevra": { "label": "Ginevra de' Benci (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ginevra_de%27_Benci" },
+    "w-ermine": { "label": "Lady with an Ermine (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Lady_with_an_Ermine" },
+    "w-adoration": { "label": "Adoration of the Magi (Leonardo) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Leonardo)" },
+    "w-vitruvian": { "label": "Vitruvian Man (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Vitruvian_Man" },
+    "w-atlanticus": { "label": "Codex Atlanticus (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Codex_Atlanticus" },
+    "w-leicester": { "label": "Codex Leicester (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Codex_Leicester" },
+    "w-flight": { "label": "Codex on the Flight of Birds (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Codex_on_the_Flight_of_Birds" }
+  },
+  "timeline": [
+    {
+      "date": "1452-04-15",
+      "age": 0,
+      "place": "Vinci, Tuscany, (Italy)",
+      "title": "Born near Vinci",
+      "text": "Leonardo was born on 15 April 1452 in or near the Tuscan village of Vinci, possibly at Anchiano. His parents were not married: his father was the notary Piero da Vinci and his mother was Caterina di Meo Lippi. As a boy he had only a basic, informal education in reading, writing and arithmetic.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1466",
+      "age": 14,
+      "place": "Florence, Republic of Florence, (Italy)",
+      "title": "Into Verrocchio's workshop",
+      "text": "His family moved to Florence in the mid-1460s. At about 14 he joined the busy workshop of the artist Andrea del Verrocchio as a studio boy, and by 17 he was an apprentice. There he learned his craft by doing, alongside other young artists.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1472",
+      "age": 20,
+      "place": "Florence, Republic of Florence, (Italy)",
+      "title": "A master painter",
+      "text": "At about 20 he qualified as a master in the Guild of Saint Luke, the guild of artists in Florence. He still stayed and worked with Verrocchio.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1473",
+      "age": 21,
+      "place": "Florence, Republic of Florence, (Italy)",
+      "title": "The Arno valley drawing",
+      "text": "His earliest known dated work is a pen-and-ink drawing of the Arno valley from 1473. It shows his eye for landscape and the natural world.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1475",
+      "age": null,
+      "place": "Florence, Republic of Florence, (Italy)",
+      "title": "The angel and the Annunciation",
+      "text": "Around 1472 to 1475 he painted a young angel in Verrocchio's Baptism of Christ. In the same years he painted the Annunciation. Both are now in the Uffizi in Florence.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1478-01",
+      "age": 25,
+      "place": "Florence, Republic of Florence, (Italy)",
+      "title": "His own commissions",
+      "text": "In January 1478 he received an independent commission for an altarpiece in the Palazzo della Signoria. Around 1474 to 1478 he also painted the portrait of Ginevra de' Benci.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-leonardo", "w-ginevra"]
+    },
+    {
+      "date": "1481-03",
+      "age": 28,
+      "place": "Florence, Republic of Florence, (Italy)",
+      "title": "The unfinished Adoration",
+      "text": "The monks of San Donato in Scopeto asked him to paint the Adoration of the Magi. He left for Milan the next year with only the underdrawing done. The monks gave the job to another painter. Leaving work unfinished became a pattern in his life.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-leonardo", "w-adoration"]
+    },
+    {
+      "date": "1482",
+      "age": 30,
+      "place": "Milan, Duchy of Milan, (Italy)",
+      "title": "A letter to the Duke of Milan",
+      "text": "Lorenzo de' Medici sent him to Ludovico Sforza, ruler of Milan. Leonardo wrote to Ludovico offering his skills mainly as an engineer and designer of weapons, and also as a painter. He moved to Milan and worked there until 1499.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1483-04",
+      "age": 31,
+      "place": "Milan, Duchy of Milan, (Italy)",
+      "title": "The Virgin of the Rocks",
+      "text": "In April 1483 Leonardo and the de Predis brothers signed a contract to paint an altarpiece for a chapel in San Francesco Grande, Milan. The first version is now in the Louvre. According to the National Gallery, he sold it because he was not paid enough and later painted a second version, now in London.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["ng-rocks", "w-leonardo"]
+    },
+    {
+      "date": "1489",
+      "age": null,
+      "place": "Milan, Duchy of Milan, (Italy)",
+      "title": "Lady with an Ermine",
+      "text": "Around 1489 to 1491 he painted Cecilia Gallerani of Ludovico's court holding a small white animal. The portrait is now one of Poland's national treasures, in the Czartoryski Museum in Kraków.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-ermine"]
+    },
+    {
+      "date": "1490",
+      "age": 38,
+      "place": "Milan, Duchy of Milan, (Italy)",
+      "title": "The Vitruvian Man",
+      "text": "Around 1490 he drew a man inside a circle and a square, testing the ancient Roman architect Vitruvius's ideas about body proportions against his own measurements. That year he was also consulted on the building of Pavia Cathedral.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-vitruvian", "w-leonardo"]
+    },
+    {
+      "date": "1494-11",
+      "age": 42,
+      "place": "Milan, Duchy of Milan, (Italy)",
+      "title": "The horse that was never cast",
+      "text": "For years he worked on a giant bronze horse for the Sforza family and made a full model. In November 1494 Ludovico gave the bronze set aside for it to be made into a cannon for war instead. The horse was never cast.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1495",
+      "age": 43,
+      "place": "Milan, Duchy of Milan, (Italy)",
+      "title": "The Last Supper",
+      "text": "Around 1495 to 1498 he painted the Last Supper on the dining hall wall of the convent of Santa Maria delle Grazie. He used an experimental method, tempera on a dry wall instead of fresco, so he could work slowly and revise. The paint began to flake soon after he finished.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-lastsupper", "w-leonardo"]
+    },
+    {
+      "date": "1500",
+      "age": 47,
+      "place": "Venice, Republic of Venice, (Italy)",
+      "title": "Leaving Milan",
+      "text": "After the French overthrew Ludovico, Leonardo left Milan with his assistant Salai and the mathematician Luca Pacioli. In Venice he worked as a military architect and engineer before going back to Florence.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1502",
+      "age": 50,
+      "place": "Cesena, Romagna, (Italy)",
+      "title": "Engineer for Cesare Borgia",
+      "text": "In 1502 he served the military leader Cesare Borgia as an engineer, travelling through central Italy. For him he drew a map of the town of Imola.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1503-10",
+      "age": 51,
+      "place": "Florence, Republic of Florence, (Italy)",
+      "title": "The Mona Lisa begins",
+      "text": "Back in Florence, he rejoined the painters' guild on 18 October 1503 and began a portrait of Lisa del Giocondo, a silk merchant's wife. He kept working on it for years. Scholars disagree on how long: some place much of the work after 1513.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-leonardo", "w-monalisa"]
+    },
+    {
+      "date": "1504",
+      "age": 51,
+      "place": "Florence, Republic of Florence, (Italy)",
+      "title": "The battle wall",
+      "text": "He spent about two years on a huge mural of the Battle of Anghiari for the city's council hall, but never finished it. In January 1504 he sat on the committee that chose where to place Michelangelo's David. His father died that year.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1505",
+      "age": 53,
+      "place": "Florence, Republic of Florence, (Italy)",
+      "title": "Notes on the flight of birds",
+      "text": "Around 1505 he filled a small notebook of 18 sheets with studies of how birds fly and designs for flying machines. He noticed that a bird's centre of gravity is not the same as its centre of pressure.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-flight"]
+    },
+    {
+      "date": "1506",
+      "age": 54,
+      "place": "Milan, Duchy of Milan, (Italy)",
+      "title": "Back to Milan, and a pupil",
+      "text": "The French governor Charles d'Amboise called him back to Milan. A young nobleman, Francesco Melzi, became his pupil and, years later, his heir.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1508",
+      "age": 56,
+      "place": "Milan, Duchy of Milan, (Italy)",
+      "title": "Water, fossils and moonlight",
+      "text": "Around 1506 to 1508, and again around 1510 to 1512, he wrote the notes now called the Codex Leicester. They study how water moves, why sea fossils are found on mountains, and why the dark part of the Moon glows faintly, which he explained as light reflected from the Earth.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-leicester", "w-leonardo"]
+    },
+    {
+      "date": "1510",
+      "age": 58,
+      "place": "Pavia, Duchy of Milan, (Italy)",
+      "title": "Studying the human body",
+      "text": "In 1510 and 1511 he worked with Marcantonio della Torre, professor of anatomy at the University of Pavia. He made more than 240 detailed anatomical drawings and planned a book on anatomy that was never published.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1513-09",
+      "age": 61,
+      "place": "Rome, Papal States, (Italy)",
+      "title": "Rome",
+      "text": "When a Medici became Pope Leo X, Leonardo went to Rome in September 1513. He lived in the Belvedere of the Vatican palace until 1516.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1516",
+      "age": 64,
+      "place": "Amboise, Kingdom of France, (France)",
+      "title": "Invited to France",
+      "text": "King Francis I of France invited him into his service. Leonardo moved to France in 1516 and was given the manor house of Clos Luce, near the royal castle at Amboise.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1517",
+      "age": 65,
+      "place": "Amboise, Kingdom of France, (France)",
+      "title": "A paralysed right hand",
+      "text": "Around 1517, when he was 65, it was recorded that his right hand was paralysed. Leonardo was left-handed and wrote mostly in mirror writing, from right to left.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1518",
+      "age": 66,
+      "place": "Amboise, Kingdom of France, (France)",
+      "title": "The Mona Lisa goes to the king",
+      "text": "The Louvre says Francis I bought the Mona Lisa from Leonardo in 1518. Other records disagree: his assistant Salai owned a \"Gioconda\" when he died in 1524, and some scholars think the king got the painting only after Leonardo's death.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["louvre-monalisa", "w-monalisa"]
+    },
+    {
+      "date": "1519-05-02",
+      "age": 67,
+      "place": "Amboise, Kingdom of France, (France)",
+      "title": "Death at Clos Luce",
+      "text": "Leonardo died at Clos Luce on 2 May 1519, aged 67, possibly of a stroke. He was buried at Amboise. Francesco Melzi was his main heir and received his drawings, tools and books.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-leonardo"]
+    },
+    {
+      "date": "1570",
+      "age": null,
+      "place": "Milan, Duchy of Milan, (Italy)",
+      "title": "The notebooks scatter",
+      "text": "Melzi kept the notebooks safe until his death in 1570. His son took little interest, and pages were given away and sold. The sculptor Pompeo Leoni later cut up and rebound many sheets into the Codex Atlanticus. Today about 13,000 pages survive in collections across Europe.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-leonardo", "w-atlanticus"]
+    },
+    {
+      "date": "1888",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "The notebooks in English",
+      "text": "Jean Paul Richter published a large selection of the notebooks with English translations in 1888. It is now free on Project Gutenberg.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["richter"]
+    },
+    {
+      "date": "1911-08-21",
+      "age": null,
+      "place": "Paris, (France)",
+      "title": "The Mona Lisa stolen",
+      "text": "A Louvre worker, Vincenzo Peruggia, stole the Mona Lisa on 21 August 1911. He was caught trying to sell it in Florence, and it went back to the Louvre in January 1914.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-monalisa"]
+    },
+    {
+      "date": "1999-05-28",
+      "age": null,
+      "place": "Milan, Lombardy, (Italy)",
+      "title": "The Last Supper restored",
+      "text": "After surviving a 1943 bombing of the convent, the Last Supper went through a long restoration that began in 1978. It went back on view on 28 May 1999.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-lastsupper"]
+    }
+  ],
+  "works": [
+    { "year": "1475", "type": "painting", "title": "The Baptism of Christ (the angel)", "text": "Painted with his teacher Verrocchio around 1472 to 1475; Leonardo painted the young angel. Held by the Uffizi Gallery, Florence.", "sources": ["w-leonardo"] },
+    { "year": "1475", "type": "painting", "title": "Annunciation", "text": "An early painting of about 1472 to 1476. Held by the Uffizi Gallery, Florence.", "sources": ["w-leonardo"] },
+    { "year": "1476", "type": "painting", "title": "Ginevra de' Benci", "text": "A portrait of a young Florentine woman, about 1474 to 1478. Held by the National Gallery of Art, Washington, D.C., since 1967; the only Leonardo painting on public view in the Americas.", "sources": ["w-ginevra"] },
+    { "year": "1481", "type": "painting", "title": "Adoration of the Magi (unfinished)", "text": "Left as an underdrawing when he moved to Milan. Held by the Uffizi Gallery, Florence, since 1670.", "sources": ["w-adoration"] },
+    { "year": "1483", "type": "painting", "title": "The Virgin of the Rocks", "text": "Two versions of one altarpiece: the first in the Musée du Louvre, Paris, and the second, finished 1506 to 1508, in the National Gallery, London.", "sources": ["ng-rocks"], "url": "https://www.nationalgallery.org.uk/paintings/leonardo-da-vinci-the-virgin-of-the-rocks" },
+    { "year": "1489", "type": "painting", "title": "Lady with an Ermine", "text": "A portrait of Cecilia Gallerani in oil on walnut, about 1489 to 1491. Held by the Czartoryski Museum, part of the National Museum in Kraków, Poland.", "sources": ["w-ermine"] },
+    { "year": "1490", "type": "drawing", "title": "Vitruvian Man", "text": "A study of human proportions in pen, ink and watercolour. Held by the Gallerie dell'Accademia, Venice.", "sources": ["w-vitruvian"] },
+    { "year": "1494", "type": "sculpture", "title": "The Sforza Horse (never cast)", "text": "A giant bronze horse for the rulers of Milan. He made the model, but the metal went to make a cannon.", "sources": ["w-leonardo"] },
+    { "year": "1495", "type": "painting", "title": "The Last Supper", "text": "A wall painting of about 1495 to 1498, still in place in the refectory of Santa Maria delle Grazie, Milan.", "sources": ["w-lastsupper"] },
+    { "year": "1502", "type": "map", "title": "Map of Imola", "text": "A town plan drawn for Cesare Borgia while Leonardo worked as his engineer.", "sources": ["w-leonardo"] },
+    { "year": "1503", "type": "painting", "title": "Mona Lisa", "text": "Portrait of Lisa del Giocondo, begun in 1503 and worked on for years. Held by the Musée du Louvre, Paris.", "sources": ["w-monalisa", "louvre-monalisa"] },
+    { "year": "1503", "type": "painting", "title": "The Battle of Anghiari (lost)", "text": "A huge battle mural for Florence's council hall, left unfinished and now lost.", "sources": ["w-leonardo"] },
+    { "year": "1505", "type": "notebook", "title": "Codex on the Flight of Birds", "text": "An 18-sheet notebook on bird flight and flying machines. Held by the Royal Library, Turin.", "sources": ["w-flight"] },
+    { "year": "1507", "type": "painting", "title": "Saint John the Baptist", "text": "A late painting of about 1507 to 1516. Held by the Musée du Louvre, Paris.", "sources": ["w-leonardo"] },
+    { "year": "1508", "type": "notebook", "title": "Codex Leicester", "text": "72 pages on water, fossils and the light of the Moon. The only major Leonardo notebook in private hands; owned by a private collector since 1994.", "sources": ["w-leicester"] },
+    { "year": "1510", "type": "drawing", "title": "Anatomical drawings", "text": "More than 240 detailed drawings of the human body, many made with Marcantonio della Torre. Many are in the Royal Library at Windsor Castle.", "sources": ["w-leonardo"] },
+    { "year": "1519", "type": "notebook", "title": "Codex Atlanticus", "text": "1,119 sheets from 1478 to 1519 on flight, weapons, machines, mathematics and more, gathered into 12 volumes after his death. Held by the Biblioteca Ambrosiana, Milan.", "sources": ["w-atlanticus"] }
+  ],
+  "resources": [
+    { "label": "The Notebooks of Leonardo da Vinci, tr. Richter (Project Gutenberg #5000)", "url": "https://www.gutenberg.org/ebooks/5000", "what": "Richter's 1888 selection of the notebooks in English, free to read or download." },
+    { "label": "Leonardo da Vinci (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci", "what": "A detailed, well sourced account of his life, art and science." },
+    { "label": "The Virgin of the Rocks (National Gallery, London)", "url": "https://www.nationalgallery.org.uk/paintings/leonardo-da-vinci-the-virgin-of-the-rocks", "what": "The museum's own page on its version of the painting and the story of the two versions." },
+    { "label": "From the Mona Lisa to the Wedding Feast at Cana (Musée du Louvre)", "url": "https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana", "what": "The Louvre explains the Mona Lisa and the room where it hangs." },
+    { "label": "The Last Supper (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)", "what": "How he painted it, why it decayed, and how it was saved." },
+    { "label": "Codex Atlanticus (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Codex_Atlanticus", "what": "The largest collection of his notebook pages and what they cover." },
+    { "label": "Codex on the Flight of Birds (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Codex_on_the_Flight_of_Birds", "what": "His small notebook on how birds fly." },
+    { "label": "Vitruvian Man (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Vitruvian_Man", "what": "The story behind his famous drawing of human proportions." }
+  ],
+  "books": [
+    { "title": "The Notebooks of Leonardo da Vinci", "author": "Leonardo da Vinci, compiled and translated by Jean Paul Richter", "year": "1888", "kind": "by-him", "free": "https://www.gutenberg.org/ebooks/5000", "note": "His own notes on painting, light, the body, nature and life. Dip in anywhere; the short sayings near the end are a good start." },
+    { "title": "Leonardo da Vinci", "author": "Walter Isaacson", "year": "2017", "kind": "biography", "free": null, "note": "A readable modern life built around his notebooks and his curiosity (Simon & Schuster)." },
+    { "title": "Leonardo da Vinci: The Marvellous Works of Nature and Man", "author": "Martin Kemp", "year": "1981", "kind": "biography", "free": null, "note": "A classic study by a leading Leonardo scholar, linking his art and his science." }
+  ]
+}

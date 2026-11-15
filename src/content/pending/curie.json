@@ -1,0 +1,64 @@
+{
+  "id": "curie",
+  "name": "Marie Skłodowska-Curie",
+  "years": "1867 - 1934",
+  "title": "The Radium Pioneer",
+  "tagline": "She measured faint rays in a leaky shed, found two new elements, shared her methods freely, and drove X-ray cars to the front in the First World War.",
+  "sources": {
+    "w-curie": { "label": "Marie Curie (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Marie_Curie" },
+    "pc-gut": { "label": "Pierre Curie, by Marie Curie, with Autobiographical Notes, tr. Charlotte and Vernon Kellogg, 1923 (Project Gutenberg #69617)", "url": "https://www.gutenberg.org/ebooks/69617" },
+    "ia-vassar": { "label": "The Discovery of Radium, address at Vassar College, 14 May 1921 (Internet Archive)", "url": "https://archive.org/details/discoveryofradiu00curi" },
+    "aip-res2": { "label": "Marie Curie: The Discovery of Polonium and Radium (American Institute of Physics)", "url": "https://history.aip.org/exhibits/curie/resbr2.htm" },
+    "aip-war": { "label": "Marie Curie: War Duty, 1914-1919 (American Institute of Physics)", "url": "https://history.aip.org/exhibits/curie/war1.htm" },
+    "aip-girl1": { "label": "Marie Curie: Polish Girlhood (American Institute of Physics)", "url": "https://history.aip.org/exhibits/curie/polgirl1.htm" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Better yourself, then help others",
+      "idea": "As a young woman in Warsaw, Marie joined a secret school where each member taught what they knew best, including evening lessons for workers. She believed a better world starts with each person learning and then helping where they can be most useful.",
+      "quote": { "text": "You cannot hope to build a better world without improving the individuals. To that end each of us must work for his own improvement, and at the same time share a general responsibility for all humanity, our particular duty being to aid those to whom we think we can be most useful.","credit": "Pierre Curie, Autobiographical Notes ch. I, tr. Charlotte and Vernon Kellogg (1923)" },
+      "practice": "Pick one small skill you are learning. This week, teach the part you already know to one other person.",
+      "sources": ["pc-gut", "aip-girl1", "w-curie"]
+    },
+    {
+      "title": "Keep going after failure",
+      "idea": "Separating radium meant years of stirring heavy vats in a cold shed, and many trials that came to nothing. Marie wrote that the low moods after failed work did not last, because the next step pulled her back in.",
+      "quote": { "text": "The feeling of discouragement that sometimes came after some unsuccessful toil did not last long and gave way to renewed activity.", "credit": "Pierre Curie, Autobiographical Notes ch. II, tr. Charlotte and Vernon Kellogg (1923)" },
+      "practice": "When something you try fails today, write one line on what happened and one small next step. Do that step before the day ends.",
+      "sources": ["pc-gut", "aip-res2"]
+    },
+    {
+      "title": "Share what you find",
+      "idea": "Marie and Pierre chose not to take a patent on how to prepare radium. They published their methods and answered questions from anyone who asked, so others could build on the work.",
+      "quote": { "text": "We took no copyright, and published without reserve all the results of our research, as well as the exact processes of the preparation of radium.", "credit": "Pierre Curie ch. VI, tr. Charlotte and Vernon Kellogg (1923)" },
+      "practice": "Write down one useful thing you figured out recently, step by step, and give it to someone who could use it.",
+      "sources": ["pc-gut", "w-curie"]
+    },
+    {
+      "title": "Study for its own sake",
+      "idea": "When radium was found, no one knew it would help doctors. Marie argued that pure research is worth doing for its beauty, and that useful results often come later and by surprise.",
+      "quote": { "text": "It must be done for itself, for the beauty of science, and then there is always the chance that a scientific discovery may become like the radium a benefit for humanity.", "credit": "The Discovery of Radium, address at Vassar College (1921)" },
+      "practice": "Spend fifteen minutes learning about something only because it makes you curious. Write down one surprising fact.",
+      "sources": ["ia-vassar"]
+    },
+    {
+      "title": "Go and see the need",
+      "idea": "In the First World War, Marie did not wait for reports. She travelled to hospitals near the front, saw what was missing, then came back with X-ray equipment and taught local staff to use it.",
+      "quote": { "text": "I could not have accomplished this work without seeing for myself the needs of the ambulance stations and hospitals.", "credit": "Pierre Curie, Autobiographical Notes ch. III, tr. Charlotte and Vernon Kellogg (1923)" },
+      "practice": "Before you fix a problem for someone, ask them to show you how it looks from where they stand. Then decide what to do.",
+      "sources": ["pc-gut", "aip-war"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Teach one thing", "action": "Teach one person a small skill or fact you know well. Keep it to five minutes." },
+    { "day": 2, "title": "Measure it", "action": "Pick one thing you usually guess at, like time spent on a task. Measure it today and write the number down." },
+    { "day": 3, "title": "The next step", "action": "When something goes wrong, write what happened and one small next step. Take that step today." },
+    { "day": 4, "title": "Share a method", "action": "Write out, step by step, one thing you know how to do well, and share it freely." },
+    { "day": 5, "title": "Pure curiosity", "action": "Spend fifteen minutes learning about something only because it interests you. Note one surprise." },
+    { "day": 6, "title": "See for yourself", "action": "Ask someone you help or work with to show you their problem in person before you suggest a fix." },
+    { "day": 7, "title": "Lab notebook", "action": "Read back your notes from the week. Write one rule for steady, patient work in your own words." }
+  ],
+  "reflect": "What is one piece of slow, patient work you could keep going with this week, even if no one sees the results yet?",
+  "keepsake": "Marie Skłodowska-Curie Builder Collectible"
+}

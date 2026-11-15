@@ -1,0 +1,64 @@
+{
+  "id": "franklin",
+  "name": "Benjamin Franklin",
+  "years": "1706 - 1790",
+  "title": "The Self-Made Citizen",
+  "tagline": "He taught himself to write, built clubs, libraries and inventions for his city, and gave his ideas away.",
+  "sources": {
+    "w-franklin": { "label": "Benjamin Franklin (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin" },
+    "w-stove": { "label": "Franklin stove (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Franklin_stove" },
+    "w-poorrichard": { "label": "Poor Richard's Almanack (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Poor_Richard%27s_Almanack" },
+    "w-library": { "label": "Library Company of Philadelphia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Library_Company_of_Philadelphia" },
+    "pg-autobio": { "label": "Autobiography of Benjamin Franklin, ed. Frank Woodworth Pine (1916), full text (Project Gutenberg #20203)", "url": "https://www.gutenberg.org/ebooks/20203" },
+    "pg-wealth": { "label": "Franklin's Way to Wealth; or, Poor Richard Improved, full text (Project Gutenberg #43855)", "url": "https://www.gutenberg.org/ebooks/43855" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Copy, compare, correct",
+      "idea": "Franklin left school at ten. To learn to write well, he took essays from a magazine he admired, jotted short notes on each sentence, waited a few days, then rewrote the essays from his notes and compared his version with the original.",
+      "quote": { "text": "Then I compared my Spectator with the original, discovered some of my faults, and corrected them.", "credit": "The Autobiography, ch. II (ed. Frank W. Pine, 1916)" },
+      "practice": "Pick a short piece of writing you admire. Note its main points, close it, write your own version, then compare and mark two things to improve.",
+      "sources": ["pg-autobio", "w-franklin"]
+    },
+    {
+      "title": "Learn in good company",
+      "idea": "At 21 he formed the Junto, a club of young tradesmen who met each Friday to debate questions and read essays. Its rules banned arguing just to win. The club later gave birth to a lending library.",
+      "quote": { "text": "...to be conducted in the sincere spirit of inquiry after truth, without fondness for dispute, or desire of victory", "credit": "The Autobiography, ch. VII (ed. Frank W. Pine, 1916)" },
+      "practice": "Ask a friend one honest question about a topic you disagree on. Listen to understand, not to win.",
+      "sources": ["pg-autobio", "w-library"]
+    },
+    {
+      "title": "Work on one virtue at a time",
+      "idea": "Franklin listed 13 virtues and kept a little book with a page for each. He focused on one virtue a week and marked a dot each day he slipped, aiming for a clean line.",
+      "quote": { "text": "Resolve to perform what you ought; perform without fail what you resolve.", "credit": "The Autobiography, ch. IX (ed. Frank W. Pine, 1916)" },
+      "practice": "Choose one habit for this week. Draw seven boxes and tick one each day you keep it.",
+      "sources": ["pg-autobio"]
+    },
+    {
+      "title": "Small strokes, every day",
+      "idea": "For 25 years his almanac was full of short sayings about steady work and wise use of time. He wrote that the proverbs held 'the wisdom of many ages and nations'; most were gathered from older books and reworded, not invented by him.",
+      "quote": { "text": "Little Strokes fell great Oaks.", "credit": "Poor Richard Improved (1758), preface 'The Way to Wealth'" },
+      "practice": "Pick one big task you keep putting off. Work on it for just 15 minutes today, and again tomorrow.",
+      "sources": ["pg-wealth", "pg-autobio", "w-poorrichard"]
+    },
+    {
+      "title": "Share what you make",
+      "idea": "When the governor offered him a patent on his new stove, Franklin turned it down. He never patented his inventions, including the lightning rod, and wrote down why.",
+      "quote": { "text": "That, as we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours; and this we should do freely and generously.", "credit": "The Autobiography, ch. XII (ed. Frank W. Pine, 1916)" },
+      "practice": "Share one useful thing you know: write a short how-to, or teach someone a skill for ten minutes.",
+      "sources": ["pg-autobio", "w-stove", "w-franklin"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Copy and compare", "action": "Rewrite a paragraph you admire from memory, then compare it with the original and fix two things." },
+    { "day": 2, "title": "Ask, don't argue", "action": "Ask someone a real question on a topic you disagree about, and only listen." },
+    { "day": 3, "title": "One virtue", "action": "Choose one habit for the week and draw seven boxes to tick." },
+    { "day": 4, "title": "Fifteen minutes", "action": "Give a task you have been avoiding 15 focused minutes." },
+    { "day": 5, "title": "Plan the day", "action": "Franklin planned each day in hours. Write tomorrow's plan in four blocks: work, learning, rest, people.", "sources": ["pg-autobio"] },
+    { "day": 6, "title": "Give it away", "action": "Share one useful tip, tool or skill with someone, for free." },
+    { "day": 7, "title": "Start a small club", "action": "Invite one or two friends to meet and each bring a question worth discussing.", "sources": ["w-library"] }
+  ],
+  "reflect": "What do you know or have made that could help others if you shared it freely?",
+  "keepsake": "Benjamin Franklin Builder Collectible"
+}

@@ -1,0 +1,307 @@
+{
+  "sources": {
+    "w-victoria": { "label": "Queen Victoria (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Queen_Victoria" },
+    "w-journals": { "label": "Queen Victoria's journals (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Queen_Victoria%27s_journals" },
+    "w-famine-ireland": { "label": "Great Famine (Ireland) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Great_Famine_(Ireland)" },
+    "w-famine-india": { "label": "Great Famine of 1876-1878 (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Great_Famine_of_1876%E2%80%931878" },
+    "w-rebellion": { "label": "Indian Rebellion of 1857 (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857" },
+    "w-durbar": { "label": "Delhi Durbar (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Delhi_Durbar" },
+    "w-vc": { "label": "Victoria Cross (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Victoria_Cross" },
+    "w-exhibition": { "label": "Great Exhibition (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Great_Exhibition" },
+    "w-netley": { "label": "Royal Victoria Hospital, Netley (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Royal_Victoria_Hospital,_Netley" },
+    "w-karim": { "label": "Abdul Karim (the Munshi) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Abdul_Karim_(the_Munshi)" },
+    "w-leaves": { "label": "Leaves from the Journal of Our Life in the Highlands (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Leaves_from_the_Journal_of_Our_Life_in_the_Highlands" },
+    "eh-osborne": { "label": "History of Osborne (English Heritage)", "url": "https://www.english-heritage.org.uk/visit/places/osborne/history-and-stories/history/" },
+    "letters1": { "label": "The Letters of Queen Victoria, vol. 1, 1837-1843 (Project Gutenberg #20023)", "url": "https://www.gutenberg.org/ebooks/20023" },
+    "letters2": { "label": "The Letters of Queen Victoria, vol. 2, 1844-1853 (Project Gutenberg #24780)", "url": "https://www.gutenberg.org/ebooks/24780" },
+    "letters3": { "label": "The Letters of Queen Victoria, vol. 3, 1854-1861 (Project Gutenberg #28649)", "url": "https://www.gutenberg.org/ebooks/28649" },
+    "leaves": { "label": "Leaves From the Journal of Our Life in the Highlands, ed. Arthur Helps (Project Gutenberg #66173)", "url": "https://www.gutenberg.org/ebooks/66173" },
+    "ia-moreleaves": { "label": "More Leaves from the Journal of a Life in the Highlands, 1884 (Internet Archive)", "url": "https://archive.org/details/moreleavesfromj00victuoft" }
+  },
+  "timeline": [
+    {
+      "date": "1819-05-24", "age": 0, "place": "London, England, (United Kingdom)",
+      "title": "Born at Kensington Palace",
+      "text": "Princess Alexandrina Victoria was born at Kensington Palace. She was the only child of the Duke and Duchess of Kent, and a granddaughter of King George III.",
+      "turning": false, "kind": "life", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1820-01", "age": 0, "place": "London, England, (United Kingdom)",
+      "title": "A strict, lonely childhood",
+      "text": "Her father died in January 1820, and her grandfather King George III died a week later. Her mother and the comptroller John Conroy raised her under strict rules later called the Kensington System, which kept her apart from other children.",
+      "turning": false, "kind": "setback", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1832-07", "age": 13, "place": "England and Wales, (United Kingdom)",
+      "title": "The first journal",
+      "text": "On a journey to Wales she began a daily journal in a book given by her mother. She kept writing until just before her death. It grew to 122 volumes.",
+      "turning": false, "kind": "work", "sources": ["w-victoria", "w-journals"]
+    },
+    {
+      "date": "1835-10", "age": 16, "place": "Ramsgate, Kent, (United Kingdom)",
+      "title": "A serious fever",
+      "text": "At Ramsgate she fell badly ill with a fever. Conroy at first dismissed it as pretending. Biographers disagree about what the illness was.",
+      "turning": false, "kind": "setback", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1836-05", "age": null, "place": "London, England, (United Kingdom)",
+      "title": "Meeting Albert",
+      "text": "Relatives from Coburg visited, and she met her cousin Prince Albert for the first time.",
+      "turning": false, "kind": "life", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1837-06-20", "age": 18, "place": "London, England, (United Kingdom)",
+      "title": "Queen at eighteen",
+      "text": "King William IV died, and Victoria became queen. She had turned 18 a month earlier, so no regent was needed. She saw her ministers alone, and the Prime Minister Lord Melbourne became her close adviser. That day she wrote in her journal that she would do her utmost to fulfil her duty.",
+      "turning": true, "kind": "life", "sources": ["w-victoria", "letters1"]
+    },
+    {
+      "date": "1838-06-28", "age": 19, "place": "London, England, (United Kingdom)",
+      "title": "Crowned in Westminster Abbey",
+      "text": "Victoria was crowned at Westminster Abbey.",
+      "turning": false, "kind": "honour", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1839", "age": 19, "place": "London, England, (United Kingdom)",
+      "title": "Early mistakes",
+      "text": "Her handling of rumours about a lady-in-waiting, Lady Flora Hastings, hurt her reputation. The same year, in the Bedchamber crisis, she refused to change her ladies when Robert Peel was asked to form a government, and Melbourne returned to office.",
+      "turning": false, "kind": "setback", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1840-02-10", "age": 20, "place": "London, England, (United Kingdom)",
+      "title": "Marriage to Albert",
+      "text": "As queen, Victoria had to propose, which she did at Windsor on 15 October 1839. They married at the Chapel Royal, St James's Palace. Albert became her partner in work as well as life, and they had nine children.",
+      "turning": true, "kind": "life", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1840", "age": 21, "place": "London, England, (United Kingdom)",
+      "title": "Shots at the carriage",
+      "text": "Early in her first pregnancy, 18-year-old Edward Oxford fired twice at her carriage. He was found not guilty by reason of insanity. Several more attempts on her life followed over the years.",
+      "turning": false, "kind": "setback", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1842-05-30", "age": 23, "place": "London, England, (United Kingdom)",
+      "title": "Driving out to catch him",
+      "text": "A day after John Francis aimed a pistol at her that failed to fire, she and Albert drove the same route again so he would show himself. He fired and was caught. She wrote to her uncle that she was not at all frightened.",
+      "turning": false, "kind": "setback", "sources": ["w-victoria", "letters1"]
+    },
+    {
+      "date": "1845", "age": 26, "place": "Isle of Wight, England, (United Kingdom)",
+      "title": "A family home at Osborne",
+      "text": "Victoria and Albert bought the Osborne estate as a private home away from court life. Albert worked with the builder Thomas Cubitt on the new house. They later bought Balmoral in Scotland too.",
+      "turning": false, "kind": "life", "sources": ["eh-osborne", "w-victoria"]
+    },
+    {
+      "date": "1845", "age": 26, "place": "Ireland, United Kingdom, (Ireland)",
+      "title": "The Great Famine begins",
+      "text": "Potato blight struck Ireland. Over the next years about one million people died and about one million more emigrated. The government's response, including the end of aid under a laissez-faire policy, is widely criticised today.",
+      "turning": false, "kind": "setback", "sources": ["w-famine-ireland", "w-victoria"]
+    },
+    {
+      "date": "1847-01", "age": 27, "place": "London, England, (United Kingdom)",
+      "title": "A gift and an appeal",
+      "text": "Victoria gave 2,000 pounds of her own to the British Relief Association, and a \"Queen's Letter\" appeal helped it raise more than 170,000 pounds. In Ireland she was later called \"the Famine Queen\".",
+      "turning": false, "kind": "work", "sources": ["w-victoria", "w-famine-ireland"]
+    },
+    {
+      "date": "1849", "age": 30, "place": "Ireland, United Kingdom, (Ireland)",
+      "title": "First visit to Ireland",
+      "text": "Her first visit to Ireland was a public success, but historians say it had no lasting effect on the growth of Irish nationalism.",
+      "turning": false, "kind": "life", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1851-05-01", "age": 31, "place": "London, England, (United Kingdom)",
+      "title": "The Great Exhibition",
+      "text": "Victoria opened Albert's Great Exhibition in the glass Crystal Palace in Hyde Park. About six million people came. She called it \"the happiest, proudest day in my life\", and its profit helped found the museums of South Kensington.",
+      "turning": true, "kind": "work", "sources": ["w-exhibition", "letters2"]
+    },
+    {
+      "date": "1855-03-05", "age": 35, "place": "London, England, (United Kingdom)",
+      "title": "Better hospitals for soldiers",
+      "text": "During the Crimean War she pressed her war minister to build proper hospitals for sick and wounded soldiers, saying the old wards were more like prisons than hospitals.",
+      "turning": false, "kind": "work", "sources": ["letters3", "w-netley"]
+    },
+    {
+      "date": "1856-01-29", "age": 36, "place": "Windsor, England, (United Kingdom)",
+      "title": "The Victoria Cross",
+      "text": "Victoria issued the royal warrant creating the Victoria Cross for valour, open to any rank. She chose the design and changed the motto to \"For Valour\". In May she laid the foundation stone of the Royal Victoria Hospital at Netley.",
+      "turning": false, "kind": "work", "sources": ["w-vc", "letters3", "w-netley"]
+    },
+    {
+      "date": "1857-05-10", "age": 37, "place": "Meerut, North-Western Provinces, (India)",
+      "title": "Rebellion in India",
+      "text": "Soldiers of the East India Company's army rose up at Meerut, and the revolt spread across northern India. There was great violence on both sides, including British reprisals against whole villages.",
+      "turning": false, "kind": "setback", "sources": ["w-rebellion"]
+    },
+    {
+      "date": "1857-06-26", "age": 38, "place": "London, England, (United Kingdom)",
+      "title": "The first crosses",
+      "text": "In Hyde Park, Victoria personally gave the Victoria Cross to 62 men from the Crimean War. In her reign she presented 185 of them herself.",
+      "turning": false, "kind": "honour", "sources": ["w-vc", "letters3"]
+    },
+    {
+      "date": "1858-11-01", "age": 39, "place": "British India, (South Asia)",
+      "title": "The Crown takes over India",
+      "text": "After the rebellion, the East India Company was dissolved and the British government ruled India directly. Victoria had asked for the proclamation to the people of India to be rewritten in a more generous tone. It promised rights like those of other British subjects and religious toleration.",
+      "turning": true, "kind": "work", "sources": ["w-rebellion", "letters3"]
+    },
+    {
+      "date": "1861-12-14", "age": 42, "place": "Windsor, England, (United Kingdom)",
+      "title": "Albert dies",
+      "text": "Her mother died in March. In December Albert died, diagnosed with typhoid fever. Victoria wore black for the rest of her life and withdrew from public view, earning the name \"widow of Windsor\".",
+      "turning": true, "kind": "setback", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1867", "age": 48, "place": "London, England, (United Kingdom)",
+      "title": "Back to public duty",
+      "text": "In 1866 she opened Parliament for the first time since Albert's death. In 1867 she supported the Reform Act, which doubled the number of voters by giving the vote to many working men in towns.",
+      "turning": false, "kind": "work", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1868-01", "age": 48, "place": "London, England, (United Kingdom)",
+      "title": "Leaves from the Journal",
+      "text": "She published extracts from her journal about family holidays in the Scottish Highlands, edited by Arthur Helps. The first edition sold 20,000 copies.",
+      "turning": false, "kind": "work", "sources": ["leaves", "w-leaves"]
+    },
+    {
+      "date": "1876-05-01", "age": 56, "place": "London, England, (United Kingdom)",
+      "title": "Empress of India",
+      "text": "The Royal Titles Act took effect, and Victoria gained the title Empress of India.",
+      "turning": false, "kind": "work", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1877-01-01", "age": 57, "place": "Delhi, British India, (India)",
+      "title": "The Durbar and the famine",
+      "text": "The new title was proclaimed at a great Durbar in Delhi, with the viceroy Lord Lytton standing in for her. At the same time a terrible famine was spreading in southern and western India, with deaths estimated at 5.6 to 9.6 million. The Durbar's cost and the government's harsh relief policy are criticised by historians.",
+      "turning": false, "kind": "setback", "sources": ["w-durbar", "w-famine-india", "w-victoria"]
+    },
+    {
+      "date": "1884", "age": 64, "place": "London, England, (United Kingdom)",
+      "title": "More Leaves",
+      "text": "A second book of journal extracts, More Leaves from the Journal of a Life in the Highlands, covered the years 1862 to 1882.",
+      "turning": false, "kind": "work", "sources": ["ia-moreleaves", "w-victoria"]
+    },
+    {
+      "date": "1887-06-20", "age": 68, "place": "London, England, (United Kingdom)",
+      "title": "Golden Jubilee",
+      "text": "She marked fifty years as queen with a banquet, and the next day a procession and thanksgiving service at Westminster Abbey.",
+      "turning": false, "kind": "honour", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1887-06-23", "age": 68, "place": "Windsor, England, (United Kingdom)",
+      "title": "Learning Urdu at 68",
+      "text": "She took on two Indian servants. One, Abdul Karim, was soon teaching her Urdu and became her \"Munshi\", or teacher and clerk. Courtiers resented his rise, a hostility tied to racial prejudice. She kept him with her until she died.",
+      "turning": false, "kind": "life", "sources": ["w-victoria", "w-karim"]
+    },
+    {
+      "date": "1897-06-22", "age": 78, "place": "London, England, (United Kingdom)",
+      "title": "Diamond Jubilee",
+      "text": "In September 1896 she had passed George III as the longest-reigning British monarch. For her 60 years on the throne, a six-mile procession went through London, and a service was held outside St Paul's Cathedral while she sat in her open carriage.",
+      "turning": true, "kind": "honour", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1900-04", "age": 80, "place": "Ireland, United Kingdom, (Ireland)",
+      "title": "A last visit to Ireland",
+      "text": "With the Boer War unpopular in Europe, she visited Ireland instead of France, her first visit since 1861. The Irish nationalist Maud Gonne wrote an article about the visit titled \"The Famine Queen\".",
+      "turning": false, "kind": "life", "sources": ["w-victoria"]
+    },
+    {
+      "date": "1901-01-22", "age": 81, "place": "Isle of Wight, England, (United Kingdom)",
+      "title": "Death at Osborne",
+      "text": "Victoria died at Osborne House after a reign of 63 years and 216 days, the longest of any British monarch up to then. After a funeral at St George's Chapel, Windsor, she was buried beside Albert at Frogmore.",
+      "turning": true, "kind": "life", "sources": ["w-victoria", "eh-osborne"]
+    },
+    {
+      "date": "1902", "age": null, "place": "Isle of Wight, England, (United Kingdom)",
+      "title": "Osborne given to the nation",
+      "text": "Her son Edward VII gave the Osborne estate to the nation. The house can still be visited.",
+      "turning": false, "kind": "legacy", "sources": ["eh-osborne"]
+    },
+    {
+      "date": "2012", "age": null, "place": "Oxford, England, (United Kingdom)",
+      "title": "The journals go online",
+      "text": "Her surviving journals were put online with the Bodleian Libraries. Many of the originals are lost: her daughter Beatrice copied and edited them after her death, and most originals from 1840 on were destroyed.",
+      "turning": false, "kind": "legacy", "sources": ["w-journals"]
+    }
+  ],
+  "works": [
+    {
+      "year": "1832", "type": "journal", "title": "The journals",
+      "text": "A daily record kept from age 13 until just before her death, filling 122 volumes. Most survive only in the copy edited by her daughter Beatrice.",
+      "sources": ["w-journals", "w-victoria"], "url": "https://en.wikipedia.org/wiki/Queen_Victoria%27s_journals"
+    },
+    {
+      "year": "1837", "type": "letters", "title": "Letters, 1837-1861",
+      "text": "A selection of her letters to ministers and family from her first 24 years as queen, published in three volumes in 1907 by A. C. Benson and Viscount Esher.",
+      "sources": ["letters1", "letters2", "letters3"], "url": "https://www.gutenberg.org/ebooks/20023"
+    },
+    {
+      "year": "1845", "type": "home", "title": "Osborne House",
+      "text": "The family home on the Isle of Wight that she and Albert bought and rebuilt, with a Swiss Cottage in the children's garden and a later Durbar Wing.",
+      "sources": ["eh-osborne"], "url": "https://www.english-heritage.org.uk/visit/places/osborne/history-and-stories/history/"
+    },
+    {
+      "year": "1847", "type": "appeal", "title": "The Queen's Letter for Irish famine relief",
+      "text": "A royal appeal that helped the British Relief Association raise more than 170,000 pounds, alongside her own gift of 2,000 pounds.",
+      "sources": ["w-famine-ireland", "w-victoria"], "url": "https://en.wikipedia.org/wiki/Great_Famine_(Ireland)"
+    },
+    {
+      "year": "1851", "type": "event", "title": "Opening the Great Exhibition",
+      "text": "She opened Albert's exhibition of industry from around the world and returned many times. Its profit helped found the V&A, the Science Museum and the Natural History Museum.",
+      "sources": ["w-exhibition", "letters2"], "url": "https://en.wikipedia.org/wiki/Great_Exhibition"
+    },
+    {
+      "year": "1855", "type": "letters", "title": "The push for military hospitals",
+      "text": "Her letters to the war minister urging new hospitals for sick and wounded soldiers during the Crimean War.",
+      "sources": ["letters3", "w-netley"], "url": "https://www.gutenberg.org/ebooks/28649"
+    },
+    {
+      "year": "1856", "type": "honour", "title": "The Victoria Cross",
+      "text": "Britain's highest award for gallantry, open to any rank. She chose the design and the motto \"For Valour\".",
+      "sources": ["w-vc", "letters3"], "url": "https://en.wikipedia.org/wiki/Victoria_Cross"
+    },
+    {
+      "year": "1856", "type": "building", "title": "Royal Victoria Hospital, Netley",
+      "text": "She laid the foundation stone of what became Britain's largest military hospital, with about 1,000 beds. It opened in 1863; only its chapel survives.",
+      "sources": ["w-netley"], "url": "https://en.wikipedia.org/wiki/Royal_Victoria_Hospital,_Netley"
+    },
+    {
+      "year": "1858", "type": "proclamation", "title": "The Proclamation to India",
+      "text": "The statement of direct Crown rule over India, which she asked to be rewritten with a more generous tone. It promised rights like those of other British subjects and religious toleration.",
+      "sources": ["letters3", "w-rebellion"], "url": "https://www.gutenberg.org/ebooks/28649"
+    },
+    {
+      "year": "1868", "type": "book", "title": "Leaves from the Journal of Our Life in the Highlands",
+      "text": "Her journal entries about family life and travels in Scotland from 1848 to 1861, with her own mentions of sketching along the way.",
+      "sources": ["leaves", "w-leaves"], "url": "https://www.gutenberg.org/ebooks/66173"
+    },
+    {
+      "year": "1884", "type": "book", "title": "More Leaves from the Journal of a Life in the Highlands",
+      "text": "A second volume of Highland journal extracts covering 1862 to 1882.",
+      "sources": ["ia-moreleaves", "w-victoria"], "url": "https://archive.org/details/moreleavesfromj00victuoft"
+    },
+    {
+      "year": "1887", "type": "study", "title": "Learning Urdu",
+      "text": "Lessons with Abdul Karim from 1887, which she later used in an audience with a visiting Maharani.",
+      "sources": ["w-karim"], "url": "https://en.wikipedia.org/wiki/Abdul_Karim_(the_Munshi)"
+    }
+  ],
+  "resources": [
+    { "label": "The Letters of Queen Victoria, vol. 1 (Project Gutenberg #20023)", "url": "https://www.gutenberg.org/ebooks/20023", "what": "Her letters from 1837 to 1843, with extracts from her journal on the day she became queen." },
+    { "label": "The Letters of Queen Victoria, vol. 2 (Project Gutenberg #24780)", "url": "https://www.gutenberg.org/ebooks/24780", "what": "Letters from 1844 to 1853, including the Great Exhibition." },
+    { "label": "The Letters of Queen Victoria, vol. 3 (Project Gutenberg #28649)", "url": "https://www.gutenberg.org/ebooks/28649", "what": "Letters from 1854 to 1861: the Crimean War, the Victoria Cross and India." },
+    { "label": "Leaves From the Journal of Our Life in the Highlands (Project Gutenberg #66173)", "url": "https://www.gutenberg.org/ebooks/66173", "what": "Her own journal extracts from Scotland, free to read online." },
+    { "label": "More Leaves from the Journal of a Life in the Highlands (Internet Archive)", "url": "https://archive.org/details/moreleavesfromj00victuoft", "what": "A scanned 1884 copy of the second Highland volume." },
+    { "label": "Letters of Queen Victoria, 1907, vol. 1 (Internet Archive)", "url": "https://archive.org/details/lettersofqueenvi01victiala", "what": "A scanned printed copy of the first volume of her letters." },
+    { "label": "Queen Victoria's journals (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Queen_Victoria%27s_journals", "what": "How her journals were kept, edited, partly destroyed and later put online." },
+    { "label": "History of Osborne (English Heritage)", "url": "https://www.english-heritage.org.uk/visit/places/osborne/history-and-stories/history/", "what": "The story of the family home where she died, now open to visitors." }
+  ],
+  "books": [
+    { "title": "The Letters of Queen Victoria, 1837-1861", "author": "Queen Victoria, edited by A. C. Benson and Viscount Esher", "year": "1907", "kind": "by-her", "free": "https://www.gutenberg.org/ebooks/20023", "note": "Three volumes of her letters and some journal extracts. Volume 1 is linked; volumes 2 and 3 are also on Project Gutenberg." },
+    { "title": "Leaves from the Journal of Our Life in the Highlands, 1848-1861", "author": "Queen Victoria, edited by Arthur Helps", "year": "1868", "kind": "by-her", "free": "https://www.gutenberg.org/ebooks/66173", "note": "Warm, everyday scenes from family holidays in Scotland. A best seller in its time." },
+    { "title": "More Leaves from the Journal of a Life in the Highlands, 1862-1882", "author": "Queen Victoria", "year": "1884", "kind": "by-her", "free": "https://archive.org/details/moreleavesfromj00victuoft", "note": "The sequel, written in her years as a widow (Smith, Elder, London)." },
+    { "title": "Queen Victoria", "author": "Lytton Strachey", "year": "1921", "kind": "biography", "free": null, "note": "A short, famous early biography, listed in Wikipedia's bibliography (Chatto and Windus)." },
+    { "title": "Victoria R.I.", "author": "Elizabeth Longford", "year": "1964", "kind": "biography", "free": null, "note": "A standard full biography, widely cited on Wikipedia (Weidenfeld & Nicolson)." },
+    { "title": "Victoria The Queen: An Intimate Biography of the Woman Who Ruled an Empire", "author": "Julia Baird", "year": "2016", "kind": "biography", "free": null, "note": "A modern, readable life story (Random House), listed in Wikipedia's bibliography." }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "sources": {
+    "w-shakespeare": { "label": "William Shakespeare (Wikipedia)", "url": "https://en.wikipedia.org/wiki/William_Shakespeare" },
+    "w-chronology": { "label": "Chronology of Shakespeare's plays (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Chronology_of_Shakespeare%27s_plays" },
+    "w-folio": { "label": "First Folio (Wikipedia)", "url": "https://en.wikipedia.org/wiki/First_Folio" },
+    "w-globe": { "label": "Globe Theatre (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Globe_Theatre" },
+    "w-venus": { "label": "Venus and Adonis, the poem (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(Shakespeare_poem)" },
+    "w-sonnets": { "label": "Shakespeare's sonnets (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Shakespeare%27s_sonnets" },
+    "w-authorship": { "label": "Shakespeare authorship question (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Shakespeare_authorship_question" },
+    "w-play": { "label": "Antony and Cleopatra, the play (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Antony_and_Cleopatra" },
+    "pg-complete": { "label": "The Complete Works of William Shakespeare (Project Gutenberg #100)", "url": "https://www.gutenberg.org/ebooks/100" },
+    "pg-sonnets": { "label": "Shakespeare's Sonnets (Project Gutenberg #1041)", "url": "https://www.gutenberg.org/ebooks/1041" },
+    "folger": { "label": "Shakespeare's Works, Folger Shakespeare Library", "url": "https://www.folger.edu/explore/shakespeares-works/" },
+    "sbt": { "label": "William Shakespeare, Shakespeare Birthplace Trust", "url": "https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/william-shakespeare/" }
+  },
+  "timeline": [
+    {
+      "date": "1564-04-26",
+      "age": 0,
+      "place": "Stratford-upon-Avon, Warwickshire, (United Kingdom)",
+      "title": "Baptised in Stratford",
+      "text": "William was baptised on 26 April 1564. His exact birthday is not recorded; it is traditionally kept on 23 April. He was the third of eight children of John Shakespeare, a glover and alderman, and Mary Arden.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-shakespeare", "sbt"]
+    },
+    {
+      "date": "1571",
+      "age": null,
+      "place": "Stratford-upon-Avon, Warwickshire, (United Kingdom)",
+      "title": "The grammar school",
+      "text": "Most biographers think he went to the King's New School, Stratford's grammar school. No attendance records survive, so this is probable, not proven, and the years are not known.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-shakespeare"]
+    },
+    {
+      "date": "1582-11-27",
+      "age": 18,
+      "place": "Stratford-upon-Avon, Warwickshire, (United Kingdom)",
+      "title": "Marriage to Anne Hathaway",
+      "text": "A licence for William to marry Anne Hathaway was issued on 27 November 1582. He was 18 and she was 26.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-shakespeare"]
+    },
+    {
+      "date": "1583-05-26",
+      "age": 19,
+      "place": "Stratford-upon-Avon, Warwickshire, (United Kingdom)",
+      "title": "A daughter, Susanna",
+      "text": "Their first child, Susanna, was baptised on 26 May 1583.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-shakespeare"]
+    },
+    {
+      "date": "1585-02-02",
+      "age": 20,
+      "place": "Stratford-upon-Avon, Warwickshire, (United Kingdom)",
+      "title": "Twins, Hamnet and Judith",
+      "text": "Twins, a son Hamnet and a daughter Judith, were baptised on 2 February 1585.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-shakespeare"]
+    },
+    {
+      "date": "1585",
+      "age": null,
+      "place": "Stratford-upon-Avon and London, (United Kingdom)",
+      "title": "The lost years",
+      "text": "From 1585 to 1592 almost nothing is known about him, so scholars call these the \"lost years\". His name appears in a London law case in 1588 and 1589. Many stories about this time were told later and have no firm evidence.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-shakespeare", "sbt"]
+    },
+    {
+      "date": "1592",
+      "age": 28,
+      "place": "London, England, (United Kingdom)",
+      "title": "\"An upstart Crow\"",
+      "text": "The first surviving mention of his theatre work is an attack. In Groats-Worth of Wit (1592), the writer Robert Greene called him \"an upstart Crow, beautified with our feathers\", mocking an actor for daring to write plays. By then his early history plays were on stage.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-shakespeare", "w-chronology"]
+    },
+    {
+      "date": "1592",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "Plague closes the theatres",
+      "text": "Outbreaks of plague closed London's theatres for long periods in 1592 and 1593, cutting off the players' income.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-shakespeare", "w-venus"]
+    },
+    {
+      "date": "1593",
+      "age": 29,
+      "place": "London, England, (United Kingdom)",
+      "title": "Venus and Adonis",
+      "text": "While the theatres were shut he wrote a long poem, Venus and Adonis, printed in 1593 by Richard Field, another man from Stratford. He dedicated it to the Earl of Southampton and called it \"the first heir of my invention\". It was reprinted fifteen times before 1640.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-venus"]
+    },
+    {
+      "date": "1594",
+      "age": 30,
+      "place": "Shoreditch, London, (United Kingdom)",
+      "title": "A sharer in the Lord Chamberlain's Men",
+      "text": "From 1594 his plays were performed only by the Lord Chamberlain's Men, a company in which he was a sharer, or part-owner, as well as an actor and its main writer. They played at The Theatre in Shoreditch.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-shakespeare"]
+    },
+    {
+      "date": "1595",
+      "age": 31,
+      "place": "London, England, (United Kingdom)",
+      "title": "Romeo and Juliet and a Dream",
+      "text": "Around 1595 he wrote Romeo and Juliet and A Midsummer Night's Dream. Exact dates for most of his plays are not known; scholars build them from printing records and clues in the texts.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-chronology"]
+    },
+    {
+      "date": "1596-08-11",
+      "age": 32,
+      "place": "Stratford-upon-Avon, Warwickshire, (United Kingdom)",
+      "title": "Death of Hamnet",
+      "text": "His only son, Hamnet, was buried on 11 August 1596, aged 11. The cause of death is unknown.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-shakespeare"]
+    },
+    {
+      "date": "1597",
+      "age": 33,
+      "place": "Stratford-upon-Avon, Warwickshire, (United Kingdom)",
+      "title": "New Place",
+      "text": "With his theatre earnings he bought New Place, the second-largest house in Stratford, for his family. He kept working in London and lodged there.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-shakespeare"]
+    },
+    {
+      "date": "1598-12",
+      "age": 34,
+      "place": "Shoreditch, London, (United Kingdom)",
+      "title": "Taking The Theatre apart",
+      "text": "In late December 1598, while the landlord was away, the carpenter Peter Street took apart the company's old playhouse, The Theatre, beam by beam. The timber was carried across the Thames to build a new one.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-globe"]
+    },
+    {
+      "date": "1599",
+      "age": 35,
+      "place": "Southwark, London, (United Kingdom)",
+      "title": "The Globe",
+      "text": "The Globe opened in 1599 on the south bank of the Thames. It was owned by six sharers; Shakespeare held one eighth. He wrote Julius Caesar that same year.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-globe", "w-chronology", "w-shakespeare"]
+    },
+    {
+      "date": "1600",
+      "age": null,
+      "place": "Southwark, London, (United Kingdom)",
+      "title": "Hamlet",
+      "text": "Between about 1599 and 1601 he wrote As You Like It, Hamlet and Twelfth Night. A later tradition, not proven, says he himself played the ghost of Hamlet's father.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-chronology", "w-shakespeare"]
+    },
+    {
+      "date": "1603",
+      "age": 39,
+      "place": "London, England, (United Kingdom)",
+      "title": "The King's Men",
+      "text": "After Queen Elizabeth I died in 1603, the new king, James I, took the company under his own patronage, and it became the King's Men. Ben Jonson's records list Shakespeare acting in Jonson's play Sejanus that year.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-shakespeare"]
+    },
+    {
+      "date": "1604",
+      "age": 40,
+      "place": "London, England, (United Kingdom)",
+      "title": "Othello and Measure for Measure",
+      "text": "By 1604 he rented rooms north of the river from Christopher Mountjoy, a French wigmaker. Around 1603 to 1604 he wrote Othello and Measure for Measure.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-shakespeare", "w-chronology"]
+    },
+    {
+      "date": "1605",
+      "age": 41,
+      "place": "London, England, (United Kingdom)",
+      "title": "Plays at court",
+      "text": "Between November 1604 and October 1605 the King's Men performed seven of his plays at court. In 1605 he also invested in a share of Stratford's parish tithes.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-shakespeare"]
+    },
+    {
+      "date": "1606",
+      "age": 42,
+      "place": "London, England, (United Kingdom)",
+      "title": "The great tragedies",
+      "text": "Around 1605 and 1606 he wrote King Lear, Macbeth and Antony and Cleopatra. For Antony and Cleopatra he worked closely from Thomas North's 1579 English translation of Plutarch.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-chronology", "w-play"]
+    },
+    {
+      "date": "1608",
+      "age": 44,
+      "place": "Blackfriars, London, (United Kingdom)",
+      "title": "An indoor theatre",
+      "text": "In 1608 the King's Men took over the Blackfriars, an indoor theatre, as a second home beside the open-air Globe.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-shakespeare"]
+    },
+    {
+      "date": "1609",
+      "age": 45,
+      "place": "London, England, (United Kingdom)",
+      "title": "The Sonnets in print",
+      "text": "Thomas Thorpe published 154 sonnets under Shakespeare's name in 1609. They were written over many years, and nobody knows if Shakespeare agreed to the printing.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-sonnets", "pg-sonnets"]
+    },
+    {
+      "date": "1611",
+      "age": 47,
+      "place": "London, England, (United Kingdom)",
+      "title": "The Tempest",
+      "text": "Around 1610 to 1611 he wrote The Tempest, one of his late plays often called romances.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-chronology", "w-shakespeare"]
+    },
+    {
+      "date": "1613-06-29",
+      "age": 49,
+      "place": "Southwark, London, (United Kingdom)",
+      "title": "The Globe burns",
+      "text": "During a performance of Henry VIII, a play he probably wrote with John Fletcher, a stage cannon set the thatched roof on fire. The Globe burned down, but no one was seriously hurt. It was rebuilt in 1614 with a tiled roof.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-globe", "w-shakespeare"]
+    },
+    {
+      "date": "1613",
+      "age": 49,
+      "place": "Stratford-upon-Avon, Warwickshire, (United Kingdom)",
+      "title": "Home to Stratford",
+      "text": "Around 1613 he seems to have retired to Stratford, though in March 1613 he also bought a gatehouse in London's Blackfriars. His last plays were probably written with John Fletcher.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-shakespeare"]
+    },
+    {
+      "date": "1616-03-25",
+      "age": 51,
+      "place": "Stratford-upon-Avon, Warwickshire, (United Kingdom)",
+      "title": "His will",
+      "text": "He signed his will on 25 March 1616. He left his wife his \"second best bed\", a line scholars still argue about.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-shakespeare"]
+    },
+    {
+      "date": "1616-04-23",
+      "age": 52,
+      "place": "Stratford-upon-Avon, Warwickshire, (United Kingdom)",
+      "title": "Death in Stratford",
+      "text": "Shakespeare died on 23 April 1616, aged 52, and was buried in Holy Trinity Church two days later. His gravestone warns: \"cursed be he that moves my bones\". A monument showing him writing was put up in the church before 1623.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-shakespeare"]
+    },
+    {
+      "date": "1623",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "The First Folio",
+      "text": "His fellow actors John Heminges and Henry Condell collected 36 of his plays in one book, the First Folio. Eighteen of them were not known to have been printed before. About 235 copies survive.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-folio", "w-shakespeare"]
+    },
+    {
+      "date": "1850",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "A fringe question",
+      "text": "From the mid-1800s some people claimed that someone else wrote his works. Nearly all scholars treat this as a fringe theory; the records of his life and career point to Shakespeare of Stratford.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-authorship"]
+    },
+    {
+      "date": "1997",
+      "age": null,
+      "place": "Southwark, London, (United Kingdom)",
+      "title": "The Globe returns",
+      "text": "A reconstruction, Shakespeare's Globe, opened in 1997 about 230 metres from the original site. His plays are still performed there and around the world.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-globe"]
+    }
+  ],
+  "works": [
+    { "year": "1592", "type": "play", "title": "Henry VI and Richard III", "text": "His early history plays about the Wars of the Roses, written around 1591 to 1593.", "sources": ["w-chronology"], "url": "https://www.gutenberg.org/ebooks/100" },
+    { "year": "1593", "type": "poem", "title": "Venus and Adonis", "text": "A long narrative poem written while plague closed the theatres, and a bestseller of its time.", "sources": ["w-venus"], "url": "https://www.gutenberg.org/ebooks/100" },
+    { "year": "1595", "type": "play", "title": "Romeo and Juliet", "text": "A tragedy of two young lovers from feuding families in Verona.", "sources": ["w-chronology"], "url": "https://www.gutenberg.org/ebooks/100" },
+    { "year": "1595", "type": "play", "title": "A Midsummer Night's Dream", "text": "A comedy of lovers, fairies and a group of working men putting on a play.", "sources": ["w-chronology"], "url": "https://www.gutenberg.org/ebooks/100" },
+    { "year": "1596", "type": "play", "title": "Henry IV, Part 1", "text": "A history play about a young prince and his friend Falstaff, written around 1596 to 1597.", "sources": ["w-chronology"], "url": "https://www.gutenberg.org/ebooks/100" },
+    { "year": "1599", "type": "theatre", "title": "The Globe Theatre", "text": "The open-air playhouse his company built in 1599, with Shakespeare as one of six owners.", "sources": ["w-globe"] },
+    { "year": "1599", "type": "play", "title": "Julius Caesar", "text": "A Roman tragedy about power, loyalty and persuasion, written for the new Globe.", "sources": ["w-chronology"], "url": "https://www.gutenberg.org/ebooks/100" },
+    { "year": "1599", "type": "play", "title": "As You Like It", "text": "A comedy set in the Forest of Arden, written around 1599 to 1600.", "sources": ["w-chronology"], "url": "https://www.gutenberg.org/ebooks/100" },
+    { "year": "1600", "type": "play", "title": "Hamlet", "text": "A tragedy about a prince who must decide whether to avenge his father, written around 1599 to 1601.", "sources": ["w-chronology"], "url": "https://www.gutenberg.org/ebooks/100" },
+    { "year": "1601", "type": "play", "title": "Twelfth Night", "text": "A comedy of shipwrecked twins and mistaken identity.", "sources": ["w-chronology"], "url": "https://www.gutenberg.org/ebooks/100" },
+    { "year": "1603", "type": "play", "title": "Othello", "text": "A tragedy of jealousy and trust, written around 1603 to 1604.", "sources": ["w-chronology"], "url": "https://www.gutenberg.org/ebooks/100" },
+    { "year": "1605", "type": "play", "title": "King Lear", "text": "A tragedy about an old king who divides his kingdom among his daughters, written around 1605 to 1606.", "sources": ["w-chronology"], "url": "https://www.gutenberg.org/ebooks/100" },
+    { "year": "1606", "type": "play", "title": "Macbeth", "text": "A short, fast tragedy about ambition and guilt in Scotland.", "sources": ["w-chronology"], "url": "https://www.gutenberg.org/ebooks/100" },
+    { "year": "1606", "type": "play", "title": "Antony and Cleopatra", "text": "A Roman tragedy built closely on North's translation of Plutarch.", "sources": ["w-chronology", "w-play"], "url": "https://www.gutenberg.org/ebooks/100" },
+    { "year": "1609", "type": "poem", "title": "The Sonnets", "text": "154 fourteen-line poems on love, time and art, printed by Thomas Thorpe.", "sources": ["w-sonnets"], "url": "https://www.gutenberg.org/ebooks/1041" },
+    { "year": "1611", "type": "play", "title": "The Tempest", "text": "A late romance about a magician on an island who chooses forgiveness, written around 1610 to 1611.", "sources": ["w-chronology"], "url": "https://www.gutenberg.org/ebooks/100" },
+    { "year": "1613", "type": "play", "title": "Henry VIII and The Two Noble Kinsmen", "text": "Late plays he probably wrote together with John Fletcher.", "sources": ["w-shakespeare", "w-chronology"] },
+    { "year": "1623", "type": "book", "title": "The First Folio", "text": "The collected edition of 36 plays, put together by his fellow actors after his death.", "sources": ["w-folio"] }
+  ],
+  "resources": [
+    { "label": "The Complete Works of William Shakespeare (Project Gutenberg #100)", "url": "https://www.gutenberg.org/ebooks/100", "what": "Every play and poem, free to read online or download." },
+    { "label": "Shakespeare's Sonnets (Project Gutenberg #1041)", "url": "https://www.gutenberg.org/ebooks/1041", "what": "All 154 sonnets in one short free ebook." },
+    { "label": "Shakespeare's Works (Folger Shakespeare Library)", "url": "https://www.folger.edu/explore/shakespeares-works/", "what": "Free modern editions of every play and poem, with summaries, from a leading Shakespeare library." },
+    { "label": "William Shakespeare (Shakespeare Birthplace Trust)", "url": "https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/william-shakespeare/", "what": "The charity that cares for his family homes in Stratford explains his life." },
+    { "label": "William Shakespeare (Wikipedia)", "url": "https://en.wikipedia.org/wiki/William_Shakespeare", "what": "A detailed, well sourced account of his life, works and reputation." },
+    { "label": "Chronology of Shakespeare's plays (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Chronology_of_Shakespeare%27s_plays", "what": "How scholars date each play, and where they disagree." },
+    { "label": "Globe Theatre (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Globe_Theatre", "what": "The history of his company's playhouse, from 1599 to the 1997 reconstruction." },
+    { "label": "First Folio (Wikipedia)", "url": "https://en.wikipedia.org/wiki/First_Folio", "what": "The 1623 book that first printed half of his plays." }
+  ],
+  "books": [
+    { "title": "The Complete Works of William Shakespeare", "author": "William Shakespeare", "year": "1623", "kind": "by-him", "free": "https://www.gutenberg.org/ebooks/100", "note": "All the plays and poems. Start with a comedy such as A Midsummer Night's Dream, and read it aloud." },
+    { "title": "Shakespeare's Sonnets", "author": "William Shakespeare", "year": "1609", "kind": "by-him", "free": "https://www.gutenberg.org/ebooks/1041", "note": "154 short poems first printed in 1609. One sonnet a day is a good way in." },
+    { "title": "William Shakespeare: A Compact Documentary Life", "author": "S. Schoenbaum", "year": "1977", "kind": "biography", "free": null, "note": "A careful life built from the surviving records, separating documents from legend (Oxford University Press)." },
+    { "title": "1599: A Year in the Life of William Shakespeare", "author": "James Shapiro", "year": "2005", "kind": "biography", "free": null, "note": "A readable account of the year the Globe opened and he wrote Julius Caesar, As You Like It and Hamlet." }
+  ]
+}

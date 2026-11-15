@@ -1,0 +1,447 @@
+{
+  "sources": {
+    "w-shivaji": { "label": "Shivaji (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Shivaji" },
+    "ia-sarkar": { "label": "Shivaji and His Times, Jadunath Sarkar, 2nd ed. 1920 (Internet Archive)", "url": "https://archive.org/details/cu31924024056750" },
+    "ia-rawlinson": { "label": "Shivaji the Maratha: His Life and Times, H. G. Rawlinson, 1915 (Internet Archive)", "url": "https://archive.org/details/shivjmartt00rawl" },
+    "ia-sen": { "label": "Siva Chhatrapati: a translation of Sabhasad Bakhar, Surendranath Sen, 1920 (Internet Archive)", "url": "https://archive.org/details/sivachhatrapatib00sensuoft" },
+    "w-sindhudurg": { "label": "Sindhudurg Fort (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Sindhudurg_Fort" },
+    "w-raigad": { "label": "Raigad Fort (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Raigad_Fort" },
+    "w-mml": { "label": "Maratha Military Landscapes of India (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Maratha_Military_Landscapes_of_India" }
+  },
+  "timeline": [
+    {
+      "date": "1630-02-19",
+      "age": 0,
+      "place": "Shivneri Fort, Junnar, (Maharashtra, India)",
+      "title": "Born at Shivneri",
+      "text": "Shivaji was born in the hill fort of Shivneri near Junnar. His father Shahaji Bhonsale was a Maratha general serving the Deccan sultanates; his mother was Jijabai. The date is disputed: the Maharashtra government observes 19 February 1630, while the historian Jadunath Sarkar preferred about 6 April 1627.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-shivaji", "ia-sarkar"]
+    },
+    {
+      "date": "1636",
+      "age": 6,
+      "place": "Pune, Bijapur Sultanate, (Maharashtra, India)",
+      "title": "Growing up in Pune",
+      "text": "Around 1636 Shahaji entered the service of Bijapur and held Pune as an estate. Shivaji and Jijabai settled there, while the estate was run by the administrator Dadoji Kondadeo.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-shivaji", "ia-sarkar"]
+    },
+    {
+      "date": "1647",
+      "age": 17,
+      "place": "Pune, Bijapur Sultanate, (Maharashtra, India)",
+      "title": "Taking charge",
+      "text": "When Dadoji Kondadeo died in 1647, the young Shivaji took over the running of the Pune estate. He added a commander-in-chief and another secretary to the small council he had inherited.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-shivaji", "ia-sarkar"]
+    },
+    {
+      "date": "1647",
+      "age": 17,
+      "place": "Torna Fort, Sahyadri hills, (Maharashtra, India)",
+      "title": "The first fort",
+      "text": "Shivaji took Torna fort, by a clever trick or by bribery according to different accounts. He used the treasure found there to build Rajgad, and soon took Purandar, Kondhana and Chakan.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-shivaji", "ia-sarkar"]
+    },
+    {
+      "date": "1648-07-25",
+      "age": 18,
+      "place": "Jinji, Bijapur Sultanate, (Tamil Nadu, India)",
+      "title": "His father arrested",
+      "text": "On the orders of Bijapur, Shivaji's father Shahaji was arrested in the south. He was released in 1649. Shivaji then spent several quiet years strengthening what he held.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-shivaji"]
+    },
+    {
+      "date": "1656",
+      "age": 26,
+      "place": "Javali, Konkan, (Maharashtra, India)",
+      "title": "Javali and Raigad",
+      "text": "Shivaji took the valley of Javali after killing its chief, Chandrarao More, in circumstances that historians describe as controversial. The move nearly doubled his land. Raigad, later his capital, came under Maratha control in 1656 according to the fort's history, though Sarkar dates the capture of Rairi (Raigad) to 1648.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-shivaji", "w-raigad", "ia-sarkar"]
+    },
+    {
+      "date": "1657",
+      "age": 27,
+      "place": "Konkan coast, (Maharashtra, India)",
+      "title": "Starting a navy",
+      "text": "In 1657 or 1659 Shivaji began building a navy, starting with 20 fast galivat boats bought from Bassein. His coast lay open to the Siddis of Janjira and to European traders, so he needed power at sea as well as on land.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-shivaji", "ia-sarkar"]
+    },
+    {
+      "date": "1659-11-10",
+      "age": 29,
+      "place": "Pratapgad, Sahyadri hills, (Maharashtra, India)",
+      "title": "The meeting at Pratapgad",
+      "text": "Bijapur sent the general Afzal Khan with a large army to capture Shivaji. The two met for talks below Pratapgad fort. Shivaji came wearing armour and a hidden weapon; the meeting became a fight and Afzal Khan was killed. Who struck first is uncertain, because the details come mainly from later Maratha accounts. Shivaji's forces then defeated the Bijapur army.",
+      "turning": true,
+      "kind": "war",
+      "sources": ["w-shivaji", "ia-sarkar"]
+    },
+    {
+      "date": "1660",
+      "age": 30,
+      "place": "Panhala and Vishalgad, (Maharashtra, India)",
+      "title": "Escape from Panhala",
+      "text": "Trapped by a long siege at Panhala, Shivaji slipped away to Vishalgad. At the pass of Ghod Khind, Baji Prabhu Deshpande and about 300 men held back the pursuers until a signal showed Shivaji was safe. The pass is now called Pavan Khind, the sacred pass.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-shivaji"]
+    },
+    {
+      "date": "1663-04-05",
+      "age": 33,
+      "place": "Lal Mahal, Pune, (Maharashtra, India)",
+      "title": "The night raid on Shaista Khan",
+      "text": "The Mughal general Shaista Khan had occupied Pune and was living in the Lal Mahal palace there. Shivaji led a small party into his quarters at night. Shaista Khan escaped but lost three fingers, and the emperor Aurangzeb soon moved him away to Bengal.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-shivaji"]
+    },
+    {
+      "date": "1664",
+      "age": 34,
+      "place": "Surat, Mughal Gujarat, (Gujarat, India)",
+      "title": "The raid on Surat",
+      "text": "Shivaji raided Surat, the richest Mughal port, and carried away great wealth. It was the first of two such raids. Rawlinson judged one English captive's story of cruelty during the raid to be a gross exaggeration.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-shivaji", "ia-rawlinson"]
+    },
+    {
+      "date": "1664-11-25",
+      "age": 34,
+      "place": "Malvan, Konkan coast, (Maharashtra, India)",
+      "title": "Sindhudurg rises from the sea",
+      "text": "The foundation stone of Sindhudurg, a fort on a small island off Malvan, was laid on 25 November 1664. Built over about three years under the architect Hiroji Indulkar, it guarded the coast against the Siddis and European traders.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-sindhudurg"]
+    },
+    {
+      "date": "1665-06-11",
+      "age": 35,
+      "place": "Purandar Fort, (Maharashtra, India)",
+      "title": "The Treaty of Purandar",
+      "text": "The Mughal general Jai Singh besieged Purandar. Shivaji made peace, giving up 23 forts, keeping 12, and sending his son Sambhaji to serve the Mughals. It was the hardest setback of his career.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-shivaji"]
+    },
+    {
+      "date": "1666-05-12",
+      "age": 36,
+      "place": "Agra, Mughal Empire, (Uttar Pradesh, India)",
+      "title": "Insulted at the Mughal court",
+      "text": "Shivaji went to Aurangzeb's court. Placed among lower-ranking nobles, he showed his anger openly and was put under house arrest. Sources differ on whether this happened at Agra or Delhi.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-shivaji", "ia-sarkar"]
+    },
+    {
+      "date": "1666-08-17",
+      "age": 36,
+      "place": "Agra, Mughal Empire, (Uttar Pradesh, India)",
+      "title": "The escape from Agra",
+      "text": "Shivaji escaped with his young son Sambhaji and made his way back to the Deccan. A famous story says they were carried out in large baskets of sweets, but there is no contemporary evidence for it; the historian Stewart Gordon thinks bribery is more likely.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-shivaji", "ia-sarkar"]
+    },
+    {
+      "date": "1667",
+      "age": 37,
+      "place": "Deccan, (Maharashtra, India)",
+      "title": "Building the government",
+      "text": "After returning from Agra, Shivaji appointed a chief justice to try cases across his lands according to the Sanskrit law books. A peace with the Mughals lasted for a few years, and Aurangzeb recognised him with the title Raja.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["ia-sarkar", "w-shivaji"]
+    },
+    {
+      "date": "1670",
+      "age": 40,
+      "place": "Sinhagad and Surat, (Maharashtra and Gujarat, India)",
+      "title": "Winning back the forts",
+      "text": "When peace with the Mughals broke down in 1670, Shivaji's forces won back many forts, including Sinhagad, raided Surat a second time and fought the Mughals at Vani-Dindori near Nashik.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-shivaji"]
+    },
+    {
+      "date": "1674-06-06",
+      "age": 44,
+      "place": "Raigad Fort, (Maharashtra, India)",
+      "title": "Crowned Chhatrapati",
+      "text": "After months of preparation and debate about the proper rites, Shivaji was crowned at Raigad, with the scholar Gaga Bhatt leading the ceremony. He took the title Chhatrapati and made Raigad his capital. By now his council had grown to eight ministers, the Ashta Pradhan.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-shivaji", "w-raigad", "ia-sarkar"]
+    },
+    {
+      "date": "1674-06-18",
+      "age": 44,
+      "place": "Raigad district, (Maharashtra, India)",
+      "title": "His mother dies",
+      "text": "Jijabai, who had raised him, died twelve days after the coronation. Her samadhi (memorial) is at Pachad, below Raigad.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-shivaji", "w-raigad"]
+    },
+    {
+      "date": "1674-09-24",
+      "age": 44,
+      "place": "Raigad Fort, (Maharashtra, India)",
+      "title": "A second coronation",
+      "text": "A second, smaller coronation was held on the advice of the priest Nischal Puri Goswami, who said the first had taken place under unlucky stars.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-shivaji"]
+    },
+    {
+      "date": "1677",
+      "age": 47,
+      "place": "Golconda, Vellore and Gingee, (Telangana and Tamil Nadu, India)",
+      "title": "The southern campaign",
+      "text": "Shivaji made a treaty with the sultan of Golconda at Hyderabad, then marched south and took the great forts of Vellore and Gingee. The same year a Sanskrit dictionary of government terms, the Rajavyavaharakosha, was completed to replace Persian and Arabic words in his administration.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-shivaji", "ia-sarkar"]
+    },
+    {
+      "date": "1677-08",
+      "age": 47,
+      "place": "Srirangapatna, Mysore, (Karnataka, India)",
+      "title": "Checked at Srirangapatna",
+      "text": "Near Srirangapatna, his forces were defeated by Chikkadevaraja Wodeyar of Mysore. Later in the year he defeated his half-brother Venkoji, and a settlement was reached.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-shivaji"]
+    },
+    {
+      "date": "1678",
+      "age": 48,
+      "place": "Panhala Fort, (Maharashtra, India)",
+      "title": "His son goes over to the Mughals",
+      "text": "His eldest son Sambhaji, confined at Panhala, escaped and joined the Mughals, fighting against his father's forces in 1679. He later returned and was confined again.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-shivaji", "ia-sarkar"]
+    },
+    {
+      "date": "1679",
+      "age": 49,
+      "place": "Raigad Fort, (Maharashtra, India)",
+      "title": "A letter on tolerance",
+      "text": "When Aurangzeb brought back the jizya tax on non-Muslims, a letter of protest was sent in Shivaji's name, drafted in Persian by his secretary Nila Prabhu. It argued that God is the Lord of all people, not of one faith only.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["ia-sarkar"]
+    },
+    {
+      "date": "1679-08",
+      "age": 49,
+      "place": "Bijapur, (Karnataka, India)",
+      "title": "Helping an old rival",
+      "text": "When the Mughals attacked Bijapur, its regent asked Shivaji for help. He sent 10,000 cavalry and 2,000 ox-loads of grain, and told his subjects to send food for sale so the city would not go hungry.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["ia-sarkar"]
+    },
+    {
+      "date": "1680-04-03",
+      "age": 50,
+      "place": "Raigad Fort, (Maharashtra, India)",
+      "title": "Death at Raigad",
+      "text": "Shivaji fell ill in late March and died at Raigad on about 3 April 1680, aged about 50. The cause is disputed: English records say dysentery, a Portuguese source says anthrax, and Sabhasad's chronicle says fever. His samadhi (memorial) stands at Raigad.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-shivaji", "w-raigad"]
+    },
+    {
+      "date": "1869",
+      "age": null,
+      "place": "Bombay Presidency, (Maharashtra, India)",
+      "title": "A ballad revives his story",
+      "text": "The reformer Jyotirao Phule wrote a long ballad about Shivaji, which helped revive public interest in his life.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-shivaji"]
+    },
+    {
+      "date": "2022",
+      "age": null,
+      "place": "India",
+      "title": "A seal on the Navy's flag",
+      "text": "The Indian Navy unveiled a new ensign whose design was inspired by Shivaji's royal seal, honouring his role as a founder of Indian sea power.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-shivaji"]
+    },
+    {
+      "date": "2025",
+      "age": null,
+      "place": "Maharashtra and Tamil Nadu, (India)",
+      "title": "His forts become World Heritage",
+      "text": "Twelve forts, including Shivneri, Rajgad, Raigad, Pratapgad, Sindhudurg and Gingee, were listed by UNESCO in July 2025 as the Maratha Military Landscapes of India, a defence system developed during his reign.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-mml"]
+    }
+  ],
+  "works": [
+    {
+      "year": "1647",
+      "type": "monument",
+      "title": "A network of hill forts",
+      "text": "Starting with Torna and Rajgad, he built and captured a chain of forts across the Sahyadri hills, each with its own commander, stores and written rules.",
+      "sources": ["w-shivaji", "ia-sarkar"]
+    },
+    {
+      "year": "1657",
+      "type": "reform",
+      "title": "A Maratha navy",
+      "text": "Beginning with 20 galivats, he built a fleet and sea forts to protect his coast and trade from the Siddis and European powers.",
+      "sources": ["w-shivaji", "ia-sarkar"]
+    },
+    {
+      "year": "1664",
+      "type": "monument",
+      "title": "Sindhudurg sea fort",
+      "text": "An island fortress off Malvan, begun in 1664 and finished in about three years. It is now part of a UNESCO World Heritage Site.",
+      "sources": ["w-sindhudurg", "w-mml"],
+      "url": "https://en.wikipedia.org/wiki/Sindhudurg_Fort"
+    },
+    {
+      "year": "1674",
+      "type": "reform",
+      "title": "The Ashta Pradhan",
+      "text": "A council of eight ministers, including a prime minister, auditor, chronicler, foreign secretary, commander-in-chief and chief justice. Sarkar notes they were advisers and department heads, with Shivaji keeping final control.",
+      "sources": ["ia-sarkar", "w-shivaji"]
+    },
+    {
+      "year": "1674",
+      "type": "reform",
+      "title": "An independent crowned state",
+      "text": "His coronation at Raigad turned a rebel estate into a kingdom, with its own capital, court and titles.",
+      "sources": ["w-shivaji", "w-raigad"]
+    },
+    {
+      "year": "1674",
+      "type": "reform",
+      "title": "Land revenue paid by the farmer to the state",
+      "text": "Land was measured, crops estimated, and revenue collected directly instead of through local strongmen. New settlers got loans for seed and cattle.",
+      "sources": ["ia-sarkar"]
+    },
+    {
+      "year": "1674",
+      "type": "law",
+      "title": "Rules for the army",
+      "text": "Soldiers were recruited after personal inspection, their property was listed before and after each campaign, and strict conduct rules were enforced.",
+      "sources": ["ia-sarkar", "ia-rawlinson"]
+    },
+    {
+      "year": "1667",
+      "type": "law",
+      "title": "A chief justice for the kingdom",
+      "text": "After Agra, he appointed a chief justice to try civil and criminal cases across his lands.",
+      "sources": ["ia-sarkar"]
+    },
+    {
+      "year": "1677",
+      "type": "book",
+      "title": "The Rajavyavaharakosha",
+      "text": "A Sanskrit dictionary of government terms, made to replace the Persian and Arabic words then used in administration.",
+      "sources": ["w-shivaji"]
+    },
+    {
+      "year": "1674",
+      "type": "reform",
+      "title": "Support for scholars and holy places of all faiths",
+      "text": "He funded Vedic scholars and Hindu temples, and also built hermitages and gave support to Muslim holy men, such as Baba Yaqut of Kelshi.",
+      "sources": ["ia-sarkar"]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Shivaji and His Times, Jadunath Sarkar, 1920 (Internet Archive)",
+      "url": "https://archive.org/details/cu31924024056750",
+      "what": "A detailed early scholarly life based on Persian, Marathi and European records, free to read."
+    },
+    {
+      "label": "Shivaji the Maratha, H. G. Rawlinson, 1915 (Internet Archive)",
+      "url": "https://archive.org/details/shivjmartt00rawl",
+      "what": "A short early English biography, free to read."
+    },
+    {
+      "label": "Siva Chhatrapati (Sabhasad Bakhar), tr. Surendranath Sen, 1920 (Internet Archive)",
+      "url": "https://archive.org/details/sivachhatrapatib00sensuoft",
+      "what": "An English translation of the chronicle written by his courtier Sabhasad."
+    },
+    {
+      "label": "Shivaji (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Shivaji",
+      "what": "A detailed overview of his life, government and legacy, with notes on disputed points."
+    },
+    {
+      "label": "Maratha Military Landscapes of India (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Maratha_Military_Landscapes_of_India",
+      "what": "The twelve forts listed by UNESCO in 2025."
+    },
+    {
+      "label": "Raigad Fort (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Raigad_Fort",
+      "what": "His capital and the place of his coronation."
+    },
+    {
+      "label": "Sindhudurg Fort (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sindhudurg_Fort",
+      "what": "The island sea fort he built off the Konkan coast."
+    }
+  ],
+  "books": [
+    {
+      "title": "Siva Chhatrapati: being a translation of Sabhasad Bakhar",
+      "author": "Krishnaji Anant Sabhasad, translated by Surendranath Sen",
+      "year": "1920",
+      "kind": "biography",
+      "free": "https://archive.org/details/sivachhatrapatib00sensuoft",
+      "note": "The earliest Marathi chronicle of his life, written by one of his courtiers for his son Rajaram. Admiring, and a key court source."
+    },
+    {
+      "title": "Shivaji and His Times",
+      "author": "Jadunath Sarkar",
+      "year": "1920",
+      "kind": "biography",
+      "free": "https://archive.org/details/cu31924024056750",
+      "note": "A detailed scholarly life (first edition 1919, Longmans). Influential but debated; some Marathi historians disagreed with parts of it."
+    },
+    {
+      "title": "Shivaji the Maratha: His Life and Times",
+      "author": "H. G. Rawlinson",
+      "year": "1915",
+      "kind": "biography",
+      "free": "https://archive.org/details/shivjmartt00rawl",
+      "note": "A short early biography in English (Clarendon Press, Oxford)."
+    },
+    {
+      "title": "The Marathas, 1600-1818",
+      "author": "Stewart Gordon",
+      "year": "1993",
+      "kind": "biography",
+      "free": null,
+      "note": "A modern scholarly history of the Maratha state from Shivaji onward (New Cambridge History of India, Cambridge University Press)."
+    }
+  ]
+}

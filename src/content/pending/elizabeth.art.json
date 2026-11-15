@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "07-tilbury",
+ "panels": [
+  { "key": "01-greenwich", "year": "1533" },
+  { "key": "02-study", "year": "1544" },
+  { "key": "03-tower", "year": "1554" },
+  { "key": "04-accession", "year": "1558" },
+  { "key": "05-coronation", "year": "1559" },
+  { "key": "06-armada", "year": "1588" },
+  { "key": "07-tilbury", "year": "1588" },
+  { "key": "08-golden", "year": "1601" }
+ ]
+}

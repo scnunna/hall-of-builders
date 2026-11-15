@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "04-train",
+ "panels": [
+  { "key": "01-tuckahoe", "year": "1818" },
+  { "key": "02-letters", "year": "1830" },
+  { "key": "03-sabbath", "year": "1834" },
+  { "key": "04-train", "year": "1838" },
+  { "key": "05-nantucket", "year": "1841" },
+  { "key": "06-northstar", "year": "1847" },
+  { "key": "07-lincoln", "year": "1863" },
+  { "key": "08-cedarhill", "year": "1877" }
+ ]
+}

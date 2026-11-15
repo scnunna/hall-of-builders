@@ -219,6 +219,9 @@ function route() {
 }
 
 // Light / dark switch (top right). The choice is saved on this device only.
+// The sticky museum nav sits right under the header, whatever height the header has on this screen.
+const topBar = document.querySelector<HTMLElement>('header.top');
+if (topBar) new ResizeObserver(() => document.documentElement.style.setProperty('--top-h', `${topBar.offsetHeight}px`)).observe(topBar);
 const themeBtn = document.getElementById('theme');
 const syncTheme = () => {
   const t = document.documentElement.getAttribute('data-theme') || 'dark';

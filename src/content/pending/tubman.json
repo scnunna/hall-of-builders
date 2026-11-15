@@ -1,0 +1,63 @@
+{
+  "id": "tubman",
+  "name": "Harriet Tubman",
+  "years": "c. 1822 - 1913",
+  "title": "The Conductor",
+  "tagline": "Born enslaved in Maryland, she freed herself, then went back about 13 times to lead family and friends north, and later guided a Civil War raid that freed hundreds.",
+  "sources": {
+    "w-tubman": { "label": "Harriet Tubman (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Harriet_Tubman" },
+    "nps-people": { "label": "Harriet Tubman (National Park Service)", "url": "https://www.nps.gov/people/harriet-tubman.htm" },
+    "nps-ugrr": { "label": "Harriet Tubman and the Underground Railroad (National Park Service)", "url": "https://www.nps.gov/articles/harriet-tubman-and-the-underground-railroad.htm" },
+    "nps-54th": { "label": "Harriet Tubman and the 54th Massachusetts (National Park Service)", "url": "https://home.nps.gov/articles/harriet-tubman-and-the-54th-massachusetts.htm" },
+    "bradford-1869": { "label": "Scenes in the Life of Harriet Tubman, Sarah H. Bradford, 1869 (Documenting the American South, UNC)", "url": "https://docsouth.unc.edu/neh/bradford/bradford.html" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Free is not finished",
+      "idea": "When Tubman reached freedom in 1849, she felt joy, then loneliness, because the people she loved were still enslaved in Maryland. She decided her own freedom was a starting point. She worked in Philadelphia and Cape May to save money, then went back for her family.",
+      "quote": { "text": "But I was free, and they should be free. I would make a home in the North and bring them there, God helping me.", "credit": "Harriet Tubman, as recorded by Sarah H. Bradford, Scenes in the Life of Harriet Tubman, p. 20 (1869)" },
+      "practice": "Think of one thing you have learned or gained that someone close to you still needs. Write down one small way you could share it this week.",
+      "sources": ["bradford-1869", "w-tubman"]
+    },
+    {
+      "title": "Know what you will not trade",
+      "idea": "Tubman could not read, and posters offering rewards for her capture went up while she traveled. She kept going because she had settled, in advance, what mattered most to her. A clear line made hard choices simpler in the moment.",
+      "quote": { "text": "Dere's two things I've got a right to, and dese are, Death or Liberty--one or tother I mean to have.", "credit": "Harriet Tubman, as recorded by Sarah H. Bradford, Scenes in the Life of Harriet Tubman, p. 21 (1869)" },
+      "practice": "Write one value you will not trade away, even when it is inconvenient. Name one choice this week where you will act on it.",
+      "sources": ["bradford-1869", "w-tubman"]
+    },
+    {
+      "title": "Trust, then plan with care",
+      "idea": "Tubman had deep faith and said she relied on God to lead her. She also planned with great care. She usually travelled in winter, when nights were long, and started escapes on Saturday nights, because runaway notices could not be printed until Monday. Faith gave her courage; planning gave her an edge.",
+      "quote": { "text": "I trust to you. I don't know where to go or what to do, but I expect you to lead me.", "credit": "Harriet Tubman, as recorded by Sarah H. Bradford, Scenes in the Life of Harriet Tubman, p. 35 (1869)" },
+      "practice": "Pick one hard task. Write one thing you are trusting will work out, and three practical steps that make success more likely, such as the best time to start.",
+      "sources": ["bradford-1869", "w-tubman"]
+    },
+    {
+      "title": "Learn from every stumble",
+      "idea": "During the Combahee River Raid, Tubman tripped on her long dress while helping a sick woman carry her things, and tore it to shreds. She did not just complain. She wrote that she had changed her gear for next time, and asked friends in the North to help.",
+      "quote": { "text": "I made up my mind then I would never wear a long dress on another expedition of the kind, but would have a bloomer as soon as I could get it.", "credit": "Letter dictated by Harriet Tubman, Beaufort, South Carolina, 30 June 1863, printed in Sarah H. Bradford, Scenes in the Life of Harriet Tubman, p. 86 (1869)" },
+      "practice": "Think of one small thing that went wrong this week. Write the one change you will make so it does not happen again.",
+      "sources": ["bradford-1869", "nps-54th"]
+    },
+    {
+      "title": "Help people stand on their own",
+      "idea": "After the raid, Tubman looked after a hospital for refugees in Beaufort and helped them find work. Late in life she bought land for a home for poor and aged Black people, and later handed it to her church to run. Her care aimed at dignity: helping people build their own lives, not just survive.",
+      "quote": { "text": "I am trying to find places for those able to work, and provide for them as best I can, so as to lighten the burden on the Government as much as possible, while at the same time they learn to respect themselves by earning their own living.", "credit": "Letter dictated by Harriet Tubman, Beaufort, South Carolina, 30 June 1863, printed in Sarah H. Bradford, Scenes in the Life of Harriet Tubman, p. 87 (1869)" },
+      "practice": "Instead of doing a task for someone this week, show them how to do it themselves, step by step.",
+      "sources": ["bradford-1869", "w-tubman", "nps-people"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Who is still waiting?", "action": "Write the name of one person who could use help you are able to give. Note one small step you could take for them." },
+    { "day": 2, "title": "Your line", "action": "Write one value you will not trade away. Act on it once today, even in a small way." },
+    { "day": 3, "title": "Pick your timing", "action": "Like Tubman starting on Saturday nights, choose the best time of day to begin your hardest task. Start it then.", "sources": ["bradford-1869"] },
+    { "day": 4, "title": "Fix the gear", "action": "Find one thing that keeps tripping you up, like a messy desk or a missing tool. Change it today." },
+    { "day": 5, "title": "Keep going quietly", "action": "Do one useful thing for someone today without telling anyone about it." },
+    { "day": 6, "title": "Teach, don't just do", "action": "Show a friend or family member how to do something they usually ask you to do for them." },
+    { "day": 7, "title": "Your north star", "action": "Read back your notes from the week. Write one sentence that names the goal that guides you, like a star to steer by." }
+  ],
+  "reflect": "Who in your life is still waiting for something you already have, and what is one step you could take toward them?",
+  "keepsake": "Harriet Tubman Builder Collectible"
+}

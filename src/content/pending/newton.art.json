@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "03-prism",
+ "panels": [
+  { "key": "01-woolsthorpe", "year": "1643" },
+  { "key": "02-grantham", "year": "1655" },
+  { "key": "03-prism", "year": "1666" },
+  { "key": "04-telescope", "year": "1668" },
+  { "key": "05-halley", "year": "1684" },
+  { "key": "06-principia", "year": "1687" },
+  { "key": "07-mint", "year": "1696" },
+  { "key": "08-abbey", "year": "1727" }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "05-academy",
+ "panels": [
+  { "key": "01-athens", "year": "-0428" },
+  { "key": "02-socrates", "year": "-0410" },
+  { "key": "03-trial", "year": "-0399" },
+  { "key": "04-sicily", "year": "-0387" },
+  { "key": "05-academy", "year": "-0387" },
+  { "key": "06-cave", "year": "-0375" },
+  { "key": "07-aristotle", "year": "-0367" },
+  { "key": "08-laws", "year": "-0350" }
+ ]
+}

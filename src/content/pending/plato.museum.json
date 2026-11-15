@@ -1,0 +1,480 @@
+{
+  "sources": {
+    "w-plato": { "label": "Plato (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Plato" },
+    "sep": { "label": "Plato, by Richard Kraut (Stanford Encyclopedia of Philosophy)", "url": "https://plato.stanford.edu/entries/plato/" },
+    "iep": { "label": "Plato (Internet Encyclopedia of Philosophy)", "url": "https://iep.utm.edu/plato/" },
+    "w-academy": { "label": "Platonic Academy (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Platonic_Academy" },
+    "w-seventh": { "label": "Seventh Letter (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Seventh_Letter" },
+    "w-trial": { "label": "Trial of Socrates (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Trial_of_Socrates" },
+    "w-dion": { "label": "Dion of Syracuse (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Dion_of_Syracuse" },
+    "w-republic": { "label": "Republic (Plato) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Republic_(Plato)" },
+    "w-ficino": { "label": "Marsilio Ficino (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Marsilio_Ficino" },
+    "w-jowett": { "label": "Benjamin Jowett (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Benjamin_Jowett" },
+    "wq-plato": { "label": "Plato (Wikiquote), including misattributed quotes", "url": "https://en.wikiquote.org/wiki/Plato" },
+    "g-apology": { "label": "Apology, tr. Benjamin Jowett (Project Gutenberg #1656)", "url": "https://www.gutenberg.org/ebooks/1656" },
+    "g-crito": { "label": "Crito, tr. Benjamin Jowett (Project Gutenberg #1657)", "url": "https://www.gutenberg.org/ebooks/1657" },
+    "g-phaedo": { "label": "Phaedo, tr. Benjamin Jowett (Project Gutenberg #1658)", "url": "https://www.gutenberg.org/ebooks/1658" },
+    "g-meno": { "label": "Meno, tr. Benjamin Jowett (Project Gutenberg #1643)", "url": "https://www.gutenberg.org/ebooks/1643" },
+    "g-symposium": { "label": "Symposium, tr. Benjamin Jowett (Project Gutenberg #1600)", "url": "https://www.gutenberg.org/ebooks/1600" },
+    "g-republic": { "label": "The Republic, tr. Benjamin Jowett (Project Gutenberg #1497)", "url": "https://www.gutenberg.org/ebooks/1497" },
+    "g-phaedrus": { "label": "Phaedrus, tr. Benjamin Jowett (Project Gutenberg #1636)", "url": "https://www.gutenberg.org/ebooks/1636" },
+    "g-theaetetus": { "label": "Theaetetus, tr. Benjamin Jowett (Project Gutenberg #1726)", "url": "https://www.gutenberg.org/ebooks/1726" },
+    "g-timaeus": { "label": "Timaeus, tr. Benjamin Jowett (Project Gutenberg #1572)", "url": "https://www.gutenberg.org/ebooks/1572" },
+    "g-laws": { "label": "Laws, tr. Benjamin Jowett (Project Gutenberg #1750)", "url": "https://www.gutenberg.org/ebooks/1750" },
+    "ia-jowett": { "label": "The Dialogues of Plato, tr. Benjamin Jowett, 2nd ed. vol. 1 (Oxford, 1875; Internet Archive)", "url": "https://archive.org/details/dialoguesofplato01joweuoft" }
+  },
+  "timeline": [
+    {
+      "date": "-0428",
+      "age": 0,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Born in Athens",
+      "text": "Plato was born in Athens around 428 or 427 BC. The year is not certain: ancient writers disagree, and modern sources give dates from 429 to 423 BC.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["iep", "w-plato", "sep"]
+    },
+    {
+      "date": "-0425",
+      "age": null,
+      "place": "Athens, Attica, (Greece)",
+      "title": "A powerful family",
+      "text": "His family was one of the richest and most political in Athens. His parents were Ariston and Perictione, who was descended from the lawmaker Solon. His older brothers Glaucon and Adeimantus later appear as speakers in the Republic. After Ariston died, his mother married Pyrilampes, a friend of Pericles.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["iep", "w-plato"]
+    },
+    {
+      "date": "-0420",
+      "age": null,
+      "place": "Athens, Attica, (Greece)",
+      "title": "A name with a question mark",
+      "text": "A later writer, Diogenes Laertius, said \"Plato\" was a nickname for his broad build and that his real name was Aristocles. Modern scholars widely doubt this story.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-plato"]
+    },
+    {
+      "date": "-0410",
+      "age": null,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Meeting Socrates",
+      "text": "As a young man, Plato joined the circle of Socrates, who spent his days questioning people in the streets of Athens. The exact year they met is not known. Socrates became the main speaker in almost all of Plato's writings.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["w-plato", "sep"]
+    },
+    {
+      "date": "-0404",
+      "age": 24,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The Thirty",
+      "text": "In 404 BC a group called the Thirty Tyrants overthrew the democracy of Athens. It was led by Plato's relative Critias and included his uncle Charmides. The Seventh Letter, which may or may not be by Plato, says their violent rule turned him away from a career in politics.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["iep", "w-seventh"]
+    },
+    {
+      "date": "-0399",
+      "age": 28,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The trial of Socrates",
+      "text": "Socrates was tried for impiety and for corrupting the young. In Plato's account, the Apology, Socrates names Plato as one of the friends in court, and Plato is among those who offer to pay a fine to save him. The jury sentenced Socrates to death.",
+      "turning": true,
+      "kind": "setback",
+      "sources": ["w-trial", "g-apology", "iep"]
+    },
+    {
+      "date": "-0399",
+      "age": 28,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The death of Socrates",
+      "text": "Socrates died by drinking poison, as the law required. In the Phaedo, Plato writes that he himself was ill that day and not there. The loss of his teacher ended Plato's plans for public life.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["g-phaedo", "w-plato"]
+    },
+    {
+      "date": "-0396",
+      "age": 32,
+      "place": "Megara, (Greece)",
+      "title": "Study in Megara",
+      "text": "After a few years in Athens, Plato went to the nearby city of Megara around 396 BC to study with the philosopher Euclid of Megara, another friend of Socrates.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-plato", "iep"]
+    },
+    {
+      "date": "-0395",
+      "age": 33,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The first dialogues",
+      "text": "In the years after Socrates died, Plato probably wrote his early dialogues, such as the Apology, Crito and Euthyphro. In them Socrates questions people about courage, piety and justice, and often no final answer is reached. Scholars disagree on the exact order of the dialogues.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["iep", "w-plato", "g-crito"]
+    },
+    {
+      "date": "-0388",
+      "age": 40,
+      "place": "Taras, Magna Graecia, (Italy)",
+      "title": "With the Pythagoreans",
+      "text": "Plato travelled to southern Italy, where he worked with Pythagorean thinkers such as the mathematician Archytas. Later writers also say he visited Egypt and Cyrene, but there is little evidence for this.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-plato", "iep"]
+    },
+    {
+      "date": "-0387",
+      "age": 41,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "First visit to Sicily",
+      "text": "At about forty, according to the Seventh Letter, Plato visited Syracuse, ruled by the tyrant Dionysius I. There he met and taught the young Dion, the ruler's brother-in-law, who became a lifelong friend. Sources give dates from about 387 to 385 BC.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["iep", "w-dion", "w-plato"]
+    },
+    {
+      "date": "-0387",
+      "age": 41,
+      "place": "Aegina, (Greece)",
+      "title": "Sold as a slave?",
+      "text": "An old story says Plato was sold into slavery and then freed. Some later accounts blame Dionysius I, but the IEP calls these accounts doubtful. A scroll from Herculaneum, read in 2024, says he was sold on the island of Aegina, perhaps in 404 or 399 BC. The story is still uncertain.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["iep", "w-plato"]
+    },
+    {
+      "date": "-0387",
+      "age": 41,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Founding the Academy",
+      "text": "Back in Athens, Plato founded a school in a grove sacred to the hero Academus, outside the city walls. It became known as the Academy. Most sources say about 387 BC; some say a few years later. Members worked through problems by discussion, and studied mathematics. Two women, Axiothea and Lasthenia, are known to have studied there.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-academy", "iep", "w-plato"]
+    },
+    {
+      "date": "-0385",
+      "age": 43,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Meno and learning",
+      "text": "In dialogues such as the Meno, probably from these years, Plato asked whether goodness can be taught and how we can search for something we do not yet know.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["iep", "g-meno"]
+    },
+    {
+      "date": "-0380",
+      "age": 48,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Symposium and Phaedo",
+      "text": "In his middle period Plato wrote the Symposium, a dinner party where friends give speeches about love, and the Phaedo, about the last day of Socrates and whether the soul lives on.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["iep", "g-symposium", "g-phaedo"]
+    },
+    {
+      "date": "-0375",
+      "age": 53,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The Republic",
+      "text": "Around 375 BC Plato wrote the Republic, ten books on what justice is and whether a just person is happier. It describes an ideal city led by philosopher rulers, a plan for education, and the allegory of the cave.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-republic", "g-republic"]
+    },
+    {
+      "date": "-0367",
+      "age": 61,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Aristotle arrives",
+      "text": "A young man named Aristotle joined the Academy in 367 BC. He stayed about twenty years, until Plato's death, and later founded his own school, the Lyceum.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-academy", "w-plato"]
+    },
+    {
+      "date": "-0366",
+      "age": 62,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Teaching a young ruler",
+      "text": "After Dionysius I died, Dion asked Plato to come and teach the new ruler, Dionysius II, hoping he would become a wise leader. Plato went, partly out of loyalty to Dion. It failed: Dion was exiled, and Plato was kept under watch.",
+      "turning": true,
+      "kind": "setback",
+      "sources": ["w-plato", "iep", "w-seventh"]
+    },
+    {
+      "date": "-0365",
+      "age": 63,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Back to the Academy",
+      "text": "Plato returned home. Dion, now in exile, spent about four years in Athens with him, from about 365 to 361 BC.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["iep"]
+    },
+    {
+      "date": "-0361",
+      "age": 67,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "A third, hard journey",
+      "text": "Plato went to Syracuse once more. Dionysius II broke his promises about Dion, and Plato was again held almost as a prisoner. Friends led by Archytas of Taras arranged for him to leave.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-plato", "iep", "w-seventh"]
+    },
+    {
+      "date": "-0360",
+      "age": 68,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Harder questions",
+      "text": "In dialogues such as the Theaetetus, Parmenides and Phaedrus, Plato turned to hard questions about what knowledge is, and even tested his own earlier ideas. In the Phaedrus, Socrates warns that writing can weaken memory.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["iep", "g-theaetetus", "g-phaedrus"]
+    },
+    {
+      "date": "-0357",
+      "age": 71,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Dion goes to war",
+      "text": "Dion sailed for Sicily with hired soldiers and took Syracuse in 357 BC. According to the Seventh Letter, Plato refused to support the invasion.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-dion", "w-seventh"]
+    },
+    {
+      "date": "-0355",
+      "age": 73,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The late dialogues",
+      "text": "Plato's late works include the Sophist, Statesman, Timaeus, Critias and Philebus. Scholars group them by their shared writing style, partly with the help of computer word counts.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["sep", "iep", "g-timaeus"]
+    },
+    {
+      "date": "-0354",
+      "age": 74,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Dion is killed",
+      "text": "Dion was killed around 354 BC, and Sicily fell into disorder. The Seventh Letter, written as if by Plato to Dion's friends, explains his part in these events and urges lawful government. Many scholars doubt that Plato wrote it.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-dion", "w-seventh", "iep"]
+    },
+    {
+      "date": "-0350",
+      "age": 78,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The Laws",
+      "text": "Ancient writers place the Laws among Plato's very last works. In it, three men on a long walk discuss how to write laws for a new city.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["sep", "g-laws"]
+    },
+    {
+      "date": "-0347",
+      "age": 81,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Death in Athens",
+      "text": "Plato died in Athens in 348 or 347 BC, at about eighty or eighty-one. He was buried at the Academy, but his grave has not been found. His nephew Speusippus became the next head of the school.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["w-plato", "iep", "w-academy"]
+    },
+    {
+      "date": "0529",
+      "age": null,
+      "place": "Athens, (Greece)",
+      "title": "The last Academy",
+      "text": "The first Academy was ruined when the Roman general Sulla took Athens in 86 BC. A new Platonist school later grew in Athens. In 529 AD the emperor Justinian placed it under state control, and it soon came to an end.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-academy"]
+    },
+    {
+      "date": "1484",
+      "age": null,
+      "place": "Florence, Tuscany, (Italy)",
+      "title": "Plato in Latin",
+      "text": "Marsilio Ficino, asked by Cosimo de' Medici, translated all of Plato's surviving works into Latin. It was printed in 1484, the first complete Latin Plato, and it shaped the Italian Renaissance.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-ficino", "w-plato"]
+    },
+    {
+      "date": "1871",
+      "age": null,
+      "place": "Oxford, England, (United Kingdom)",
+      "title": "Plato in English",
+      "text": "Benjamin Jowett of Balliol College published his English translation of the Dialogues in 1871, and a revised third edition in 1892. It is the free translation quoted in this Section.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-jowett", "ia-jowett"]
+    }
+  ],
+  "works": [
+    {
+      "year": "-0387",
+      "type": "school",
+      "title": "The Academy",
+      "text": "His school in a sacred grove outside Athens, where members worked through problems by discussion and studied mathematics. Aristotle studied there for about twenty years. Plato's school lasted until 86 BC.",
+      "sources": ["w-academy", "iep"]
+    },
+    {
+      "year": "-0395",
+      "type": "dialogue",
+      "title": "Apology",
+      "text": "Plato's version of the speech Socrates gave at his trial in 399 BC, where he explains why he spent his life asking questions.",
+      "sources": ["g-apology", "w-trial", "iep"],
+      "url": "https://www.gutenberg.org/ebooks/1656"
+    },
+    {
+      "year": "-0395",
+      "type": "dialogue",
+      "title": "Crito",
+      "text": "Socrates, waiting in prison, explains to his friend Crito why he will not escape: he will not answer a wrong with another wrong.",
+      "sources": ["g-crito", "iep"],
+      "url": "https://www.gutenberg.org/ebooks/1657"
+    },
+    {
+      "year": "-0385",
+      "type": "dialogue",
+      "title": "Meno",
+      "text": "Can goodness be taught? Socrates helps an enslaved boy work out a geometry problem by asking questions, to show how learning can work.",
+      "sources": ["g-meno", "iep"],
+      "url": "https://www.gutenberg.org/ebooks/1643"
+    },
+    {
+      "year": "-0380",
+      "type": "dialogue",
+      "title": "Symposium",
+      "text": "At a dinner party, friends take turns giving speeches in praise of love. Socrates describes love as a climb from beautiful things toward beauty itself.",
+      "sources": ["g-symposium", "iep"],
+      "url": "https://www.gutenberg.org/ebooks/1600"
+    },
+    {
+      "year": "-0380",
+      "type": "dialogue",
+      "title": "Phaedo",
+      "text": "The story of the last day of Socrates, spent talking with friends about whether the soul lives on after death.",
+      "sources": ["g-phaedo", "iep"],
+      "url": "https://www.gutenberg.org/ebooks/1658"
+    },
+    {
+      "year": "-0375",
+      "type": "dialogue",
+      "title": "The Republic",
+      "text": "Ten books on justice, the ideal city, education and philosopher rulers. It includes the allegory of the cave, in which prisoners mistake shadows on a wall for the real world.",
+      "sources": ["w-republic", "g-republic"],
+      "url": "https://www.gutenberg.org/ebooks/1497"
+    },
+    {
+      "year": "-0360",
+      "type": "dialogue",
+      "title": "Phaedrus",
+      "text": "A walk in the country by a river, with speeches on love and a famous warning that writing can make people forget and only seem wise.",
+      "sources": ["g-phaedrus", "iep"],
+      "url": "https://www.gutenberg.org/ebooks/1636"
+    },
+    {
+      "year": "-0360",
+      "type": "dialogue",
+      "title": "Theaetetus",
+      "text": "Socrates and a gifted young mathematician try to define knowledge. They test three answers and reject all of them.",
+      "sources": ["g-theaetetus", "iep"],
+      "url": "https://www.gutenberg.org/ebooks/1726"
+    },
+    {
+      "year": "-0355",
+      "type": "dialogue",
+      "title": "Timaeus",
+      "text": "A late dialogue in which Timaeus gives a long account of how the ordered world came to be.",
+      "sources": ["g-timaeus", "iep"],
+      "url": "https://www.gutenberg.org/ebooks/1572"
+    },
+    {
+      "year": "-0350",
+      "type": "dialogue",
+      "title": "Laws",
+      "text": "Probably among his last works: three men on a long walk discuss the laws and education of a new city in great detail.",
+      "sources": ["g-laws", "sep"],
+      "url": "https://www.gutenberg.org/ebooks/1750"
+    },
+    {
+      "year": "-0360",
+      "type": "lecture",
+      "title": "On the Good",
+      "text": "A lecture Plato gave at the Academy, known only from later reports. No text of it survives, and its date is unknown.",
+      "sources": ["w-academy"]
+    },
+    {
+      "year": "-0354",
+      "type": "letter",
+      "title": "Seventh Letter",
+      "text": "A letter about Plato's youth and his visits to Sicily, written as if by Plato. Scholars are divided on whether he really wrote it.",
+      "sources": ["w-seventh", "sep"]
+    }
+  ],
+  "resources": [
+    { "label": "Books by Plato (Project Gutenberg)", "url": "https://www.gutenberg.org/ebooks/author/93", "what": "Free Jowett translations of the dialogues to read online or download." },
+    { "label": "The Republic, tr. Benjamin Jowett (Project Gutenberg #1497)", "url": "https://www.gutenberg.org/ebooks/1497", "what": "His best-known work, free, with Jowett's long introduction." },
+    { "label": "The Dialogues of Plato, Jowett 2nd ed., 1875 (Internet Archive)", "url": "https://archive.org/details/dialoguesofplato01joweuoft", "what": "A scanned printed volume of the Victorian translation." },
+    { "label": "Plato (Stanford Encyclopedia of Philosophy)", "url": "https://plato.stanford.edu/entries/plato/", "what": "A careful scholarly overview of his writing and ideas." },
+    { "label": "Plato (Internet Encyclopedia of Philosophy)", "url": "https://iep.utm.edu/plato/", "what": "A clear account of his life, travels and the order of the dialogues." },
+    { "label": "Platonic Academy (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Platonic_Academy", "what": "The history of his school, from its founding to its end." },
+    { "label": "Plato (Wikiquote)", "url": "https://en.wikiquote.org/wiki/Plato", "what": "Sourced quotes, plus a list of popular quotes Plato never wrote." }
+  ],
+  "books": [
+    {
+      "title": "The Republic",
+      "author": "Plato, translated by Benjamin Jowett",
+      "year": "-0375",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/1497",
+      "note": "Written around 375 BC. Ten books; Book VII has the allegory of the cave."
+    },
+    {
+      "title": "Apology",
+      "author": "Plato, translated by Benjamin Jowett",
+      "year": "-0395",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/1656",
+      "note": "Short and the best place to start: Socrates on trial for his life."
+    },
+    {
+      "title": "Meno",
+      "author": "Plato, translated by Benjamin Jowett",
+      "year": "-0385",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/1643",
+      "note": "A short dialogue on whether goodness can be taught and how we learn."
+    },
+    {
+      "title": "The Dialogues of Plato",
+      "author": "Plato, translated by Benjamin Jowett",
+      "year": "1871",
+      "kind": "by-him",
+      "free": "https://archive.org/details/dialoguesofplato01joweuoft",
+      "note": "The complete Victorian translation; the linked scan is volume 1 of the 1875 second edition (Oxford, Clarendon Press)."
+    },
+    {
+      "title": "A History of Greek Philosophy, Volume 4: Plato, the Man and His Dialogues, Earlier Period",
+      "author": "W. K. C. Guthrie",
+      "year": "1975",
+      "kind": "biography",
+      "free": null,
+      "note": "A standard scholarly study of his life and early works (Cambridge University Press; Wikipedia cites the 1986 printing)."
+    },
+    {
+      "title": "The People of Plato: A Prosopography of Plato and Other Socratics",
+      "author": "Debra Nails",
+      "year": "2002",
+      "kind": "biography",
+      "free": null,
+      "note": "A reference guide to the real people in and around Plato's life and dialogues (Hackett), widely cited on Wikipedia."
+    }
+  ]
+}

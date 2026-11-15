@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "05-lastsupper",
+ "panels": [
+  { "key": "01-vinci", "year": "1452" },
+  { "key": "02-workshop", "year": "1466" },
+  { "key": "03-milan", "year": "1482" },
+  { "key": "04-horse", "year": "1494" },
+  { "key": "05-lastsupper", "year": "1495" },
+  { "key": "06-monalisa", "year": "1503" },
+  { "key": "07-flight", "year": "1505" },
+  { "key": "08-amboise", "year": "1516" }
+ ]
+}

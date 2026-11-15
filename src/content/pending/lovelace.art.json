@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "07-noteg",
+ "panels": [
+  { "key": "01-flyology", "year": "1828" },
+  { "key": "02-recovery", "year": "1829" },
+  { "key": "03-soiree", "year": "1833" },
+  { "key": "04-engine", "year": "1833" },
+  { "key": "05-letters", "year": "1840" },
+  { "key": "06-translation", "year": "1842" },
+  { "key": "07-noteg", "year": "1843" },
+  { "key": "08-legacy", "year": "1864" }
+ ]
+}

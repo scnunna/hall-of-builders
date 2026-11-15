@@ -1,0 +1,62 @@
+{
+  "id": "davinci",
+  "name": "Leonardo da Vinci",
+  "years": "1452 - 1519",
+  "title": "The Curious Mind",
+  "tagline": "A notary's son with little schooling who trained in a workshop, painted the Last Supper and the Mona Lisa, and filled about 13,000 pages with drawings and questions about how the world works.",
+  "sources": {
+    "w-leonardo": { "label": "Leonardo da Vinci (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci" },
+    "richter": { "label": "The Notebooks of Leonardo da Vinci, tr. Jean Paul Richter (1888) (Project Gutenberg #5000)", "url": "https://www.gutenberg.org/ebooks/5000" },
+    "w-flight": { "label": "Codex on the Flight of Birds (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Codex_on_the_Flight_of_Birds" },
+    "w-leicester": { "label": "Codex Leicester (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Codex_Leicester" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Always carry a notebook",
+      "idea": "Leonardo told painters to walk around watching how people talk, laugh and argue, and to sketch them quickly in a small book carried everywhere. He did this himself for his whole life: about 13,000 pages of his notes and drawings survive.",
+      "quote": { "text": "...you must go about, and constantly, as you go, observe, note and consider the circumstances and behaviour of men in talking, quarrelling or laughing or fighting together... And take a note of them with slight strokes thus, in a little book which you should always carry with you.", "credit": "The Notebooks of Leonardo da Vinci, section 571, tr. Jean Paul Richter (1888)" },
+      "practice": "Carry a small notebook or a note on your phone today. Write or sketch three things you notice that you would usually walk past.",
+      "sources": ["richter", "w-leonardo"]
+    },
+    {
+      "title": "Learn the why behind the how",
+      "idea": "Leonardo learned his craft by doing, in a busy workshop. But he believed doing alone was not enough: a painter should understand the rules underneath, such as perspective and light, so the work does not drift.",
+      "quote": { "text": "Those who are in love with practice without knowledge are like the sailor who gets into a ship without rudder or compass and who never can be certain whether he is going.", "credit": "The Notebooks of Leonardo da Vinci, section 19, tr. Jean Paul Richter (1888)" },
+      "practice": "Pick one thing you do every day by habit. Look up or work out one reason why it works the way it does.",
+      "sources": ["richter"]
+    },
+    {
+      "title": "Test it for yourself",
+      "idea": "He did not just repeat what old books said. He watched water flow, studied bird flight and, with an anatomy professor, studied the human body directly. When an idea failed, he blamed his guess, not the evidence.",
+      "quote": { "text": "Experience never errs; it is only your judgments that err by promising themselves effects such as are not caused by your experiments.", "credit": "The Notebooks of Leonardo da Vinci, section 1153, tr. Jean Paul Richter (1888)" },
+      "practice": "Choose one thing you believe about your own habits, such as when you focus best. Test it for a day and write down what really happened.",
+      "sources": ["richter", "w-leonardo", "w-leicester"]
+    },
+    {
+      "title": "Ask about everything",
+      "idea": "His to-do lists jump from machines to animals to the sky. One note simply reminds him to find out how a woodpecker's tongue and a crocodile's jaw work. Small, odd questions led him to new knowledge.",
+      "quote": { "text": "Describe the tongue of the woodpecker and the jaw of the crocodile.", "credit": "The Notebooks of Leonardo da Vinci, section 819, tr. Jean Paul Richter (1888)" },
+      "practice": "Write down five questions about everyday things you do not understand. Answer one of them today.",
+      "sources": ["richter", "w-flight"]
+    },
+    {
+      "title": "Study what you love",
+      "idea": "Leonardo followed his interests across art, engineering and science. He noticed that learning sticks when you care about it, and slips away when you force it.",
+      "quote": { "text": "Just as eating against one's will is injurious to health, so study without a liking for it spoils the memory, and it retains nothing it takes in.", "credit": "The Notebooks of Leonardo da Vinci, section 1176, tr. Jean Paul Richter (1888)" },
+      "practice": "Find the part of a subject you must learn that genuinely interests you. Start your next study session there.",
+      "sources": ["richter"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "The little book", "action": "Carry a small notebook all day. Note or sketch three things you would normally walk past.", "sources": ["richter"] },
+    { "day": 2, "title": "Draw to see", "action": "Spend ten minutes drawing one ordinary object, like your hand or a leaf. Notice what you never saw before." },
+    { "day": 3, "title": "Five questions", "action": "Write five questions about everyday things you do not understand. Answer one of them today." },
+    { "day": 4, "title": "The why", "action": "Pick one daily habit or tool. Find out one reason why it works the way it does." },
+    { "day": 5, "title": "Test it", "action": "Test one belief about yourself for a day, such as when you focus best. Write down what really happened." },
+    { "day": 6, "title": "Follow your interest", "action": "Spend 20 minutes on the part of a subject that truly interests you. Note what you remember an hour later." },
+    { "day": 7, "title": "Read your notebook", "action": "Read back your week of notes. Circle the one idea most worth following up, and plan your next step." }
+  ],
+  "reflect": "What is one small thing you see every day but have never really looked at?",
+  "keepsake": "Leonardo da Vinci Builder Collectible"
+}

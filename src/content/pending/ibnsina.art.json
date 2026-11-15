@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "07-canon",
+ "panels": [
+  { "key": "01-bukhara", "year": "980" },
+  { "key": "02-lessons", "year": "990" },
+  { "key": "03-young-doctor", "year": "996" },
+  { "key": "04-library", "year": "997" },
+  { "key": "05-bookseller", "year": "998" },
+  { "key": "06-vizier", "year": "1015" },
+  { "key": "07-canon", "year": "1025" },
+  { "key": "08-legacy", "year": "1472" }
+ ]
+}

@@ -1,0 +1,394 @@
+{
+  "sources": {
+    "w-confucius": { "label": "Confucius (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Confucius" },
+    "w-analects": { "label": "Analects (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Analects" },
+    "legge-analects": { "label": "The Analects of Confucius, tr. James Legge (Project Gutenberg #3330)", "url": "https://www.gutenberg.org/ebooks/3330" },
+    "sep": { "label": "Confucius, Stanford Encyclopedia of Philosophy (Mark Csikszentmihalyi, rev. 2024)", "url": "https://plato.stanford.edu/entries/confucius/" },
+    "iep": { "label": "Confucius, Internet Encyclopedia of Philosophy (Jeff Richey)", "url": "https://iep.utm.edu/confucius/" },
+    "w-yanhui": { "label": "Yan Hui (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Yan_Hui" },
+    "w-kongli": { "label": "Kong Li (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Kong_Li" },
+    "w-temple": { "label": "Temple of Confucius, Qufu (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Temple_of_Confucius,_Qufu" },
+    "w-qufu-whs": { "label": "Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Temple_and_Cemetery_of_Confucius_and_the_Kong_Family_Mansion_in_Qufu" }
+  },
+  "timeline": [
+    {
+      "date": "-0551",
+      "age": 0,
+      "place": "Zou, State of Lu, (Qufu, Shandong, China)",
+      "title": "Born in the state of Lu",
+      "text": "Confucius, in Chinese Kong Qiu or Kongzi, was probably born in 551 BC near Qufu in the small state of Lu. The traditional birthday is 28 September, but the exact date is not certain. The 551 BC date comes from an early commentary on the Spring and Autumn Annals.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-confucius", "sep"]
+    },
+    {
+      "date": "-0548",
+      "age": 3,
+      "place": "Zou, State of Lu, (Qufu, Shandong, China)",
+      "title": "His father dies",
+      "text": "His father, Kong He (also called Shuliang He), was an elderly officer who died when Confucius was about three. Family tradition linked them to old nobility from the state of Song, but not all modern scholars accept this.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-confucius"]
+    },
+    {
+      "date": "-0547",
+      "age": null,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "Raised in poverty",
+      "text": "His mother, Yan Zhengzai, raised him alone and they were poor. He later said that because his condition was low when he was young, he learned many practical skills.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-confucius", "legge-analects"]
+    },
+    {
+      "date": "-0536",
+      "age": 15,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "Set on learning",
+      "text": "In the Analects he looks back on his life in stages, starting: \"At fifteen, I had my mind bent on learning.\" He came from the shi class of minor retainers, who often had education but little wealth.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["legge-analects", "iep"]
+    },
+    {
+      "date": "-0532",
+      "age": 19,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "Marriage",
+      "text": "At about nineteen he married Qi Guanshi. The couple later had a son and two daughters; one daughter probably died young.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-confucius"]
+    },
+    {
+      "date": "-0531",
+      "age": 20,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "A son named Carp",
+      "text": "His son Kong Li was born when Confucius was about twenty. The Duke of Lu sent a gift of carp, so the boy was named Li, meaning carp. Sources give the year as about 532 or 531 BC.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-confucius", "w-kongli"]
+    },
+    {
+      "date": "-0530",
+      "age": null,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "Small jobs, done well",
+      "text": "In his early twenties he worked in minor government posts, including as a bookkeeper and as a caretaker of sheep and horses.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-confucius"]
+    },
+    {
+      "date": "-0528",
+      "age": 23,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "His mother dies",
+      "text": "His mother died before she was forty. Tradition says Confucius, then about 23, mourned her for three years, as custom required.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-confucius"]
+    },
+    {
+      "date": "-0521",
+      "age": 30,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "The teacher opens his door",
+      "text": "From about age thirty he began teaching. He took students from any background and said he never refused anyone who brought even a small gift of dried meat. Tradition says he taught more than 3,000 students, with about 70 standing out; sources give 70, 72 or 77.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-confucius", "legge-analects"]
+    },
+    {
+      "date": "-0521",
+      "age": null,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "His favourite student arrives",
+      "text": "Yan Hui, about thirty years younger than Confucius, became his student while young. Confucius said that after Yan Hui joined, the other students grew closer to him.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-yanhui"]
+    },
+    {
+      "date": "-0505",
+      "age": null,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "Lu in turmoil",
+      "text": "In the winter of 505 BC, Yang Hu, a retainer of the powerful Ji family, rebelled and took control in Lu. Power in Lu was held by noble families rather than the duke, a problem Confucius often spoke about.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-confucius"]
+    },
+    {
+      "date": "-0501",
+      "age": 50,
+      "place": "State of Lu, (Shandong, China)",
+      "title": "Governor of a town",
+      "text": "After Yang Hu was driven out in the summer of 501 BC, Confucius was appointed governor of a town. It was his first real chance to put his ideas about good government to work.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-confucius"]
+    },
+    {
+      "date": "-0500",
+      "age": null,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "Minister of Crime",
+      "text": "He was later promoted to Minister of Crime, a senior post in Lu. Exactly how much power he held is unclear. Some stories about this time, such as one told by the later writer Xunzi, are not accepted as fact by all historians.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-confucius"]
+    },
+    {
+      "date": "-0498",
+      "age": null,
+      "place": "State of Lu, (Shandong, China)",
+      "title": "Tearing down private walls",
+      "text": "To weaken the noble families and return power to the duke, a plan went ahead to tear down the walls of their private strongholds. The walls of Hou and Bi came down, but the siege of Cheng failed. Historians still discuss how large Confucius's own role was.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-confucius"]
+    },
+    {
+      "date": "-0497",
+      "age": 54,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "Leaving home",
+      "text": "After the wall plan failed, Confucius left Lu. The early histories Zuo Zhuan and Shiji agree he left, and the Shiji adds a story about the duke being distracted by gifts of horses and dancing girls. He would spend about thirteen years on the road.",
+      "turning": true,
+      "kind": "setback",
+      "sources": ["w-confucius"]
+    },
+    {
+      "date": "-0496",
+      "age": null,
+      "place": "State of Wei, (Henan, China)",
+      "title": "Looking for a ruler",
+      "text": "He visited the states of Wei, Song, Zheng, Cao, Chu, Qi, Chen and Cai, hoping a ruler would put his ideas into practice. When Duke Ling of Wei asked him about military tactics, he said he had not studied war, and left the next day. The exact order and years of his visits are not known.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-confucius", "legge-analects"]
+    },
+    {
+      "date": "-0495",
+      "age": null,
+      "place": "Kuang and Song, (Henan, China)",
+      "title": "In danger on the road",
+      "text": "The Analects says he was \"put in fear\" in the town of Kuang, and that in Song a man named Huan Tui threatened him. Both times he stayed calm, trusting that his mission was larger than himself. The exact years are not recorded.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["legge-analects"]
+    },
+    {
+      "date": "-0489",
+      "age": null,
+      "place": "State of Chen, (Henan, China)",
+      "title": "Hunger in Chen",
+      "text": "While he was in Chen, the group ran out of food and his followers were too weak to stand. When his student Zilu complained, Confucius said a good person may also have to endure want, but does not lose control because of it. The year is not certain.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["legge-analects", "w-confucius"]
+    },
+    {
+      "date": "-0484",
+      "age": 67,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "Home again",
+      "text": "At about 67 or 68, he was invited back to Lu by the minister Ji Kangzi. He advised officials on government and crime, and spent his last years teaching and, by tradition, editing the old classic books.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-confucius"]
+    },
+    {
+      "date": "-0483",
+      "age": null,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "Death of his son",
+      "text": "His son Kong Li died at about fifty, before his father. The Analects mentions that Li was buried simply, with a coffin but no outer shell.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-kongli", "legge-analects"]
+    },
+    {
+      "date": "-0481",
+      "age": null,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "Death of Yan Hui",
+      "text": "His favourite student Yan Hui died young, probably around 481 BC. The Analects records Confucius crying, \"Heaven is destroying me!\" When told his grief was too great, he said he would grieve like this for no one else.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-yanhui", "legge-analects"]
+    },
+    {
+      "date": "-0479",
+      "age": 72,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "Death of the teacher",
+      "text": "Confucius died of natural causes in 479 BC, aged 71 or 72, and was buried near the Si River in Lu. His students and his grandson Zisi carried on his teaching.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["w-confucius", "sep"]
+    },
+    {
+      "date": "-0477",
+      "age": null,
+      "place": "Qufu, State of Lu, (China)",
+      "title": "His house becomes a temple",
+      "text": "Within two years of his death, his former house in Qufu was made into a temple by the Duke of Lu. Over the centuries it grew into a vast complex of about 460 rooms.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-temple"]
+    },
+    {
+      "date": "-0140",
+      "age": null,
+      "place": "Chang'an, Han Empire, (Xi'an, China)",
+      "title": "The empire adopts his teaching",
+      "text": "Emperor Wu of Han made Confucian works the official learning of the state and the basis for government exams. Sources give 140 BC or 136 BC. The system lasted, with changes, until the early 1900s. Earlier, in 205 BC, Emperor Gao of Han had offered sacrifices to Confucius at Qufu.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-confucius", "iep", "w-temple"]
+    },
+    {
+      "date": "1994",
+      "age": null,
+      "place": "Qufu, Shandong, (China)",
+      "title": "A World Heritage Site",
+      "text": "The Temple of Confucius, his family cemetery and the Kong Family Mansion in Qufu were listed together as a UNESCO World Heritage Site in 1994.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-qufu-whs", "w-temple"]
+    }
+  ],
+  "works": [
+    {
+      "year": "-0479",
+      "type": "book",
+      "title": "The Analects",
+      "text": "Twenty short books of his sayings and talks with students, gathered after his death. Modern scholars think it grew over about two hundred years and reached its final form in the Han dynasty. It is the main source for his life and ideas.",
+      "sources": ["w-analects", "sep", "iep", "legge-analects"],
+      "url": "https://www.gutenberg.org/ebooks/3330"
+    },
+    {
+      "year": "-0521",
+      "type": "teaching",
+      "title": "A school open to all",
+      "text": "He taught anyone willing to learn, saying \"In teaching there should be no distinction of classes.\" Students came to him from many backgrounds.",
+      "sources": ["legge-analects", "w-confucius"]
+    },
+    {
+      "year": "-0521",
+      "type": "teaching",
+      "title": "The students who carried it on",
+      "text": "Tradition counts more than 3,000 students and 70 or more outstanding disciples. They and their own students kept his teaching alive and shaped the Analects.",
+      "sources": ["w-confucius"]
+    },
+    {
+      "year": "-0501",
+      "type": "reform",
+      "title": "Service in the government of Lu",
+      "text": "As a town governor and then Minister of Crime, he tried to show that leaders who set a good example rule better than those who rely on punishment alone.",
+      "sources": ["w-confucius"]
+    },
+    {
+      "year": "-0498",
+      "type": "reform",
+      "title": "The plan to restore the duke's authority",
+      "text": "A campaign to pull down the private fortress walls of Lu's powerful families. It partly succeeded and then failed, and led to his leaving Lu.",
+      "sources": ["w-confucius"]
+    },
+    {
+      "year": "-0484",
+      "type": "book",
+      "title": "The Five Classics (by tradition)",
+      "text": "Five ancient books of poetry, history, ritual, change and chronicle are linked with Confucius, and tradition says he edited them in his last years. How much he actually did is debated. From the Han dynasty they were the core of state education.",
+      "sources": ["w-confucius", "iep"]
+    },
+    {
+      "year": "-0479",
+      "type": "teaching",
+      "title": "Ren: caring for others",
+      "text": "Ren, often translated as benevolence or humaneness, is the heart of his ethics: real care for other people, learned first in the family.",
+      "sources": ["sep"]
+    },
+    {
+      "year": "-0479",
+      "type": "teaching",
+      "title": "Li: ritual done with respect",
+      "text": "Li means the proper forms of behaviour, from ceremonies to daily manners. He insisted that the feeling behind a ritual matters as much as the form.",
+      "sources": ["sep"]
+    },
+    {
+      "year": "-0479",
+      "type": "teaching",
+      "title": "The junzi: the person of good character",
+      "text": "The junzi, often translated \"gentleman\" or \"superior man\", is his moral ideal: the kind of person his virtues and learning aim to produce.",
+      "sources": ["sep", "legge-analects"]
+    }
+  ],
+  "resources": [
+    {
+      "label": "The Analects of Confucius, tr. James Legge (Project Gutenberg #3330)",
+      "url": "https://www.gutenberg.org/ebooks/3330",
+      "what": "The classic 1861 English translation, free to read online or download."
+    },
+    {
+      "label": "Confucius (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Confucius",
+      "what": "A detailed, well sourced overview of his life, teaching and legacy."
+    },
+    {
+      "label": "Analects (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Analects",
+      "what": "How the Analects was put together, and what scholars debate about its dating."
+    },
+    {
+      "label": "Confucius (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/confucius/",
+      "what": "A careful scholarly guide to his ideas and how reliable the sources are."
+    },
+    {
+      "label": "Confucius (Internet Encyclopedia of Philosophy)",
+      "url": "https://iep.utm.edu/confucius/",
+      "what": "A clear introduction to his thought and the Five Classics."
+    },
+    {
+      "label": "Temple of Confucius, Qufu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Temple_of_Confucius,_Qufu",
+      "what": "The temple that grew from his house, and its long history of fires and rebuilding."
+    },
+    {
+      "label": "Temple and Cemetery of Confucius and the Kong Family Mansion (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Temple_and_Cemetery_of_Confucius_and_the_Kong_Family_Mansion_in_Qufu",
+      "what": "The World Heritage Site in his home town of Qufu."
+    }
+  ],
+  "books": [
+    {
+      "title": "The Analects of Confucius",
+      "author": "Confucius (sayings recorded by his students), translated by James Legge",
+      "year": "1861",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/3330",
+      "note": "His own words as his students remembered them. Short chapters; Books 1, 2 and 7 are a good start."
+    },
+    {
+      "title": "Confucius: His Life and Thought",
+      "author": "Shigeki Kaizuka",
+      "year": "1956",
+      "kind": "biography",
+      "free": null,
+      "note": "A short life by a leading Japanese historian (Allen and Unwin, London; listed in the Wikipedia bibliography)."
+    },
+    {
+      "title": "The Authentic Confucius: A Life of Thought and Politics",
+      "author": "Annping Chin",
+      "year": "2007",
+      "kind": "biography",
+      "free": null,
+      "note": "A modern, readable biography that tries to separate the documented Confucius from later legend (Scribner)."
+    }
+  ]
+}

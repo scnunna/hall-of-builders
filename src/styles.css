@@ -33,7 +33,7 @@ main:focus { outline: none; }
 .brand { display: flex; gap: 10px; align-items: center; text-decoration: none; color: var(--marble); font-family: var(--serif); font-size: 1.15rem; font-weight: 600; }
 .brand svg { width: 30px; height: 30px; fill: none; stroke: var(--gold); stroke-width: 5; }
 .top nav { display: flex; gap: 6px 18px; flex-wrap: wrap; font-size: .95rem; }
-.top nav a { color: var(--text); text-decoration: none; padding: 4px 0; border-bottom: 2px solid transparent; }
+.top nav a { color: var(--text); text-decoration: none; padding: 8px 0; border-bottom: 2px solid transparent; }
 .top nav a[aria-current], .top nav a:hover { border-color: var(--gold); }
 
 .wrap, .hero { max-width: 1100px; margin: 0 auto; padding: 56px max(16px, 4vw); }
@@ -141,8 +141,8 @@ form.done .lead-row, form.done .consent { display: none; }
 .m-end { color: var(--muted); font-size: .9rem; }
 .m-track { width: min(46vw, 320px); height: 4px; background: var(--line); border-radius: 4px; overflow: hidden; }
 .m-fill { display: block; height: 100%; background: var(--gold); transform: scaleX(0); transform-origin: left; }
-.m-nav { position: sticky; top: 58px; z-index: 4; display: flex; gap: 6px 18px; flex-wrap: wrap; justify-content: center; padding: 10px 16px; background: var(--glass); backdrop-filter: blur(6px); border-bottom: 1px solid var(--line); font-size: .92rem; }
-.m-nav a { color: var(--text); text-decoration: none; } .m-nav a:hover { color: var(--gold); }
+.m-nav { position: sticky; top: var(--top-h, 58px); z-index: 4; display: flex; gap: 6px 18px; flex-wrap: wrap; justify-content: center; padding: 2px 16px; background: var(--glass); backdrop-filter: blur(6px); border-bottom: 1px solid var(--line); font-size: .92rem; }
+.m-nav a { color: var(--text); text-decoration: none; display: inline-block; padding: 8px 4px; } .m-nav a:hover { color: var(--gold); }
 .intro .lead { font-family: var(--serif); font-size: clamp(1.3rem, 2.6vw, 1.8rem); color: var(--marble); max-width: 40ch; }
 .spine { position: relative; display: grid; gap: 34px; margin-top: 28px; }
 .spine::before { content: ""; position: absolute; left: 14px; top: 0; bottom: 0; width: 2px; background: linear-gradient(var(--gold), var(--bronze) 60%, transparent); }
@@ -195,3 +195,33 @@ form.done .lead-row, form.done .consent { display: none; }
 :root[data-theme="light"] .m-splash-text .eyebrow { color: var(--bronze); }
 html { transition: background-color .3s ease; }
 .door-arch img { width: 100%; height: 100%; object-fit: cover; border-radius: 140px 140px 10px 10px; border: 2px solid var(--line); }
+/* ---------- Phones and small tablets ---------- */
+h1, h2, h3 { overflow-wrap: break-word; hyphens: auto; }
+.sm-only { display: none; }
+.m-bar { bottom: max(18px, env(safe-area-inset-bottom)); }
+@media (max-width: 760px) {
+  .top { flex-wrap: nowrap; gap: 12px; padding: 6px 14px; }
+  .top nav { flex-wrap: nowrap; gap: 16px; min-width: 0; }
+  .top nav a { white-space: nowrap; padding: 12px 0; }
+  .top nav .nav-sections { display: none; }   /* the brand already links to the Sections */
+  .lg { display: none; } .sm-only { display: inline; }
+  .theme-btn { flex: none; }
+  .m-nav { flex-wrap: nowrap; justify-content: flex-start; overflow-x: auto; scrollbar-width: none; gap: 4px; padding: 0 8px; }
+  .m-nav::-webkit-scrollbar { display: none; }
+  .m-nav { mask-image: linear-gradient(90deg, #000 85%, transparent); -webkit-mask-image: linear-gradient(90deg, #000 85%, transparent); padding-right: 40px; }   /* fade hints that it scrolls */
+  .m-nav a { white-space: nowrap; padding: 12px 10px; }
+  .m-splash-text h1 { font-size: clamp(2.3rem, 10vw, 4rem); }
+  .m-splash-text { padding-bottom: 12vh; }
+  .ev { margin-left: 36px; } .ev::before { left: -30px; } .spine::before { left: 11px; }
+  .ev-body, .sp-text { padding: 14px 16px 16px; }
+  .splash-panel { margin-left: 0; }
+  .m-bar { gap: 8px; padding: 6px 12px; } .m-year { font-size: 1.2rem; }
+  .works, .books { grid-template-columns: 1fr; }
+  .doors { grid-template-columns: repeat(auto-fill, minmax(min(100%, 250px), 1fr)); }
+  input, textarea, select { font-size: 16px; }   /* stops iOS zooming into form fields */
+  .cite { display: inline-block; padding: 2px 8px; }
+}
+@media (max-width: 359px) {
+  .brand span { display: none; }   /* icon only on the narrowest phones */
+  .top nav { margin-left: auto; }
+}

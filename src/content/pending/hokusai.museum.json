@@ -1,0 +1,255 @@
+{
+  "sources": {
+    "w-hokusai": { "label": "Hokusai (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Hokusai" },
+    "holmes": { "label": "C. J. Holmes, Hokusai (London: Unicorn Press, 1899), Internet Archive", "url": "https://archive.org/details/hokusai00holm" },
+    "strange": { "label": "Edward F. Strange, Hokusai: The Old Man Mad with Painting (London, 1906), Internet Archive", "url": "https://archive.org/details/hokusaioldmanmad00strauoft" },
+    "aic-hokusai": { "label": "Katsushika Hokusai, artist page (Art Institute of Chicago)", "url": "https://www.artic.edu/artists/31492/katsushika-hokusai" },
+    "w-36views": { "label": "Thirty-six Views of Mount Fuji (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji" },
+    "w-100views": { "label": "One Hundred Views of Mount Fuji (Wikipedia)", "url": "https://en.wikipedia.org/wiki/One_Hundred_Views_of_Mount_Fuji" },
+    "w-manga": { "label": "Hokusai Manga (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Hokusai_Manga" },
+    "w-wave": { "label": "The Great Wave off Kanagawa (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa" },
+    "w-oi": { "label": "Katsushika Ōi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Katsushika_%C5%8Ci" },
+    "w-sumida": { "label": "Sumida Hokusai Museum (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Sumida_Hokusai_Museum" },
+    "met-wave": { "label": "Under the Wave off Kanagawa, JP1847 (The Metropolitan Museum of Art)", "url": "https://www.metmuseum.org/art/collection/search/45434" },
+    "met-waterfall": { "label": "Rōben Waterfall at Ōyama, from A Tour of Waterfalls in Various Provinces (The Metropolitan Museum of Art)", "url": "https://www.metmuseum.org/art/collection/search/36484" },
+    "met-nurse": { "label": "Poem by Jitō Tenno, from One Hundred Poems Explained by the Nurse (The Metropolitan Museum of Art)", "url": "https://www.metmuseum.org/art/collection/search/36485" },
+    "bm-wave": { "label": "Under the Wave off Kanagawa, 1906,1220,0.533 (British Museum)", "url": "https://www.britishmuseum.org/collection/object/A_1906-1220-0-533" },
+    "bm-everything": { "label": "Hokusai: The Great Picture Book of Everything, exhibition 2021-22 (British Museum)", "url": "https://www.britishmuseum.org/exhibitions/hokusai-great-picture-book-everything" },
+    "hokusaikan": { "label": "Obuse The Hokusai-kan Museum", "url": "https://hokusai-kan.com/" },
+    "sumida": { "label": "The Sumida Hokusai Museum", "url": "https://hokusai-museum.jp/?lang=en" },
+    "mfa-asia": { "label": "Art of Asia collection (Museum of Fine Arts, Boston)", "url": "https://www.mfa.org/collections/asia" },
+    "ia-manga1": { "label": "Hokusai Manga, vol. 1, scanned (Smithsonian Libraries, Internet Archive)", "url": "https://archive.org/details/denshinkaishuhov1kats" },
+    "ia-fugaku1": { "label": "Fugaku hyakkei (One Hundred Views of Mount Fuji), vol. 1, scanned (Smithsonian Libraries, Internet Archive)", "url": "https://archive.org/details/fugakuhyakkeiv1kats" }
+  },
+  "timeline": [
+    {
+      "date": "1760-10-31", "age": 0, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Born in Edo",
+      "text": "Hokusai was born in the Katsushika district of Edo, the city we now call Tokyo. The date usually given is 31 October 1760, but it is not certain. His childhood name was Tokitarō. Accounts disagree about who his father was; he is usually described as a maker of mirrors.",
+      "turning": false, "kind": "life", "sources": ["w-hokusai", "strange"]
+    },
+    {
+      "date": "1766", "age": 6, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "A passion for drawing",
+      "text": "Hokusai later wrote that from the age of six he loved drawing the shapes of things. He may first have been taught by his father, the mirror-maker.",
+      "turning": false, "kind": "life", "sources": ["w-hokusai", "holmes"]
+    },
+    {
+      "date": "1772", "age": 12, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Work in a bookshop",
+      "text": "At about 12 he was sent to work in a bookshop and lending library. Some early writers thought this is where he first fell in love with illustrated books, but they marked the story as uncertain.",
+      "turning": false, "kind": "life", "sources": ["w-hokusai", "strange"]
+    },
+    {
+      "date": "1774", "age": 14, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Apprentice woodcarver",
+      "text": "At about 14 he was apprenticed to a woodblock carver, and stayed until about 18. Learning to cut blocks by hand later helped him guide the craftsmen who cut his own designs.",
+      "turning": false, "kind": "work", "sources": ["w-hokusai", "holmes", "strange"]
+    },
+    {
+      "date": "1778", "age": 18, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Into Shunshō's studio",
+      "text": "He joined the studio of Katsukawa Shunshō, a leading designer of prints of kabuki actors. Most sources say he was 18; the Art Institute of Chicago says 19.",
+      "turning": true, "kind": "work", "sources": ["w-hokusai", "strange", "aic-hokusai"]
+    },
+    {
+      "date": "1779", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "First prints as Shunrō",
+      "text": "His teacher gave him the art name Shunrō. Under that name he published his first prints, a series of kabuki actors.",
+      "turning": false, "kind": "work", "sources": ["w-hokusai", "strange"]
+    },
+    {
+      "date": "1785", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Illustrating books",
+      "text": "By the mid-1780s he was working mostly as a book illustrator, using several names one after another. He also studied styles outside his teacher's school.",
+      "turning": false, "kind": "work", "sources": ["strange", "aic-hokusai"]
+    },
+    {
+      "date": "1789", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Poor, then a fresh start",
+      "text": "An early biography tells that he was once so poor he sold calendars and red pepper in the street. A commission to paint a festival banner paid well, and he vowed to give his whole life to art. Strange dates this to about 1789; it is a traditional story, not a record.",
+      "turning": false, "kind": "setback", "sources": ["strange"]
+    },
+    {
+      "date": "1793", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Out of the Katsukawa school",
+      "text": "After Shunshō died in 1793, Hokusai explored other styles and was pushed out of the Katsukawa school by the senior pupil Shunkō. Sources differ on the exact timing. His first wife had died in the early 1790s.",
+      "turning": false, "kind": "setback", "sources": ["w-hokusai", "strange"]
+    },
+    {
+      "date": "1797", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Married again",
+      "text": "Hokusai remarried in 1797. In all he had two sons and three daughters from his two marriages.",
+      "turning": false, "kind": "life", "sources": ["w-hokusai", "holmes"]
+    },
+    {
+      "date": "1798", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "His own master",
+      "text": "He passed one of his art names to a pupil and set out as an independent artist, no longer tied to any school.",
+      "turning": true, "kind": "work", "sources": ["w-hokusai"]
+    },
+    {
+      "date": "1800", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "The name Hokusai",
+      "text": "He began signing as Katsushika Hokusai and published views of Edo. Strange gives 1799 for the new name. Strange says the name means \"star of the northern constellation\", linked to a Buddhist deity he honored. He used at least thirty names in his life.",
+      "turning": false, "kind": "work", "sources": ["w-hokusai", "strange"]
+    },
+    {
+      "date": "1804", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "A giant Daruma",
+      "text": "At a temple festival in Edo he painted a huge portrait of Daruma, the Buddhist teacher, using brushes as big as brooms. Reports say it covered about 200 square meters, but this comes from popular accounts.",
+      "turning": false, "kind": "work", "sources": ["w-hokusai", "strange"]
+    },
+    {
+      "date": "1807", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Pictures for novels",
+      "text": "He worked with the novelist Takizawa Bakin on illustrated novels such as Chinsetsu Yumiharizuki (1807-1811). The two often quarreled, and why they stopped working together is not known.",
+      "turning": false, "kind": "work", "sources": ["w-hokusai", "strange"]
+    },
+    {
+      "date": "1812", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Teaching by book",
+      "text": "Now signing as Taito, he published Quick Lessons in Simplified Drawing, his first drawing manual. The preface to the first Manga volume is dated late 1812.",
+      "turning": false, "kind": "work", "sources": ["w-hokusai", "strange"]
+    },
+    {
+      "date": "1814", "age": null, "place": "Nagoya, Owari Province, (Japan)",
+      "title": "The Hokusai Manga",
+      "text": "The first volume of the Hokusai Manga appeared: loose sketches of people, animals, plants, gods and daily life. Ten volumes came out by about 1819, and fifteen in all, the last after his death. Early writers disagreed on the start date, giving 1812, 1814 or 1817.",
+      "turning": true, "kind": "work", "sources": ["w-manga", "w-hokusai", "strange"]
+    },
+    {
+      "date": "1817-10-05", "age": null, "place": "Nagoya, Owari Province, (Japan)",
+      "title": "The Great Daruma",
+      "text": "Outside the Hongan-ji temple in Nagoya he painted another giant Daruma, reported as 18 by 10.8 meters. The painting was destroyed in 1945.",
+      "turning": false, "kind": "work", "sources": ["w-hokusai"]
+    },
+    {
+      "date": "1820", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Known across Japan",
+      "text": "He took the name Iitsu around the age of 60. This began the period when his fame spread across the country.",
+      "turning": false, "kind": "work", "sources": ["w-hokusai"]
+    },
+    {
+      "date": "1824", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "His daughter Ōi",
+      "text": "His daughter Ōi married in 1824 but divorced about three years later and came home. She became his assistant and a fine painter in her own right. Her birth and death dates are not known.",
+      "turning": false, "kind": "life", "sources": ["w-oi"]
+    },
+    {
+      "date": "1828", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Loss and illness",
+      "text": "His second wife died in 1828. Around this time, when nearly 70, he had a stroke. Early biographers say he treated himself with an old Chinese remedy and went back to work; the exact year (1828 or 1829) is uncertain.",
+      "turning": false, "kind": "setback", "sources": ["w-oi", "holmes", "strange"]
+    },
+    {
+      "date": "1831", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Thirty-six Views of Mount Fuji",
+      "text": "In his seventies he designed Thirty-six Views of Mount Fuji, later grown to 46 prints, using the newly imported Prussian blue. Its most famous print, the Great Wave, dates to about 1831. The series made landscape prints popular in Japan.",
+      "turning": true, "kind": "work", "sources": ["w-36views", "w-wave", "bm-wave", "aic-hokusai"]
+    },
+    {
+      "date": "1834", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "One Hundred Views of Mount Fuji",
+      "text": "Now calling himself Manji, \"the old man mad about drawing\", he published the picture book One Hundred Views of Mount Fuji. In its postscript he wrote that he would keep improving until 110.",
+      "turning": true, "kind": "work", "sources": ["w-100views", "w-hokusai", "holmes"]
+    },
+    {
+      "date": "1834", "age": null, "place": "Uraga, Sagami Province, (Japan)",
+      "title": "Living in hiding",
+      "text": "In the winter of 1834 he left Edo to live under another name in Uraga. Early biographers link this to trouble caused by a grandson, but the exact reason is uncertain. He came back in 1836.",
+      "turning": false, "kind": "setback", "sources": ["holmes", "strange"]
+    },
+    {
+      "date": "1836", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Drawing through famine",
+      "text": "He returned during a terrible famine, when few people could buy art. Early biographers say he traded quick drawings for small portions of rice to get by.",
+      "turning": false, "kind": "setback", "sources": ["holmes", "strange"]
+    },
+    {
+      "date": "1839", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "The fire",
+      "text": "A fire destroyed his studio and much of his work, including drawings he had kept since youth. He found new rooms and went straight back to work.",
+      "turning": false, "kind": "setback", "sources": ["w-hokusai", "strange"]
+    },
+    {
+      "date": "1842", "age": 83, "place": "Obuse, Shinano Province, (Japan)",
+      "title": "To Obuse",
+      "text": "At about 83 he first visited the town of Obuse, probably invited by the wealthy merchant Takai Kozan. One theory says new government rules had made work in Edo harder.",
+      "turning": false, "kind": "life", "sources": ["hokusaikan", "w-hokusai"]
+    },
+    {
+      "date": "1844", "age": null, "place": "Obuse, Shinano Province, (Japan)",
+      "title": "Ceilings for festival carts",
+      "text": "On later visits in 1844 and 1845 he painted ceiling panels for two of Obuse's festival carts, with a dragon and phoenix and two great waves. They are still kept in the town.",
+      "turning": false, "kind": "work", "sources": ["hokusaikan"]
+    },
+    {
+      "date": "1848", "age": null, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Still teaching, still moving",
+      "text": "He published a book on how to use color, comparing Japanese and European ways of painting. He moved house once more; he is said to have lived in 93 homes in all.",
+      "turning": false, "kind": "work", "sources": ["holmes", "strange", "aic-hokusai"]
+    },
+    {
+      "date": "1849-05-10", "age": 88, "place": "Edo (Tokyo), Musashi Province, (Japan)",
+      "title": "Five more years",
+      "text": "Hokusai died in Edo on 10 May 1849, still painting in his last months. Early biographers record his last words as a wish for five or ten more years so he could become a true painter; the wording differs between accounts. He was buried at Seikyō-ji temple.",
+      "turning": false, "kind": "life", "sources": ["w-hokusai", "holmes", "strange"]
+    },
+    {
+      "date": "1905", "age": null, "place": "Paris, (France)",
+      "title": "A wave in music",
+      "text": "His prints had reached Europe in the 1800s and inspired painters such as Monet and Van Gogh. Claude Debussy's La Mer (1905) is said to be inspired by the Great Wave.",
+      "turning": false, "kind": "legacy", "sources": ["w-hokusai", "met-wave"]
+    },
+    {
+      "date": "1976", "age": null, "place": "Obuse, Nagano, (Japan)",
+      "title": "A museum in Obuse",
+      "text": "The Hokusai-kan Museum opened in Obuse, the town of his last journeys. It keeps his paintings and the festival carts he decorated, and marked its 50th year in 2026.",
+      "turning": false, "kind": "legacy", "sources": ["hokusaikan"]
+    },
+    {
+      "date": "2016-11-22", "age": null, "place": "Sumida, Tokyo, (Japan)",
+      "title": "A museum at home",
+      "text": "The Sumida Hokusai Museum opened in the Tokyo district where he was born and spent most of his life.",
+      "turning": false, "kind": "legacy", "sources": ["w-sumida", "sumida"]
+    }
+  ],
+  "works": [
+    { "year": "1779", "type": "print", "title": "Kabuki actor prints", "text": "His first published prints, signed Shunrō, in the style of his teacher Shunshō.", "sources": ["w-hokusai", "strange"] },
+    { "year": "1800", "type": "book", "title": "Famous Sights of the Eastern Capital", "text": "Picture books of Edo published as he took the name Hokusai, along with Eight Views of Edo.", "sources": ["w-hokusai"] },
+    { "year": "1807", "type": "book", "title": "Illustrations for Bakin's novels", "text": "Pictures for adventure novels by Takizawa Bakin, including Chinsetsu Yumiharizuki (1807-1811).", "sources": ["w-hokusai", "strange"] },
+    { "year": "1812", "type": "book", "title": "Quick Lessons in Simplified Drawing", "text": "His first drawing manual, one of several books meant to teach others to draw.", "sources": ["w-hokusai"] },
+    { "year": "1814", "type": "book", "title": "Hokusai Manga", "text": "Fifteen volumes of lively sketches of people, animals, plants, gods and everyday life. \"Manga\" here means loose, informal drawings, not comics.", "sources": ["w-manga", "strange", "ia-manga1"], "url": "https://archive.org/details/denshinkaishuhov1kats" },
+    { "year": "1817", "type": "painting", "title": "The Great Daruma", "text": "A giant portrait of Daruma painted in public outside a Nagoya temple. It was destroyed in 1945.", "sources": ["w-hokusai"] },
+    { "year": "1827", "type": "print", "title": "A Tour of Waterfalls in Various Provinces", "text": "A series of waterfall prints from about 1827, made around the same years as his Fuji series.", "sources": ["met-waterfall", "holmes"], "url": "https://www.metmuseum.org/art/collection/search/36484" },
+    { "year": "1831", "type": "print", "title": "Thirty-six Views of Mount Fuji", "text": "His landscape series of 46 prints, with Prussian blue skies and water. Fewer than ten complete sets survive.", "sources": ["w-36views", "aic-hokusai"] },
+    { "year": "1831", "type": "print", "title": "Under the Wave off Kanagawa (The Great Wave)", "text": "Probably made in late 1831. Impressions are held by the Met (New York), the British Museum (London), the Art Institute of Chicago, the MFA Boston and many other museums.", "sources": ["w-wave", "met-wave", "bm-wave", "aic-hokusai"], "url": "https://www.metmuseum.org/art/collection/search/45434" },
+    { "year": "1834", "type": "book", "title": "One Hundred Views of Mount Fuji", "text": "Three black-and-white picture books of Mount Fuji seen in every season and setting. Volumes 1 and 2 came out in 1834 and 1835; the third is usually dated 1849.", "sources": ["w-100views", "ia-fugaku1"], "url": "https://archive.org/details/fugakuhyakkeiv1kats" },
+    { "year": "1835", "type": "print", "title": "One Hundred Poems Explained by the Nurse", "text": "His last print series, picturing famous old poems. It was never published in full.", "sources": ["w-hokusai", "met-nurse"], "url": "https://www.metmuseum.org/art/collection/search/36485" },
+    { "year": "1835", "type": "painting", "title": "Self-Portrait as a Fisherman", "text": "A self-portrait held by the Art Institute of Chicago, which owns nearly 600 of his works.", "sources": ["aic-hokusai"], "url": "https://www.artic.edu/artists/31492/katsushika-hokusai" },
+    { "year": "1830", "type": "drawing", "title": "The Great Picture Book of Everything", "text": "103 small drawings from the 1820s-1840s for a picture encyclopedia that was never published. The British Museum acquired them and showed them in 2021.", "sources": ["bm-everything"], "url": "https://www.britishmuseum.org/exhibitions/hokusai-great-picture-book-everything" },
+    { "year": "1844", "type": "painting", "title": "Festival cart ceilings in Obuse", "text": "Ceiling paintings of a dragon and phoenix and of two waves for festival carts in Obuse, made in 1844 and 1845.", "sources": ["hokusaikan"], "url": "https://hokusai-kan.com/" },
+    { "year": "1848", "type": "book", "title": "Treatise on Colouring", "text": "A late handbook on color, which compares Japanese painting with Dutch oil painting and etching.", "sources": ["holmes"] },
+    { "year": "1849", "type": "painting", "title": "Dragon of Smoke Escaping from Mount Fuji and Tiger in the Snow", "text": "Two of the paintings he made in the last months of his life, at 88.", "sources": ["w-hokusai"] }
+  ],
+  "resources": [
+    { "label": "Under the Wave off Kanagawa (The Met)", "url": "https://www.metmuseum.org/art/collection/search/45434", "what": "The Met's impression of the Great Wave, public domain, with a free image download and links to more of his work." },
+    { "label": "Under the Wave off Kanagawa (British Museum)", "url": "https://www.britishmuseum.org/collection/object/A_1906-1220-0-533", "what": "One of three impressions in the British Museum, with its full catalogue record." },
+    { "label": "Hokusai: The Great Picture Book of Everything (British Museum)", "url": "https://www.britishmuseum.org/exhibitions/hokusai-great-picture-book-everything", "what": "The 2021-22 exhibition of 103 rediscovered drawings, with teacher resources to download." },
+    { "label": "Katsushika Hokusai (Art Institute of Chicago)", "url": "https://www.artic.edu/artists/31492/katsushika-hokusai", "what": "Artist page for a collection of nearly 600 of his works, including three Great Waves." },
+    { "label": "Art of Asia (Museum of Fine Arts, Boston)", "url": "https://www.mfa.org/collections/asia", "what": "One of the largest collections of Japanese art outside Japan, including ukiyo-e prints by Hokusai." },
+    { "label": "The Sumida Hokusai Museum", "url": "https://hokusai-museum.jp/?lang=en", "what": "A museum in the Tokyo district where he was born, opened in 2016." },
+    { "label": "Obuse The Hokusai-kan Museum", "url": "https://hokusai-kan.com/", "what": "A museum in Obuse with his late paintings and the festival carts he decorated." },
+    { "label": "Hokusai Manga, vol. 1 (Internet Archive)", "url": "https://archive.org/details/denshinkaishuhov1kats", "what": "A free scan of the first Manga sketchbook from the Smithsonian Libraries." },
+    { "label": "One Hundred Views of Mount Fuji, vol. 1 (Internet Archive)", "url": "https://archive.org/details/fugakuhyakkeiv1kats", "what": "A free scan of the first volume of his Fuji picture book from the Smithsonian Libraries." },
+    { "label": "Hokusai by C. J. Holmes, 1899 (Internet Archive)", "url": "https://archive.org/details/hokusai00holm", "what": "An early English study with translations of his postscript and letters." }
+  ],
+  "books": [
+    { "title": "Hokusai Manga (Denshin kaishu Hokusai manga), vol. 1", "author": "Katsushika Hokusai", "year": "1814", "kind": "by-him", "free": "https://archive.org/details/denshinkaishuhov1kats", "note": "His famous sketchbook, mostly pictures. Start anywhere and just look." },
+    { "title": "One Hundred Views of Mount Fuji (Fugaku hyakkei), vol. 1", "author": "Katsushika Hokusai", "year": "1834", "kind": "by-him", "free": "https://archive.org/details/fugakuhyakkeiv1kats", "note": "Black-and-white views of Fuji in every setting. The postscript about living to 110 is in this book." },
+    { "title": "Hokusai", "author": "C. J. Holmes", "year": "1899", "kind": "biography", "free": "https://archive.org/details/hokusai00holm", "note": "A short early English study (Unicorn Press, London), now in the public domain." },
+    { "title": "Hokusai: The Old Man Mad with Painting", "author": "Edward F. Strange", "year": "1906", "kind": "biography", "free": "https://archive.org/details/hokusaioldmanmad00strauoft", "note": "An early English life and study of his work; some stories in it are traditional and not proven." },
+    { "title": "Hokusai: One Hundred Views of Mt. Fuji", "author": "Henry D. Smith", "year": "1988", "kind": "biography", "free": null, "note": "A modern scholarly edition of the Fuji picture book, cited on Wikipedia for its postscript." }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "06-tarsus",
+ "panels": [
+  { "key": "01-alexandria", "year": "-0069" },
+  { "key": "02-library", "year": "-0065" },
+  { "key": "03-hermonthis", "year": "-0051" },
+  { "key": "04-caesar", "year": "-0048" },
+  { "key": "05-dendera", "year": "-0044" },
+  { "key": "06-tarsus", "year": "-0041" },
+  { "key": "07-actium", "year": "-0031" },
+  { "key": "08-lastqueen", "year": "-0030" }
+ ]
+}

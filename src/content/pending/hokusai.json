@@ -1,0 +1,64 @@
+{
+  "id": "hokusai",
+  "name": "Katsushika Hokusai",
+  "years": "1760 - 1849",
+  "title": "The Restless Painter",
+  "tagline": "He drew from the age of six until he died at 88, changed his name and style again and again, and still felt he was only beginning.",
+  "sources": {
+    "w-hokusai": { "label": "Hokusai (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Hokusai" },
+    "holmes": { "label": "C. J. Holmes, Hokusai (London: Unicorn Press, 1899), Internet Archive", "url": "https://archive.org/details/hokusai00holm" },
+    "strange": { "label": "Edward F. Strange, Hokusai: The Old Man Mad with Painting (London, 1906), Internet Archive", "url": "https://archive.org/details/hokusaioldmanmad00strauoft" },
+    "aic-hokusai": { "label": "Katsushika Hokusai, artist page (Art Institute of Chicago)", "url": "https://www.artic.edu/artists/31492/katsushika-hokusai" },
+    "w-100views": { "label": "One Hundred Views of Mount Fuji (Wikipedia)", "url": "https://en.wikipedia.org/wiki/One_Hundred_Views_of_Mount_Fuji" },
+    "w-manga": { "label": "Hokusai Manga (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Hokusai_Manga" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Keep getting better",
+      "idea": "At 75 Hokusai wrote that nothing he made before 70 was worth much. He planned to keep improving at 80, 90, 100 and 110. He treated old age as more time to learn, not a reason to stop.",
+      "quote": { "text": "...and when I am a hundred and ten, everything I do, be it but a dot or a line, will be alive.", "credit": "Postscript to One Hundred Views of Mount Fuji (1834), as translated in C. J. Holmes, Hokusai (1899)" },
+      "practice": "Pick one skill you already have. Write down one small thing you want to do better in it this month, and do one short practice of it today.",
+      "sources": ["holmes", "w-100views", "aic-hokusai"]
+    },
+    {
+      "title": "Stand before you run",
+      "idea": "A preface to his Manga sketchbooks records a saying Hokusai used: careful copying comes first, then free drawing, then the quick sketch. Speed grows out of slow, patient basics.",
+      "quote": { "text": "...who cannot stand cannot walk, who cannot walk cannot run.", "credit": "A saying quoted by Hokusai in the preface to Hokusai Manga vol. 4, as given in E. F. Strange, Hokusai: The Old Man Mad with Painting (1906), ch. 2" },
+      "practice": "Learning something new? Do it slowly and exactly three times before you try to do it fast.",
+      "sources": ["strange", "w-manga"]
+    },
+    {
+      "title": "Let criticism teach you",
+      "idea": "As a young man, a senior artist tore up one of his posters in public. Hokusai did not argue. He kept working, and in old age he told a friend that the insult had pushed him to become great.",
+      "quote": { "text": "If Shunko had not insulted me, I should never have become a great draughtsman.", "credit": "Recorded by E. F. Strange, Hokusai: The Old Man Mad with Painting (1906), ch. 1 (a later account, not his own writing)" },
+      "practice": "Think of one harsh comment you got about your work. Write down the one useful point inside it, and fix that point.",
+      "sources": ["strange"]
+    },
+    {
+      "title": "Care about the small details",
+      "idea": "Hokusai had trained as a woodcarver, so he knew how a print was made. In letters to his publishers he told the block cutters exactly how to cut eyes and noses, so his drawing would not be changed.",
+      "quote": { "text": "I warn the engraver not to add an eyeball underneath when I don't draw one.", "credit": "Letter to his publishers (1836), as translated in C. J. Holmes, Hokusai (1899)" },
+      "practice": "Before you hand in your next piece of work, check one small detail you usually skip, and get it exactly right.",
+      "sources": ["holmes"]
+    },
+    {
+      "title": "Learn from every school",
+      "idea": "Hokusai studied many styles: actor prints, the Kano and Rinpa painters, Chinese painting and even Dutch prints and optics. He did not copy any one of them. He mixed what he learned into a style of his own.",
+      "quote": { "text": "In Japanese art they render form and colour without aiming at relief; in the European process they seek relief and ocular illusion.", "credit": "Treatise on Colouring (1848), as translated in C. J. Holmes, Hokusai (1899)" },
+      "practice": "Look at how someone in a different field solves a problem like yours. Write one idea you could borrow.",
+      "sources": ["holmes", "aic-hokusai", "strange"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Draw one thing", "action": "Spend 10 minutes drawing one everyday object, like a cup or a leaf. It does not need to be good." },
+    { "day": 2, "title": "Stand, walk, run", "action": "Copy something slowly and carefully once. Then do it again faster. Then make a quick 30-second version." },
+    { "day": 3, "title": "Ask for the truth", "action": "Show your work to one person and ask what is weakest about it. Thank them and write down the answer." },
+    { "day": 4, "title": "One small detail", "action": "Pick one tiny detail in something you made and fix it so it is exactly right." },
+    { "day": 5, "title": "Borrow an idea", "action": "Look at how a different craft or field does something. Try one of its ideas in your own work." },
+    { "day": 6, "title": "Many views", "action": "Like his views of Mount Fuji, look at one thing near you from five different places. Sketch or note what changes.", "sources": ["w-hokusai"] },
+    { "day": 7, "title": "Your long plan", "action": "Write a short note to yourself: what you want to be better at in one year, five years and twenty years." }
+  ],
+  "reflect": "What is one skill you gave up on too early, and what would it look like to keep improving at it for the rest of your life?",
+  "keepsake": "Katsushika Hokusai Builder Collectible"
+}

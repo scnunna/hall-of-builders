@@ -2,16 +2,7 @@
 // on every page and every device project in playwright.config.ts.
 import { test, expect, type Page } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
-
-const PAGES = [
-  ['lobby', ''],
-  ['tesla-museum', '#/section/tesla'],
-  ['musashi', '#/section/musashi'],
-  ['aurelius', '#/section/aurelius'],
-  ['quiz', '#/quiz'],
-  ['vote', '#/vote'],
-  ['terms', '#/legal/terms'],
-] as const;
+import { PAGES } from './pages';
 
 async function open(page: Page, theme: 'light' | 'dark', hash: string) {
   const errors: string[] = [];

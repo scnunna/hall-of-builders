@@ -1,0 +1,530 @@
+{
+  "sources": {
+    "w-douglass": { "label": "Frederick Douglass (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Frederick_Douglass" },
+    "nps-bio": { "label": "Frederick Douglass, Frederick Douglass National Historic Site (National Park Service)", "url": "https://www.nps.gov/frdo/learn/historyculture/frederickdouglass.htm" },
+    "nps-cedar": { "label": "District of Columbia: Frederick Douglass National Historic Site (National Park Service)", "url": "https://www.nps.gov/articles/frederickdouglass.htm" },
+    "gut-narrative": { "label": "Narrative of the Life of Frederick Douglass, an American Slave (Project Gutenberg #23)", "url": "https://www.gutenberg.org/ebooks/23" },
+    "gut-bondage": { "label": "My Bondage and My Freedom (Project Gutenberg #202)", "url": "https://www.gutenberg.org/ebooks/202" },
+    "ws-july": { "label": "What to the Slave Is the Fourth of July? (Wikisource, 1852 pamphlet text)", "url": "https://en.wikisource.org/wiki/What_to_the_Slave_Is_the_Fourth_of_July%3F" },
+    "w-july": { "label": "What to the Slave Is the Fourth of July? (Wikipedia)", "url": "https://en.wikipedia.org/wiki/What_to_the_Slave_Is_the_Fourth_of_July%3F" },
+    "w-narrative": { "label": "Narrative of the Life of Frederick Douglass, an American Slave (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Narrative_of_the_Life_of_Frederick_Douglass,_an_American_Slave" },
+    "w-northstar": { "label": "The North Star (anti-slavery newspaper) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_North_Star_(anti-slavery_newspaper)" },
+    "w-heroic": { "label": "The Heroic Slave (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Heroic_Slave" },
+    "w-lifetimes": { "label": "Life and Times of Frederick Douglass (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Life_and_Times_of_Frederick_Douglass" },
+    "w-bank": { "label": "Freedman's Savings Bank (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Freedman%27s_Savings_Bank" },
+    "w-nhs": { "label": "Frederick Douglass National Historic Site (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Frederick_Douglass_National_Historic_Site" },
+    "w-54th": { "label": "54th Massachusetts Infantry Regiment (Wikipedia)", "url": "https://en.wikipedia.org/wiki/54th_Massachusetts_Infantry_Regiment" },
+    "w-pendleton": { "label": "Pendleton, Indiana, history section (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Pendleton,_Indiana" },
+    "ia-lifetimes": { "label": "Life and Times of Frederick Douglass, 1881 edition (Internet Archive)", "url": "https://archive.org/details/lifetimesoffrede00doug_0" }
+  },
+  "timeline": [
+    {
+      "date": "1818-02",
+      "age": 0,
+      "place": "Talbot County, Maryland, (United States)",
+      "title": "Born into slavery",
+      "text": "Frederick Augustus Washington Bailey was born into slavery on Maryland's Eastern Shore, probably in February 1818. No record of his birth was kept, and he himself guessed 1817. Later he chose 14 February as his birthday, remembering that his mother called him her \"Little Valentine\". He was raised by his grandmother, Betsy Bailey.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-douglass", "nps-bio", "gut-narrative"]
+    },
+    {
+      "date": "1824",
+      "age": 6,
+      "place": "Wye House, Talbot County, Maryland, (United States)",
+      "title": "Taken from his grandmother",
+      "text": "At about six, he was taken from his grandmother to the large Wye House plantation, where Aaron Anthony worked as overseer for the Lloyd family. He rarely saw his mother, Harriet Bailey, who lived about 12 miles away.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-douglass", "gut-narrative"]
+    },
+    {
+      "date": "1825",
+      "age": 7,
+      "place": "Talbot County, Maryland, (United States)",
+      "title": "His mother dies",
+      "text": "His mother died when he was about seven. He wrote that he never saw her by daylight and was not allowed to be with her when she was ill.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-douglass", "gut-narrative"]
+    },
+    {
+      "date": "1826",
+      "age": 8,
+      "place": "Baltimore, Maryland, (United States)",
+      "title": "Sent to Baltimore",
+      "text": "He was sent to Baltimore to serve Hugh and Sophia Auld. He later called leaving the plantation one of the most interesting events of his life. City life opened the door to learning.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-douglass", "gut-narrative"]
+    },
+    {
+      "date": "1830",
+      "age": 12,
+      "place": "Baltimore, Maryland, (United States)",
+      "title": "The alphabet, then a ban",
+      "text": "Sophia Auld began teaching him the alphabet. Hugh Auld stopped her, saying learning would spoil a slave. Douglass said that warning showed him the pathway from slavery to freedom. He kept learning in secret, often from white boys in the street.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-douglass", "gut-narrative"]
+    },
+    {
+      "date": "1830",
+      "age": 12,
+      "place": "Baltimore, Maryland, (United States)",
+      "title": "The Columbian Orator",
+      "text": "Around age 12 he spent fifty cents he had earned on The Columbian Orator, a school book of famous speeches. He read it again and again. It gave him words for his own thoughts about freedom.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-douglass", "gut-bondage"]
+    },
+    {
+      "date": "1833-01-01",
+      "age": 14,
+      "place": "St. Michaels, Talbot County, Maryland, (United States)",
+      "title": "Sent to a slave-breaker",
+      "text": "Thomas Auld took him back from Baltimore and, on 1 January 1833, hired him out for a year to Edward Covey, a farmer known for \"breaking\" enslaved young men with hard work and beatings.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-douglass", "gut-narrative"]
+    },
+    {
+      "date": "1833-08",
+      "age": 15,
+      "place": "Talbot County, Maryland, (United States)",
+      "title": "He stands his ground",
+      "text": "After months of abuse, Douglass resisted Covey and fought back. Covey never whipped him again. Douglass wrote that this fight was the turning-point in his career as a slave. His Narrative places it in August 1833; some sources give his age as 16, because his birth year is uncertain.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["gut-narrative", "w-douglass"]
+    },
+    {
+      "date": "1834-01-01",
+      "age": 15,
+      "place": "Talbot County, Maryland, (United States)",
+      "title": "A secret Sabbath school",
+      "text": "Hired out to William Freeland in 1834 and 1835, he quietly ran a Sunday school, teaching other enslaved people to read. At one time he had over forty students. He called it the sweetest work he had ever done.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["gut-narrative", "w-douglass"]
+    },
+    {
+      "date": "1836",
+      "age": 18,
+      "place": "Easton, Maryland, (United States)",
+      "title": "An escape plan fails",
+      "text": "Douglass and a few friends planned to escape by canoe up the Chesapeake Bay over the Easter holidays. They were betrayed before they left and jailed. His books disagree on the year: the Narrative suggests 1835, My Bondage and My Freedom says 1836.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["gut-narrative", "gut-bondage", "w-douglass"]
+    },
+    {
+      "date": "1836",
+      "age": 18,
+      "place": "Baltimore, Maryland, (United States)",
+      "title": "A trade in the shipyards",
+      "text": "Sent back to Baltimore, he learned to caulk ships at Fell's Point and soon earned top wages, though he had to hand them to Hugh Auld. Sources give 1835 or 1836 for this step.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["gut-narrative", "w-douglass"]
+    },
+    {
+      "date": "1837",
+      "age": 19,
+      "place": "Baltimore, Maryland, (United States)",
+      "title": "Meets Anna Murray",
+      "text": "He met Anna Murray, a free Black woman living in Baltimore. A year later she joined him in freedom.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-douglass"]
+    },
+    {
+      "date": "1838-09-03",
+      "age": 20,
+      "place": "Baltimore, Maryland, to New York City, (United States)",
+      "title": "Escape by train",
+      "text": "On 3 September 1838, dressed as a sailor and carrying borrowed seaman's papers, he boarded a northbound train. By train, ferry and steamboat he reached New York City in under a day. He hid the details for years to protect those who helped him.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-douglass", "nps-bio", "w-lifetimes", "gut-narrative"]
+    },
+    {
+      "date": "1838-09-15",
+      "age": 20,
+      "place": "New York City, New York, (United States)",
+      "title": "Married to Anna",
+      "text": "Anna Murray joined him in New York, and they married on 15 September 1838, eleven days after he arrived. They moved on to New Bedford, Massachusetts.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-douglass", "gut-narrative"]
+    },
+    {
+      "date": "1838",
+      "age": 20,
+      "place": "New Bedford, Massachusetts, (United States)",
+      "title": "A new name, honest work",
+      "text": "In New Bedford their host, Nathan Johnson, suggested the name Douglass, and he kept it for life. He worked on the wharves loading ships and sawing wood, glad that his pay was now his own.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-douglass", "gut-narrative", "gut-bondage"]
+    },
+    {
+      "date": "1841-08-11",
+      "age": 23,
+      "place": "Nantucket, Massachusetts, (United States)",
+      "title": "First great speech",
+      "text": "At an anti-slavery convention on Nantucket he was urged to speak. Nervous, he told his story, and the crowd was moved. The Massachusetts Anti-Slavery Society soon hired him as a travelling lecturer.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["gut-narrative", "w-douglass"]
+    },
+    {
+      "date": "1843",
+      "age": 25,
+      "place": "Pendleton, Indiana, (United States)",
+      "title": "The Hundred Conventions",
+      "text": "He joined a six-month tour of anti-slavery meetings across the East and Midwest. In Pendleton, Indiana, a mob attacked the speakers. A Quaker family, the Hardys, cared for him, but his injured hand never fully healed.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-douglass", "w-pendleton"]
+    },
+    {
+      "date": "1845-05-01",
+      "age": 27,
+      "place": "Boston, Massachusetts, (United States)",
+      "title": "The Narrative is published",
+      "text": "His first autobiography came out with prefaces by William Lloyd Garrison and Wendell Phillips. It named real people and places, which proved his story but made him easier to recapture. It sold 5,000 copies in four months.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-narrative", "w-douglass", "gut-narrative"]
+    },
+    {
+      "date": "1845-08-16",
+      "age": 27,
+      "place": "Ireland and Great Britain",
+      "title": "Two years abroad",
+      "text": "Fearing capture, he sailed for Liverpool on the Cambria. For two years he lectured across Ireland, Scotland and England, drawing large crowds and making lasting friends.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-douglass", "w-narrative"]
+    },
+    {
+      "date": "1846",
+      "age": 28,
+      "place": "Newcastle upon Tyne, England, (United Kingdom)",
+      "title": "Legally free",
+      "text": "British supporters, led by Anna and Ellen Richardson of Newcastle, raised money and bought his legal freedom from Thomas Auld. The Wikipedia article on the Narrative gives the price as $710.96.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-douglass", "w-narrative", "nps-bio"]
+    },
+    {
+      "date": "1847-12-03",
+      "age": 29,
+      "place": "Rochester, New York, (United States)",
+      "title": "The North Star",
+      "text": "Back in America, he moved to Rochester and launched his own anti-slavery newspaper, The North Star. Friends warned him a former slave could not run a paper. He went ahead anyway. Its motto read: \"Right is of no Sex, Truth is of no Color.\"",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-northstar", "w-douglass", "gut-bondage"]
+    },
+    {
+      "date": "1848",
+      "age": 30,
+      "place": "Seneca Falls, New York, (United States)",
+      "title": "For women's rights",
+      "text": "He was the only African American at the Seneca Falls Convention on women's rights. He spoke in favour of women's right to vote, and the resolution passed.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-douglass"]
+    },
+    {
+      "date": "1852-07-05",
+      "age": 34,
+      "place": "Rochester, New York, (United States)",
+      "title": "What to the Slave Is the Fourth of July?",
+      "text": "Invited by the Rochester Ladies' Anti-Slavery Society, he spoke at Corinthian Hall. He asked what the Fourth of July meant to an enslaved person, and ended with hope for the country.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-july", "ws-july"]
+    },
+    {
+      "date": "1855",
+      "age": 37,
+      "place": "Rochester, New York, (United States)",
+      "title": "My Bondage and My Freedom",
+      "text": "His second, much longer autobiography told his story again in more depth, including his years as a free man and an editor.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-douglass", "gut-bondage"]
+    },
+    {
+      "date": "1859",
+      "age": 41,
+      "place": "Chambersburg, Pennsylvania, (United States)",
+      "title": "He says no to John Brown",
+      "text": "He met the abolitionist John Brown near Chambersburg and refused to join his raid on Harpers Ferry. After the raid failed in October, Douglass was nearly arrested anyway. He fled to Canada and then England.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-douglass"]
+    },
+    {
+      "date": "1863-03-21",
+      "age": 45,
+      "place": "Rochester, New York, (United States)",
+      "title": "Men of Color, To Arms!",
+      "text": "During the Civil War he urged Black men to join the Union army. He recruited for the 54th Massachusetts, and his sons Charles and Lewis were among the first to sign up.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-douglass", "w-54th"]
+    },
+    {
+      "date": "1863",
+      "age": 45,
+      "place": "Washington, D.C., (United States)",
+      "title": "Meeting Lincoln",
+      "text": "Douglass met President Abraham Lincoln at the White House to press for equal treatment of Black soldiers. They met again in 1864 to talk about helping enslaved people reach freedom.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-douglass", "w-lifetimes"]
+    },
+    {
+      "date": "1874",
+      "age": 56,
+      "place": "Washington, D.C., (United States)",
+      "title": "The bank fails",
+      "text": "He became president of the Freedman's Savings Bank in March 1874, hoping to rescue it. It was already in deep trouble and closed that summer. Many Black families lost their savings.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-bank", "w-douglass"]
+    },
+    {
+      "date": "1877",
+      "age": 59,
+      "place": "Washington, D.C., (United States)",
+      "title": "Marshal and Cedar Hill",
+      "text": "President Hayes made him U.S. Marshal for the District of Columbia. The same year he bought Cedar Hill, a house on about nine acres in Anacostia, for $6,700. He made it his home from 1878 until his death.",
+      "turning": false,
+      "kind": "honour",
+      "sources": ["w-douglass", "nps-bio", "nps-cedar", "w-nhs"]
+    },
+    {
+      "date": "1881",
+      "age": 63,
+      "place": "Washington, D.C., (United States)",
+      "title": "Recorder of Deeds and Life and Times",
+      "text": "He became Recorder of Deeds for the District of Columbia and published his third autobiography, Life and Times of Frederick Douglass. Now he could tell openly how he had escaped.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-douglass", "w-lifetimes", "nps-bio"]
+    },
+    {
+      "date": "1882",
+      "age": 64,
+      "place": "Washington, D.C., (United States)",
+      "title": "Anna dies",
+      "text": "Anna Murray Douglass, his wife of 44 years, died at Cedar Hill.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-douglass"]
+    },
+    {
+      "date": "1884",
+      "age": 66,
+      "place": "Washington, D.C., (United States)",
+      "title": "Marries Helen Pitts",
+      "text": "He married Helen Pitts, a white suffragist 20 years younger. The marriage caused public controversy. They stayed together until his death.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-douglass"]
+    },
+    {
+      "date": "1889-11-14",
+      "age": 71,
+      "place": "Port-au-Prince, (Haiti)",
+      "title": "Minister to Haiti",
+      "text": "President Harrison named him U.S. Minister Resident and Consul General to Haiti. He served until 1891, and Haiti later chose him to help run its pavilion at the Chicago World's Fair.",
+      "turning": false,
+      "kind": "honour",
+      "sources": ["w-douglass", "nps-bio", "w-lifetimes"]
+    },
+    {
+      "date": "1895-02-20",
+      "age": 77,
+      "place": "Washington, D.C., (United States)",
+      "title": "His last day",
+      "text": "He spent the day at a meeting of the National Council of Women, where he was welcomed with a standing ovation. That evening he died of a heart attack at Cedar Hill. He was buried in Mount Hope Cemetery in Rochester.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-douglass", "nps-bio"]
+    },
+    {
+      "date": "1899",
+      "age": null,
+      "place": "Rochester, New York, (United States)",
+      "title": "A statue in Rochester",
+      "text": "A statue of Douglass was unveiled in Rochester, the city where he had printed his newspapers for many years.",
+      "turning": false,
+      "kind": "honour",
+      "sources": ["w-douglass"]
+    },
+    {
+      "date": "1988-02-12",
+      "age": null,
+      "place": "Washington, D.C., (United States)",
+      "title": "Cedar Hill for everyone",
+      "text": "After his death, Helen Pitts Douglass worked to save the house. It joined the National Park System in 1962 and became the Frederick Douglass National Historic Site in 1988. His library of more than 1,000 books is still there.",
+      "turning": false,
+      "kind": "honour",
+      "sources": ["w-nhs", "nps-cedar", "w-douglass"]
+    }
+  ],
+  "works": [
+    {
+      "year": "1845",
+      "type": "book",
+      "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+      "text": "His first autobiography, short and powerful, naming real people and places to prove slavery's cruelty. It sold nearly 30,000 copies by 1860.",
+      "sources": ["w-narrative", "gut-narrative"],
+      "url": "https://www.gutenberg.org/ebooks/23"
+    },
+    {
+      "year": "1855",
+      "type": "book",
+      "title": "My Bondage and My Freedom",
+      "text": "His second autobiography, longer and more reflective, covering his first years of freedom and his work as an editor.",
+      "sources": ["w-douglass", "gut-bondage"],
+      "url": "https://www.gutenberg.org/ebooks/202"
+    },
+    {
+      "year": "1881",
+      "type": "book",
+      "title": "Life and Times of Frederick Douglass",
+      "text": "His third autobiography, revised in 1892. It finally told how he escaped and covered the Civil War, his meetings with Lincoln, and his public offices.",
+      "sources": ["w-lifetimes", "ia-lifetimes"],
+      "url": "https://archive.org/details/lifetimesoffrede00doug_0"
+    },
+    {
+      "year": "1847",
+      "type": "newspaper",
+      "title": "The North Star",
+      "text": "His own anti-slavery weekly, first published in Rochester on 3 December 1847, with the motto \"Right is of no Sex, Truth is of no Color\".",
+      "sources": ["w-northstar", "w-douglass"]
+    },
+    {
+      "year": "1851",
+      "type": "newspaper",
+      "title": "Frederick Douglass' Paper",
+      "text": "In 1851 The North Star merged with Gerrit Smith's Liberty Party Paper to form Frederick Douglass' Paper. During the Civil War his paper appeared as Douglass' Monthly.",
+      "sources": ["w-northstar"]
+    },
+    {
+      "year": "1852",
+      "type": "speech",
+      "title": "What to the Slave Is the Fourth of July?",
+      "text": "His most famous speech, given in Rochester on 5 July 1852, asking a free nation to look honestly at slavery while still holding out hope.",
+      "sources": ["w-july", "ws-july"],
+      "url": "https://en.wikisource.org/wiki/What_to_the_Slave_Is_the_Fourth_of_July%3F"
+    },
+    {
+      "year": "1852",
+      "type": "novella",
+      "title": "The Heroic Slave",
+      "text": "His only published work of fiction, based on Madison Washington, who led the 1841 revolt on the ship Creole that freed 135 people.",
+      "sources": ["w-heroic"]
+    },
+    {
+      "year": "1834",
+      "type": "school",
+      "title": "The Sabbath school",
+      "text": "While still enslaved, he secretly taught more than forty people to read on Sundays, at great risk to them all.",
+      "sources": ["gut-narrative", "w-douglass"]
+    },
+    {
+      "year": "1848",
+      "type": "letter",
+      "title": "Letter to Thomas Auld",
+      "text": "An open letter to his former owner, condemning him for keeping Douglass's family enslaved and unable to read.",
+      "sources": ["w-douglass"]
+    },
+    {
+      "year": "1848",
+      "type": "speech",
+      "title": "Speech at Seneca Falls",
+      "text": "The only Black attendee at the first women's rights convention, he spoke up for women's right to vote.",
+      "sources": ["w-douglass"]
+    },
+    {
+      "year": "1863",
+      "type": "broadside",
+      "title": "Men of Color, To Arms!",
+      "text": "A printed call, published on 21 March 1863, urging Black men to fight for the Union and for freedom.",
+      "sources": ["w-douglass", "w-54th"]
+    },
+    {
+      "year": "1877",
+      "type": "public service",
+      "title": "Marshal, Recorder of Deeds, Minister to Haiti",
+      "text": "He served as U.S. Marshal for the District of Columbia (1877-1881), Recorder of Deeds (1881-1886) and Minister to Haiti (1889-1891).",
+      "sources": ["nps-bio", "w-douglass"]
+    },
+    {
+      "year": "1878",
+      "type": "library",
+      "title": "The Cedar Hill library",
+      "text": "At Cedar Hill he built a library of more than 1,000 books and wrote in a small stone study he called the Growlery.",
+      "sources": ["nps-cedar", "w-nhs"]
+    }
+  ],
+  "resources": [
+    { "label": "Narrative of the Life of Frederick Douglass (Project Gutenberg #23)", "url": "https://www.gutenberg.org/ebooks/23", "what": "His first autobiography, free to read online or download." },
+    { "label": "My Bondage and My Freedom (Project Gutenberg #202)", "url": "https://www.gutenberg.org/ebooks/202", "what": "His second autobiography, free to read online or download." },
+    { "label": "Life and Times of Frederick Douglass, 1881 edition (Internet Archive)", "url": "https://archive.org/details/lifetimesoffrede00doug_0", "what": "A scan of his third autobiography." },
+    { "label": "What to the Slave Is the Fourth of July? (Wikisource)", "url": "https://en.wikisource.org/wiki/What_to_the_Slave_Is_the_Fourth_of_July%3F", "what": "The full text of the 1852 Rochester speech, with an audio reading." },
+    { "label": "Frederick Douglass National Historic Site (National Park Service)", "url": "https://www.nps.gov/frdo/learn/historyculture/frederickdouglass.htm", "what": "The park's short biography of Douglass." },
+    { "label": "Cedar Hill (National Park Service)", "url": "https://www.nps.gov/articles/frederickdouglass.htm", "what": "About his last home in Washington, D.C., which you can visit." },
+    { "label": "Frederick Douglass (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Frederick_Douglass", "what": "A long, well-referenced overview of his life and work." }
+  ],
+  "books": [
+    {
+      "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+      "author": "Frederick Douglass",
+      "year": "1845",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/23",
+      "note": "Short and direct; the best place to start."
+    },
+    {
+      "title": "My Bondage and My Freedom",
+      "author": "Frederick Douglass",
+      "year": "1855",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/202",
+      "note": "A fuller retelling, including his first years of freedom and starting his newspaper."
+    },
+    {
+      "title": "Life and Times of Frederick Douglass",
+      "author": "Frederick Douglass",
+      "year": "1881",
+      "kind": "by-him",
+      "free": "https://archive.org/details/lifetimesoffrede00doug_0",
+      "note": "His last autobiography, revised in 1892; tells the escape in detail and covers his later life."
+    },
+    {
+      "title": "Frederick Douglass: Prophet of Freedom",
+      "author": "David W. Blight",
+      "year": "2018",
+      "kind": "biography",
+      "free": null,
+      "note": "The major modern biography; won the 2019 Pulitzer Prize for History (Simon & Schuster)."
+    },
+    {
+      "title": "Young Frederick Douglass: The Maryland Years",
+      "author": "Dickson J. Preston",
+      "year": "1980",
+      "kind": "biography",
+      "free": null,
+      "note": "A historian's careful study of his early life; his research fixed the birth date at February 1818, as cited on Wikipedia."
+    }
+  ]
+}

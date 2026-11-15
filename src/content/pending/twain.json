@@ -1,0 +1,65 @@
+{
+  "id": "twain",
+  "name": "Mark Twain",
+  "years": "1835 - 1910",
+  "title": "The Storyteller",
+  "tagline": "He learned a river by heart, turned what he saw into stories, and worked his way back from ruin.",
+  "sources": {
+    "w-twain": { "label": "Mark Twain (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mark_Twain" },
+    "w-equator": { "label": "Following the Equator (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Following_the_Equator" },
+    "pg-mississippi": { "label": "Life on the Mississippi, Mark Twain (1883), full text (Project Gutenberg #245)", "url": "https://www.gutenberg.org/ebooks/245" },
+    "pg-tomsawyer": { "label": "The Adventures of Tom Sawyer, Mark Twain (1876), full text (Project Gutenberg #74)", "url": "https://www.gutenberg.org/ebooks/74" },
+    "pg-innocents": { "label": "The Innocents Abroad, Mark Twain (1869), full text (Project Gutenberg #3176)", "url": "https://www.gutenberg.org/ebooks/3176" },
+    "pg-puddnhead": { "label": "The Tragedy of Pudd'nhead Wilson, Mark Twain (1894), full text (Project Gutenberg #102)", "url": "https://www.gutenberg.org/ebooks/102" },
+    "wq-twain": { "label": "Mark Twain (Wikiquote), sourced and misattributed quotes", "url": "https://en.wikiquote.org/wiki/Mark_Twain" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Learn your craft by heart",
+      "idea": "As a young cub pilot, Twain had to learn every bend, sandbar and landmark of the Mississippi, in both directions, by day and by night. The river kept changing, so the learning never stopped.",
+      "quote": { "text": "...in order to be a pilot a man had got to learn more than any one man ought to be allowed to know; and the other was, that he must learn it all over again in a different way every twenty-four hours.", "credit": "Life on the Mississippi (1883), ch. 8" },
+      "practice": "Pick one skill you want to master. Each day this week, write down one new detail about it that you did not know before.",
+      "sources": ["pg-mississippi", "w-twain"]
+    },
+    {
+      "title": "Turn the chore into a game",
+      "idea": "In Tom Sawyer, Tom gets his friends to whitewash a fence by making the job look like a treat. Twain's joke hides a real lesson: how we frame a task changes how it feels.",
+      "quote": { "text": "Work consists of whatever a body is obliged to do, and that Play consists of whatever a body is not obliged to do.", "credit": "The Adventures of Tom Sawyer (1876), ch. 2" },
+      "practice": "Take one dull task today and add a small game to it: a timer, a score, or a personal record to beat.",
+      "sources": ["pg-tomsawyer"]
+    },
+    {
+      "title": "Go and see for yourself",
+      "idea": "Twain's first big book came from a long trip to Europe and the Holy Land. Seeing other places with his own eyes, and laughing at his own assumptions, gave him his material.",
+      "quote": { "text": "Travel is fatal to prejudice, bigotry and narrow-mindedness, and many of our people need it sorely on these accounts.", "credit": "The Innocents Abroad (1869), Conclusion" },
+      "practice": "Visit a part of your town you have never been to, or talk with someone whose life is very different from yours. Write three things that surprised you.",
+      "sources": ["pg-innocents", "w-twain"]
+    },
+    {
+      "title": "Change habits one step at a time",
+      "idea": "Twain filled Pudd'nhead Wilson with short, funny sayings. One of them is a plain truth about habits: you rarely break them in one go, you walk them down slowly.",
+      "quote": { "text": "Habit is habit, and not to be flung out of the window by any man, but coaxed down-stairs a step at a time.", "credit": "Pudd'nhead Wilson (1894), ch. 6, Pudd'nhead Wilson's Calendar" },
+      "practice": "Choose one habit you want to change. Make it one small step easier today, not perfect.",
+      "sources": ["pg-puddnhead"]
+    },
+    {
+      "title": "Watch the basket you choose",
+      "idea": "Twain spread his attention across a publishing firm and a typesetting machine that never worked well. Both failed and he went bankrupt in 1894. He then put his energy into what he did best, writing and speaking, and toured the world until his debts were paid.",
+      "quote": { "text": "Put all your eggs in the one basket and--watch that basket", "credit": "Pudd'nhead Wilson (1894), ch. 15, Pudd'nhead Wilson's Calendar" },
+      "practice": "List the projects you are juggling. Circle the one that matters most and give it your first hour tomorrow.",
+      "sources": ["pg-puddnhead", "w-twain", "w-equator"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Learn the river", "action": "Pick one skill and write down one new detail you learned about it today." },
+    { "day": 2, "title": "Paint the fence", "action": "Turn one boring chore into a small game with a timer or a score." },
+    { "day": 3, "title": "Go and look", "action": "Walk somewhere new nearby and write three things that surprised you." },
+    { "day": 4, "title": "One step down", "action": "Make one habit you want to change a little easier today." },
+    { "day": 5, "title": "Write what you saw", "action": "Write one short, true story from your week as if telling it to a friend. Keep it under 200 words." },
+    { "day": 6, "title": "Watch the basket", "action": "List everything you are juggling. Choose the one that matters most and give it your first hour.", "sources": ["w-twain"] },
+    { "day": 7, "title": "Pay it back", "action": "Think of one promise you have not kept yet, big or small. Take the first step to keep it today.", "sources": ["w-twain", "w-equator"] }
+  ],
+  "reflect": "What do you know well enough to tell as a story, and who could you tell it to this week?",
+  "keepsake": "Mark Twain Builder Collectible"
+}

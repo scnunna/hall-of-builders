@@ -1,0 +1,62 @@
+{
+  "id": "ibnsina",
+  "name": "Ibn Sina (Avicenna)",
+  "years": "c. 980 - 1037",
+  "title": "The Physician Philosopher",
+  "tagline": "He taught himself medicine as a teenager, served rulers by day, and wrote by lamplight at night. His Canon of Medicine was studied for centuries.",
+  "sources": {
+    "w-avicenna": { "label": "Avicenna (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Avicenna" },
+    "sep": { "label": "Ibn Sina [Avicenna] (Stanford Encyclopedia of Philosophy)", "url": "https://plato.stanford.edu/entries/ibn-sina/" },
+    "life1918": { "label": "The Life of Avicenna, in The University Library of Autobiography, vol. 2 (1918; translator not named) (Internet Archive)", "url": "https://archive.org/details/autobiography0002unse" },
+    "browne": { "label": "E. G. Browne, Arabian Medicine (1921), Lecture II (Internet Archive)", "url": "https://archive.org/details/arabianmedicineb00brow" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Read, then practise",
+      "idea": "Ibn Sina first learned medicine from books. Then he began to visit sick people and learned from real cases, and soon other physicians came to study with him. Knowledge from books grew real only when he used it.",
+      "quote": { "text": "This science is not difficult.", "credit": "The Life of Avicenna (his own account, as recorded by his student al-Juzjani), in The University Library of Autobiography, vol. 2 (1918)" },
+      "practice": "Pick one thing you read about recently. Find one small way to try it for real today, and note what the book did not tell you.",
+      "sources": ["life1918", "browne"]
+    },
+    {
+      "title": "Read it again, then find a guide",
+      "idea": "He read Aristotle's Metaphysics until he knew it by heart and still did not understand it. He did not pretend he did. When a cheap little book by al-Farabi explained the aim of the work, everything became clear at once.",
+      "quote": { "text": "...after having read it forty times I knew it by heart and still did not understand it.", "credit": "The Life of Avicenna (his own account, as recorded by his student al-Juzjani), in The University Library of Autobiography, vol. 2 (1918)" },
+      "practice": "Name one idea you have read many times but still do not get. Look for a short guide or ask someone to explain its main aim in one sentence.",
+      "sources": ["life1918", "w-avicenna"]
+    },
+    {
+      "title": "When stuck, step away",
+      "idea": "When a problem of logic would not give way, he left his books, went to the mosque to pray, and came back later to read and write again. Stepping away was part of his method, not a break from it.",
+      "quote": { "text": "Every time I was perplexed in a question ... I went to the Mosque and prayed and beseeched the author of everything to unveil to me the difficult and closed meaning.", "credit": "The Life of Avicenna (his own account, as recorded by his student al-Juzjani), in The University Library of Autobiography, vol. 2 (1918)" },
+      "practice": "Next time you are stuck, stop for ten quiet minutes: a walk, a prayer or a few slow breaths. Then come back and try again.",
+      "sources": ["life1918"]
+    },
+    {
+      "title": "Let your mind keep working",
+      "idea": "He studied late, and the questions stayed with him into his sleep. He said that for several hard questions the answer came to him in a dream. Keeping a problem clearly in mind lets it keep working on you.",
+      "quote": { "text": "I dreamed about those same questions which had annoyed me during my sitting up, and thus it happened that for several of them I discovered the solution in sleeping.", "credit": "The Life of Avicenna (his own account, as recorded by his student al-Juzjani), in The University Library of Autobiography, vol. 2 (1918)" },
+      "practice": "Before bed, write tomorrow's hardest question on a card. In the morning, write the first idea that comes to you.",
+      "sources": ["life1918"]
+    },
+    {
+      "title": "Turn joy into thanks",
+      "idea": "When al-Farabi's book finally made the Metaphysics clear, he did not just celebrate alone. The next day he gave to the poor to give thanks. A breakthrough was a reason to be generous.",
+      "quote": { "text": "I conceived a great joy, and the next day I distributed large alms to the poor to thank God.", "credit": "The Life of Avicenna (his own account, as recorded by his student al-Juzjani), in The University Library of Autobiography, vol. 2 (1918)" },
+      "practice": "After your next small win, thank one person who helped you learn, or do one kind thing for someone else that day.",
+      "sources": ["life1918"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Read, then try", "action": "Pick one thing you read this week and try it once for real. Write what you learned that the page did not say." },
+    { "day": 2, "title": "The fortieth read", "action": "Choose one idea you still do not understand. Find a short guide or a person who can explain its main aim." },
+    { "day": 3, "title": "Step away", "action": "When you get stuck today, stop for ten quiet minutes, then come back and try again." },
+    { "day": 4, "title": "Sleep on it", "action": "Write tomorrow's hardest question on a card before bed. In the morning, write your first idea." },
+    { "day": 5, "title": "Teach it back", "action": "Explain one thing you learned this week to someone else in five minutes, the way Ibn Sina taught students at night.", "sources": ["browne"] },
+    { "day": 6, "title": "Give thanks", "action": "Thank one person who helped you learn something, or do one small kind thing for someone." },
+    { "day": 7, "title": "Your own canon", "action": "Write one page that gathers what you learned this week, in order, from basics to details." }
+  ],
+  "reflect": "What is one thing you have read many times but never truly understood, and who could help you see its main aim?",
+  "keepsake": "Ibn Sina Builder Collectible"
+}

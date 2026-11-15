@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "06-combahee",
+ "panels": [
+  { "key": "01-eastern-shore", "year": "1822" },
+  { "key": "02-north-star", "year": "1849" },
+  { "key": "03-same-person", "year": "1849" },
+  { "key": "04-conductor", "year": "1850" },
+  { "key": "05-parents", "year": "1857" },
+  { "key": "06-combahee", "year": "1863" },
+  { "key": "07-auburn", "year": "1869" },
+  { "key": "08-home", "year": "1908" }
+ ]
+}

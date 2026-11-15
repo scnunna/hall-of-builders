@@ -1,0 +1,63 @@
+{
+  "id": "shakespeare",
+  "name": "William Shakespeare",
+  "years": "1564 - 1616",
+  "title": "The Playwright",
+  "tagline": "A glover's son from a market town who became an actor, a part-owner of the Globe, and the writer of plays still performed every day around the world.",
+  "sources": {
+    "w-shakespeare": { "label": "William Shakespeare (Wikipedia)", "url": "https://en.wikipedia.org/wiki/William_Shakespeare" },
+    "w-play": { "label": "Antony and Cleopatra, the play (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Antony_and_Cleopatra" },
+    "w-venus": { "label": "Venus and Adonis, the poem (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(Shakespeare_poem)" },
+    "w-globe": { "label": "Globe Theatre (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Globe_Theatre" },
+    "pg-complete": { "label": "The Complete Works of William Shakespeare (Project Gutenberg #100)", "url": "https://www.gutenberg.org/ebooks/100" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Make old stories new",
+      "idea": "Shakespeare rarely invented his plots. He took them from older books, such as Thomas North's translation of Plutarch, and made them new with his characters and language. Starting from something that exists is not cheating; what you add is the work.",
+      "quote": { "text": "So all my best is dressing old words new, / Spending again what is already spent...", "credit": "Sonnet 76, Shakespeare's Sonnets (1609)" },
+      "practice": "Take an idea, recipe or design you like. Change one thing to make it fit your own life or audience, and write down what you changed and why.",
+      "sources": ["w-play", "w-shakespeare", "pg-complete"]
+    },
+    {
+      "title": "Don't let doubt stop the attempt",
+      "idea": "The first record of Shakespeare in the London theatre is an insult: in 1592 the writer Robert Greene called him \"an upstart Crow\". He was an actor and a newcomer to writing. He kept writing anyway.",
+      "quote": { "text": "Our doubts are traitors, / And make us lose the good we oft might win / By fearing to attempt.", "credit": "Measure for Measure, Act 1, Scene 4, spoken by Lucio (c. 1603-04)" },
+      "practice": "Write down one thing you have not tried because you doubt you are good enough. Take the smallest first step on it today.",
+      "sources": ["w-shakespeare", "pg-complete"]
+    },
+    {
+      "title": "Use the hard times",
+      "idea": "In 1592 and 1593 plague closed London's theatres, cutting off his work as a player and playwright. He turned to poetry and published Venus and Adonis, which was so popular that it was reprinted fifteen times before 1640.",
+      "quote": { "text": "Sweet are the uses of adversity...", "credit": "As You Like It, Act 2, Scene 1, spoken by Duke Senior (c. 1599-1600)" },
+      "practice": "Think of one thing that is blocked or slow in your life right now. List two useful things you could build or learn while you wait.",
+      "sources": ["w-venus", "w-shakespeare", "pg-complete"]
+    },
+    {
+      "title": "Take the tide when it comes",
+      "idea": "In December 1598 his company took apart their old playhouse, The Theatre, beam by beam while the landlord was away, and used the timber to build the Globe in 1599. Shakespeare put his own money in and owned one eighth of it.",
+      "quote": { "text": "There is a tide in the affairs of men, / Which, taken at the flood, leads on to fortune...", "credit": "Julius Caesar, Act 4, Scene 3, spoken by Brutus (1599)" },
+      "practice": "Name one opportunity open to you right now that may not last. Write the one action that would let you take it, and do it this week.",
+      "sources": ["w-globe", "pg-complete"]
+    },
+    {
+      "title": "Keep sharpening the craft",
+      "idea": "His early plays use showy, elaborate language. From the mid-1590s his verse grew more natural and flexible, closer to real speech. He gave this famous line about being brief to Polonius, a man who talks far too much, as a joke.",
+      "quote": { "text": "Therefore, since brevity is the soul of wit, / And tediousness the limbs and outward flourishes, / I will be brief.", "credit": "Hamlet, Act 2, Scene 2, spoken by Polonius (c. 1599-1601)" },
+      "practice": "Take something you wrote this week, such as an email or a note. Cut it by a third without losing the meaning.",
+      "sources": ["w-shakespeare", "pg-complete"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Read one scene", "action": "Read one short scene of any Shakespeare play aloud, free on Project Gutenberg. Notice one line you like.", "sources": ["pg-complete"] },
+    { "day": 2, "title": "Dress it new", "action": "Take an old idea, story or recipe. Change one thing to make it your own and share it with someone." },
+    { "day": 3, "title": "Beat one doubt", "action": "Write down one thing you have not tried because of doubt. Take the smallest first step today." },
+    { "day": 4, "title": "Use the wait", "action": "Pick something that is blocked or slow. Spend 20 minutes learning or building something useful while you wait." },
+    { "day": 5, "title": "Catch the tide", "action": "Name one chance open to you now that may not last. Do one thing today to take it." },
+    { "day": 6, "title": "Cut by a third", "action": "Rewrite something you wrote this week so it is a third shorter and just as clear." },
+    { "day": 7, "title": "Fourteen lines", "action": "Write fourteen lines, like a sonnet, about what you learned this week. They do not need to rhyme." }
+  ],
+  "reflect": "What old idea could you make new by adding your own voice to it?",
+  "keepsake": "William Shakespeare Builder Collectible"
+}

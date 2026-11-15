@@ -1,0 +1,61 @@
+{
+  "id": "shivaji",
+  "name": "Chhatrapati Shivaji Maharaj",
+  "years": "c. 1630 - 1680",
+  "title": "The Founder King",
+  "tagline": "Starting with a small family estate near Pune, he built a kingdom of hill forts, sea forts and careful rules, and was crowned Chhatrapati in 1674.",
+  "sources": {
+    "w-shivaji": { "label": "Shivaji (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Shivaji" },
+    "ia-sarkar": { "label": "Shivaji and His Times, Jadunath Sarkar, 2nd ed. 1920 (Internet Archive)", "url": "https://archive.org/details/cu31924024056750" },
+    "ia-rawlinson": { "label": "Shivaji the Maratha: His Life and Times, H. G. Rawlinson, 1915 (Internet Archive)", "url": "https://archive.org/details/shivjmartt00rawl" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Respect every faith",
+      "idea": "In 1679 a letter sent in Shivaji's name protested to Emperor Aurangzeb against a new tax on non-Muslims. It praised earlier emperors who protected people of all creeds, and argued that God is the Lord of all people. Shivaji also gave grants to Hindu temples and to Muslim saints' shrines.",
+      "quote": { "text": "If it be a mosque, the call to prayer is chanted in remembrance of Him. If it be a temple, the bell is rung in yearning for Him only.", "credit": "Letter to Emperor Aurangzeb (1679), attributed to Shivaji and drafted in Persian by his secretary Nila Prabhu; tr. Jadunath Sarkar, Shivaji and His Times, p. 370 (1920)" },
+      "practice": "Learn one thing today about a faith or tradition that is not your own, from a respectful source. Notice one thing it shares with yours.",
+      "sources": ["ia-sarkar", "w-shivaji"]
+    },
+    {
+      "title": "Discipline protects the weak",
+      "idea": "Khafi Khan, a historian who wrote from the Mughal side, recorded that he set strict rules for his raiding soldiers to protect mosques, holy books and women. Rules matter most when no one is watching.",
+      "quote": { "text": "He made it a rule, that wherever his followers went plundering, they should do no harm to Mosques, the Book of God, or any one's women.", "credit": "Khafi Khan, Mughal court historian, about Shivaji, in Elliot and Dowson vol. 7, p. 260; quoted in H. G. Rawlinson, Shivaji the Maratha, p. 98 (1915)" },
+      "practice": "Write one personal rule you will keep even when no one would ever find out. Keep it today.",
+      "sources": ["ia-rawlinson"]
+    },
+    {
+      "title": "Keep honest accounts",
+      "idea": "Shivaji's court chronicler Sabhasad describes how every soldier's belongings were listed when the army set out, and checked again when it came home. Anything extra was handed in. Clear records kept everyone honest, from the top to the bottom.",
+      "quote": { "text": "At the time of their departure a list was made of all the property that every man, high or low, of the army carried with himself.", "credit": "Sabhasad's chronicle (Sabhasad Bakhar), written for Shivaji's son Rajaram; tr. Jadunath Sarkar, Shivaji and His Times, p. 417 (1920)" },
+      "practice": "Write down everything you spent today, even small things. Look at the list tonight and spot one surprise.",
+      "sources": ["ia-sarkar"]
+    },
+    {
+      "title": "Look after those who grow the food",
+      "idea": "Shivaji tried to remove the middlemen who squeezed farmers, and deal with cultivators directly. New settlers were given help to start farming and time to pay it back.",
+      "quote": { "text": "New ryots who came to settle were to be given money for seeds, and cattle, the amount being recovered in two or four annual instalments.", "credit": "Sabhasad's chronicle (Sabhasad Bakhar); tr. Jadunath Sarkar, Shivaji and His Times, p. 418 (1920)" },
+      "practice": "Think of someone just starting out near you, a new colleague or neighbour. Offer them one practical bit of help to get going.",
+      "sources": ["ia-sarkar"]
+    },
+    {
+      "title": "Guard what you build",
+      "idea": "Shivaji's kingdom rested on its forts, and he wrote detailed instructions for running them: stores, watches and duties. Each fort commander was personally responsible for its keys.",
+      "quote": { "text": "He was to lock the fort-gates at sunset and open them at sunrise, carry the keys with himself and sleep with them under his pillow.", "credit": "Shivaji's rules for a fort commander, as described by Jadunath Sarkar, Shivaji and His Times, p. 415 (1920)" },
+      "practice": "Pick one important thing you are responsible for, such as a file, a key or a promise. Set up one simple daily check to keep it safe.",
+      "sources": ["ia-sarkar"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "One rule", "action": "Write one personal rule you will keep even when nobody is watching. Keep it all day." },
+    { "day": 2, "title": "Know your stores", "action": "List what you have in one area of your life: food at home, money, or tasks. Note what is missing." },
+    { "day": 3, "title": "Honest list", "action": "Write down everything you spend today. Review it tonight." },
+    { "day": 4, "title": "Help a beginner", "action": "Give one practical bit of help to someone who is just starting out." },
+    { "day": 5, "title": "Another tradition", "action": "Learn one respectful fact about a faith or culture different from your own." },
+    { "day": 6, "title": "Your council", "action": "Shivaji worked with a council of eight ministers. Ask two people you trust for advice on one decision.", "sources": ["ia-sarkar"] },
+    { "day": 7, "title": "Your fort", "action": "Choose the one thing that matters most to protect in your life. Set one daily habit to guard it." }
+  ],
+  "reflect": "What is the \"fort\" in your life that everything else depends on, and what daily rule would keep it strong?",
+  "keepsake": "Chhatrapati Shivaji Maharaj Builder Collectible"
+}

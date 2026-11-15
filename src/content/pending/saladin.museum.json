@@ -1,0 +1,464 @@
+{
+  "sources": {
+    "w-saladin": { "label": "Saladin (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Saladin" },
+    "ia-wilson": { "label": "The Life of Saladin by Beha ed-Din, ed. and tr. C. W. Wilson, Palestine Pilgrims' Text Society, 1897 (Internet Archive)", "url": "https://archive.org/details/lifesaladin00condgoog" },
+    "w-ibnshaddad": { "label": "Baha al-Din ibn Shaddad (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Baha_al-Din_ibn_Shaddad" },
+    "w-hattin": { "label": "Battle of Hattin (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Battle_of_Hattin" },
+    "w-jerusalem1187": { "label": "Siege of Jerusalem (1187) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1187)" },
+    "w-jaffa-treaty": { "label": "Treaty of Jaffa (1192) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Treaty_of_Jaffa_(1192)" },
+    "w-montgisard": { "label": "Battle of Montgisard (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Battle_of_Montgisard" },
+    "w-citadel": { "label": "Cairo Citadel (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Cairo_Citadel" },
+    "w-mausoleum": { "label": "Mausoleum of Saladin (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Saladin" }
+  },
+  "timeline": [
+    {
+      "date": "1137",
+      "age": 0,
+      "place": "Tikrit, Upper Mesopotamia, (Iraq)",
+      "title": "Born on the night of leaving",
+      "text": "Yusuf, later called Salah ad-Din (\"Righteousness of the Faith\"), was born in Tikrit to a Kurdish family. His biographer Ibn Shaddad says he was born the night his family left the town, after his uncle Shirkuh killed a man and the family was banished. The year is usually given as about 1137, though some writers give 1138.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-saladin", "ia-wilson"]
+    },
+    {
+      "date": "1139",
+      "age": 2,
+      "place": "Baalbek, Syria, (Lebanon)",
+      "title": "A soldier's family finds a home",
+      "text": "The family moved to Mosul, where the ruler Zengi made Saladin's father Ayyub commander of the fortress of Baalbek. Saladin grew up in Syria among soldiers and scholars.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1164",
+      "age": 26,
+      "place": "Egypt, Fatimid Caliphate, (Egypt)",
+      "title": "First campaign in Egypt",
+      "text": "Nur ad-Din, ruler of Syria, sent Shirkuh to Egypt to take sides in a power struggle there, and Saladin, about 26, went with his uncle.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-saladin", "ia-wilson"]
+    },
+    {
+      "date": "1167",
+      "age": null,
+      "place": "Alexandria, Egypt, (Egypt)",
+      "title": "Holding Alexandria",
+      "text": "On the second expedition, Saladin was left to hold Alexandria and kept the city for about three months while it was under siege. Accounts differ about his role at the earlier battle of al-Babein.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1169-03-26",
+      "age": 31,
+      "place": "Cairo, Egypt, (Egypt)",
+      "title": "Vizier of Egypt",
+      "text": "After Shirkuh died suddenly, Saladin was made vizier, the chief minister of Egypt's Fatimid caliph. By August he had put down a revolt in Cairo, and late that year he beat off a joint Crusader and Byzantine attack on Damietta.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-saladin", "ia-wilson"]
+    },
+    {
+      "date": "1171-09",
+      "age": null,
+      "place": "Cairo, Egypt, (Egypt)",
+      "title": "The end of the Fatimid caliphate",
+      "text": "The last Fatimid caliph, al-Adid, died on 13 September 1171. Days later, Friday prayers in Cairo named the Abbasid caliph in Baghdad instead, ending two centuries of Fatimid rule and bringing Egypt back into the Sunni fold.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1173",
+      "age": null,
+      "place": "Cairo, Egypt, (Egypt)",
+      "title": "His father dies",
+      "text": "His father Ayyub, who had joined him in Egypt, was hurt in a riding accident and died in the summer of 1173.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1174-05-15",
+      "age": null,
+      "place": "Damascus, Syria, (Syria)",
+      "title": "Death of Nur ad-Din",
+      "text": "Nur ad-Din, Saladin's overlord, died and left a boy, as-Salih, as heir. The Muslim states of Syria and Iraq began to split between rival commanders.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1174-11",
+      "age": null,
+      "place": "Damascus, Syria, (Syria)",
+      "title": "Into Damascus",
+      "text": "Saladin arrived at Damascus on 23 November 1174 and the city accepted him; the citadel opened a few days later. Over the next months he took Hama and Homs and began the long work of uniting Syria with Egypt.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1176",
+      "age": null,
+      "place": "Masyaf, Syria, (Syria)",
+      "title": "Facing the Assassins",
+      "text": "After surviving attempts on his life by the Nizari Ismailis, known as the Assassins, Saladin campaigned against their fortress at Masyaf in August 1176, then withdrew. Historians disagree why: a family member's mediation, Crusader threats, or a quiet deal with their leader Sinan.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1176-09-22",
+      "age": null,
+      "place": "Cairo, Egypt, (Egypt)",
+      "title": "Building the Citadel",
+      "text": "Back in Cairo, Saladin began a great hilltop fortress, the Citadel, to protect the city and house his government. His officer Qaraqush also dug a well about 85 metres deep to supply it. A foundation inscription dates the first stage to 1183 to 1184.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-saladin", "w-citadel"]
+    },
+    {
+      "date": "1177-11-25",
+      "age": null,
+      "place": "Montgisard, near Ramla, (Israel)",
+      "title": "Defeat at Montgisard",
+      "text": "Saladin let his army spread out to forage and was caught by surprise by the teenage King Baldwin IV of Jerusalem, who was sick with leprosy. His army was routed and only a small part reached Egypt. Muslim writers felt this defeat was only made good ten years later.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-montgisard", "w-saladin"]
+    },
+    {
+      "date": "1179-08-30",
+      "age": null,
+      "place": "Jacob's Ford, Upper Jordan, (Israel)",
+      "title": "Victory at Marj Ayyun and Jacob's Ford",
+      "text": "Saladin won a clear victory at Marj Ayyun in the summer of 1179, then captured the new Crusader castle at Jacob's Ford on 30 August.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1182-05-11",
+      "age": null,
+      "place": "Cairo, Egypt, (Egypt)",
+      "title": "Leaving Egypt for good",
+      "text": "Saladin left Cairo for Syria and never returned to Egypt. From now on he ruled from Damascus and in the field.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1183-06-12",
+      "age": null,
+      "place": "Aleppo, Syria, (Syria)",
+      "title": "Aleppo joins",
+      "text": "After a long campaign in northern Syria and Iraq, Aleppo was handed to Saladin in an exchange of lands. Egypt and Syria were now under one ruler, surrounding the Crusader states.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1183",
+      "age": null,
+      "place": "Kerak, Oultrejordain, (Jordan)",
+      "title": "Kerak holds out",
+      "text": "Saladin besieged Kerak, the castle of Raynald of Chatillon, in 1183 and again in 1184. Both sieges failed.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1186-03",
+      "age": null,
+      "place": "Harran, Jazira, (Turkey)",
+      "title": "Illness and peace with Mosul",
+      "text": "During a campaign against Mosul in 1185 and 1186, Saladin fell seriously ill. A peace treaty with Mosul was signed in March 1186.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1187-07-04",
+      "age": 50,
+      "place": "Horns of Hattin, Galilee, (Israel)",
+      "title": "Hattin",
+      "text": "After Raynald of Chatillon attacked a pilgrim caravan during a truce, Saladin besieged Tiberias to draw the Crusader army away from its water at La Saphorie. He cut them off from water near Hattin, and the army surrendered on 4 July. He spared King Guy but executed Raynald, and about 200 captured Templar and Hospitaller knights were also killed on his orders. The defeat left the kingdom almost undefended.",
+      "turning": true,
+      "kind": "war",
+      "sources": ["w-hattin", "w-saladin"]
+    },
+    {
+      "date": "1187-10-02",
+      "age": 50,
+      "place": "Jerusalem, Kingdom of Jerusalem, (Jerusalem)",
+      "title": "Jerusalem surrenders",
+      "text": "After a short siege, Balian of Ibelin negotiated the city's surrender. People could leave by paying a ransom; thousands were freed by group payments and by gifts from Saladin and his brother al-Adil, but many thousands who could not pay were enslaved. The takeover was far less violent than the Crusader conquest of 1099, and Saladin let the Church of the Holy Sepulchre reopen.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-jerusalem1187", "w-saladin"]
+    },
+    {
+      "date": "1188",
+      "age": null,
+      "place": "Tortosa, County of Tripoli, (Syria)",
+      "title": "Tyre holds, Guy is freed",
+      "text": "Conrad of Montferrat held the port of Tyre against two of Saladin's sieges, giving the Crusaders a foothold. In 1188 Saladin released King Guy. That same year the judge Baha ad-Din ibn Shaddad joined his service and later wrote his life story.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-saladin", "w-ibnshaddad"]
+    },
+    {
+      "date": "1189",
+      "age": null,
+      "place": "Acre, Kingdom of Jerusalem, (Israel)",
+      "title": "The long siege of Acre",
+      "text": "King Guy besieged Acre, and the Third Crusade from Europe joined him. Saladin's army in turn surrounded the besiegers for two years. Ibn Shaddad, who was there, tells how Saladin returned a stolen baby to her Frankish mother during these months.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-saladin", "ia-wilson"]
+    },
+    {
+      "date": "1191",
+      "age": null,
+      "place": "Acre, Kingdom of Jerusalem, (Israel)",
+      "title": "Acre falls",
+      "text": "Richard I of England took Acre in 1191. Richard then had almost 3,000 Muslim prisoners killed. His motives are still debated; Ibn Shaddad wrote that God alone knows the real reason.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1191-09-07",
+      "age": null,
+      "place": "Arsuf, Kingdom of Jerusalem, (Israel)",
+      "title": "Defeat at Arsuf",
+      "text": "Saladin attacked Richard's army as it marched down the coast, but lost the battle and withdrew. Ibn Shaddad was an eyewitness.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-saladin", "w-ibnshaddad"]
+    },
+    {
+      "date": "1192-01",
+      "age": null,
+      "place": "Beit Nuba, near Jerusalem, (West Bank)",
+      "title": "Jerusalem not attacked",
+      "text": "Richard's army came within about twelve miles of Jerusalem but turned back without attacking. Saladin kept the city.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1192-07",
+      "age": null,
+      "place": "Jaffa, Kingdom of Jerusalem, (Israel)",
+      "title": "Battle for Jaffa",
+      "text": "Saladin attacked Jaffa but was beaten back by Richard's relief force. Both leaders were now worn out by war, money troubles and problems at home.",
+      "turning": false,
+      "kind": "war",
+      "sources": ["w-saladin", "w-jaffa-treaty"]
+    },
+    {
+      "date": "1192-09",
+      "age": 55,
+      "place": "Jaffa and Ramla, (Israel)",
+      "title": "The Treaty of Jaffa",
+      "text": "On 1 or 2 September 1192, Saladin and Richard agreed a three-year truce. Jerusalem stayed under Muslim rule, Christians could visit as pilgrims, and the Crusaders kept a coastal strip from Tyre to Jaffa. Neither side was fully happy, but the Third Crusade was over.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-jaffa-treaty", "w-saladin", "ia-wilson"]
+    },
+    {
+      "date": "1193-03-04",
+      "age": 55,
+      "place": "Damascus, Syria, (Syria)",
+      "title": "Death in Damascus",
+      "text": "Saladin died of a fever in Damascus. He had given away so much that, Ibn Shaddad wrote, his treasury held only forty-seven silver coins and one gold piece. He was buried next to the Umayyad Mosque.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-saladin", "ia-wilson"]
+    },
+    {
+      "date": "1196",
+      "age": null,
+      "place": "Damascus, Syria, (Syria)",
+      "title": "A modest tomb",
+      "text": "His son completed a simple mausoleum for him beside the Umayyad Mosque in 1196. His wooden coffin is still there.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-mausoleum"]
+    },
+    {
+      "date": "1308",
+      "age": null,
+      "place": "Italy",
+      "title": "Respected by his enemies' poets",
+      "text": "In the Divine Comedy, written between about 1308 and 1320, the Italian poet Dante placed Saladin among the virtuous non-Christians of history. European tales of his chivalry spread for centuries.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-saladin"]
+    },
+    {
+      "date": "1898",
+      "age": null,
+      "place": "Damascus, Ottoman Syria, (Syria)",
+      "title": "A Kaiser at his tomb",
+      "text": "German Emperor Wilhelm II visited his tomb in 1898 and later paid for a marble sarcophagus; the mausoleum article credits the marble tomb to Ottoman Sultan Abdulhamid II, restored by Wilhelm. The visit helped revive Saladin's fame in the Muslim world.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-saladin", "w-mausoleum"]
+    }
+  ],
+  "works": [
+    {
+      "year": "1171",
+      "type": "reform",
+      "title": "Ending the Fatimid caliphate",
+      "text": "He brought Egypt under the Abbasid caliph of Baghdad, peacefully ending the Fatimid dynasty after its last caliph died.",
+      "sources": ["w-saladin"]
+    },
+    {
+      "year": "1174",
+      "type": "reform",
+      "title": "Uniting Egypt and Syria",
+      "text": "Over about twelve years he joined Egypt, Damascus, Aleppo and much of upper Iraq under one rule, by war and by treaty.",
+      "sources": ["w-saladin"]
+    },
+    {
+      "year": "1174",
+      "type": "reform",
+      "title": "The Ayyubid dynasty",
+      "text": "He founded a ruling family, named after his father Ayyub, that held Egypt and Syria after his death.",
+      "sources": ["w-saladin"]
+    },
+    {
+      "year": "1176",
+      "type": "monument",
+      "title": "The Cairo Citadel",
+      "text": "A hilltop fortress begun between 1176 and 1183 to defend Cairo and house the government. Later rulers kept building on it, probably finishing under al-Kamil (1218 to 1238).",
+      "sources": ["w-citadel", "w-saladin"],
+      "url": "https://en.wikipedia.org/wiki/Cairo_Citadel"
+    },
+    {
+      "year": "1176",
+      "type": "monument",
+      "title": "The Well of Joseph",
+      "text": "A well about 85 metres deep, cut through rock to supply the Citadel, with a spiral stair and waterwheels turned by oxen. It is named after Saladin's own name, Yusuf.",
+      "sources": ["w-citadel"]
+    },
+    {
+      "year": "1182",
+      "type": "law",
+      "title": "Open courts of justice",
+      "text": "Ibn Shaddad describes him sitting in public every Monday and Thursday with judges and scholars to hear complaints, and answering written petitions every day.",
+      "sources": ["ia-wilson"]
+    },
+    {
+      "year": "1187",
+      "type": "war",
+      "title": "Hattin",
+      "text": "A campaign won by drawing the enemy away from water rather than by attacking strong walls. It broke the field army of the Kingdom of Jerusalem.",
+      "sources": ["w-hattin"]
+    },
+    {
+      "year": "1187",
+      "type": "war",
+      "title": "The return of Jerusalem",
+      "text": "He took the city by negotiated surrender. Ransoms and enslavement fell hard on poor Christians, but the takeover was much less violent than in 1099, and the Church of the Holy Sepulchre was spared.",
+      "sources": ["w-jerusalem1187"]
+    },
+    {
+      "year": "1192",
+      "type": "law",
+      "title": "The Treaty of Jaffa",
+      "text": "A three-year truce with Richard I that ended the Third Crusade and let Christian pilgrims visit Jerusalem in safety.",
+      "sources": ["w-jaffa-treaty"]
+    },
+    {
+      "year": "1193",
+      "type": "reform",
+      "title": "A ruler who gave his wealth away",
+      "text": "He was famous for gifts to soldiers, scholars and petitioners, and died with almost nothing in his treasury.",
+      "sources": ["w-saladin", "ia-wilson"]
+    }
+  ],
+  "resources": [
+    {
+      "label": "The Life of Saladin by Beha ed-Din, 1897 (Internet Archive)",
+      "url": "https://archive.org/details/lifesaladin00condgoog",
+      "what": "The eyewitness biography by his army judge, in C. W. Wilson's public domain English edition."
+    },
+    {
+      "label": "Saladin (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Saladin",
+      "what": "A detailed, well sourced account of his life, wars and legacy."
+    },
+    {
+      "label": "Baha al-Din ibn Shaddad (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Baha_al-Din_ibn_Shaddad",
+      "what": "Who his biographer was, and how he came to know Saladin."
+    },
+    {
+      "label": "Battle of Hattin (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Hattin",
+      "what": "The strategy of the 1187 campaign, from both sides."
+    },
+    {
+      "label": "Siege of Jerusalem (1187) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1187)",
+      "what": "How the city was surrendered, with Christian and Muslim accounts compared."
+    },
+    {
+      "label": "Treaty of Jaffa (1192) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Jaffa_(1192)",
+      "what": "The peace that ended the Third Crusade."
+    },
+    {
+      "label": "Cairo Citadel (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Cairo_Citadel",
+      "what": "The fortress he began in Cairo and its famous deep well."
+    },
+    {
+      "label": "Mausoleum of Saladin (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Saladin",
+      "what": "His tomb in Damascus and its later history."
+    }
+  ],
+  "books": [
+    {
+      "title": "The Life of Saladin (What Befell Sultan Yusuf)",
+      "author": "Baha ad-Din ibn Shaddad, edited and translated by C. W. Wilson",
+      "year": "1897",
+      "kind": "biography",
+      "free": "https://archive.org/details/lifesaladin00condgoog",
+      "note": "Written by the judge of his army, who knew him in his last years. Admiring, but full of eyewitness detail. Part I on his character is short and easy to read."
+    },
+    {
+      "title": "The Rare and Excellent History of Saladin",
+      "author": "Baha ad-Din ibn Shaddad, translated by D. S. Richards",
+      "year": "2002",
+      "kind": "biography",
+      "free": null,
+      "note": "A modern scholarly translation of the same eyewitness biography (Ashgate)."
+    },
+    {
+      "title": "Saladin",
+      "author": "Anne-Marie Edde, translated by Jane Marie Todd",
+      "year": "2011",
+      "kind": "biography",
+      "free": null,
+      "note": "A thorough modern biography that weighs Muslim and Christian sources (Harvard University Press)."
+    },
+    {
+      "title": "The Life and Legend of the Sultan Saladin",
+      "author": "Jonathan Phillips",
+      "year": "2019",
+      "kind": "biography",
+      "free": null,
+      "note": "His life, and how his legend grew in both Europe and the Muslim world (Yale University Press)."
+    }
+  ]
+}

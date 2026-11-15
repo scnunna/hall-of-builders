@@ -1,0 +1,66 @@
+{
+  "id": "elizabeth",
+  "name": "Elizabeth I",
+  "years": "1533 - 1603",
+  "title": "The Learned Queen",
+  "tagline": "She survived prison as a young woman, then ruled England for 44 years, studying Greek and Latin, listening to Parliament and choosing her words with great care.",
+  "sources": {
+    "w-elizabeth": { "label": "Elizabeth I (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Elizabeth_I" },
+    "w-tilbury": { "label": "Speech to the Troops at Tilbury (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Speech_to_the_Troops_at_Tilbury" },
+    "ws-tilbury": { "label": "Speech to the Troops at Tilbury, full text (Wikisource)", "url": "https://en.wikisource.org/wiki/Speech_to_the_Troops_at_Tilbury" },
+    "w-golden": { "label": "Golden Speech (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Golden_Speech" },
+    "ws-golden": { "label": "Elizabeth I's Farewell Speech (the Golden Speech), full text (Wikisource)", "url": "https://en.wikisource.org/wiki/Elizabeth_I%27s_Farewell_Speech" },
+    "rpo-woodstock": { "label": "Written with a Diamond on her Window at Woodstock (Representative Poetry Online, University of Toronto)", "url": "https://rpo.library.utoronto.ca/poems/written-diamond-her-window-woodstock" },
+    "gut-ascham": { "label": "The Scholemaster by Roger Ascham (Project Gutenberg #1844)", "url": "https://www.gutenberg.org/ebooks/1844" },
+    "ia-englishings": { "label": "Queen Elizabeth's Englishings of Boethius, Plutarch and Horace, ed. Caroline Pemberton (1899, Internet Archive)", "url": "https://archive.org/details/queenelizabethse00eliz" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Build on trust",
+      "idea": "In 1588, with a Spanish invasion still feared, Elizabeth went in person to the army camp at Tilbury. Her advisers warned her about crowds of armed men. She told the soldiers that her real safety was their loyalty, which she had earned over years of rule.",
+      "quote": { "text": "Let tyrants fear, I have always so behaved myself that, under God, I have placed my chiefest strength and safeguard in the loyal hearts and good-will of my subjects.", "credit": "Speech to the Troops at Tilbury (1588), from Leonel Sharp's letter, printed in Cabala (1654)" },
+      "practice": "Think of one person who relies on you. Do one small thing today that shows you can be trusted, like keeping a promise exactly as you said.",
+      "sources": ["w-tilbury", "ws-tilbury"]
+    },
+    {
+      "title": "Stay calm under suspicion",
+      "idea": "In 1554 Elizabeth was sent to the Tower of London and then kept under guard at Woodstock, suspected of a plot. Nothing was proved. A short verse said to be scratched on a window there shows how she held her ground: calm, careful, and sure of the facts.",
+      "quote": { "text": "Much suspected by me, / Nothing proved can be, / Quoth Elizabeth prisoner.", "credit": "Verse written at Woodstock (1554), printed in John Foxe, Acts and Monuments (1563)" },
+      "practice": "If someone doubts you today, do not argue in anger. Write down the plain facts in three lines, then share them calmly.",
+      "sources": ["rpo-woodstock", "w-elizabeth"]
+    },
+    {
+      "title": "Learn a little every day",
+      "idea": "Elizabeth kept studying long after she became queen. Her tutor Roger Ascham said she learned by translating a passage into English and back again. At sixty she translated a whole book of philosophy by Boethius at Windsor in a few weeks.",
+      "quote": { "text": "she readeth here now at Windsore more Greeke euery day, than some Prebendarie of this Chirch doth read Latin in a whole weeke.", "credit": "Roger Ascham, her tutor, writing about her in The Scholemaster (1570)" },
+      "practice": "Pick one short paragraph in something you are learning. Put it into your own words, then check it against the original.",
+      "sources": ["gut-ascham", "ia-englishings", "w-elizabeth"]
+    },
+    {
+      "title": "Listen, then fix it",
+      "idea": "By 1601 people complained that royal monopolies, special rights she had granted to sell certain goods, were hurting them. In her last speech to Parliament she thanked the members for telling her, and promised to put it right.",
+      "quote": { "text": "For had I not received a knowledge from you, I might have fallen into the lapse of an error, only for lack of true information.", "credit": "Golden Speech to the House of Commons (1601)" },
+      "practice": "Ask one person: what is one thing I do that makes your day harder? Listen without defending yourself, and fix one small part of it this week.",
+      "sources": ["w-golden", "ws-golden"]
+    },
+    {
+      "title": "Power is a duty",
+      "idea": "Elizabeth told Parliament that wearing a crown looks grand from outside but is heavy to carry. She said she would answer for her actions before a higher judge. Leading, for her, meant service and responsibility, not just honour.",
+      "quote": { "text": "To be a king and wear a crown is a thing more glorious to them that see it than it is pleasant to them that bear it.", "credit": "Golden Speech to the House of Commons (1601)" },
+      "practice": "Name one role you hold, such as friend, parent or team member. Write down one duty that comes with it, and do it today without being asked.",
+      "sources": ["w-golden", "ws-golden"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Keep your word", "action": "Make one small promise today and keep it exactly, on time." },
+    { "day": 2, "title": "Facts first", "action": "When something worries you, write three plain facts about it before you decide what to feel or do." },
+    { "day": 3, "title": "Double translation", "action": "Take one paragraph you are studying. Write it in your own words, then compare with the original and fix the gaps.", "sources": ["gut-ascham"] },
+    { "day": 4, "title": "Ask for the truth", "action": "Ask someone you trust for one honest piece of feedback. Thank them, even if it stings." },
+    { "day": 5, "title": "Fix one thing", "action": "Act on yesterday's feedback. Make one small, visible change." },
+    { "day": 6, "title": "Choose your words", "action": "Before an important message or talk, write it out once. Cut every word that is not needed, like a speech to Parliament.", "sources": ["ws-golden"] },
+    { "day": 7, "title": "Your duty list", "action": "Write the roles you hold and one duty for each. Pick the one you most neglect and do it today." }
+  ],
+  "reflect": "Who depends on you, and what is one way you could earn more of their trust this month?",
+  "keepsake": "Elizabeth I Builder Collectible"
+}

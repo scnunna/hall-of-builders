@@ -1,0 +1,768 @@
+{
+  "sources": {
+    "w-elizabeth": {
+      "label": "Elizabeth I (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_I"
+    },
+    "tna-monarchy": {
+      "label": "Elizabeth I: Monarchy, part one (The National Archives, teaching resource)",
+      "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/elizabeth-i-monarchy-part-one/"
+    },
+    "wq-elizabeth": {
+      "label": "Elizabeth I of England (Wikiquote)",
+      "url": "https://en.wikiquote.org/wiki/Elizabeth_I_of_England"
+    },
+    "w-mirror": {
+      "label": "The Mirror of the Sinful Soul (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/The_Mirror_of_the_Sinful_Soul"
+    },
+    "ia-mirror": {
+      "label": "The Mirror of the Sinful Soul, facsimile ed. Percy W. Ames (1897, Internet Archive)",
+      "url": "https://archive.org/details/mirrorofsinfulso00marg"
+    },
+    "w-settlement": {
+      "label": "Elizabethan Religious Settlement (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Elizabethan_Religious_Settlement"
+    },
+    "w-exchange": {
+      "label": "Royal Exchange, London (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Royal_Exchange,_London"
+    },
+    "w-drake": {
+      "label": "Francis Drake's circumnavigation (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Francis_Drake%27s_circumnavigation"
+    },
+    "w-desmond": {
+      "label": "Second Desmond Rebellion (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Second_Desmond_Rebellion"
+    },
+    "w-armada": {
+      "label": "Spanish Armada (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Armada"
+    },
+    "w-portrait": {
+      "label": "Armada Portrait (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Armada_Portrait"
+    },
+    "w-nineyears": {
+      "label": "Nine Years' War (Ireland) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Nine_Years%27_War_(Ireland)"
+    },
+    "w-era": {
+      "label": "Elizabethan era (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Elizabethan_era"
+    },
+    "w-eic": {
+      "label": "East India Company (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/East_India_Company"
+    },
+    "w-essex": {
+      "label": "Essex's rebellion (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Essex%27s_rebellion"
+    },
+    "w-poorlaw": {
+      "label": "Act for the Relief of the Poor 1601 (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Act_for_the_Relief_of_the_Poor_1601"
+    },
+    "w-monsieur": {
+      "label": "On Monsieur's Departure (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/On_Monsieur%27s_Departure"
+    },
+    "abbey": {
+      "label": "Elizabeth I (Westminster Abbey)",
+      "url": "https://www.westminster-abbey.org/abbey-commemorations/royals/elizabeth-i"
+    },
+    "gut-ascham": {
+      "label": "The Scholemaster by Roger Ascham (Project Gutenberg #1844)",
+      "url": "https://www.gutenberg.org/ebooks/1844"
+    },
+    "rpo-woodstock": {
+      "label": "Written with a Diamond on her Window at Woodstock (Representative Poetry Online, University of Toronto)",
+      "url": "https://rpo.library.utoronto.ca/poems/written-diamond-her-window-woodstock"
+    },
+    "ws-golden": {
+      "label": "Elizabeth I's Farewell Speech (the Golden Speech), full text (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/Elizabeth_I%27s_Farewell_Speech"
+    },
+    "ws-tilbury": {
+      "label": "Speech to the Troops at Tilbury, full text (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/Speech_to_the_Troops_at_Tilbury"
+    },
+    "ia-englishings": {
+      "label": "Queen Elizabeth's Englishings of Boethius, Plutarch and Horace, ed. Caroline Pemberton (1899, Internet Archive)",
+      "url": "https://archive.org/details/queenelizabethse00eliz"
+    },
+    "w-tilbury": {
+      "label": "Speech to the Troops at Tilbury (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Speech_to_the_Troops_at_Tilbury"
+    },
+    "w-golden": {
+      "label": "Golden Speech (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Golden_Speech"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1533-09-07",
+      "age": 0,
+      "place": "Greenwich, England, (United Kingdom)",
+      "title": "Born at Greenwich",
+      "text": "Elizabeth was born at Greenwich Palace on 7 September 1533. She was the daughter of King Henry VIII and his second wife, Anne Boleyn, and was baptised three days later.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1536-05-19",
+      "age": 2,
+      "place": "London, England, (United Kingdom)",
+      "title": "Her mother is executed",
+      "text": "When Elizabeth was two, her mother Anne Boleyn was executed. Elizabeth was declared illegitimate and removed from the line of succession. Her governess Kat Ashley, who came around 1537, stayed a friend for life.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1544",
+      "age": 11,
+      "place": "England, (United Kingdom)",
+      "title": "A gift in her own hand",
+      "text": "At eleven, Elizabeth translated a French religious poem by Marguerite of Navarre into English prose and wrote it out by hand for her stepmother, Queen Catherine Parr. The embroidered cover was probably her own work. That year William Grindal became her tutor.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-mirror",
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1545",
+      "age": 12,
+      "place": "England, (United Kingdom)",
+      "title": "Three languages for her father",
+      "text": "Around the age of twelve she translated Catherine Parr's Prayers or Meditations into Italian, Latin and French as a New Year's gift for her father.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1547",
+      "age": 13,
+      "place": "London, England, (United Kingdom)",
+      "title": "Her brother becomes king",
+      "text": "Henry VIII died in 1547, and Elizabeth's younger half-brother became King Edward VI.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1548",
+      "age": 14,
+      "place": "England, (United Kingdom)",
+      "title": "Roger Ascham, her tutor",
+      "text": "After Grindal died, the Cambridge scholar Roger Ascham became her tutor. He taught her by double translation: putting a text into English, then back into Latin or Greek. Her formal schooling ended in 1550.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-elizabeth",
+        "gut-ascham"
+      ]
+    },
+    {
+      "date": "1549-01",
+      "age": 15,
+      "place": "Hatfield, Hertfordshire, (United Kingdom)",
+      "title": "Questioned, admits nothing",
+      "text": "When Thomas Seymour was arrested in January 1549 for plotting, Elizabeth was questioned at Hatfield about his plans. She admitted nothing. Seymour was executed that March.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-elizabeth",
+        "wq-elizabeth"
+      ]
+    },
+    {
+      "date": "1553-08-03",
+      "age": 19,
+      "place": "London, England, (United Kingdom)",
+      "title": "Beside her sister Mary",
+      "text": "Edward VI died in July 1553 after naming Lady Jane Grey as his heir. Jane was deposed after nine days. On 3 August Mary I entered London as queen, with Elizabeth at her side.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1554-03-18",
+      "age": 20,
+      "place": "London, England, (United Kingdom)",
+      "title": "Sent to the Tower",
+      "text": "After Wyatt's Protestant rebellion against Queen Mary failed, Elizabeth was suspected of a part in it. The day before she was taken to the Tower of London, she wrote Mary a careful letter, now called the Tide Letter, saying she was innocent.",
+      "turning": true,
+      "kind": "setback",
+      "sources": [
+        "w-elizabeth",
+        "tna-monarchy"
+      ]
+    },
+    {
+      "date": "1554-05-22",
+      "age": 20,
+      "place": "Woodstock, Oxfordshire, (United Kingdom)",
+      "title": "A prisoner at Woodstock",
+      "text": "Elizabeth was moved to Woodstock and kept under house arrest for almost a year. John Foxe later printed a short verse she was said to have written on a window there: \"Much suspected by me, nothing proved can be.\"",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-elizabeth",
+        "rpo-woodstock"
+      ]
+    },
+    {
+      "date": "1558-11-17",
+      "age": 25,
+      "place": "Hatfield, Hertfordshire, (United Kingdom)",
+      "title": "Queen at twenty-five",
+      "text": "Mary I died on 17 November 1558, and Elizabeth became queen at Hatfield. Three days later she made her first speech and named William Cecil as her chief secretary. He served her for forty years.",
+      "turning": true,
+      "kind": "life",
+      "sources": [
+        "w-elizabeth",
+        "tna-monarchy"
+      ]
+    },
+    {
+      "date": "1559-01-15",
+      "age": 25,
+      "place": "London, England, (United Kingdom)",
+      "title": "Crowned at Westminster",
+      "text": "Elizabeth was crowned and anointed in Westminster Abbey on 15 January 1559. The date was chosen by the scholar John Dee.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1559",
+      "age": 25,
+      "place": "London, England, (United Kingdom)",
+      "title": "The religious settlement",
+      "text": "Parliament passed the Act of Supremacy, making her Supreme Governor of the Church of England, and the Act of Uniformity, which restored the Book of Common Prayer. The second act passed the Lords by only three votes. Catholics who refused to attend paid fines, and the pressure on them grew later in the reign.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-settlement",
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1566-11-05",
+      "age": 33,
+      "place": "London, England, (United Kingdom)",
+      "title": "Her own answer on marriage",
+      "text": "Parliament kept pressing her to marry and name an heir. Elizabeth answered a joint group of Lords and Commons herself, firmly defending her right to decide. She never married.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "tna-monarchy",
+        "wq-elizabeth",
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1568",
+      "age": 34,
+      "place": "England, (United Kingdom)",
+      "title": "Mary, Queen of Scots arrives",
+      "text": "Her Catholic cousin Mary, Queen of Scots fled to England after losing a battle in Scotland. Elizabeth kept her in custody for the next nineteen years, and Mary became the focus of plots.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1569",
+      "age": 36,
+      "place": "Northern England, (United Kingdom)",
+      "title": "The Rising of the North",
+      "text": "Catholic nobles in the north rose against her. The rising failed, and over 750 rebels were executed on Elizabeth's orders.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-elizabeth",
+        "tna-monarchy"
+      ]
+    },
+    {
+      "date": "1570",
+      "age": 36,
+      "place": "Rome, (Italy)",
+      "title": "Excommunicated",
+      "text": "Pope Pius V declared Elizabeth excommunicated and released her subjects from obeying her. From then on, Catholics in England were more and more often treated as possible traitors.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-elizabeth",
+        "w-settlement"
+      ]
+    },
+    {
+      "date": "1571-01-23",
+      "age": 37,
+      "place": "London, England, (United Kingdom)",
+      "title": "Opening the Royal Exchange",
+      "text": "Elizabeth opened Thomas Gresham's new trading hall in the City of London and gave it the title Royal Exchange.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-exchange"
+      ]
+    },
+    {
+      "date": "1581-04-04",
+      "age": 47,
+      "place": "Deptford, Kent, (United Kingdom)",
+      "title": "Knighting Drake",
+      "text": "Elizabeth had secretly backed Francis Drake's voyage of 1577 to 1580, a privateering raid on Spanish lands that became the first English sailing around the world. On 4 April 1581 she had him knighted aboard the Golden Hind at Deptford.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-drake",
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1582",
+      "age": 48,
+      "place": "Munster, (Ireland)",
+      "title": "Famine in Munster",
+      "text": "Her forces put down the Desmond Rebellion in southern Ireland by destroying crops and livestock. A famine followed. One official reported about 30,000 deaths in six months; the exact figure is uncertain. The land was later given to English settlers.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-desmond",
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1587-02-08",
+      "age": 53,
+      "place": "Fotheringhay, Northamptonshire, (United Kingdom)",
+      "title": "Mary, Queen of Scots executed",
+      "text": "After a plot to kill Elizabeth was uncovered, Mary was tried and executed. Elizabeth said the warrant had been sent without her knowledge. Historians are divided on whether her regret was sincere.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1588-07",
+      "age": 54,
+      "place": "English Channel, (United Kingdom and France)",
+      "title": "The Armada",
+      "text": "King Philip II of Spain sent a great fleet to invade England, partly in answer to English raids on Spanish ships and English help for the Dutch revolt. English fireships broke up the Spanish fleet at Calais, and it was beaten at Gravelines. On the long way home around Scotland and Ireland, storms wrecked many ships, and thousands of Spanish sailors and soldiers died.",
+      "turning": true,
+      "kind": "life",
+      "sources": [
+        "w-armada",
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1588-08",
+      "age": 54,
+      "place": "Tilbury, Essex, (United Kingdom)",
+      "title": "The speech at Tilbury",
+      "text": "With an invasion from the Netherlands still feared, Elizabeth visited her army at Tilbury on 8 or 9 August (sources differ). Her famous speech survives in a later copy, a letter by the chaplain Leonel Sharp printed in 1654. Most historians accept it as genuine, though some doubt it.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-tilbury",
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1593-05",
+      "age": 59,
+      "place": "Ulster, (Ireland and United Kingdom)",
+      "title": "The Nine Years' War begins",
+      "text": "Irish lords led by Hugh O'Neill rose against English rule. The war lasted until 1603 and was very costly. English commanders burned crops to starve the rebels, and famine killed many civilians.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-nineyears"
+      ]
+    },
+    {
+      "date": "1593-10-10",
+      "age": 60,
+      "place": "Windsor, Berkshire, (United Kingdom)",
+      "title": "Translating Boethius",
+      "text": "At Windsor, Elizabeth translated The Consolation of Philosophy by Boethius from Latin into English, finishing in about a month. Her courtiers claimed it took her only 24 to 27 hours of work; her 1899 editor doubted that was possible.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "ia-englishings"
+      ]
+    },
+    {
+      "date": "1596",
+      "age": 63,
+      "place": "England, (United Kingdom)",
+      "title": "Hungry years",
+      "text": "Bad harvests from 1596 to 1598 brought hunger and distress. About a third of the population lived in poverty, a reminder that the \"Golden Age\" was not golden for everyone.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-era"
+      ]
+    },
+    {
+      "date": "1598-08-04",
+      "age": 64,
+      "place": "London, England, (United Kingdom)",
+      "title": "Losing Cecil",
+      "text": "William Cecil, Lord Burghley, her chief adviser for forty years, died. His son Robert Cecil took over the lead in government.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1600-12-31",
+      "age": 67,
+      "place": "London, England, (United Kingdom)",
+      "title": "The East India Company",
+      "text": "Elizabeth granted a royal charter to a company of London merchants to trade in the East Indies. In later centuries this company came to rule much of the Indian subcontinent.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-eic",
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1601-02-08",
+      "age": 67,
+      "place": "London, England, (United Kingdom)",
+      "title": "Essex's rebellion",
+      "text": "Her former favourite, the Earl of Essex, tried to raise London against her government. The people did not join him, and he surrendered the same day. He was executed for treason on 25 February.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-essex",
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1601-11-30",
+      "age": 68,
+      "place": "London, England, (United Kingdom)",
+      "title": "The Golden Speech",
+      "text": "In her last speech to Parliament, to 141 members of the Commons, Elizabeth promised to reform the monopolies they complained of and thanked them for their love. A later printed version was headed with the words that it ought to be set in letters of gold.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-golden",
+        "ws-golden"
+      ]
+    },
+    {
+      "date": "1601-12-19",
+      "age": 68,
+      "place": "London, England, (United Kingdom)",
+      "title": "A law for the poor",
+      "text": "The Act for the Relief of the Poor received royal assent. It made each parish collect a poor rate to help the poor, run by local overseers. Versions of this system lasted for centuries.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-poorlaw"
+      ]
+    },
+    {
+      "date": "1603-03-24",
+      "age": 69,
+      "place": "Richmond, Surrey, (United Kingdom)",
+      "title": "Death at Richmond",
+      "text": "Elizabeth died at Richmond Palace on 24 March 1603, aged 69, after a year in which several close friends had died. James VI of Scotland became king. Days later the Irish war ended with O'Neill's surrender.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-elizabeth",
+        "w-nineyears"
+      ]
+    },
+    {
+      "date": "1603-04-28",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "Funeral at Westminster",
+      "text": "Her funeral was held at Westminster Abbey on 28 April 1603. She was first buried in the vault of her grandfather Henry VII.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "abbey",
+        "w-elizabeth"
+      ]
+    },
+    {
+      "date": "1606",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "Partners in throne and grave",
+      "text": "Her coffin was moved under a white marble monument paid for by James I, resting above that of her half-sister Mary I. The inscription calls them partners in throne and grave.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": [
+        "abbey"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "year": "1544",
+      "type": "translation",
+      "title": "The Mirror (Glass) of the Sinful Soul",
+      "text": "Her English prose translation of Marguerite of Navarre's French poem, written out by hand at eleven as a gift for Catherine Parr. The manuscript is in the Bodleian Library.",
+      "sources": [
+        "w-mirror",
+        "ia-mirror"
+      ],
+      "url": "https://archive.org/details/mirrorofsinfulso00marg"
+    },
+    {
+      "year": "1545",
+      "type": "translation",
+      "title": "Prayers or Meditations, in three languages",
+      "text": "Catherine Parr's English prayers, translated into Italian, Latin and French as a New Year's gift for Henry VIII.",
+      "sources": [
+        "w-elizabeth"
+      ]
+    },
+    {
+      "year": "1554",
+      "type": "letter",
+      "title": "The Tide Letter",
+      "text": "Her letter to Mary I, written the day before she was taken to the Tower, saying she was innocent.",
+      "sources": [
+        "tna-monarchy",
+        "w-elizabeth"
+      ],
+      "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/elizabeth-i-monarchy-part-one/"
+    },
+    {
+      "year": "1554",
+      "type": "poem",
+      "title": "Verse at Woodstock",
+      "text": "Three short lines said to have been written on a window while she was a prisoner, first printed by John Foxe in 1563.",
+      "sources": [
+        "rpo-woodstock"
+      ],
+      "url": "https://rpo.library.utoronto.ca/poems/written-diamond-her-window-woodstock"
+    },
+    {
+      "year": "1558",
+      "type": "speech",
+      "title": "First speech, at Hatfield",
+      "text": "Given three days after she became queen. It is the earliest record of her idea of the monarch's \"two bodies\", one natural and one political.",
+      "sources": [
+        "w-elizabeth",
+        "tna-monarchy"
+      ]
+    },
+    {
+      "year": "1559",
+      "type": "law",
+      "title": "The Religious Settlement",
+      "text": "The Acts of Supremacy and Uniformity that set up the Church of England with her as Supreme Governor and restored the Book of Common Prayer.",
+      "sources": [
+        "w-settlement"
+      ]
+    },
+    {
+      "year": "1566",
+      "type": "speech",
+      "title": "Speech on marriage and succession",
+      "text": "Her answer to a joint delegation of Lords and Commons who pressed her to marry and name an heir.",
+      "sources": [
+        "tna-monarchy",
+        "wq-elizabeth"
+      ]
+    },
+    {
+      "year": "1570",
+      "type": "poem",
+      "title": "The Doubt of Future Foes",
+      "text": "A poem from around 1568 to 1571 about the danger of plots at home, written in the time of Mary, Queen of Scots' captivity. A copy survives in a British Library manuscript.",
+      "sources": [
+        "wq-elizabeth"
+      ]
+    },
+    {
+      "year": "1582",
+      "type": "poem",
+      "title": "On Monsieur's Departure",
+      "text": "A love poem attributed to Elizabeth, often linked to the end of her marriage talks with the Duke of Anjou. It survives only in a manuscript from about 1630, so both the date and the link are uncertain.",
+      "sources": [
+        "w-monsieur",
+        "wq-elizabeth"
+      ]
+    },
+    {
+      "year": "1588",
+      "type": "speech",
+      "title": "Speech to the Troops at Tilbury",
+      "text": "Her address to the army gathered against a Spanish invasion. The best-known text comes from Leonel Sharp's letter, printed in 1654.",
+      "sources": [
+        "w-tilbury"
+      ],
+      "url": "https://en.wikisource.org/wiki/Speech_to_the_Troops_at_Tilbury"
+    },
+    {
+      "year": "1593",
+      "type": "translation",
+      "title": "The Consolation of Philosophy (Boethius)",
+      "text": "A full English translation of Boethius's Latin prose and verse, made at Windsor in October and November 1593. The manuscript is in the Public Record Office.",
+      "sources": [
+        "ia-englishings"
+      ],
+      "url": "https://archive.org/details/queenelizabethse00eliz"
+    },
+    {
+      "year": "1598",
+      "type": "translation",
+      "title": "Plutarch and Horace",
+      "text": "English verse versions of Plutarch's essay on curiosity and part of Horace's Art of Poetry, made in late 1598.",
+      "sources": [
+        "ia-englishings"
+      ],
+      "url": "https://archive.org/details/queenelizabethse00eliz"
+    },
+    {
+      "year": "1600",
+      "type": "charter",
+      "title": "East India Company charter",
+      "text": "A royal charter giving a London company a 15-year monopoly on English trade east of the Cape of Good Hope.",
+      "sources": [
+        "w-eic"
+      ]
+    },
+    {
+      "year": "1601",
+      "type": "speech",
+      "title": "The Golden Speech",
+      "text": "Her last speech to Parliament, promising to reform abused monopolies and thanking the Commons for their love. Several versions survive.",
+      "sources": [
+        "w-golden",
+        "ws-golden"
+      ],
+      "url": "https://en.wikisource.org/wiki/Elizabeth_I%27s_Farewell_Speech"
+    },
+    {
+      "year": "1601",
+      "type": "law",
+      "title": "Act for the Relief of the Poor",
+      "text": "A law making every parish responsible for its own poor, paid for by a local poor rate and run by overseers.",
+      "sources": [
+        "w-poorlaw"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Speech to the Troops at Tilbury (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/Speech_to_the_Troops_at_Tilbury",
+      "what": "The full text of the 1588 speech, free to read."
+    },
+    {
+      "label": "Elizabeth I's Farewell Speech (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/Elizabeth_I%27s_Farewell_Speech",
+      "what": "The full text of the Golden Speech of 1601."
+    },
+    {
+      "label": "Queen Elizabeth's Englishings of Boethius, Plutarch and Horace (Internet Archive)",
+      "url": "https://archive.org/details/queenelizabethse00eliz",
+      "what": "Her own translations, edited by Caroline Pemberton in 1899, with notes on how long they took."
+    },
+    {
+      "label": "The Mirror of the Sinful Soul, 1897 facsimile (Internet Archive)",
+      "url": "https://archive.org/details/mirrorofsinfulso00marg",
+      "what": "A printed copy of the translation she made by hand at eleven."
+    },
+    {
+      "label": "Elizabeth I: Monarchy, part one (The National Archives)",
+      "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/elizabeth-i-monarchy-part-one/",
+      "what": "Twenty original documents from her early life and reign, with transcripts, including the Tide Letter."
+    },
+    {
+      "label": "The Scholemaster by Roger Ascham (Project Gutenberg)",
+      "url": "https://www.gutenberg.org/ebooks/1844",
+      "what": "Her tutor's book on teaching, which describes how she studied."
+    },
+    {
+      "label": "Written with a Diamond on her Window at Woodstock (Representative Poetry Online)",
+      "url": "https://rpo.library.utoronto.ca/poems/written-diamond-her-window-woodstock",
+      "what": "The Woodstock verse with its source in Foxe's Acts and Monuments."
+    },
+    {
+      "label": "Elizabeth I (Westminster Abbey)",
+      "url": "https://www.westminster-abbey.org/abbey-commemorations/royals/elizabeth-i",
+      "what": "Her tomb and its inscriptions, shared with Mary I."
+    }
+  ],
+  "books": [
+    {
+      "title": "The Mirror of the Sinful Soul",
+      "author": "Marguerite of Navarre, translated by Princess Elizabeth, edited by Percy W. Ames",
+      "year": "1544",
+      "kind": "by-her",
+      "free": "https://archive.org/details/mirrorofsinfulso00marg",
+      "note": "Her childhood translation, in an 1897 facsimile edition for the Royal Society of Literature."
+    },
+    {
+      "title": "Queen Elizabeth's Englishings of Boethius, Plutarch and Horace",
+      "author": "Elizabeth I, edited by Caroline Pemberton",
+      "year": "1899",
+      "kind": "by-her",
+      "free": "https://archive.org/details/queenelizabethse00eliz",
+      "note": "Her late-life translations from Latin and Greek authors (Early English Text Society)."
+    },
+    {
+      "title": "Queen Elizabeth I: A Biography",
+      "author": "J. E. Neale",
+      "year": "1934",
+      "kind": "biography",
+      "free": null,
+      "note": "The classic twentieth-century life, warm toward its subject; later historians are more critical (Jonathan Cape, as cited on Wikipedia)."
+    },
+    {
+      "title": "Elizabeth I",
+      "author": "Christopher Haigh",
+      "year": "2000",
+      "kind": "biography",
+      "free": null,
+      "note": "A shorter, more critical study of how she held power (2nd edition, Longman)."
+    },
+    {
+      "title": "Elizabeth I",
+      "author": "Anne Somerset",
+      "year": "2003",
+      "kind": "biography",
+      "free": null,
+      "note": "A full, readable modern biography (Anchor Books edition, as cited on Wikipedia)."
+    }
+  ]
+}

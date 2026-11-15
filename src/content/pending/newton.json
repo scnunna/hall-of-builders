@@ -1,0 +1,64 @@
+{
+  "id": "newton",
+  "name": "Isaac Newton",
+  "years": "1643 - 1727",
+  "title": "The Natural Philosopher",
+  "tagline": "He tested ideas against experiments, kept his explanations simple, and found one law behind falling apples and moving planets.",
+  "sources": {
+    "w-newton": { "label": "Isaac Newton (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Isaac_Newton" },
+    "w-opticks": { "label": "Opticks (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Opticks" },
+    "w-giants": { "label": "Standing on the shoulders of giants (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants" },
+    "w-calculus": { "label": "Leibniz-Newton calculus controversy (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Leibniz%E2%80%93Newton_calculus_controversy" },
+    "pg-principia": { "label": "Newton's Principia, tr. Andrew Motte (1729), American edition of 1846, full text (Project Gutenberg #76404)", "url": "https://www.gutenberg.org/ebooks/76404" },
+    "pg-opticks": { "label": "Opticks, Isaac Newton, 4th edition (1730), full text (Project Gutenberg #33504)", "url": "https://www.gutenberg.org/ebooks/33504" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Test it, don't just guess",
+      "idea": "Opticks is built almost entirely from experiments with prisms, lenses and light. Newton set out to prove each claim by something he had done and seen, not by a clever story about how light might work.",
+      "quote": { "text": "My Design in this Book is not to explain the Properties of Light by Hypotheses, but to propose and prove them by Reason and Experiments", "credit": "Opticks (4th ed., 1730), Book I, Part I" },
+      "practice": "Pick one thing you believe about your own habits, such as when you focus best. Test it for three days and write down what actually happens.",
+      "sources": ["pg-opticks", "w-opticks"]
+    },
+    {
+      "title": "Keep the explanation simple",
+      "idea": "In the Principia Newton set out rules for reasoning about nature. The first says to use only causes that are real and enough to explain what you see, and no more.",
+      "quote": { "text": "We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances.", "credit": "Principia, Book III, Rules of Reasoning, Rule I, tr. Andrew Motte (1729)" },
+      "practice": "Next time something goes wrong, write the simplest explanation that fits all the facts before you reach for a complicated one.",
+      "sources": ["pg-principia"]
+    },
+    {
+      "title": "Break hard problems into parts",
+      "idea": "Newton described his method as analysis first: make experiments and observations, work from effects back to causes, and only then build the full explanation.",
+      "quote": { "text": "As in Mathematicks, so in Natural Philosophy, the Investigation of difficult Things by the Method of Analysis, ought ever to precede the Method of Composition.", "credit": "Opticks (4th ed., 1730), Book III, Query 31" },
+      "practice": "Take one hard problem. Write its smallest parts on separate lines and solve just the first one today.",
+      "sources": ["pg-opticks"]
+    },
+    {
+      "title": "Build on others' work",
+      "idea": "Writing to his rival Robert Hooke, Newton credited the thinkers before him, using an old image of dwarfs on the shoulders of giants. He was not always so generous later, but the line is a good rule.",
+      "quote": { "text": "If I have seen further it is by standing on the shoulders of Giants.", "credit": "Letter to Robert Hooke, 5 February 1675 (Old Style; 1676 by today's calendar)" },
+      "practice": "Name one person whose work made yours possible. Thank them, or credit them in something you share.",
+      "sources": ["w-giants", "w-newton", "w-calculus"]
+    },
+    {
+      "title": "Stay open to correction",
+      "idea": "Newton held that conclusions drawn from careful observation should be trusted, but only until new observations show they need fixing or have exceptions.",
+      "quote": { "text": "...till such time as other phænomena occur, by which they may either be made more accurate, or liable to exceptions.", "credit": "Principia, Book III, Rules of Reasoning, Rule IV, tr. Andrew Motte (1729)" },
+      "practice": "Ask someone you trust to point out one thing you could do better. Thank them and try it once.",
+      "sources": ["pg-principia"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Run a test", "action": "Pick one belief about your own day and test it. Write down what really happens." },
+    { "day": 2, "title": "Simplest first", "action": "For one problem today, write the simplest explanation that fits all the facts." },
+    { "day": 3, "title": "Break it down", "action": "Split a hard task into its smallest steps and finish the first one." },
+    { "day": 4, "title": "Give credit", "action": "Thank or credit one person whose work helped yours." },
+    { "day": 5, "title": "Quiet study", "action": "Newton did his best early work in quiet months at home. Spend 30 minutes alone with one hard question, no screens.", "sources": ["w-newton"] },
+    { "day": 6, "title": "Make a tool", "action": "Newton built his own telescope. Make or improve one simple tool, list or template that helps you work.", "sources": ["w-newton"] },
+    { "day": 7, "title": "Invite correction", "action": "Ask someone for one honest suggestion and try it." }
+  ],
+  "reflect": "Which of your beliefs have you actually tested, and which could you test this week?",
+  "keepsake": "Isaac Newton Builder Collectible"
+}

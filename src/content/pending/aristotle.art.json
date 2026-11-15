@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "06-lyceum",
+ "panels": [
+  { "key": "01-stagira", "year": "-384" },
+  { "key": "02-academy", "year": "-367" },
+  { "key": "03-assos", "year": "-347" },
+  { "key": "04-lesbos", "year": "-345" },
+  { "key": "05-alexander", "year": "-343" },
+  { "key": "06-lyceum", "year": "-335" },
+  { "key": "07-chalcis", "year": "-322" },
+  { "key": "08-ruins", "year": "1996" }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "03-teacher",
+ "panels": [
+  { "key": "01-lu", "year": "-0551" },
+  { "key": "02-learning", "year": "-0536" },
+  { "key": "03-teacher", "year": "-0521" },
+  { "key": "04-minister", "year": "-0501" },
+  { "key": "05-road", "year": "-0497" },
+  { "key": "06-chen", "year": "-0489" },
+  { "key": "07-return", "year": "-0484" },
+  { "key": "08-temple", "year": "-0477" }
+ ]
+}

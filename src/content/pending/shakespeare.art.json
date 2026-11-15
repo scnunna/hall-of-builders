@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "06-globe",
+ "panels": [
+  { "key": "01-stratford", "year": "1564" },
+  { "key": "02-school", "year": "1571" },
+  { "key": "03-london", "year": "1592" },
+  { "key": "04-plague", "year": "1593" },
+  { "key": "05-timber", "year": "1598" },
+  { "key": "06-globe", "year": "1599" },
+  { "key": "07-fire", "year": "1613" },
+  { "key": "08-folio", "year": "1623" }
+ ]
+}

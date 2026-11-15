@@ -1,0 +1,498 @@
+{
+  "sources": {
+    "w-tubman": { "label": "Harriet Tubman (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Harriet_Tubman" },
+    "w-combahee": { "label": "Raid on Combahee Ferry (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Combahee_River_Raid" },
+    "w-nalle": { "label": "Charles Nalle (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Charles_Nalle" },
+    "w-hart-park": { "label": "Harriet Tubman National Historical Park (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Harriet_Tubman_National_Historical_Park" },
+    "w-hatu-park": { "label": "Harriet Tubman Underground Railroad National Historical Park (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Harriet_Tubman_Underground_Railroad_National_Historical_Park" },
+    "nps-people": { "label": "Harriet Tubman (National Park Service)", "url": "https://www.nps.gov/people/harriet-tubman.htm" },
+    "nps-ugrr": { "label": "Harriet Tubman and the Underground Railroad (National Park Service)", "url": "https://www.nps.gov/articles/harriet-tubman-and-the-underground-railroad.htm" },
+    "nps-54th": { "label": "Harriet Tubman and the 54th Massachusetts (National Park Service)", "url": "https://home.nps.gov/articles/harriet-tubman-and-the-54th-massachusetts.htm" },
+    "nps-hart": { "label": "Harriet Tubman National Historical Park, Auburn, New York (National Park Service)", "url": "https://www.nps.gov/hart/index.htm" },
+    "nps-hatu": { "label": "Harriet Tubman Underground Railroad National Historical Park, Maryland (National Park Service)", "url": "https://www.nps.gov/hatu/index.htm" },
+    "loc-blog": { "label": "Who Was Harriet Tubman? (Library of Congress, Teaching with the Library blog, 2018)", "url": "https://blogs.loc.gov/teachers/2018/03/who-was-harriet-tubman/" },
+    "bradford-1869": { "label": "Scenes in the Life of Harriet Tubman, Sarah H. Bradford, 1869 (Documenting the American South, UNC)", "url": "https://docsouth.unc.edu/neh/bradford/bradford.html" },
+    "pg-scenes": { "label": "Scenes in the Life of Harriet Tubman (Project Gutenberg #57821)", "url": "https://www.gutenberg.org/ebooks/57821" },
+    "pg-moses": { "label": "Harriet, the Moses of Her People, Sarah H. Bradford (Project Gutenberg #9999)", "url": "https://www.gutenberg.org/ebooks/9999" }
+  },
+  "timeline": [
+    {
+      "date": "1822-03",
+      "age": 0,
+      "place": "Dorchester County, Maryland, (United States)",
+      "title": "Born Araminta Ross",
+      "text": "She was born enslaved and named Araminta, called Minty, to Ben Ross and Harriet \"Rit\" Green. The best estimate is March 1822, but sources disagree: she herself gave 1825, her death certificate says 1815 and her gravestone says 1820.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-tubman", "nps-people"]
+    },
+    {
+      "date": "1827",
+      "age": null,
+      "place": "Dorchester County, Maryland, (United States)",
+      "title": "Hired out as a child",
+      "text": "At about five or six she was hired out to other households, first as a nursemaid. Later she had to check muskrat traps in cold marshes. She spoke of being very homesick. Three of her sisters were sold away and the family never saw them again.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-tubman"]
+    },
+    {
+      "date": "1835",
+      "age": 13,
+      "place": "Dorchester County, Maryland, (United States)",
+      "title": "The head injury",
+      "text": "As a young teen she was caught up when an overseer went after a man who had left work without permission. The overseer threw a heavy metal weight that struck her head instead. For the rest of her life she had painful headaches and sudden sleeping spells, and she began to have visions she believed came from God.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["nps-people", "w-tubman"]
+    },
+    {
+      "date": "1844",
+      "age": 22,
+      "place": "Dorchester County, Maryland, (United States)",
+      "title": "Marriage and a new name",
+      "text": "Around 1844 she married John Tubman, a free Black man. Around this time she began to use the name Harriet, after her mother.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["nps-people", "w-tubman"]
+    },
+    {
+      "date": "1849-03",
+      "age": 27,
+      "place": "Dorchester County, Maryland, (United States)",
+      "title": "Danger of being sold",
+      "text": "Her enslaver, Edward Brodess, died in March 1849. Harriet learned that she and her brothers were in danger of being sold, away from their family.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-tubman", "nps-ugrr"]
+    },
+    {
+      "date": "1849-09-17",
+      "age": 27,
+      "place": "Dorchester County, Maryland, (United States)",
+      "title": "A first try, turned back",
+      "text": "She escaped with her brothers Ben and Henry. The brothers had second thoughts and went back, and she returned with them.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-tubman"]
+    },
+    {
+      "date": "1849-10",
+      "age": 27,
+      "place": "Philadelphia, Pennsylvania, (United States)",
+      "title": "Free by the North Star",
+      "text": "In October or November 1849 she left again, alone. She travelled by night, guided by the North Star, with help from people along the Underground Railroad, and reached Pennsylvania. She later told Sarah Bradford that when she crossed the line, she looked at her hands to see if she was the same person.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["w-tubman", "bradford-1869", "nps-people"]
+    },
+    {
+      "date": "1850",
+      "age": 28,
+      "place": "Philadelphia, Pennsylvania, (United States)",
+      "title": "The Fugitive Slave Act",
+      "text": "Congress passed the Fugitive Slave Act of 1850. It required the arrest of suspected freedom seekers even in free states, which made life in the North far more dangerous. She worked in hotels in Philadelphia and Cape May to save money for return trips.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["nps-ugrr", "w-tubman", "bradford-1869"]
+    },
+    {
+      "date": "1850-12",
+      "age": 28,
+      "place": "Baltimore, Maryland, (United States)",
+      "title": "The first rescue",
+      "text": "Warned that her niece Kessiah and Kessiah's children were to be sold in Cambridge, she went to Baltimore. Kessiah's free husband, John Bowley, got the family away by boat to Baltimore, where Harriet met them and brought them to Philadelphia.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-tubman"]
+    },
+    {
+      "date": "1851",
+      "age": 29,
+      "place": "Dorchester County, Maryland, (United States)",
+      "title": "Back for her brother",
+      "text": "Early in 1851 she returned and brought away her youngest brother, Moses, and two other men. With each trip she grew more confident.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-tubman"]
+    },
+    {
+      "date": "1851",
+      "age": 29,
+      "place": "Dorchester County, Maryland, (United States)",
+      "title": "A husband who stayed",
+      "text": "Later that year she went back for her husband, John, and found he had married another woman. He said he was happy where he was. Instead of turning back empty-handed, she found other people who wanted to escape and led them to Philadelphia.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-tubman"]
+    },
+    {
+      "date": "1851-12",
+      "age": 29,
+      "place": "Eastern Shore, Maryland, (United States)",
+      "title": "Eleven people north",
+      "text": "In December 1851 she guided a group of 11 people north. There is some evidence, but not proof, that they stopped at the home of Frederick Douglass. Douglass later wrote that she had worked in the night while he worked in the day.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-tubman"]
+    },
+    {
+      "date": "1855",
+      "age": 33,
+      "place": "Dorchester County, Maryland, (United States)",
+      "title": "\"Moses\"",
+      "text": "Through the 1850s, over about 13 trips, she led about 70 people to freedom and gave directions to 50 to 60 more, according to the National Park Service and her modern biographers. People began to call her Moses. Bradford's 1869 book, based on her friends' reckoning, gave a higher count of 19 trips; modern historians use the lower figures.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["nps-ugrr", "w-tubman", "bradford-1869"]
+    },
+    {
+      "date": "1857",
+      "age": 35,
+      "place": "St. Catharines, Canada West, (Canada)",
+      "title": "Rescuing her parents",
+      "text": "Her father had bought her mother's freedom in 1855. In summer 1857 he was warned he would be arrested for helping eight freedom seekers. Harriet came back and led her elderly parents away, and they settled in St. Catharines, Canada.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["nps-ugrr", "w-tubman"]
+    },
+    {
+      "date": "1858-04",
+      "age": 36,
+      "place": "Canada West, (Canada)",
+      "title": "Meeting John Brown",
+      "text": "In April 1858 she was introduced to the abolitionist John Brown, who planned an armed raid against slavery. She shared his goal and helped him with contacts and plans.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-tubman"]
+    },
+    {
+      "date": "1859",
+      "age": 37,
+      "place": "Fleming (Auburn), New York, (United States)",
+      "title": "A home in Auburn",
+      "text": "Early in 1859 Frances Seward, wife of Senator William H. Seward, sold her a seven-acre farm next to Auburn, New York, for $1,200. Because Harriet was still a fugitive under federal law, the sale was quietly kept off the record. She moved her parents there from Canada.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["w-tubman", "nps-hart", "w-hart-park"]
+    },
+    {
+      "date": "1859-10",
+      "age": 37,
+      "place": "New Bedford, Massachusetts, (United States)",
+      "title": "Away from Harpers Ferry",
+      "text": "In early October she was ill in New Bedford. John Brown's raid on Harpers Ferry took place on 16 October without her and failed. It is not known whether she still meant to join it. Brown was hanged on 2 December.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-tubman"]
+    },
+    {
+      "date": "1860-04",
+      "age": 38,
+      "place": "Troy, New York, (United States)",
+      "title": "The crowd in Troy",
+      "text": "When Charles Nalle, a man who had escaped slavery, was arrested in Troy in April 1860, a large crowd gathered to free him, and Tubman was among them. He got away across the Hudson, was caught again, and local people then raised $650 to buy his freedom.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-nalle", "bradford-1869"]
+    },
+    {
+      "date": "1860-11",
+      "age": 38,
+      "place": "Dorchester County, Maryland, (United States)",
+      "title": "The last mission",
+      "text": "In November 1860 she went back for her sister Rachel, but found Rachel had died. She could not raise the $30 bribe needed to free Rachel's two children, and their fate is unknown. She led another family north instead, through bitter cold, reaching Auburn on 28 December.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-tubman"]
+    },
+    {
+      "date": "1862-01",
+      "age": 40,
+      "place": "Port Royal, South Carolina, (United States)",
+      "title": "Nurse at Port Royal",
+      "text": "With the help of Massachusetts governor John Andrew, she went south to help refugees in the Union camps. She nursed sick soldiers and freed people with remedies made from local plants. To avoid looking favored, she gave up her army rations and paid her way by baking pies and making root beer at night.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-tubman", "nps-54th", "bradford-1869"]
+    },
+    {
+      "date": "1863-03",
+      "age": 41,
+      "place": "Beaufort, South Carolina, (United States)",
+      "title": "Scout and spy",
+      "text": "In spring 1863 she was freed from nursing to lead a scouting group of eight or nine men. Her intelligence helped Colonel James Montgomery briefly take Jacksonville, Florida.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["nps-54th", "w-tubman"]
+    },
+    {
+      "date": "1863-06-02",
+      "age": 41,
+      "place": "Combahee River, South Carolina, (United States)",
+      "title": "The Combahee River Raid",
+      "text": "On the night of 1 to 2 June 1863 she guided three Union steamboats with Black soldiers under Colonel Montgomery past mines up the Combahee River. Families ran to the boats from the plantations. Counts differ: the National Park Service says nearly 800 people were freed, and Tubman's own letter gave 756. Many of the men joined the Union army.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["nps-54th", "w-combahee", "w-tubman", "bradford-1869"]
+    },
+    {
+      "date": "1863-06-30",
+      "age": 41,
+      "place": "Beaufort, South Carolina, (United States)",
+      "title": "Credit where it is due",
+      "text": "In a letter she dictated to friends in the North, she asked for a short, practical dress for future expeditions, and asked whether \"we colored people\" deserved some credit for the raid. She also ran a hospital for refugees and helped them find work.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["bradford-1869"]
+    },
+    {
+      "date": "1863-07-18",
+      "age": 41,
+      "place": "Beaufort, South Carolina, (United States)",
+      "title": "Fort Wagner",
+      "text": "She witnessed the brave but failed attack of the 54th Massachusetts, a Black regiment, on Fort Wagner. Afterwards she cared for the wounded soldiers in Beaufort.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["nps-54th"]
+    },
+    {
+      "date": "1869",
+      "age": 47,
+      "place": "Auburn, New York, (United States)",
+      "title": "Her story in print",
+      "text": "Back in Auburn, she supported her parents and others in need. Friends raised money for her, and Sarah Hopkins Bradford wrote Scenes in the Life of Harriet Tubman from Tubman's own stories and friends' letters. It earned her about $1,200. On 18 March 1869 she married Nelson Davis, a Civil War veteran.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-tubman", "pg-scenes"]
+    },
+    {
+      "date": "1873-10",
+      "age": 51,
+      "place": "Auburn, New York, (United States)",
+      "title": "Robbed by swindlers",
+      "text": "She had just paid off her farm, using up her savings. Two men offered to sell her a trunk of gold for less than it was worth, then robbed her. The trunk held only rocks. The case led friends to push again for a pension for her war service.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-tubman"]
+    },
+    {
+      "date": "1874",
+      "age": 52,
+      "place": "Auburn, New York, (United States)",
+      "title": "A daughter",
+      "text": "Harriet and Nelson Davis adopted a baby girl named Gertie. A bill in Congress to pay her for her service as scout, nurse and spy was defeated that year.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-tubman"]
+    },
+    {
+      "date": "1886",
+      "age": 64,
+      "place": "Auburn, New York, (United States)",
+      "title": "Harriet, the Moses of Her People",
+      "text": "At her request, Bradford published a rewritten book about her life, again to raise money. Historians note it is more literary and less exact than the first.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-tubman", "pg-moses"]
+    },
+    {
+      "date": "1896",
+      "age": 74,
+      "place": "Auburn, New York, (United States)",
+      "title": "Speaking for the vote",
+      "text": "In her later years she worked for women's right to vote, alongside women such as Susan B. Anthony and Emily Howland. In 1896 she was the keynote speaker at the first meeting of the National Federation of Afro-American Women. That year she also bid $1,215 at auction for 25 acres next to her farm, to build a home for poor and aged people.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-tubman", "nps-people"]
+    },
+    {
+      "date": "1899-02",
+      "age": 77,
+      "place": "Washington, D.C., (United States)",
+      "title": "A partial pension",
+      "text": "After years of effort, Congress granted her $20 a month: $8 as Nelson Davis's widow, who had died in 1888, plus $12 for her work as a nurse. It did not recognize her service as a scout and spy.",
+      "turning": false,
+      "kind": "honour",
+      "sources": ["w-tubman"]
+    },
+    {
+      "date": "1908-06-23",
+      "age": 86,
+      "place": "Auburn, New York, (United States)",
+      "title": "The Home for the Aged opens",
+      "text": "The Harriet Tubman Home for the Aged opened, run by the AME Zion Church, and she was the guest of honor. She was unhappy that the church charged a $100 entry fee, because she had wanted it to be for people with no money at all.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-tubman", "nps-people", "w-hart-park"]
+    },
+    {
+      "date": "1913-03-10",
+      "age": 90,
+      "place": "Auburn, New York, (United States)",
+      "title": "Her last days",
+      "text": "Frail by 1911, she moved into the home that bore her name. She died there of pneumonia on 10 March 1913, aged about 90, with friends and family around her. After a service at Thompson AME Zion Church, she was buried with military honors at Fort Hill Cemetery.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-tubman", "nps-people"]
+    },
+    {
+      "date": "1944",
+      "age": null,
+      "place": "Across the country, (United States)",
+      "title": "A ship in her name",
+      "text": "The U.S. Maritime Commission launched the SS Harriet Tubman, its first Liberty ship named for a Black woman. In 1978 she became the first African American woman on a U.S. postage stamp.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-tubman"]
+    },
+    {
+      "date": "2017-01-10",
+      "age": null,
+      "place": "Auburn, New York, (United States)",
+      "title": "Two national parks",
+      "text": "A national monument in Maryland, proclaimed in 2013, protects the landscapes where she grew up and guided people to freedom. In 2017 the Harriet Tubman National Historical Park was established in Auburn, taking in her home, the Home for the Aged and Thompson AME Zion Church.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-hart-park", "w-hatu-park", "nps-hatu", "nps-hart"]
+    }
+  ],
+  "works": [
+    {
+      "year": "1849",
+      "type": "escape",
+      "title": "Her own escape",
+      "text": "Alone, at night, by the North Star and with help along the Underground Railroad, she walked from Maryland to Pennsylvania and freed herself.",
+      "sources": ["w-tubman", "bradford-1869"]
+    },
+    {
+      "year": "1850",
+      "type": "rescue",
+      "title": "Underground Railroad journeys",
+      "text": "About 13 trips back into Maryland between 1850 and 1860, leading about 70 people, many of them family, to freedom, and giving directions to 50 to 60 more.",
+      "sources": ["nps-ugrr", "w-tubman"],
+      "url": "https://www.nps.gov/articles/harriet-tubman-and-the-underground-railroad.htm"
+    },
+    {
+      "year": "1857",
+      "type": "rescue",
+      "title": "Bringing her parents out",
+      "text": "When her father faced arrest for sheltering freedom seekers, she led her elderly parents to safety in Canada, and later to her home in Auburn.",
+      "sources": ["nps-ugrr", "w-tubman"]
+    },
+    {
+      "year": "1859",
+      "type": "home",
+      "title": "The Auburn farm",
+      "text": "Her farm in Fleming, beside Auburn, became a home for her parents, relatives, boarders and others in need for the rest of her life.",
+      "sources": ["w-tubman", "nps-hart"],
+      "url": "https://www.nps.gov/hart/index.htm"
+    },
+    {
+      "year": "1862",
+      "type": "service",
+      "title": "Nurse in the Union camps",
+      "text": "In South Carolina and Florida she nursed soldiers and refugees with herbal remedies, and supported herself by selling baked goods.",
+      "sources": ["w-tubman", "nps-54th", "bradford-1869"]
+    },
+    {
+      "year": "1863",
+      "type": "service",
+      "title": "Scout and intelligence network",
+      "text": "She led a small band of scouts who gathered information on Confederate positions along the rivers, which helped Union expeditions in Florida and South Carolina.",
+      "sources": ["nps-54th", "w-tubman"]
+    },
+    {
+      "year": "1863",
+      "type": "raid",
+      "title": "The Combahee River Raid",
+      "text": "She guided Union gunboats past mines on the Combahee River, freeing hundreds of people in one night; counts range from about 700 to nearly 800.",
+      "sources": ["nps-54th", "w-combahee", "bradford-1869"],
+      "url": "https://home.nps.gov/articles/harriet-tubman-and-the-54th-massachusetts.htm"
+    },
+    {
+      "year": "1863",
+      "type": "letter",
+      "title": "Letter from Beaufort",
+      "text": "A letter she dictated on 30 June 1863, printed in a Boston paper and later in Bradford's book, describing the raid and asking for supplies for her work.",
+      "sources": ["bradford-1869"],
+      "url": "https://docsouth.unc.edu/neh/bradford/bradford.html"
+    },
+    {
+      "year": "1869",
+      "type": "book",
+      "title": "Scenes in the Life of Harriet Tubman",
+      "text": "Her life story as she told it to Sarah Bradford, with letters from friends. She could not read or write, so this book is the main early record of her own words.",
+      "sources": ["w-tubman", "pg-scenes", "bradford-1869"],
+      "url": "https://www.gutenberg.org/ebooks/57821"
+    },
+    {
+      "year": "1896",
+      "type": "activism",
+      "title": "Votes for women",
+      "text": "She spoke in New York, Boston and Washington for women's right to vote, using her own war service as proof of what women could do.",
+      "sources": ["w-tubman", "nps-people"]
+    },
+    {
+      "year": "1908",
+      "type": "institution",
+      "title": "Harriet Tubman Home for the Aged",
+      "text": "A home for poor and elderly Black people on land she bought at auction in 1896. It is now part of Harriet Tubman National Historical Park.",
+      "sources": ["w-tubman", "w-hart-park", "nps-people"],
+      "url": "https://www.nps.gov/hart/index.htm"
+    }
+  ],
+  "resources": [
+    { "label": "Scenes in the Life of Harriet Tubman (Documenting the American South)", "url": "https://docsouth.unc.edu/neh/bradford/bradford.html", "what": "Sarah Bradford's 1869 book, free to read online, with page numbers. The main early source for Tubman's own words." },
+    { "label": "Scenes in the Life of Harriet Tubman (Project Gutenberg #57821)", "url": "https://www.gutenberg.org/ebooks/57821", "what": "The same 1869 book as a free ebook download." },
+    { "label": "Harriet, the Moses of Her People (Project Gutenberg #9999)", "url": "https://www.gutenberg.org/ebooks/9999", "what": "Bradford's 1886 rewritten version of the story, free to read." },
+    { "label": "Harriet Tubman (National Park Service)", "url": "https://www.nps.gov/people/harriet-tubman.htm", "what": "A short, reliable life story from the National Park Service." },
+    { "label": "Harriet Tubman and the Underground Railroad (National Park Service)", "url": "https://www.nps.gov/articles/harriet-tubman-and-the-underground-railroad.htm", "what": "How many people she guided, and how the Fugitive Slave Act raised the danger." },
+    { "label": "Harriet Tubman and the 54th Massachusetts (National Park Service)", "url": "https://home.nps.gov/articles/harriet-tubman-and-the-54th-massachusetts.htm", "what": "Her Civil War work as nurse, scout and leader of the Combahee River Raid." },
+    { "label": "Harriet Tubman Underground Railroad National Historical Park (National Park Service)", "url": "https://www.nps.gov/hatu/index.htm", "what": "The Maryland park that protects the landscapes where she grew up and led people north." },
+    { "label": "Harriet Tubman National Historical Park (National Park Service)", "url": "https://www.nps.gov/hart/index.htm", "what": "Her home, the Home for the Aged and her church in Auburn, New York." },
+    { "label": "Who Was Harriet Tubman? (Library of Congress)", "url": "https://blogs.loc.gov/teachers/2018/03/who-was-harriet-tubman/", "what": "A Library of Congress teaching post with rare photographs of her from about 1868 to 1911." }
+  ],
+  "books": [
+    {
+      "title": "Scenes in the Life of Harriet Tubman",
+      "author": "Sarah H. Bradford, from Tubman's own accounts",
+      "year": "1869",
+      "kind": "biography",
+      "free": "https://www.gutenberg.org/ebooks/57821",
+      "note": "Written with Tubman's permission to raise money for her. Tubman could not write, so this is the closest record of her own words, though some numbers in it are too high."
+    },
+    {
+      "title": "Harriet, the Moses of Her People",
+      "author": "Sarah H. Bradford",
+      "year": "1886",
+      "kind": "biography",
+      "free": "https://www.gutenberg.org/ebooks/9999",
+      "note": "A rewritten, more literary version of the 1869 book, published at Tubman's request."
+    },
+    {
+      "title": "Bound for the Promised Land: Harriet Tubman, Portrait of an American Hero",
+      "author": "Kate Clifford Larson",
+      "year": "2004",
+      "kind": "biography",
+      "free": null,
+      "note": "A careful modern biography based on archive records (Ballantine Books), widely cited on Wikipedia."
+    },
+    {
+      "title": "Harriet Tubman: The Road to Freedom",
+      "author": "Catherine Clinton",
+      "year": "2004",
+      "kind": "biography",
+      "free": null,
+      "note": "A readable historian's life story (Little, Brown and Company)."
+    },
+    {
+      "title": "Harriet Tubman: The Life and the Life Stories",
+      "author": "Jean M. Humez",
+      "year": "2003",
+      "kind": "biography",
+      "free": null,
+      "note": "Collects and studies the stories Tubman told about her life, and how they were recorded (University of Wisconsin Press)."
+    }
+  ]
+}

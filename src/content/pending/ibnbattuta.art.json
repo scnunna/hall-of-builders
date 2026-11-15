@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "01-departure",
+ "panels": [
+  { "key": "01-departure", "year": "1325" },
+  { "key": "02-caravan", "year": "1326" },
+  { "key": "03-dhow", "year": "1330" },
+  { "key": "04-delhi", "year": "1334" },
+  { "key": "05-storm", "year": "1342" },
+  { "key": "06-junk", "year": "1345" },
+  { "key": "07-sahara", "year": "1352" },
+  { "key": "08-dictation", "year": "1355" }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "aristotle",
+  "name": "Aristotle",
+  "years": "384 BC - 322 BC",
+  "title": "The First Teacher",
+  "tagline": "He studied everything from octopuses to tragedy to the rules of good reasoning, and taught that good character is built one action at a time.",
+  "sources": {
+    "w-aristotle": { "label": "Aristotle (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Aristotle" },
+    "w-ethics": { "label": "Nicomachean Ethics (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Nicomachean_Ethics" },
+    "w-animals": { "label": "History of Animals (Wikipedia)", "url": "https://en.wikipedia.org/wiki/History_of_Animals" },
+    "sep": { "label": "Aristotle, Stanford Encyclopedia of Philosophy (Christopher Shields)", "url": "https://plato.stanford.edu/entries/aristotle/" },
+    "ross-ethics": { "label": "Nicomachean Ethics, tr. W. D. Ross (1908), The Internet Classics Archive (MIT)", "url": "https://classics.mit.edu/Aristotle/nicomachaen.html" },
+    "ogle-parts": { "label": "On the Parts of Animals, tr. William Ogle (1882), The Internet Classics Archive (MIT)", "url": "https://classics.mit.edu/Aristotle/parts_animals.html" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "You become what you practise",
+      "idea": "Aristotle taught that good character is not something you are born with or learn from a book. You build it the way a builder learns to build: by doing it, again and again, until it becomes a habit. (The famous line \"We are what we repeatedly do\" is a 20th-century summary by Will Durant, not Aristotle's own words. His real words are below.)",
+      "quote": { "text": "...men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.", "credit": "Nicomachean Ethics, Book II, ch. 1 (1103a33-b2), tr. W. D. Ross (1908)" },
+      "practice": "Pick one quality you want, like patience or courage. Do one small act of it today, on purpose, and note it down.",
+      "sources": ["ross-ethics", "w-ethics"]
+    },
+    {
+      "title": "Find the right middle",
+      "idea": "For Aristotle, a good quality usually sits between two bad ones: courage between fear and recklessness, generosity between meanness and waste. The right middle depends on the person, the time and the reason, so finding it takes judgment, not a formula.",
+      "quote": { "text": "...any one can get angry- that is easy- or give or spend money; but to do this to the right person, to the right extent, at the right time, with the right motive, and in the right way, that is not for every one, nor is it easy...", "credit": "Nicomachean Ethics, Book II, ch. 9 (1109a26-29), tr. W. D. Ross (1908)" },
+      "practice": "Think of a moment today when you felt a strong reaction. Write what too little, too much and just right would have looked like.",
+      "sources": ["ross-ethics", "w-ethics"]
+    },
+    {
+      "title": "Look closely at everything",
+      "idea": "Aristotle did not just think about nature, he went and looked. On the island of Lesbos he studied fish, octopuses and other sea life, and he learned from fishermen and beekeepers. He told his students that even the plainest creature is worth studying.",
+      "quote": { "text": "...we should venture on the study of every kind of animal without distaste; for each and all will reveal to us something natural and something beautiful.", "credit": "On the Parts of Animals, Book I, ch. 5 (645a21-23), tr. William Ogle (1882)" },
+      "practice": "Spend ten minutes watching one ordinary thing closely: a bird, a plant, a machine. Write down five things you never noticed before.",
+      "sources": ["ogle-parts", "w-aristotle", "w-animals"]
+    },
+    {
+      "title": "Match your precision to the problem",
+      "idea": "Aristotle warned against demanding the wrong kind of proof. Mathematics can be exact; questions about how to live can only be answered roughly and for the most part. A wise person knows how sure each kind of question lets you be.",
+      "quote": { "text": "...it is the mark of an educated man to look for precision in each class of things just so far as the nature of the subject admits...", "credit": "Nicomachean Ethics, Book I, ch. 3 (1094b23-25), tr. W. D. Ross (1908)" },
+      "practice": "Take one decision you are stuck on. Write down whether it needs an exact answer or just a good enough one, then decide.",
+      "sources": ["ross-ethics", "w-ethics"]
+    },
+    {
+      "title": "Judge a life as a whole",
+      "idea": "Aristotle said that a good life is not one good day or one lucky moment. Happiness, for him, is living well and acting well over a whole lifetime. That makes steady effort matter more than any single win.",
+      "quote": { "text": "For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.", "credit": "Nicomachean Ethics, Book I, ch. 7 (1098a18-20), tr. W. D. Ross (1908)" },
+      "practice": "Write one thing you want to be true of your life in ten years. Name one small step toward it you can repeat every week.",
+      "sources": ["ross-ethics", "w-ethics", "sep"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "One small act", "action": "Pick a quality you want. Do one small act of it today and write it down." },
+    { "day": 2, "title": "Look closely", "action": "Watch one ordinary thing for ten minutes. Note five things you had never noticed.", "sources": ["w-animals"] },
+    { "day": 3, "title": "The middle", "action": "After a strong reaction, write what too little, too much and just right would have looked like." },
+    { "day": 4, "title": "Walk and think", "action": "Like Aristotle's Peripatetic school, take a walk while talking an idea through with a friend, or with yourself.", "sources": ["sep"] },
+    { "day": 5, "title": "How sure?", "action": "For one decision, ask how exact the answer needs to be. Then decide." },
+    { "day": 6, "title": "Again", "action": "Repeat the small act from Day 1. Notice whether it was easier the second time." },
+    { "day": 7, "title": "One swallow", "action": "Write one thing you want true of your life in ten years, and one weekly habit that moves you toward it." }
+  ],
+  "reflect": "Which small action, done every day for a year, would most change the kind of person you are?",
+  "keepsake": "Aristotle Builder Collectible"
+}

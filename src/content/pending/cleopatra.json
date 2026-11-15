@@ -1,0 +1,61 @@
+{
+  "id": "cleopatra",
+  "name": "Cleopatra VII",
+  "years": "69 BC - 30 BC",
+  "title": "The Scholar Queen",
+  "tagline": "She learned the language of her people, spoke to foreign rulers without an interpreter, and kept Egypt independent for 21 years between the great powers of Rome.",
+  "sources": {
+    "w-cleopatra": { "label": "Cleopatra (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Cleopatra" },
+    "perrin-antony": { "label": "Plutarch, Life of Antony, tr. Bernadotte Perrin, Loeb Classical Library vol. IX (1920), on LacusCurtius", "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Antony*.html" },
+    "pg-plutarch": { "label": "Plutarch, Lives of the Noble Grecians and Romans, Dryden translation ed. A. H. Clough (Project Gutenberg #674)", "url": "https://www.gutenberg.org/ebooks/674" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Meet people in their own language",
+      "idea": "Cleopatra's first language was Greek, but Plutarch says she could talk with many peoples, from Ethiopians to Parthians, without an interpreter. Speaking to people directly let her build trust and read a room herself instead of through someone else.",
+      "quote": { "text": "...her tongue, like an instrument of many strings, she could readily turn to whatever language she pleased...", "credit": "Plutarch (writing about her), Life of Antony 27.3, tr. Bernadotte Perrin (1920)" },
+      "practice": "Learn to say hello and thank you in the first language of one person you work or study with. Use it the next time you see them.",
+      "sources": ["perrin-antony", "w-cleopatra"]
+    },
+    {
+      "title": "Learn the world of the people you serve",
+      "idea": "For almost 300 years her family ruled Egypt as Greek-speaking kings. She is the only one of them known to have learned Egyptian. She also took part in Egyptian religious duties, such as installing the sacred Buchis bull in her first act as queen.",
+      "quote": { "text": "Nay, it is said that she knew the speech of many other peoples also, although the kings of Egypt before her had not even made an effort to learn the native language...", "credit": "Plutarch (writing about her), Life of Antony 27.4, tr. Bernadotte Perrin (1920)" },
+      "practice": "Pick one group you serve, such as customers, classmates or neighbours. Spend ten minutes learning one thing about how they see the world, in their words, not yours.",
+      "sources": ["perrin-antony", "w-cleopatra"]
+    },
+    {
+      "title": "Win with your mind, not the legend",
+      "idea": "Later stories made her famous for beauty. The oldest detailed source says the opposite: her looks were not remarkable, but her conversation, wit and presence were. Her coins show a strong, plain face, not a movie star.",
+      "quote": { "text": "For her beauty, as we are told, was in itself not altogether incomparable, nor such as to strike those who saw her; but converse with her had an irresistible charm...", "credit": "Plutarch (writing about her), Life of Antony 27.2, tr. Bernadotte Perrin (1920)" },
+      "practice": "Before your next important talk, write down the three points you want the other person to remember. Practise saying each one in a single clear sentence.",
+      "sources": ["perrin-antony", "w-cleopatra"]
+    },
+    {
+      "title": "Prepare fully, then trust yourself",
+      "idea": "When Mark Antony summoned her to Tarsus in 41 BC to answer charges, she did not rush. She arrived on her own terms, well prepared, with gifts and resources, and Plutarch says her greatest confidence was in herself.",
+      "quote": { "text": "Therefore she provided herself with many gifts, much money, and such ornaments as high position and prosperous kingdom made it natural for her to take; but she went putting her greatest confidence in herself...", "credit": "Plutarch (writing about her), Life of Antony 25.4, tr. Bernadotte Perrin (1920)" },
+      "practice": "For one meeting or test this week, prepare one evening early: notes, questions and what you will bring. Then walk in and trust that work.",
+      "sources": ["perrin-antony"]
+    },
+    {
+      "title": "Run the kingdom, not just the court",
+      "idea": "She governed through drought, famine and debt. Her government used price controls, tariffs and fixed exchange rates, and she was the only Ptolemaic queen to issue coins in her own name. A surviving royal order from 33 BC carries one Greek word, ginesthoi, \"make it happen\", possibly written in her own hand.",
+      "quote": { "text": "ginesthoi (\"make it happen\" or \"so be it\")", "credit": "Papyrus Bingen 45 (33 BC), a royal order possibly countersigned by Cleopatra herself; the English meaning is as given on Wikipedia" },
+      "practice": "Pick one small task you keep putting off. Write it down, decide the first step, and do that step today. Then write \"done\" next to it.",
+      "sources": ["w-cleopatra"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "One new greeting", "action": "Learn to say hello and thank you in a language spoken by someone near you. Use it once today." },
+    { "day": 2, "title": "Their point of view", "action": "Ask one person how they see a problem you share. Listen fully and write down one thing you did not know." },
+    { "day": 3, "title": "Three clear points", "action": "Before a conversation that matters, write your three main points. Say each one in a single sentence." },
+    { "day": 4, "title": "Myth or evidence", "action": "Pick one story you have heard about a famous person. Find the oldest source you can and see if it really says that.", "sources": ["perrin-antony"] },
+    { "day": 5, "title": "Prepare early", "action": "Get ready for tomorrow's most important task tonight. Lay out what you need and note the first step." },
+    { "day": 6, "title": "Make it happen", "action": "Choose one decision you have been delaying. Make it, write it down, and take the first step today." },
+    { "day": 7, "title": "Your own rule", "action": "Look back at the week. Write one rule in your own words about how you want to speak, listen and lead." }
+  ],
+  "reflect": "Who in your life would you understand better if you learned a little of their language or their world?",
+  "keepsake": "Cleopatra VII Builder Collectible"
+}

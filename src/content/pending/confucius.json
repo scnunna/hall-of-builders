@@ -1,0 +1,63 @@
+{
+  "id": "confucius",
+  "name": "Confucius",
+  "years": "c. 551 BC - 479 BC",
+  "title": "The Teacher",
+  "tagline": "A poor boy from the small state of Lu who loved to learn, failed to find a ruler who would use his ideas, and became the most famous teacher in Chinese history.",
+  "sources": {
+    "w-confucius": { "label": "Confucius (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Confucius" },
+    "w-analects": { "label": "Analects (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Analects" },
+    "legge-analects": { "label": "The Analects of Confucius, tr. James Legge (Project Gutenberg #3330)", "url": "https://www.gutenberg.org/ebooks/3330" },
+    "sep": { "label": "Confucius, Stanford Encyclopedia of Philosophy (Mark Csikszentmihalyi, rev. 2024)", "url": "https://plato.stanford.edu/entries/confucius/" },
+    "iep": { "label": "Confucius, Internet Encyclopedia of Philosophy (Jeff Richey)", "url": "https://iep.utm.edu/confucius/" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Learn, then think it through",
+      "idea": "Confucius asked his students to read widely and also to stop and think about what they read. Reading alone fills your head without making you wise. Thinking alone, with nothing learned, can lead you badly astray.",
+      "quote": { "text": "Learning without thought is labour lost; thought without learning is perilous.", "credit": "Analects 2.15, tr. James Legge (1861)" },
+      "practice": "Read one short article or chapter today. Then close it and write three lines: what it said, whether you agree, and how you might use it.",
+      "sources": ["legge-analects", "sep"]
+    },
+    {
+      "title": "Know what you do not know",
+      "idea": "He told his student Zilu (Yu) that real knowledge starts with honesty. Saying you know something you do not know stops you from learning it.",
+      "quote": { "text": "When you know a thing, to hold that you know it; and when you do not know a thing, to allow that you do not know it;-- this is knowledge.", "credit": "Analects 2.17, tr. James Legge (1861)" },
+      "practice": "The next time someone asks you something you are unsure of, say \"I don't know, let me find out.\" Then find out and tell them.",
+      "sources": ["legge-analects"]
+    },
+    {
+      "title": "Treat others as you want to be treated",
+      "idea": "When a student asked for one word to guide a whole life, Confucius chose reciprocity: think about how your actions would feel if they were done to you. Scholars still discuss the exact meaning, but the core idea is simple.",
+      "quote": { "text": "What you do not want done to yourself, do not do to others.", "credit": "Analects 15.23, tr. James Legge (1861)" },
+      "practice": "Before you send a sharp message or make a hard choice today, ask: how would I feel if this were done to me? Adjust it if needed.",
+      "sources": ["legge-analects", "sep"]
+    },
+    {
+      "title": "Everyone can be your teacher",
+      "idea": "Confucius did not only learn from books and masters. He said any two people walking with him could teach him: one by showing what to copy, the other by showing what to avoid.",
+      "quote": { "text": "When I walk along with two others, they may serve me as my teachers. I will select their good qualities and follow them, their bad qualities and avoid them.", "credit": "Analects 7.21, tr. James Legge (1861)" },
+      "practice": "Pick two people you dealt with today. Write one good habit to copy from one, and one habit to avoid from the other.",
+      "sources": ["legge-analects"]
+    },
+    {
+      "title": "Fix mistakes without fear",
+      "idea": "For Confucius, a fault was not the real problem. The real problem was keeping it. A good person admits a mistake quickly and changes.",
+      "quote": { "text": "When you have faults, do not fear to abandon them.", "credit": "Analects 1.8, tr. James Legge (1861)" },
+      "practice": "Name one small mistake you keep repeating. Choose one simple change you will make this week, and start today.",
+      "sources": ["legge-analects"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Learn and think", "action": "Read one short piece. Close it and write three lines: what it said, what you think, how you will use it." },
+    { "day": 2, "title": "Say I don't know", "action": "Notice one thing you only half know. Admit it out loud or on paper, then spend ten minutes learning it." },
+    { "day": 3, "title": "The mirror test", "action": "Before one hard message or choice, ask how it would feel if it were done to you. Change it if needed." },
+    { "day": 4, "title": "Two teachers", "action": "Pick two people from your day. Write one habit to copy and one habit to avoid." },
+    { "day": 5, "title": "Drop one fault", "action": "Name one small mistake you repeat. Make one clear change today." },
+    { "day": 6, "title": "Act, then speak", "action": "Do one thing you have been talking about doing, before you mention it to anyone.", "sources": ["legge-analects"] },
+    { "day": 7, "title": "Your own saying", "action": "Like the Analects, write one short saying that sums up what you learned this week." }
+  ],
+  "reflect": "What is one thing you have been pretending to know, and what would change if you admitted you do not know it yet?",
+  "keepsake": "Confucius Builder Collectible"
+}

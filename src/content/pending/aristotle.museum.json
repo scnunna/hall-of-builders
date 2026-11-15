@@ -1,0 +1,411 @@
+{
+  "sources": {
+    "w-aristotle": { "label": "Aristotle (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Aristotle" },
+    "sep": { "label": "Aristotle, Stanford Encyclopedia of Philosophy (Christopher Shields)", "url": "https://plato.stanford.edu/entries/aristotle/" },
+    "w-lyceum": { "label": "Lyceum (classical) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Lyceum_(classical)" },
+    "w-corpus": { "label": "Corpus Aristotelicum (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Corpus_Aristotelicum" },
+    "w-organon": { "label": "Organon (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Organon" },
+    "w-animals": { "label": "History of Animals (Wikipedia)", "url": "https://en.wikipedia.org/wiki/History_of_Animals" },
+    "w-ethics": { "label": "Nicomachean Ethics (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Nicomachean_Ethics" },
+    "w-politics": { "label": "Politics (Aristotle) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Politics_(Aristotle)" },
+    "w-poetics": { "label": "Poetics (Aristotle) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Poetics_(Aristotle)" },
+    "w-rhetoric": { "label": "Rhetoric (Aristotle) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Rhetoric_(Aristotle)" },
+    "w-metaphysics": { "label": "Metaphysics (Aristotle) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Metaphysics_(Aristotle)" },
+    "ross-ethics": { "label": "Nicomachean Ethics, tr. W. D. Ross (1908), The Internet Classics Archive (MIT)", "url": "https://classics.mit.edu/Aristotle/nicomachaen.html" },
+    "ross-meta": { "label": "Metaphysics, tr. W. D. Ross (1908), The Internet Classics Archive (MIT)", "url": "https://classics.mit.edu/Aristotle/metaphysics.html" },
+    "ogle-parts": { "label": "On the Parts of Animals, tr. William Ogle (1882), The Internet Classics Archive (MIT)", "url": "https://classics.mit.edu/Aristotle/parts_animals.html" },
+    "g-ethics": { "label": "The Nicomachean Ethics of Aristotle, Everyman edition (Project Gutenberg #8438)", "url": "https://www.gutenberg.org/ebooks/8438" },
+    "g-politics": { "label": "Politics: A Treatise on Government, tr. William Ellis (Project Gutenberg #6762)", "url": "https://www.gutenberg.org/ebooks/6762" },
+    "g-poetics": { "label": "The Poetics of Aristotle, tr. S. H. Butcher (Project Gutenberg #1974)", "url": "https://www.gutenberg.org/ebooks/1974" }
+  },
+  "timeline": [
+    {
+      "date": "-0384",
+      "age": 0,
+      "place": "Stagira, Chalcidice, (Greece)",
+      "title": "Born in Stagira",
+      "text": "Aristotle was born in the small city of Stagira in northern Greece. His father, Nicomachus, was the personal doctor of King Amyntas of Macedon, which may explain his early interest in biology and medicine. Both parents died when he was young, and Proxenus of Atarneus became his guardian. Very little else is known about his childhood.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-aristotle", "sep"]
+    },
+    {
+      "date": "-0367",
+      "age": 17,
+      "place": "Athens, Attica, (Greece)",
+      "title": "A student at Plato's Academy",
+      "text": "At seventeen or eighteen he went to Athens to study at Plato's Academy, the leading school of the Greek world. He stayed for about twenty years as a student, researcher and lecturer. Plato is said to have called him \"the mind of the school\".",
+      "turning": true,
+      "kind": "life",
+      "sources": ["w-aristotle", "sep"]
+    },
+    {
+      "date": "-0347",
+      "age": 37,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Plato dies, Aristotle leaves",
+      "text": "After Plato died, Aristotle left Athens. The traditional story says he was disappointed when Plato's nephew Speusippus took over the Academy, but anger against Macedonians in Athens may also have played a part. Sources date his departure to 348 or 347 BC.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-aristotle", "sep"]
+    },
+    {
+      "date": "-0347",
+      "age": 37,
+      "place": "Assos, Troad, (Turkey)",
+      "title": "Research at Assos",
+      "text": "He went with the philosopher Xenocrates to Assos on the coast of Asia Minor, invited by his old fellow student Hermias, who ruled there. He stayed about three years and, with his colleague Theophrastus, began serious research into plants and sea life.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-aristotle", "sep"]
+    },
+    {
+      "date": "-0345",
+      "age": 39,
+      "place": "Lesbos, North Aegean, (Greece)",
+      "title": "The lagoon on Lesbos",
+      "text": "After Hermias died, Aristotle moved to the nearby island of Lesbos for about two years. He studied the animals of the island and its seas, especially in the Pyrrha lagoon, using his own observation and the knowledge of fishermen and beekeepers. Some of his findings, such as how the octopus reproduces, were doubted until the 1800s. He married Pythias, Hermias's niece and adopted daughter; sources differ on whether this was at Assos or on Lesbos.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-aristotle", "sep", "w-animals"]
+    },
+    {
+      "date": "-0343",
+      "age": 41,
+      "place": "Mieza, near Pella, Macedon, (Greece)",
+      "title": "Tutor to Alexander",
+      "text": "King Philip II of Macedon invited Aristotle to teach his thirteen-year-old son Alexander, later called Alexander the Great. Lessons were held at Mieza, a royal estate near Pella, and probably covered ethics, politics, Homer and Euripides. He gave Alexander an annotated copy of the Iliad, said to be one of his most prized possessions. Aristotle also urged him toward conquest in the east and held harsh views of Persians.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-aristotle", "sep"]
+    },
+    {
+      "date": "-0340",
+      "age": 44,
+      "place": "Stagira or Macedon, (Greece)",
+      "title": "The quiet years",
+      "text": "At about sixteen Alexander was made regent of Macedon, and his lessons probably ended. The Stanford Encyclopedia thinks the teaching lasted only two or three years, though some scholars suggest up to eight. Little is known of Aristotle's life from 341 to 335 BC; he seems to have stayed in Stagira or Macedon.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-aristotle", "sep"]
+    },
+    {
+      "date": "-0336",
+      "age": 48,
+      "place": "Macedon, (Greece)",
+      "title": "Philip is killed, Alexander rules",
+      "text": "King Philip II was assassinated and Alexander became king. A year later Aristotle returned to Athens for the second and last time.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-aristotle"]
+    },
+    {
+      "date": "-0335",
+      "age": 49,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The Lyceum",
+      "text": "As a foreigner he could not own property in Athens, so he rented buildings at the Lyceum, a public exercise ground sacred to Apollo, and opened his own school. It had a covered walkway, the peripatos, which gave his followers their name: the Peripatetics. Most sources give 335 BC; the Wikipedia article on the Lyceum says 334.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-aristotle", "sep", "w-lyceum"]
+    },
+    {
+      "date": "-0335",
+      "age": null,
+      "place": "Athens, Attica, (Greece)",
+      "title": "A great library and a research team",
+      "text": "With students such as Theophrastus, Eudemus and Aristoxenus, he collected manuscripts, maps and objects. Some ancient accounts call it the first great library of antiquity. Members of the school researched botany, biology, logic, music, astronomy, medicine, politics, the arts and more.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-aristotle", "sep"]
+    },
+    {
+      "date": "-0335",
+      "age": null,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The tools of reasoning",
+      "text": "Aristotle wrote the earliest known systematic study of logic, including the syllogism, a way of testing whether a conclusion really follows from its premises. The six works were later gathered as the Organon, meaning \"the tool\". Their order of writing is now hard to determine.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-aristotle", "w-organon"]
+    },
+    {
+      "date": "-0335",
+      "age": null,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Writing on poetry and drama",
+      "text": "The Poetics, dated to about 335 BC, is the earliest surviving work of Greek drama theory. It studies how tragedy works, with ideas such as plot, character and catharsis that are still argued about today.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-poetics"]
+    },
+    {
+      "date": "-0335",
+      "age": null,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The study of animals",
+      "text": "In works such as the History of Animals he described hundreds of creatures, from catfish and electric rays to the four-chambered stomachs of cattle. He first gathered the facts, then looked for causes. The book was written sometime between the mid-300s BC and his death.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-animals", "w-aristotle"]
+    },
+    {
+      "date": "-0335",
+      "age": null,
+      "place": "Athens, Attica, (Greece)",
+      "title": "How to live well",
+      "text": "Most of his surviving works are thought to come from these Lyceum years, written as teaching notes rather than for publication. They include the Nicomachean Ethics, on how to live a good life, the Rhetoric, on persuasion, and the Metaphysics, on the nature of being.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-aristotle", "w-ethics", "w-rhetoric", "w-metaphysics"]
+    },
+    {
+      "date": "-0335",
+      "age": null,
+      "place": "Athens, Attica, (Greece)",
+      "title": "158 constitutions",
+      "text": "For the Politics, his students collected the constitutions of 158 city-states so they could compare their strengths and weaknesses. This was an early, evidence-based approach to politics. The Politics also defends slavery and excludes women from citizenship, views most readers now reject.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-politics"]
+    },
+    {
+      "date": "-0335",
+      "age": null,
+      "place": "Athens, Attica, (Greece)",
+      "title": "Loss and a new family",
+      "text": "During his years in Athens his wife Pythias died. He later lived with Herpyllis, and they had a son named Nicomachus after Aristotle's father. The Nicomachean Ethics is probably named after this son. Her exact status is disputed.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-aristotle", "sep"]
+    },
+    {
+      "date": "-0323",
+      "age": 61,
+      "place": "Babylon, (Iraq)",
+      "title": "Alexander dies",
+      "text": "Alexander died of illness in Babylon. In his last years he and Aristotle had grown apart, disagreeing over how to rule cities and treat conquered peoples. A rumour that Aristotle had a part in his death has no good evidence behind it. In Athens, anger against anyone linked to Macedon flared up again.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-aristotle", "sep"]
+    },
+    {
+      "date": "-0323",
+      "age": 61,
+      "place": "Chalcis, Euboea, (Greece)",
+      "title": "Leaving Athens a second time",
+      "text": "Charged with impiety, Aristotle left Athens for his mother's family estate in Chalcis. An old story says he left so as not to let the Athenians \"sin twice against philosophy\", a reference to the execution of Socrates. Sources differ on the year: the Stanford Encyclopedia says 323, Wikipedia says 322.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-aristotle", "sep", "w-lyceum"]
+    },
+    {
+      "date": "-0322",
+      "age": 62,
+      "place": "Chalcis, Euboea, (Greece)",
+      "title": "Death in Chalcis",
+      "text": "Aristotle died of natural causes in Chalcis. His will asked that he be buried next to his wife Pythias. He left his writings and the Lyceum to his student Theophrastus.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-aristotle", "sep", "w-lyceum"]
+    },
+    {
+      "date": "-0040",
+      "age": null,
+      "place": "Rome, (Italy)",
+      "title": "The works are put in order",
+      "text": "His papers passed from Theophrastus to Neleus and were hidden for a long time before being bought by a collector and taken to Rome. Andronicus of Rhodes then arranged them into the books we know today. Sources date his edition anywhere from 73 to 20 BC, often around 40 BC. Only about a third of what Aristotle wrote survives.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-aristotle", "w-organon", "w-lyceum"]
+    },
+    {
+      "date": "1879",
+      "age": null,
+      "place": "Egypt",
+      "title": "A lost book turns up",
+      "text": "The Constitution of the Athenians, one of the 158 constitutions his school collected, was first discovered on papyrus in 1879, long after the standard edition of his works had been printed.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-corpus"]
+    },
+    {
+      "date": "1996",
+      "age": null,
+      "place": "Athens, Attica, (Greece)",
+      "title": "The Lyceum is found",
+      "text": "While clearing ground for a new museum in central Athens, workers uncovered the remains of Aristotle's Lyceum. They are now part of a public park. In the Middle Ages, Muslim scholars called him \"The First Teacher\" and Christian scholars simply \"The Philosopher\".",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-lyceum", "w-aristotle"]
+    }
+  ],
+  "works": [
+    {
+      "year": "-0335",
+      "type": "logic",
+      "title": "The Organon",
+      "text": "Six works on logic and argument, including the Categories and the Prior Analytics. The earliest systematic study of logic, used by scholars for over two thousand years.",
+      "sources": ["w-organon", "w-aristotle"]
+    },
+    {
+      "year": "-0335",
+      "type": "book",
+      "title": "Nicomachean Ethics",
+      "text": "Ten books on how to live a good life: virtue as a habit, the mean between extremes, friendship and happiness.",
+      "sources": ["w-ethics", "ross-ethics"],
+      "url": "https://www.gutenberg.org/ebooks/8438"
+    },
+    {
+      "year": "-0335",
+      "type": "book",
+      "title": "Politics",
+      "text": "A study of how people best live together in cities, built on comparing many real constitutions. It also defends slavery, which most readers now reject.",
+      "sources": ["w-politics", "g-politics"],
+      "url": "https://www.gutenberg.org/ebooks/6762"
+    },
+    {
+      "year": "-0335",
+      "type": "book",
+      "title": "Poetics",
+      "text": "The earliest surviving work of drama theory, on how tragedy and epic poetry work.",
+      "sources": ["w-poetics", "g-poetics"],
+      "url": "https://www.gutenberg.org/ebooks/1974"
+    },
+    {
+      "year": "-0335",
+      "type": "book",
+      "title": "Rhetoric",
+      "text": "A treatise on the art of persuasion, called by many the most important single work on persuasion ever written.",
+      "sources": ["w-rhetoric"]
+    },
+    {
+      "year": "-0335",
+      "type": "book",
+      "title": "Metaphysics",
+      "text": "His \"first philosophy\": what it means for something to exist, causes, form and matter. It opens: \"All men by nature desire to know.\"",
+      "sources": ["w-metaphysics", "ross-meta"],
+      "url": "https://classics.mit.edu/Aristotle/metaphysics.html"
+    },
+    {
+      "year": "-0335",
+      "type": "science",
+      "title": "History of Animals",
+      "text": "A pioneering work of zoology full of careful observations, especially of sea life around Lesbos.",
+      "sources": ["w-animals"]
+    },
+    {
+      "year": "-0335",
+      "type": "science",
+      "title": "On the Parts of Animals",
+      "text": "Why animals have the bodies they do, explained by the purpose each part serves. Includes his call to study even humble creatures.",
+      "sources": ["ogle-parts", "w-aristotle"],
+      "url": "https://classics.mit.edu/Aristotle/parts_animals.html"
+    },
+    {
+      "year": "-0335",
+      "type": "school",
+      "title": "The Lyceum and the Peripatetic school",
+      "text": "His school in Athens, with its great library. It carried on after his death until the Roman general Sulla destroyed it in 86 BC.",
+      "sources": ["w-lyceum", "sep"]
+    },
+    {
+      "year": "-0335",
+      "type": "research",
+      "title": "The 158 constitutions",
+      "text": "A collection of the constitutions of Greek city-states made by his school. Only the Constitution of the Athenians survives, found on papyrus in 1879.",
+      "sources": ["w-politics", "w-corpus"]
+    },
+    {
+      "year": "-0343",
+      "type": "teaching",
+      "title": "The education of Alexander",
+      "text": "Two or more years teaching the young Alexander of Macedon at Mieza.",
+      "sources": ["w-aristotle", "sep"]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Nicomachean Ethics, tr. W. D. Ross (Internet Classics Archive)",
+      "url": "https://classics.mit.edu/Aristotle/nicomachaen.html",
+      "what": "The classic 1908 Ross translation, free to read online."
+    },
+    {
+      "label": "The Nicomachean Ethics of Aristotle (Project Gutenberg #8438)",
+      "url": "https://www.gutenberg.org/ebooks/8438",
+      "what": "An older public domain English edition, free to download."
+    },
+    {
+      "label": "The Poetics of Aristotle, tr. S. H. Butcher (Project Gutenberg #1974)",
+      "url": "https://www.gutenberg.org/ebooks/1974",
+      "what": "His short book on tragedy and storytelling."
+    },
+    {
+      "label": "Politics, tr. William Ellis (Project Gutenberg #6762)",
+      "url": "https://www.gutenberg.org/ebooks/6762",
+      "what": "His study of cities and constitutions."
+    },
+    {
+      "label": "On the Parts of Animals, tr. William Ogle (Internet Classics Archive)",
+      "url": "https://classics.mit.edu/Aristotle/parts_animals.html",
+      "what": "His biology, including the famous passage on studying every creature."
+    },
+    {
+      "label": "Aristotle (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/aristotle/",
+      "what": "A careful scholarly overview of his life and thought."
+    },
+    {
+      "label": "Aristotle (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Aristotle",
+      "what": "A detailed, well sourced account of his life, work and legacy."
+    },
+    {
+      "label": "Lyceum (classical) (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Lyceum_(classical)",
+      "what": "The history of his school, and the 1996 discovery of its remains."
+    }
+  ],
+  "books": [
+    {
+      "title": "Nicomachean Ethics",
+      "author": "Aristotle, translated by W. D. Ross",
+      "year": "-0335",
+      "kind": "by-him",
+      "free": "https://classics.mit.edu/Aristotle/nicomachaen.html",
+      "note": "The best place to start. Books I and II explain happiness and how habits build character."
+    },
+    {
+      "title": "Politics: A Treatise on Government",
+      "author": "Aristotle, translated by William Ellis",
+      "year": "-0335",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/6762",
+      "note": "How people live together in cities. Read with an eye on what he got wrong as well as right."
+    },
+    {
+      "title": "The Poetics",
+      "author": "Aristotle, translated by S. H. Butcher",
+      "year": "-0335",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/1974",
+      "note": "Short and still useful to anyone who tells stories."
+    },
+    {
+      "title": "The Lagoon: How Aristotle Invented Science",
+      "author": "Armand Marie Leroi",
+      "year": "2014",
+      "kind": "biography",
+      "free": null,
+      "note": "A biologist follows Aristotle to Lesbos to show how he studied living things."
+    },
+    {
+      "title": "Aristotle: A Very Short Introduction",
+      "author": "Jonathan Barnes",
+      "year": "1982",
+      "kind": "biography",
+      "free": null,
+      "note": "A short, clear introduction by a leading scholar, first published in 1982 and cited in the Wikipedia article (Oxford University Press)."
+    }
+  ]
+}

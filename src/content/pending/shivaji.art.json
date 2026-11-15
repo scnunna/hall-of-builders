@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "06-coronation",
+ "panels": [
+  { "key": "01-shivneri", "year": "1630" },
+  { "key": "02-torna", "year": "1647" },
+  { "key": "03-pratapgad", "year": "1659" },
+  { "key": "04-sindhudurg", "year": "1664" },
+  { "key": "05-agra", "year": "1666" },
+  { "key": "06-coronation", "year": "1674" },
+  { "key": "07-gingee", "year": "1677" },
+  { "key": "08-raigad", "year": "1680" }
+ ]
+}

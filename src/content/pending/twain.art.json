@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "03-penname",
+ "panels": [
+  { "key": "01-hannibal", "year": "1839" },
+  { "key": "02-cubpilot", "year": "1857" },
+  { "key": "03-penname", "year": "1863" },
+  { "key": "04-quakercity", "year": "1867" },
+  { "key": "05-hartford", "year": "1874" },
+  { "key": "06-huckfinn", "year": "1884" },
+  { "key": "07-worldtour", "year": "1895" },
+  { "key": "08-stormfield", "year": "1910" }
+ ]
+}

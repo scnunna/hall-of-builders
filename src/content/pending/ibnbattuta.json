@@ -1,0 +1,62 @@
+{
+  "id": "ibnbattuta",
+  "name": "Ibn Battuta",
+  "years": "1304 - 1368/69",
+  "title": "The Traveller",
+  "tagline": "He left home at 21 to make the pilgrimage to Mecca, kept going for almost 30 years, and later dictated one of the great travel books of the Middle Ages.",
+  "sources": {
+    "w-ibnb": { "label": "Ibn Battuta (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ibn_Battuta" },
+    "w-rihla": { "label": "Rihla (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Rihla" },
+    "gibb": { "label": "Ibn Battuta, Travels in Asia and Africa 1325-1354, tr. H. A. R. Gibb, Routledge 1929 (Internet Archive)", "url": "https://archive.org/details/pli.kerala.rare.27987" },
+    "w-suleyman": { "label": "Mansa Suleyman (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mansa_Suleyman" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Set out with a purpose",
+      "idea": "Ibn Battuta left Tangier alone, with no travel party, because he had a clear goal: the pilgrimage to Mecca and Medina. Leaving his parents was hard, but a strong, long-held aim carried him through the first difficult weeks.",
+      "quote": { "text": "Swayed by an overmastering impulse within me, and a long-cherished desire to visit those glorious sanctuaries, I resolved to quit all my friends and tear myself away from my home.", "credit": "Travels in Asia and Africa 1325-1354, Book I ch. 1, p. 43, tr. H. A. R. Gibb (1929)" },
+      "practice": "Write one sentence that says what you most want to reach this year and why it matters to you. Keep it where you will see it.",
+      "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "title": "Stay with your aim",
+      "idea": "Along the way he met teachers and places that tempted him to stop. Once, at Abbadan near Basra, he thought of staying for life in the service of a holy man. He chose to keep going with the journey he had started.",
+      "quote": { "text": "For a moment I entertained the idea of spending the rest of my life in the service of this Shaykh, but my spirit, tenacious of its purpose, dissuaded me.", "credit": "Travels in Asia and Africa 1325-1354, Book I ch. 2, p. 88, tr. H. A. R. Gibb (1929)" },
+      "practice": "When something pulls you off course today, pause and ask: does this help my main aim? If not, note it for later and go back to your task.",
+      "sources": ["gibb"]
+    },
+    {
+      "title": "Take a new road",
+      "idea": "He made a habit of not repeating a road he had already travelled when he could avoid it. That choice is one reason he saw so many lands, from East Africa to India and beyond.",
+      "quote": { "text": "I made it a habit on my journey never, so far as possible, to cover a second time any road that I had once travelled.", "credit": "Travels in Asia and Africa 1325-1354, Book I ch. 2, p. 88, tr. H. A. R. Gibb (1929)" },
+      "practice": "Take a different route on one of your usual trips today, or try a new way of doing a routine task. Write down one thing you noticed.",
+      "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "title": "Know your craft",
+      "idea": "He came from a family of legal scholars and trained in Islamic law. When the sultan of Delhi offered posts to newcomers, he asked only for the work he was trained for, and became a judge (qadi). His knowledge of law opened doors wherever he went.",
+      "quote": { "text": "Wazirships and secretaryships are not my business, but as to qadis and shaykhs, that is my occupation, and the occupation of my fathers before me.", "credit": "Travels in Asia and Africa 1325-1354, Book II ch. 6, p. 207, tr. H. A. R. Gibb (1929)" },
+      "practice": "List three things you know how to do well. Pick one and offer it to help someone this week.",
+      "sources": ["gibb", "w-ibnb"]
+    },
+    {
+      "title": "Notice what others do well",
+      "idea": "He did not only describe wonders. He paid attention to how societies worked, and praised what he admired. In the Mali Empire he noted that travellers and residents alike were safe. Historians still use his account of Mali, though some question how much of it is first-hand.",
+      "quote": { "text": "There is complete security in their country. Neither traveller nor inhabitant in it has anything to fear from robbers or men of violence.", "credit": "Travels in Asia and Africa 1325-1354, Book II ch. 14, p. 329, tr. H. A. R. Gibb (1929)" },
+      "practice": "Think of a place, team or family you know that is different from yours. Write down one thing they do better, and how you could learn from it.",
+      "sources": ["gibb", "w-suleyman"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Name the journey", "action": "Write one sentence about the big goal you are working toward, and one reason it matters to you." },
+    { "day": 2, "title": "A new road", "action": "Take a different route somewhere you go often, or change the order of a routine. Note one new thing you saw.", "sources": ["gibb"] },
+    { "day": 3, "title": "Travel notes", "action": "Tonight, write five lines about the people and places you met today, as if for a traveller's book." },
+    { "day": 4, "title": "Ask a master", "action": "Ask someone older or more skilled than you how they learned their craft. Write down the best thing they said." },
+    { "day": 5, "title": "Your craft", "action": "Name the one skill you are best at. Use it to help someone today without being asked." },
+    { "day": 6, "title": "What they do well", "action": "Pick a group or culture different from your own. Find and write down one thing they do well." },
+    { "day": 7, "title": "Tell the story", "action": "Like Ibn Battuta dictating to a scribe, tell a friend the story of your week out loud. Then write down the part they liked most.", "sources": ["w-rihla"] }
+  ],
+  "reflect": "What goal would you set out for, even if you had to go alone at first?",
+  "keepsake": "Ibn Battuta Builder Collectible"
+}

@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "04-radium",
+ "panels": [
+  { "key": "01-flying", "year": "1884" },
+  { "key": "02-sorbonne", "year": "1891" },
+  { "key": "03-electrometer", "year": "1897" },
+  { "key": "04-radium", "year": "1898" },
+  { "key": "05-lecture", "year": "1906" },
+  { "key": "06-xraycar", "year": "1914" },
+  { "key": "07-institute", "year": "1920" },
+  { "key": "08-pantheon", "year": "1995" }
+ ]
+}

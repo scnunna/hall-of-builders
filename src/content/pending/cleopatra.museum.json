@@ -1,0 +1,465 @@
+{
+  "sources": {
+    "w-cleopatra": { "label": "Cleopatra (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Cleopatra" },
+    "w-death": { "label": "Death of Cleopatra (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Death_of_Cleopatra" },
+    "w-actium": { "label": "Battle of Actium (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Battle_of_Actium" },
+    "w-donations": { "label": "Donations of Alexandria (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Donations_of_Alexandria" },
+    "w-dendera": { "label": "Dendera Temple complex (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Dendera_Temple_complex" },
+    "w-play": { "label": "Antony and Cleopatra, the play by Shakespeare (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Antony_and_Cleopatra" },
+    "perrin-antony": { "label": "Plutarch, Life of Antony, tr. Bernadotte Perrin, Loeb Classical Library vol. IX (1920), on LacusCurtius", "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Antony*.html" },
+    "pg-plutarch": { "label": "Plutarch, Lives of the Noble Grecians and Romans, Dryden translation ed. A. H. Clough (Project Gutenberg #674)", "url": "https://www.gutenberg.org/ebooks/674" }
+  },
+  "timeline": [
+    {
+      "date": "-0069",
+      "age": 0,
+      "place": "Alexandria, Ptolemaic Egypt, (Egypt)",
+      "title": "Born in Alexandria",
+      "text": "Cleopatra was born in late 70 or early 69 BC, the daughter of King Ptolemy XII. Her mother was probably Cleopatra V Tryphaena, but this is not certain. Her family, the Ptolemies, were Greek-speaking Macedonians who had ruled Egypt since the death of Alexander the Great.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0065",
+      "age": null,
+      "place": "Alexandria, Ptolemaic Egypt, (Egypt)",
+      "title": "A royal education",
+      "text": "As a girl she was taught Greek speech and philosophy by her tutor Philostratos, and she probably studied at the Musaeum, home of the Library of Alexandria. The exact years are not recorded. She became the only ruler of her family known to have learned the Egyptian language.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-cleopatra", "perrin-antony"]
+    },
+    {
+      "date": "-0058",
+      "age": 11,
+      "place": "Rome, Roman Republic, (Italy)",
+      "title": "Her father in exile",
+      "text": "Rome took Cyprus from the Ptolemies in 58 BC, and the angry people of Alexandria drove Ptolemy XII out. He went to Rhodes, Athens and then to Rome to ask for help. Cleopatra may have gone with him, but the sources are not certain.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0055",
+      "age": 14,
+      "place": "Pelusium, Lower Egypt, (Egypt)",
+      "title": "Rome puts her father back",
+      "text": "In spring 55 BC the Roman general Gabinius invaded Egypt and restored Ptolemy XII to his throne, in return for a huge payment. Mark Antony rode with the army as a cavalry officer. Cleopatra, then about 14, probably travelled with the expedition. Gabinius left behind Roman soldiers, later called the Gabiniani.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-cleopatra", "perrin-antony"]
+    },
+    {
+      "date": "-0052-05-31",
+      "age": 17,
+      "place": "Dendera, Upper Egypt, (Egypt)",
+      "title": "Named regent",
+      "text": "An inscription in the temple of Hathor at Dendera shows that on 31 May 52 BC her father made Cleopatra his regent, sharing his power with her.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0051",
+      "age": 18,
+      "place": "Hermonthis, Upper Egypt, (Egypt)",
+      "title": "Queen at eighteen",
+      "text": "Ptolemy XII died before 22 March 51 BC. Cleopatra became queen, officially beside her younger brother Ptolemy XIII. Her first act was a journey up the Nile to Hermonthis, near Thebes, to install a new sacred Buchis bull, an old Egyptian religious duty.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0051-08-29",
+      "age": 18,
+      "place": "Alexandria, Ptolemaic Egypt, (Egypt)",
+      "title": "Ruling alone through famine",
+      "text": "By 29 August 51 BC official papers named Cleopatra as sole ruler, leaving her brother out. She faced famine caused by drought and a low Nile flood, and trouble from the unpaid Gabiniani soldiers.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0049",
+      "age": 20,
+      "place": "Thebes region, Upper Egypt, (Egypt)",
+      "title": "Forced out by her brother's court",
+      "text": "Her brother's advisers turned against her. In summer 49 BC she lost the struggle and fled Alexandria. In spring 48 BC she went to Roman Syria with her sister Arsinoe to raise an army to win back her throne.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0048-09-28",
+      "age": 21,
+      "place": "Pelusium, Lower Egypt, (Egypt)",
+      "title": "Pompey killed in Egypt",
+      "text": "After losing the Battle of Pharsalus to Julius Caesar, the Roman general Pompey fled to Egypt. On 28 September 48 BC Ptolemy XIII's court had him killed as he came ashore, hoping to please Caesar.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0048-10",
+      "age": 21,
+      "place": "Alexandria, Ptolemaic Egypt, (Egypt)",
+      "title": "Meeting Julius Caesar",
+      "text": "Caesar arrived in Alexandria and stayed in the palace. Cleopatra found a way in to meet him and win his support. The sources disagree on how: Plutarch says she was carried in hidden in a bed sack, while Cassius Dio says she simply came without telling her brother and won Caesar over with her wit.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-cleopatra", "perrin-antony"]
+    },
+    {
+      "date": "-0047",
+      "age": 22,
+      "place": "Alexandria, Ptolemaic Egypt, (Egypt)",
+      "title": "Back on the throne",
+      "text": "Caesar and Cleopatra were trapped in the palace through the winter of 48 to 47 BC. In early 47 BC Ptolemy XIII drowned in the Nile during the fighting. Caesar restored Cleopatra as queen, with her youngest brother, Ptolemy XIV, as her official co-ruler.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0047-06-23",
+      "age": 22,
+      "place": "Alexandria, Ptolemaic Egypt, (Egypt)",
+      "title": "A son, Caesarion",
+      "text": "Her son Ptolemy Caesar, called Caesarion, was born, possibly on 23 June 47 BC according to one stele. Cleopatra always named Caesar as his father; Caesar himself stayed silent about it in public.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0046",
+      "age": 23,
+      "place": "Rome, Roman Republic, (Italy)",
+      "title": "A queen in Rome",
+      "text": "In late 46 BC Cleopatra and Ptolemy XIV visited Rome and stayed at Caesar's villa. Caesar placed a gilded statue of her in the Temple of Venus Genetrix, the first time a living person's statue stood beside a god's in a Roman temple.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0044-03-15",
+      "age": 25,
+      "place": "Rome, Roman Republic, (Italy)",
+      "title": "Caesar is murdered",
+      "text": "Caesar was killed by senators on 15 March 44 BC. Cleopatra lost her strongest ally and left Rome in mid-April to return to Egypt.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0044",
+      "age": 25,
+      "place": "Alexandria, Ptolemaic Egypt, (Egypt)",
+      "title": "Ruling with her son",
+      "text": "A few months later Ptolemy XIV died. The writer Josephus claimed she had him poisoned, but he was always hostile to her and gave no proof. Cleopatra made the young Caesarion her co-ruler.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0043",
+      "age": 26,
+      "place": "Alexandria, Ptolemaic Egypt, (Egypt)",
+      "title": "Choosing a side in Rome's civil war",
+      "text": "After Caesar's death Rome split again. Cleopatra sided with the Second Triumvirate of Octavian, Antony and Lepidus against Caesar's killers, Brutus and Cassius.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0041",
+      "age": 28,
+      "place": "Tarsus, Cilicia, (Turkey)",
+      "title": "The barge at Tarsus",
+      "text": "Mark Antony, now ruling Rome's eastern lands, summoned her to Tarsus to answer charges that she had helped Cassius. Plutarch says she sailed up the river Cydnus in a gilded barge with purple sails. She cleared her name and won Antony as an ally and partner.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-cleopatra", "perrin-antony"]
+    },
+    {
+      "date": "-0040",
+      "age": 29,
+      "place": "Alexandria, Ptolemaic Egypt, (Egypt)",
+      "title": "Twins are born",
+      "text": "After Antony's winter in Alexandria, Cleopatra gave birth to twins, Alexander Helios and Cleopatra Selene. Antony later acknowledged both as his children.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0037",
+      "age": 32,
+      "place": "Antioch, Syria, (Turkey)",
+      "title": "Old lands won back",
+      "text": "Antony and Cleopatra met again in 37 BC. Antony granted her lands the Ptolemies had once held, including Phoenicia, parts of Coele-Syria, Cyrene and towns on Crete, without going to war.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0036",
+      "age": 33,
+      "place": "Berytus, Phoenicia, (Lebanon)",
+      "title": "Supplies for a beaten army",
+      "text": "Her son Ptolemy Philadelphus was born in 36 BC. That year Antony's war against Parthia failed, and Cleopatra brought money and supplies to his tired troops at Berytus.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0034",
+      "age": 35,
+      "place": "Alexandria, Ptolemaic Egypt, (Egypt)",
+      "title": "The Donations of Alexandria",
+      "text": "In autumn 34 BC, in the gymnasium of Alexandria, Antony gave lands to Cleopatra's children and named her \"Queen of Kings\". Caesarion was declared Caesar's true son and heir. This threatened Octavian, whose power came from his adoption by Caesar, and the Roman Senate refused to approve it.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-donations", "w-cleopatra"]
+    },
+    {
+      "date": "-0033-02-23",
+      "age": 36,
+      "place": "Alexandria, Ptolemaic Egypt, (Egypt)",
+      "title": "\"Make it happen\"",
+      "text": "A royal order granting tax exemptions to a Roman, now called Papyrus Bingen 45, was received on 23 February 33 BC. It ends with the Greek word ginesthoi, \"make it happen\". It was added in a different hand, and it is possibly Cleopatra's own signature; Ptolemaic rulers countersigned orders to prevent forgery.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0032",
+      "age": 37,
+      "place": "Rome, Roman Republic, (Italy)",
+      "title": "Rome declares war on her",
+      "text": "Antony divorced Octavian's sister Octavia. Octavian seized Antony's will from the Temple of Vesta and used it to stir up Rome. The Senate declared war, not on Antony, but on Cleopatra.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "-0031-09-02",
+      "age": 38,
+      "place": "Actium, Epirus, (Greece)",
+      "title": "The Battle of Actium",
+      "text": "On 2 September 31 BC Octavian's fleet, led by Agrippa, met Antony and Cleopatra off Actium. Her squadron broke away to the open sea and Antony followed, and his fleet was routed. Roman writers later called it cowardly desertion, but it may have been a planned breakout to save as much of the fleet as possible.",
+      "turning": true,
+      "kind": "setback",
+      "sources": ["w-actium", "w-cleopatra"]
+    },
+    {
+      "date": "-0030-08-01",
+      "age": 39,
+      "place": "Alexandria, Ptolemaic Egypt, (Egypt)",
+      "title": "Alexandria falls",
+      "text": "Octavian invaded Egypt. On 1 August 30 BC Antony's fleet and cavalry went over to Octavian, who entered Alexandria that day. Antony took his own life.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-cleopatra", "w-actium"]
+    },
+    {
+      "date": "-0030-08-10",
+      "age": 39,
+      "place": "Alexandria, Ptolemaic Egypt, (Egypt)",
+      "title": "The last queen",
+      "text": "Cleopatra died in August 30 BC, aged 39, probably by her own hand to avoid being paraded in Octavian's triumph. No record gives the exact day; scholars favour 10 or 12 August. The famous asp story is not certain: Plutarch himself wrote that \"the truth of the matter no one knows\", and ancient writers also mention poison in a pin or ointment.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-death", "w-cleopatra", "perrin-antony"]
+    },
+    {
+      "date": "-0030-08",
+      "age": null,
+      "place": "Alexandria, Roman Egypt, (Egypt)",
+      "title": "Egypt becomes Roman",
+      "text": "Octavian had Caesarion killed later that month. The Ptolemaic kingdom ended and Egypt became a Roman province. In 27 BC Octavian took the name Augustus and became Rome's first emperor.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-cleopatra", "w-actium"]
+    },
+    {
+      "date": "-0025",
+      "age": null,
+      "place": "Mauretania, North Africa, (Algeria and Morocco)",
+      "title": "Her daughter becomes a queen",
+      "text": "Her younger children were raised in Rome by Octavia. Her daughter Cleopatra Selene married King Juba II in 25 BC and ruled Mauretania with him. What became of her sons Alexander Helios and Ptolemy Philadelphus is unknown.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "date": "1607",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "Shakespeare's Antony and Cleopatra",
+      "text": "Shakespeare's play about her, based on Thomas North's translation of Plutarch, was probably first staged around 1607. Plays, paintings and films have retold her story ever since, often shaped more by Roman propaganda than by the evidence.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-play", "w-cleopatra"]
+    }
+  ],
+  "works": [
+    {
+      "year": "-0051",
+      "type": "religion",
+      "title": "Pharaoh of the old gods",
+      "text": "Unlike her Greek-speaking family, she took part in Egyptian religion as pharaoh. Her first act as queen was installing the sacred Buchis bull at Hermonthis, and she later appeared as the goddess Isis.",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "year": "-0051",
+      "type": "reform",
+      "title": "Governing through famine",
+      "text": "Her early reign was hit by drought, a low Nile flood and famine, and by lawless unpaid soldiers. She held the government together through these years.",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "year": "-0051",
+      "type": "coinage",
+      "title": "Coins in her own name",
+      "text": "She was the only Ptolemaic queen to issue coins on her own behalf. They were silver and bronze, not gold, and money troubles forced her to lower their silver content. The coins show a strong face with a hooked nose and firm chin.",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "year": "-0051",
+      "type": "reform",
+      "title": "Managing the economy",
+      "text": "As an absolute monarch she ran a state economy. Her government used price controls, tariffs, state monopolies and fixed exchange rates.",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "year": "-0048",
+      "type": "alliance",
+      "title": "Alliance with Julius Caesar",
+      "text": "Driven from her capital, she won Caesar's support and with it her throne back, after the Alexandrian War of 48 to 47 BC.",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "year": "-0046",
+      "type": "monument",
+      "title": "Statue in the Temple of Venus Genetrix",
+      "text": "Caesar set up a gilded bronze statue of her in his new temple in Rome. It probably stood there until at least the 3rd century AD.",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "year": "-0044",
+      "type": "monument",
+      "title": "The Dendera relief",
+      "text": "On the back wall of the temple of Hathor at Dendera, large Egyptian-style carvings show Cleopatra with her son Caesarion making offerings as a ruling pharaoh. The temple itself was begun under her father in 54 BC.",
+      "sources": ["w-dendera", "w-cleopatra"]
+    },
+    {
+      "year": "-0041",
+      "type": "diplomacy",
+      "title": "The meeting at Tarsus",
+      "text": "Called to answer charges, she arrived on her own terms, cleared her name and made Antony her ally.",
+      "sources": ["w-cleopatra", "perrin-antony"]
+    },
+    {
+      "year": "-0037",
+      "type": "diplomacy",
+      "title": "Rebuilding the Ptolemaic lands",
+      "text": "Through her alliance with Antony she regained Phoenicia, parts of Coele-Syria, Cyrene and Cretan towns, and kept a governor in Cyprus by 42 BC.",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "year": "-0036",
+      "type": "logistics",
+      "title": "Supplying Antony's army",
+      "text": "After the failed Parthian campaign she brought funds and supplies to the Roman troops at Berytus.",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "year": "-0034",
+      "type": "diplomacy",
+      "title": "The Donations of Alexandria",
+      "text": "A public ceremony that named her Queen of Kings and gave eastern lands to her children. It was a bold claim of power, and it gave Octavian his case for war.",
+      "sources": ["w-donations"]
+    },
+    {
+      "year": "-0033",
+      "type": "document",
+      "title": "Papyrus Bingen 45",
+      "text": "A royal order granting tax exemptions, ending with the word ginesthoi, \"make it happen\". It may carry the only surviving writing in her own hand.",
+      "sources": ["w-cleopatra"]
+    },
+    {
+      "year": "-0031",
+      "type": "war",
+      "title": "The Egyptian fleet at Actium",
+      "text": "She commanded her own squadron in the decisive sea battle against Octavian. Roman writers called its withdrawal cowardice; it may have been a planned breakout.",
+      "sources": ["w-actium"]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Plutarch, Life of Antony, tr. Perrin (LacusCurtius)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Antony*.html",
+      "what": "The fullest ancient account of her life, in the 1920 Loeb translation with chapter numbers. Written about 150 years after her death."
+    },
+    {
+      "label": "Plutarch's Lives, Dryden translation ed. Clough (Project Gutenberg #674)",
+      "url": "https://www.gutenberg.org/ebooks/674",
+      "what": "The classic English translation of Plutarch, free to read or download. Includes the Life of Antony."
+    },
+    {
+      "label": "Cleopatra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Cleopatra",
+      "what": "A long, well sourced account of her life, reign, image and legacy."
+    },
+    {
+      "label": "Death of Cleopatra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Death_of_Cleopatra",
+      "what": "What the ancient sources say about how she died, and why modern scholars doubt the asp story."
+    },
+    {
+      "label": "Battle of Actium (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Actium",
+      "what": "The sea battle that ended her alliance with Antony and the Ptolemaic kingdom."
+    },
+    {
+      "label": "Donations of Alexandria (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Donations_of_Alexandria",
+      "what": "The ceremony of 34 BC that named her Queen of Kings."
+    },
+    {
+      "label": "Dendera Temple complex (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Dendera_Temple_complex",
+      "what": "The temple where she and Caesarion are carved as pharaohs."
+    },
+    {
+      "label": "Antony and Cleopatra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Antony_and_Cleopatra",
+      "what": "Shakespeare's play about her and how it used Plutarch."
+    }
+  ],
+  "books": [
+    {
+      "title": "Life of Antony, in Plutarch's Lives",
+      "author": "Plutarch, Dryden translation revised by Arthur Hugh Clough",
+      "year": "0100",
+      "kind": "biography",
+      "free": "https://www.gutenberg.org/ebooks/674",
+      "note": "Cleopatra left no writings of her own. This ancient life of Mark Antony, written around AD 100, is the main early source about her. Read it knowing it is a Roman-era view."
+    },
+    {
+      "title": "Cleopatra: A Biography",
+      "author": "Duane W. Roller",
+      "year": "2010",
+      "kind": "biography",
+      "free": null,
+      "note": "A scholarly life that focuses on her as a ruler and uses coins, papyri and inscriptions as well as the Roman writers (Oxford University Press)."
+    },
+    {
+      "title": "Cleopatra: A Life",
+      "author": "Stacy Schiff",
+      "year": "2010",
+      "kind": "biography",
+      "free": null,
+      "note": "A readable modern biography that tries to separate the woman from the legend (Little, Brown)."
+    }
+  ]
+}

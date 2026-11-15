@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "03-accession",
+ "panels": [
+  { "key": "01-kensington", "year": "1819" },
+  { "key": "02-journal", "year": "1832" },
+  { "key": "03-accession", "year": "1837" },
+  { "key": "04-wedding", "year": "1840" },
+  { "key": "05-exhibition", "year": "1851" },
+  { "key": "06-valour", "year": "1857" },
+  { "key": "07-highlands", "year": "1868" },
+  { "key": "08-jubilee", "year": "1897" }
+ ]
+}
