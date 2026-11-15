@@ -40,10 +40,17 @@ SETS = {
  },
 }
 
+def load_set(sid):
+    """Built-in sets above, or scripts/art/sets/<id>.json: {"subject": "...", "panels": {"01-key": "scene with {S} for the subject"}}."""
+    if sid in SETS: return SETS[sid]
+    import json
+    d = json.load(open(os.path.join(ROOT, "scripts", "art", "sets", sid + ".json"), encoding="utf8"))
+    return {k: v.replace("{S}", d.get("subject", "")) for k, v in d["panels"].items()}
+
 if __name__ == "__main__":
     sid, only = sys.argv[1], sys.argv[2:]
     out_dir = os.path.join(ROOT, "art-src", sid); os.makedirs(out_dir, exist_ok=True)
-    for key, scene in SETS[sid].items():
+    for key, scene in load_set(sid).items():
         if only and key not in only: continue
         out = os.path.join(out_dir, key + ".png")
         if os.path.exists(out) and not only: print("skip", key, flush=True); continue

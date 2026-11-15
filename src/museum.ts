@@ -17,7 +17,10 @@ export type Museum = {
 export type Art = { style: string; splash: string; panels: { key: string; year: string; near?: boolean }[] };
 
 const esc = (s: unknown) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]!));
-const yearOf = (d: string) => Number(d.slice(0, 4));
+// Dates are 'YYYY[-MM-DD]'; BC years are negative: '-0069' is 69 BC.
+const yearOf = (d: string) => { const m = /^(-?)(\d{4})/.exec(String(d)); return m ? (m[1] ? -1 : 1) * Number(m[2]) : NaN; };
+const fmtY = (y: number) => (y < 0 ? `${-y} BC` : String(y));
+const showYear = (s: unknown) => (/^-?\d{4}$/.test(String(s)) ? fmtY(yearOf(String(s))) : String(s ?? ''));
 
 export function placePanels(m: Museum, art: Art) {
   const used = new Set<number>(); const at: Record<number, string> = {};
@@ -40,12 +43,12 @@ export function museumHTML(id: string, name: string, years: string, m: Museum, a
   const events = m.timeline.map((e, i) => {
     const pic = panelAt[i];
     const cls = `ev ${e.turning ? 'turn' : ''} k-${esc(e.kind)}`;
-    const head = `<p class="ev-meta"><b>${yearOf(e.date)}</b>${e.age != null ? ` · age ${e.age}` : ''} · ${esc(e.place)}</p><h3>${esc(e.title)}</h3><p>${esc(e.text)} ${cite(e.sources)}</p>`;
-    if (pic && e.turning) return `<article class="${cls} splash-panel" data-year="${yearOf(e.date)}"><div class="sp-img"><img src="${img(pic)}" alt="" loading="lazy" decoding="async"></div><div class="sp-text"><span class="badge">Turning point</span>${head}</div></article>`;
-    return `<article class="${cls}${pic ? ' has-img' : ''}" data-year="${yearOf(e.date)}">${pic ? `<figure class="ev-img"><img src="${img(pic)}" alt="" loading="lazy" decoding="async"></figure>` : ''}<div class="ev-body">${e.turning ? '<span class="badge">Turning point</span>' : ''}${head}</div></article>`;
+    const head = `<p class="ev-meta"><b>${fmtY(yearOf(e.date))}</b>${e.age != null ? ` · age ${e.age}` : ''} · ${esc(e.place)}</p><h3>${esc(e.title)}</h3><p>${esc(e.text)} ${cite(e.sources)}</p>`;
+    if (pic && e.turning) return `<article class="${cls} splash-panel" data-year="${fmtY(yearOf(e.date))}"><div class="sp-img"><img src="${img(pic)}" alt="" loading="lazy" decoding="async"></div><div class="sp-text"><span class="badge">Turning point</span>${head}</div></article>`;
+    return `<article class="${cls}${pic ? ' has-img' : ''}" data-year="${fmtY(yearOf(e.date))}">${pic ? `<figure class="ev-img"><img src="${img(pic)}" alt="" loading="lazy" decoding="async"></figure>` : ''}<div class="ev-body">${e.turning ? '<span class="badge">Turning point</span>' : ''}${head}</div></article>`;
   }).join('');
 
-  const works = m.works.map((w) => `<article class="work rv"><p class="ev-meta"><b>${esc(w.year)}</b> · ${esc(w.type)}</p><h3>${w.url ? `<a href="${esc(w.url)}" target="_blank" rel="noopener">${esc(w.title)}</a>` : esc(w.title)}</h3><p>${esc(w.text)} ${cite(w.sources)}</p></article>`).join('');
+  const works = m.works.map((w) => `<article class="work rv"><p class="ev-meta"><b>${esc(showYear(w.year))}</b> · ${esc(w.type)}</p><h3>${w.url ? `<a href="${esc(w.url)}" target="_blank" rel="noopener">${esc(w.title)}</a>` : esc(w.title)}</h3><p>${esc(w.text)} ${cite(w.sources)}</p></article>`).join('');
 
   let patents = '';
   if (m.patents?.length) {
@@ -68,7 +71,7 @@ export function museumHTML(id: string, name: string, years: string, m: Museum, a
     </section>`;
   }
 
-  const books = m.books.map((b) => `<li class="book rv"><p class="ev-meta">${b.kind === 'by-him' || b.kind === 'by-her' || b.kind === 'by-them' ? 'Their own words' : 'Biography'} · ${esc(b.year)}</p><h3>${esc(b.title)}</h3><p class="muted">${esc(b.author)}</p><p>${esc(b.note)}</p><p class="row">${b.free ? `<a class="btn btn-gold sm" href="${esc(b.free)}" target="_blank" rel="noopener">Read free</a>` : ''}<a class="btn btn-ghost sm" href="https://bookshop.org/search?keywords=${encodeURIComponent(b.title + ' ' + b.author)}" target="_blank" rel="noopener sponsored">Find a copy</a></p></li>`).join('');
+  const books = m.books.map((b) => `<li class="book rv"><p class="ev-meta">${b.kind === 'by-him' || b.kind === 'by-her' || b.kind === 'by-them' ? 'Their own words' : 'Biography'} · ${esc(showYear(b.year))}</p><h3>${esc(b.title)}</h3><p class="muted">${esc(b.author)}</p><p>${esc(b.note)}</p><p class="row">${b.free ? `<a class="btn btn-gold sm" href="${esc(b.free)}" target="_blank" rel="noopener">Read free</a>` : ''}<a class="btn btn-ghost sm" href="https://bookshop.org/search?keywords=${encodeURIComponent(b.title + ' ' + b.author)}" target="_blank" rel="noopener sponsored">Find a copy</a></p></li>`).join('');
   const res = m.resources.map((r) => `<li><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.label)}</a><span class="muted"> · ${esc(r.what)}</span></li>`).join('');
 
   return {
@@ -81,7 +84,7 @@ export function museumHTML(id: string, name: string, years: string, m: Museum, a
         <p class="m-scroll">Scroll to walk through the life <span aria-hidden="true">&darr;</span></p>
       </div>
     </section>
-    <div class="m-bar" aria-hidden="true"><span class="m-year">${first}</span><span class="m-track"><span class="m-fill"></span></span><span class="m-end">${last}</span></div>`,
+    <div class="m-bar" aria-hidden="true"><span class="m-year">${fmtY(first)}</span><span class="m-track"><span class="m-fill"></span></span><span class="m-end">${fmtY(last)}</span></div>`,
     timeline: `<section class="wrap m-life" id="life"><h2 class="sec">A life, ${esc(life)}</h2><p class="muted small">${esc(art.style)}</p><div class="spine">${events}</div></section>`,
     works: `<section class="wrap band" id="works"><h2 class="sec">The life's work</h2><div class="works">${works}</div></section>`,
     patents,
