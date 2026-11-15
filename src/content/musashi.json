@@ -1,0 +1,96 @@
+{
+  "id": "musashi",
+  "name": "Miyamoto Musashi",
+  "years": "c. 1584 - 1645",
+  "title": "The Master",
+  "tagline": "He gave his whole life to one craft, then wrote down how, so others could learn.",
+  "sources": {
+    "w-musashi": { "label": "Miyamoto Musashi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Miyamoto_Musashi" },
+    "w-fiverings": { "label": "The Book of Five Rings (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Book_of_Five_Rings" },
+    "w-dokkodo": { "label": "Dokkodo (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Dokk%C5%8Dd%C5%8D" },
+    "hyoho-dokkodo": { "label": "Dokkodo, tr. Hyakutake-Watkin (hyoho.com)", "url": "https://www.hyoho.com/Hyoho6.html" }
+  },
+  "story": [
+    {
+      "scene": "boy",
+      "title": "A boy and a duel",
+      "text": "Musashi was born in Japan around 1584. At about thirteen he fought his first duel, against a trained swordsman named Arima Kihei, and won. Accounts differ on his exact age.",
+      "sources": ["w-musashi"]
+    },
+    {
+      "scene": "road",
+      "title": "The long road",
+      "text": "He spent years travelling and testing himself against others. Accounts credit him with around sixty duels without a defeat.",
+      "sources": ["w-musashi"]
+    },
+    {
+      "scene": "island",
+      "title": "The island",
+      "text": "In 1612 he faced the famous swordsman Sasaki Kojiro on Ganryu Island. Tradition says he carved a wooden sword from a boat oar on the way there. Historians disagree on how the duel really went.",
+      "sources": ["w-musashi"]
+    },
+    {
+      "scene": "swords",
+      "title": "Two swords as one",
+      "text": "He created his own style, using the long and the short sword together. It is still taught today as Niten Ichi-ryu.",
+      "sources": ["w-musashi"]
+    },
+    {
+      "scene": "brush",
+      "title": "The brush",
+      "text": "The swordsman was also an ink painter and calligrapher. Works such as Shrike Perched on a Withered Branch are attributed to him.",
+      "sources": ["w-musashi"]
+    },
+    {
+      "scene": "cave",
+      "title": "The cave",
+      "text": "In 1643 he withdrew to the Reigando cave near Kumamoto and wrote The Book of Five Rings, finished in 1645. About a week before he died, he wrote the Dokkodo: 21 short precepts for life.",
+      "sources": ["w-musashi", "w-fiverings", "w-dokkodo"]
+    }
+  ],
+  "principles": [
+    {
+      "title": "Build on solid ground",
+      "idea": "The Earth book compares strategy to building a house: master the basics and the practical principles first, and everything else stands on them.",
+      "quote": { "text": "Know the smallest things and the biggest things.", "credit": "The Book of Five Rings, Earth book, tr. Victor Harris (1974)" },
+      "practice": "Pick one skill you care about. Write down its three basics and practise one of them for 15 minutes.",
+      "sources": ["w-fiverings"]
+    },
+    {
+      "title": "Be like water",
+      "idea": "The Water book is about flexibility: a balanced body and mind that can adapt to whatever comes, instead of freezing in one fixed stance.",
+      "practice": "When something goes off-plan today, don't fight it. Write one line on how you adapted.",
+      "sources": ["w-fiverings"]
+    },
+    {
+      "title": "Master your timing",
+      "idea": "The Fire book teaches timing and rhythm: read the situation, choose your position, and act before the moment passes.",
+      "practice": "Do your hardest task at the hour you think most clearly, before anything else can take that time.",
+      "sources": ["w-fiverings"]
+    },
+    {
+      "title": "Learn other ways",
+      "idea": "In the Wind book Musashi studies rival schools, arguing that you must understand another person's way to master your own.",
+      "practice": "Spend 20 minutes learning how someone in a completely different field solves the problem you are working on.",
+      "sources": ["w-fiverings"]
+    },
+    {
+      "title": "Don't chase an easy life",
+      "idea": "Among the Dokkodo precepts he wrote at the end of his life is a warning against seeking comfort for its own sake.",
+      "quote": { "text": "Don't try and look for an easy life.", "credit": "Dokkodo, tr. Hyakutake-Watkin (1992), hyoho.com" },
+      "practice": "Once today, when there is an easy option and a better option, choose the better one.",
+      "sources": ["w-dokkodo", "hyoho-dokkodo"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Solid ground", "action": "Pick one skill. List its three basics. Practise one for 15 minutes." },
+    { "day": 2, "title": "Like water", "action": "When something goes off-plan, adapt instead of complaining. Write one line about how." },
+    { "day": 3, "title": "Timing", "action": "Do your hardest task at your sharpest hour, before email or social media." },
+    { "day": 4, "title": "Other ways", "action": "Spend 20 minutes learning how another field solves your problem." },
+    { "day": 5, "title": "The harder path", "action": "Choose the better option over the easy one, once." },
+    { "day": 6, "title": "No regrets", "action": "Write down one past mistake and the lesson in it. Then let it go.", "sources": ["w-dokkodo", "hyoho-dokkodo"] },
+    { "day": 7, "title": "Your own rule", "action": "Repeat day 1's practice and notice what improved. Write your own rule for life in one line." }
+  ],
+  "reflect": "Which of the five principles would change the most in your life if you practised it every day for a year?",
+  "keepsake": "Musashi Builder Collectible"
+}

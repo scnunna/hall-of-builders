@@ -1,0 +1,20 @@
+﻿{
+  "name": "hall-of-builders",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Hall of Builders: learn how great builders thought, then practise it. A standalone NAIC brand.",
+  "scripts": {
+    "dev": "vite",
+    "check": "node scripts/check-content.mjs",
+    "build": "node scripts/check-content.mjs && tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "sync:ncg": "node scripts/sync-ncg.mjs",
+    "test": "node --test \"tests/*.test.mjs\""
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}
+
