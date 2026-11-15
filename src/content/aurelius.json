@@ -1,0 +1,104 @@
+{
+  "id": "aurelius",
+  "name": "Marcus Aurelius",
+  "years": "121 - 180",
+  "title": "The Steady Mind",
+  "tagline": "He ruled an empire through war and plague, and each night wrote notes to himself on how to stay calm and do his duty.",
+  "sources": {
+    "w-aurelius": { "label": "Marcus Aurelius (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Marcus_Aurelius" },
+    "w-meditations": { "label": "Meditations (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Meditations" },
+    "long-thoughts": { "label": "Thoughts of Marcus Aurelius Antoninus, tr. George Long (Project Gutenberg #15877)", "url": "https://www.gutenberg.org/ebooks/15877" }
+  },
+  "story": [
+    {
+      "scene": "a1",
+      "title": "The student",
+      "text": "Marcus was born in Rome on 26 April 121. He studied Greek and Latin with tutors such as Herodes Atticus and Fronto. His philosophy teacher Rusticus had the strongest influence on him, and shared with him the discourses of the Stoic teacher Epictetus from his own collection.",
+      "art": "A boy at a low table with scrolls and a stylus, an older teacher standing beside him.",
+      "sources": ["w-aurelius", "long-thoughts"]
+    },
+    {
+      "scene": "a2",
+      "title": "Chosen to lead",
+      "text": "In 138 the emperor Hadrian chose Antoninus Pius as his heir. In turn, Antoninus adopted Marcus and Lucius, the son of Hadrian's earlier heir. Marcus began training for a life of public duty.",
+      "art": "Two robed figures on palace steps, one resting a hand on a young man's shoulder.",
+      "sources": ["w-aurelius"]
+    },
+    {
+      "scene": "a3",
+      "title": "Two emperors",
+      "text": "When Antoninus died in 161, Marcus took the throne alongside his adoptive brother Lucius Verus. It was the first time Rome was ruled by two emperors. Lucius led the war against Parthia while Marcus stayed in Rome. Lucius died in 169.",
+      "art": "Two laurel wreaths side by side above a simple outline of Roman columns.",
+      "sources": ["w-aurelius"]
+    },
+    {
+      "scene": "a4",
+      "title": "The northern frontier",
+      "text": "Hard years followed. The Antonine Plague broke out in 165 or 166. From 168 Rome fought invaders from the north, and Marcus defeated the Marcomanni, Quadi and Iazyges in the Marcomannic Wars.",
+      "art": "A line of tents beside a wide river, with bare trees and low hills beyond.",
+      "sources": ["w-aurelius"]
+    },
+    {
+      "scene": "a5",
+      "title": "Notes to himself",
+      "text": "While on campaign between 170 and 180, Marcus wrote the Meditations in Greek as a guide for himself. Some parts are marked with where he wrote them, such as among the Quadi at the Granua, and in Carnuntum. It is unlikely he ever meant them to be published.",
+      "art": "A single oil lamp lighting an open notebook on a camp table inside a tent.",
+      "sources": ["w-aurelius", "w-meditations", "long-thoughts"]
+    },
+    {
+      "scene": "a6",
+      "title": "The book that lasted",
+      "text": "Marcus died on 17 March 180. Sources disagree on where: Vindobona or Sirmium. He was the last of the rulers later called the Five Good Emperors. His private notes became one of the most important sources for understanding ancient Stoic philosophy, and are still read today.",
+      "art": "An old bound book lying open, with a horse and rider statue drawn faintly behind it.",
+      "sources": ["w-aurelius", "w-meditations"]
+    }
+  ],
+  "principles": [
+    {
+      "title": "Your view is in your hands",
+      "idea": "The Meditations separates outside things, like fame and wealth, from what is in your control. Often what hurts is not the event but the judgment you make about it, and that judgment you can change.",
+      "quote": { "text": "If thou art pained by any external thing, it is not this thing that disturbs thee, but thy own judgment about it.", "credit": "Meditations 8.47, tr. George Long (1862)" },
+      "practice": "When something upsets you today, write two columns: what happened, and the story you told yourself about it. Rewrite the story in one calmer line.",
+      "sources": ["w-meditations", "long-thoughts"]
+    },
+    {
+      "title": "The obstacle becomes the way",
+      "idea": "Other people and events can block your plans, but they cannot block your mind. Marcus wrote that the mind can turn every hindrance into something that helps it act.",
+      "quote": { "text": "...that which is an obstacle on the road helps us on this road.", "credit": "Meditations 5.20, tr. George Long (1862)" },
+      "practice": "Pick one thing blocking you right now. Write one way it could teach you a skill or push you to a better plan.",
+      "sources": ["long-thoughts"]
+    },
+    {
+      "title": "Rise to the work",
+      "idea": "On mornings he did not want to get up, Marcus reminded himself that he was made for work, not just comfort. He pointed to the plants, birds, ants and bees, each doing its part.",
+      "quote": { "text": "In the morning when thou risest unwillingly, let this thought be present,--I am rising to the work of a human being.", "credit": "Meditations 5.1, tr. George Long (1862)" },
+      "practice": "Before you check your phone tomorrow, say what your one main job for the day is. Start it first.",
+      "sources": ["long-thoughts"]
+    },
+    {
+      "title": "Expect difficult people",
+      "idea": "Marcus began his day by expecting to meet rude or unkind people. He decided they could not truly harm him, and that he should not be angry, because people are made to work together.",
+      "quote": { "text": "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial.", "credit": "Meditations 2.1, tr. George Long (1862)" },
+      "practice": "Think of one person who is hard to deal with. Decide in advance how you will stay calm and kind the next time you meet them.",
+      "sources": ["long-thoughts"]
+    },
+    {
+      "title": "Everything changes",
+      "idea": "Marcus often reminded himself how fast things change and pass away. Seeing this keeps small troubles in proportion and helps you focus on what matters now.",
+      "quote": { "text": "The universe is transformation: life is opinion.", "credit": "Meditations 4.3, tr. George Long (1862)" },
+      "practice": "Take one worry and ask: will this matter in a year? Write down the answer, then spend your energy on what will.",
+      "sources": ["w-meditations", "long-thoughts"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Rise to the work", "action": "Before checking your phone, name your one main job for today. Start it first." },
+    { "day": 2, "title": "Expect it", "action": "Each morning, picture one hard moment the day may bring. Decide now how you will meet it calmly." },
+    { "day": 3, "title": "Two columns", "action": "When something upsets you, write what happened and the story you told about it. Rewrite the story." },
+    { "day": 4, "title": "The obstacle", "action": "Pick one thing in your way. Write one way it could make you better or point to a better plan." },
+    { "day": 5, "title": "In a year", "action": "Take your biggest worry and ask if it will matter in a year. Act on what will." },
+    { "day": 6, "title": "Notes to yourself", "action": "Like Marcus, write five lines to yourself tonight about what went well and what you will do better.", "sources": ["w-meditations"] },
+    { "day": 7, "title": "Your own rule", "action": "Read back your notes from the week. Write one rule for a steady mind in your own words." }
+  ],
+  "reflect": "What is one thing that upset you this week that was really about your judgment of it, not the event itself?",
+  "keepsake": "Marcus Aurelius Builder Collectible"
+}

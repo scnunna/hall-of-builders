@@ -7,7 +7,11 @@ import { questions, results, score, card, type BuilderId } from './quiz';
 
 type Source = { label: string; url: string };
 type Builder = typeof musashi;
-const builders: Record<string, Builder> = { musashi };
+// Every open wing's content file, loaded at build time.
+const files = import.meta.glob<Builder>('./content/*.json', { eager: true, import: 'default' });
+const builders: Record<string, Builder> = Object.fromEntries(
+  hall.wings.filter((w) => w.status === 'open' && files[`./content/${w.id}.json`]).map((w) => [w.id, files[`./content/${w.id}.json`]]),
+);
 const main = document.getElementById('main')!;
 
 const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]!));
@@ -22,7 +26,7 @@ const cites = (b: Builder, ids: string[] = []) => ids.length
 function lobby() {
   const doors = hall.wings.map((w) => `
     <article class="door ${w.status}">
-      <div class="door-arch" aria-hidden="true">${w.status === 'open' ? scene('hero') : '<span class="soon-mark">Opening soon</span>'}</div>
+      <div class="door-arch" aria-hidden="true">${w.status === 'open' ? scene(`hero-${w.id}`) : '<span class="soon-mark">Opening soon</span>'}</div>
       <p class="eyebrow">${esc(w.years)}</p>
       <h3>${esc(w.name)}</h3>
       <p class="door-title">${esc(w.title)}</p>
@@ -63,9 +67,9 @@ function wing(b: Builder) {
   const reflection = store.get(`hob.reflect.${b.id}`) || '';
   return `
   <section class="hero wing-hero">
-    <div class="hero-art">${scene('hero')}</div>
+    <div class="hero-art">${scene(`hero-${b.id}`)}</div>
     <div>
-      <p class="eyebrow">Wing 01 · ${esc(b.years)}</p>
+      <p class="eyebrow">Wing ${String(hall.wings.findIndex((w) => w.id === b.id) + 1).padStart(2, '0')} · ${esc(b.years)}</p>
       <h1>${esc(b.name)}<br><em>${esc(b.title)}</em></h1>
       <p class="lead">${esc(b.tagline)}</p>
       <nav class="row" aria-label="In this wing"><a class="btn btn-gold" href="#story" data-jump>Story</a><a class="btn btn-ghost" href="#principles" data-jump>5 principles</a><a class="btn btn-ghost" href="#challenge" data-jump>7-day challenge</a></nav>
@@ -75,7 +79,7 @@ function wing(b: Builder) {
   <section class="wrap band" id="principles"><h2 class="sec">Five principles</h2><div class="principles">${principles}</div></section>
   <section class="wrap" id="challenge">
     <h2 class="sec">The free 7-day challenge</h2>
-    <p>One small action a day. We email you each day's step, and you can stop any time.</p>
+    <p>One small action a day. Every step is below, so you can start today. Sign up and we will also email you each day's step as soon as challenge emails launch; you can stop any time.</p>
     <ol class="days">${days}</ol>
     ${leadForm({ id: 'ch', kind: 'newsletter', topic: `hall-of-builders:${b.id}:7-day-challenge`, tags: ['hall-of-builders', b.id, 'challenge'], button: 'Start the challenge', note: 'Email me the 7-day challenge and Hall of Builders updates.' })}
   </section>
@@ -91,7 +95,7 @@ function wing(b: Builder) {
     <p>A small ${esc(b.keepsake)} for your desk, to remind you of what you practised. Pre-orders are planned for Black Friday. Join the list to hear first.</p>
     ${leadForm({ id: 'ks', kind: 'waitlist', topic: `hall-of-builders:${b.id}:collectible`, tags: ['hall-of-builders', b.id, 'collectible'], button: 'Notify me', note: 'Email me when pre-orders open.' })}
   </section>
-  <section class="wrap sources"><h2 class="sec">Sources</h2><ul>${sources}</ul><p class="muted small">Dates and details for Musashi's life vary between accounts; we say so where they do.</p></section>`;
+  <section class="wrap sources"><h2 class="sec">Sources</h2><ul>${sources}</ul><p class="muted small">Where historical accounts disagree, we say so in the text.</p></section>`;
 }
 
 function quiz() {

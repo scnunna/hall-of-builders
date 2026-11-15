@@ -60,6 +60,8 @@ main:focus { outline: none; }
 .scene.in .pop { opacity: 1; transform: none; }
 .scene .glow { animation: glow 3s ease-in-out infinite alternate; }
 @keyframes glow { to { opacity: .9; transform: scale(1.15); } }
+.scene.in .spin { stroke-dashoffset: 0; animation: spin 9s linear infinite; transform-box: fill-box; transform-origin: center; }
+@keyframes spin { to { transform: rotate(360deg); } }
 
 .panels { display: grid; gap: 28px; margin-top: 24px; }
 .panel { margin: 0; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 24px; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 22px; }
@@ -113,5 +115,5 @@ form.done .lead-row, form.done .consent { display: none; }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   .reveal, .scene .draw, .scene .draw path, .scene .draw circle, .scene .pop { transition: none; opacity: 1; transform: none; stroke-dashoffset: 0; }
-  .scene .glow { animation: none; }
+  .scene .glow, .scene.in .spin { animation: none; }
 }

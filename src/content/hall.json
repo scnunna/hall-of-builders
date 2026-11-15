@@ -1,8 +1,8 @@
 {
   "wings": [
     { "id": "musashi", "name": "Miyamoto Musashi", "title": "The Master", "years": "c. 1584 - 1645", "status": "open", "hook": "Swordsman, painter and writer of The Book of Five Rings." },
-    { "id": "aurelius", "name": "Marcus Aurelius", "title": "The Steady Mind", "years": "121 - 180", "status": "soon", "hook": "The Roman emperor whose private notes became Meditations." },
-    { "id": "tesla", "name": "Nikola Tesla", "title": "The Inventor", "years": "1856 - 1943", "status": "soon", "hook": "The inventor known for his work on alternating current." }
+    { "id": "aurelius", "name": "Marcus Aurelius", "title": "The Steady Mind", "years": "121 - 180", "status": "open", "hook": "The Roman emperor whose private notes became Meditations." },
+    { "id": "tesla", "name": "Nikola Tesla", "title": "The Inventor", "years": "1856 - 1943", "status": "open", "hook": "The inventor known for his work on alternating current." }
   ],
   "candidates": [
     "Leonardo da Vinci", "Benjamin Franklin", "Sun Tzu", "Alexander the Great", "Cleopatra",

@@ -5,8 +5,16 @@ import { checkBuilder } from '../scripts/check-content.mjs';
 
 const musashi = JSON.parse(fs.readFileSync(new URL('../src/content/musashi.json', import.meta.url), 'utf8'));
 
-test('the Musashi wing passes the content gate', () => {
-  assert.deepEqual(checkBuilder(musashi), []);
+for (const id of ['musashi', 'aurelius', 'tesla']) {
+  test(`the ${id} wing passes the content gate`, () => {
+    const b = JSON.parse(fs.readFileSync(new URL(`../src/content/${id}.json`, import.meta.url), 'utf8'));
+    assert.deepEqual(checkBuilder(b), []);
+  });
+}
+
+test('no wing mentions the car company', () => {
+  const t = fs.readFileSync(new URL('../src/content/tesla.json', import.meta.url), 'utf8');
+  assert.doesNotMatch(t, /Tesla,? Inc|Tesla Motors|electric car/i);
 });
 
 test('an unsourced story panel is refused', () => {

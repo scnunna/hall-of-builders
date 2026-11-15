@@ -1,0 +1,105 @@
+{
+  "id": "tesla",
+  "name": "Nikola Tesla",
+  "years": "1856 - 1943",
+  "title": "The Inventor",
+  "tagline": "He built machines in his mind first, then gave the world a new way to use electricity.",
+  "sources": {
+    "w-tesla": { "label": "Nikola Tesla (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Nikola_Tesla" },
+    "w-wardenclyffe": { "label": "Wardenclyffe Tower (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Wardenclyffe_Tower" },
+    "w-teslaunit": { "label": "Tesla (unit) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Tesla_(unit)" },
+    "ws-myinventions": { "label": "My Inventions, Nikola Tesla (1919), full text (Wikisource)", "url": "https://en.wikisource.org/wiki/My_Inventions" }
+  },
+  "story": [
+    {
+      "scene": "t1",
+      "title": "A boy who loved books",
+      "art": "A small boy reading by a homemade candle, the keyhole of the door stuffed with cloth.",
+      "text": "Tesla was born on 10 July 1856 in Smiljan, then part of the Austrian Empire and now in Croatia. In his autobiography he says he loved books so much that he made his own candles to read at night.",
+      "sources": ["w-tesla", "ws-myinventions"]
+    },
+    {
+      "scene": "tpark",
+      "title": "A motor without sparks",
+      "art": "Two young men in a park at sunset, one drawing a circle of arrows in the sand with a stick.",
+      "text": "As a student in Graz he watched a motor spark badly and wondered if it could run without brushes. His professor called it impossible. Tesla said the answer came to him later on a walk in a Budapest park, where he drew it in the sand. He dated the idea to 1882, but that date is his own account.",
+      "sources": ["w-tesla", "ws-myinventions"]
+    },
+    {
+      "scene": "t2",
+      "title": "New York and Edison",
+      "art": "A steamship arriving at a busy harbour, a young man with one small suitcase on the deck.",
+      "text": "In June 1884 Tesla moved to the United States and worked at Edison's Machine Works in New York. He stayed about six months. He later wrote that a promised 50,000 dollar bonus turned out to be a joke. Later retellings put the promise on Edison himself, and historians doubt the amount.",
+      "sources": ["w-tesla", "ws-myinventions"]
+    },
+    {
+      "scene": "t3",
+      "title": "The AC motor",
+      "art": "A simple motor with a ring of coils around a spinning rotor, curved lines showing a turning field.",
+      "text": "With his own company, Tesla built an induction motor that ran on alternating current (AC) and needed no brushes. It was patented in May 1888 and he showed it to engineers that same month. In July 1888 George Westinghouse licensed his motor and polyphase AC patents.",
+      "sources": ["w-tesla"]
+    },
+    {
+      "scene": "t4",
+      "title": "Lighting a fair, powering Niagara",
+      "art": "A great hall full of glowing lamps on one side and the Niagara waterfall with a power house on the other.",
+      "text": "In 1893 Westinghouse lit the World's Columbian Exposition in Chicago with AC power, and Tesla showed his wireless lighting in a darkened room. Asked for advice on Niagara Falls, he recommended AC, and Westinghouse won the contract to build the generating system there.",
+      "sources": ["w-tesla"]
+    },
+    {
+      "scene": "t5",
+      "title": "A tower and a lasting name",
+      "art": "A tall unfinished tower with a domed top beside a brick lab, and a small letter T floating in the sky above.",
+      "text": "In 1899 he made huge artificial lightning in a lab at Colorado Springs. He then began Wardenclyffe Tower on Long Island to send messages and power without wires. The money ran out and the tower was never finished. It was torn down in 1917, not by the government as rumour said. Some of his ideas, like sending power through the Earth, were wrong. Yet he earned around 300 patents, and in 1960 the SI unit of magnetic flux density was named the tesla in his honour.",
+      "sources": ["w-tesla", "w-wardenclyffe", "w-teslaunit", "ws-myinventions"]
+    }
+  ],
+  "principles": [
+    {
+      "title": "Build it in your mind first",
+      "idea": "Tesla wrote that he did not rush to build. He would picture a machine, change it and test it in his imagination, and only build once he could see no fault.",
+      "quote": { "text": "When I get an idea I start at once building it up in my imagination.", "credit": "My Inventions (1919), ch. 1" },
+      "practice": "Before you start your next project, spend 10 minutes picturing it working. Write down three problems you spot.",
+      "sources": ["ws-myinventions"]
+    },
+    {
+      "title": "Notice what is broken",
+      "idea": "His big invention began with a small annoyance: a motor that sparked. Instead of accepting it, he asked whether it had to be that way.",
+      "quote": { "text": "I observed that it might be possible to operate a motor without these appliances.", "credit": "My Inventions (1919), ch. 3" },
+      "practice": "Write down one thing you use every day that annoys you. Then write one way it could work without that problem.",
+      "sources": ["ws-myinventions", "w-tesla"]
+    },
+    {
+      "title": "Keep going when told it can't be done",
+      "idea": "His professor said a motor without brushes was impossible. Tesla admitted he doubted himself for a while, then kept working on the problem for years until he solved it.",
+      "quote": { "text": "...soon became convinced I was right and undertook the task with all the fire and boundless confidence of youth.", "credit": "My Inventions (1919), ch. 3" },
+      "practice": "Pick one problem you gave up on. Take a walk, then give it 20 fresh minutes.",
+      "sources": ["ws-myinventions", "w-tesla"]
+    },
+    {
+      "title": "Feed your mind widely",
+      "idea": "Tesla read everything he could, from science to novels. When he met Edison he first worried that all that reading was wasted, then decided it was the best thing he could have done.",
+      "quote": { "text": "Of all things I liked books the best.", "credit": "My Inventions (1919), ch. 1" },
+      "practice": "Read for 20 minutes about a subject far from your own work or studies.",
+      "sources": ["ws-myinventions"]
+    },
+    {
+      "title": "Train your will in small steps",
+      "idea": "As a boy, Tesla said, his resolutions at first faded like snow in April. He kept practising self-control until it felt natural.",
+      "quote": { "text": "In the course of time this vigorous mental exercise became second nature.", "credit": "My Inventions (1919), ch. 1" },
+      "practice": "Make one small promise to yourself today, such as ten minutes of practice, and keep it.",
+      "sources": ["ws-myinventions"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Picture it", "action": "Before building or writing anything, picture it working for 10 minutes. List three flaws you spot." },
+    { "day": 2, "title": "Spot the spark", "action": "Write down one everyday thing that annoys you and one idea to fix it." },
+    { "day": 3, "title": "Try again", "action": "Go back to a problem you gave up on. Take a walk, then give it 20 fresh minutes." },
+    { "day": 4, "title": "Read wide", "action": "Read for 20 minutes about a subject far from your own." },
+    { "day": 5, "title": "Small promise", "action": "Make one small promise to yourself and keep it." },
+    { "day": 6, "title": "Learn from the tower", "action": "Think of one project that did not work out. Write one line on what fell short and one thing you would do differently.", "sources": ["w-wardenclyffe"] },
+    { "day": 7, "title": "Build it", "action": "Repeat day 1 with your best idea from this week, then build or sketch the first small piece of it." }
+  ],
+  "reflect": "What idea have you been carrying in your head that you could start building this week?",
+  "keepsake": "Nikola Tesla Builder Collectible"
+}
