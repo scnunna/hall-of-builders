@@ -4,13 +4,21 @@ import musashi from './content/musashi.json';
 import { scene } from './art';
 import { leadForm, wireLeadForms } from './lead';
 import { questions, results, score, card, type BuilderId } from './quiz';
+import { museumHTML, initMuseum, type Museum, type Art } from './museum';
+import { legalPages, legalNav } from './legal';
 
 type Source = { label: string; url: string };
 type Builder = typeof musashi;
-// Every open wing's content file, loaded at build time.
+// Every open Section's content file, loaded at build time. Optional museum (<id>.museum.json) and art (<id>.art.json) upgrade a Section.
 const files = import.meta.glob<Builder>('./content/*.json', { eager: true, import: 'default' });
+const museums = import.meta.glob<Museum>('./content/*.museum.json', { eager: true, import: 'default' });
+const arts = import.meta.glob<Art>('./content/*.art.json', { eager: true, import: 'default' });
+// A Section goes live on its publishAt date (YYYY-MM-DD, Eastern time). The nightly build at midnight ET picks it up.
+const today = new Date(Date.now() - 5 * 3600e3).toISOString().slice(0, 10);
+const live = (w: { status: string; publishAt?: string }) => w.status === 'open' && (!w.publishAt || w.publishAt <= today);
+hall.wings = hall.wings.filter((w) => w.status !== 'open' || live(w));
 const builders: Record<string, Builder> = Object.fromEntries(
-  hall.wings.filter((w) => w.status === 'open' && files[`./content/${w.id}.json`]).map((w) => [w.id, files[`./content/${w.id}.json`]]),
+  hall.wings.filter((w) => live(w) && files[`./content/${w.id}.json`]).map((w) => [w.id, files[`./content/${w.id}.json`]]),
 );
 const main = document.getElementById('main')!;
 
@@ -65,6 +73,38 @@ function wing(b: Builder) {
   const days = b.challenge.map((d) => `<li class="reveal"><span class="day">Day ${d.day}</span><b>${esc(d.title)}.</b> ${esc(d.action)}</li>`).join('');
   const sources = Object.values(b.sources as Record<string, Source>).map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join('');
   const reflection = store.get(`hob.reflect.${b.id}`) || '';
+  const tail = `
+  <section class="wrap band" id="principles"><h2 class="sec">How ${esc(b.name.split(' ').pop()!)} thought: five principles</h2><div class="principles">${principles}</div></section>
+  <section class="wrap" id="challenge">
+    <h2 class="sec">The free 7-day challenge</h2>
+    <p>One small action a day. Every step is below, so you can start today. Join the list and we will email you each step as soon as challenge emails launch; you can stop any time.</p>
+    <ol class="days">${days}</ol>
+    ${leadForm({ id: 'ch', kind: 'newsletter', topic: `hall-of-builders:${b.id}:7-day-challenge`, tags: ['hall-of-builders', b.id, 'challenge'], button: 'Join the challenge', note: 'Email me the 7-day challenge and Hall of Builders updates.' })}
+  </section>
+  <section class="wrap band" id="reflect">
+    <h2 class="sec">Reflect</h2>
+    <p>${esc(b.reflect)}</p>
+    <label class="sr" for="reflect">Your reflection</label>
+    <textarea id="reflect" rows="4" placeholder="Write a few lines. This stays on your device.">${esc(reflection)}</textarea>
+    <p class="muted small">Saved only in this browser. We never see it.</p>
+  </section>`;
+  const keepsake = `
+  <section class="wrap keepsake" id="keepsake">
+    <h2 class="sec">Keep it close</h2>
+    <p>A small ${esc(b.keepsake)} for your desk, to remind you of what you practised. Join the list to hear first when it is available.</p>
+    ${leadForm({ id: 'ks', kind: 'waitlist', topic: `hall-of-builders:${b.id}:collectible`, tags: ['hall-of-builders', b.id, 'collectible'], button: 'Notify me', note: 'Email me when it is available.' })}
+  </section>`;
+  const m = museums[`./content/${b.id}.museum.json`]; const art = arts[`./content/${b.id}.art.json`];
+  if (m && art) {
+    const all = { ...(b.sources as Record<string, Source>), ...m.sources };
+    const x = museumHTML(b.id, b.name, m, art, all);
+    const srcList = Object.values(all).map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join('');
+    return `${x.splash}
+    <nav class="m-nav" aria-label="In this museum"><a href="#life" data-jump>Life</a><a href="#works" data-jump>Work</a>${m.patents?.length ? '<a href="#patents" data-jump>Patents</a>' : ''}<a href="#principles" data-jump>Principles</a><a href="#challenge" data-jump>Challenge</a><a href="#books" data-jump>Books</a></nav>
+    <section class="wrap intro"><p class="lead">${esc(b.tagline)}</p></section>
+    ${x.timeline}${x.works}${x.patents}${tail}${x.books}${x.resources}${keepsake}
+    <section class="wrap sources"><h2 class="sec">All sources</h2><ul>${srcList}</ul><p class="muted small">Where historical accounts disagree, we say so in the text. Found an error? <a href="#/legal/editorial">Corrections policy</a>.</p></section>`;
+  }
   return `
   <section class="hero wing-hero">
     <div class="hero-art">${scene(`hero-${b.id}`)}</div>
@@ -76,25 +116,7 @@ function wing(b: Builder) {
     </div>
   </section>
   <section class="wrap" id="story"><h2 class="sec">The story</h2><p class="muted">Six moments, about 90 seconds to read. Placeholder ink art; illustrated panels are coming.</p><div class="panels">${story}</div></section>
-  <section class="wrap band" id="principles"><h2 class="sec">Five principles</h2><div class="principles">${principles}</div></section>
-  <section class="wrap" id="challenge">
-    <h2 class="sec">The free 7-day challenge</h2>
-    <p>One small action a day. Every step is below, so you can start today. Sign up and we will also email you each day's step as soon as challenge emails launch; you can stop any time.</p>
-    <ol class="days">${days}</ol>
-    ${leadForm({ id: 'ch', kind: 'newsletter', topic: `hall-of-builders:${b.id}:7-day-challenge`, tags: ['hall-of-builders', b.id, 'challenge'], button: 'Start the challenge', note: 'Email me the 7-day challenge and Hall of Builders updates.' })}
-  </section>
-  <section class="wrap band" id="reflect">
-    <h2 class="sec">Reflect</h2>
-    <p>${esc(b.reflect)}</p>
-    <label class="sr" for="reflect">Your reflection</label>
-    <textarea id="reflect" rows="4" placeholder="Write a few lines. This stays on your device.">${esc(reflection)}</textarea>
-    <p class="muted small">Saved only in this browser. We never see it.</p>
-  </section>
-  <section class="wrap keepsake" id="keepsake">
-    <h2 class="sec">Keep it close</h2>
-    <p>A small ${esc(b.keepsake)} for your desk, to remind you of what you practised. Pre-orders are planned for Black Friday. Join the list to hear first.</p>
-    ${leadForm({ id: 'ks', kind: 'waitlist', topic: `hall-of-builders:${b.id}:collectible`, tags: ['hall-of-builders', b.id, 'collectible'], button: 'Notify me', note: 'Email me when pre-orders open.' })}
-  </section>
+  ${tail}${keepsake}
   <section class="wrap sources"><h2 class="sec">Sources</h2><ul>${sources}</ul><p class="muted small">Where historical accounts disagree, we say so in the text.</p></section>`;
 }
 
@@ -176,18 +198,37 @@ function route() {
   if (m && builders[m[1]]) { main.innerHTML = wing(builders[m[1]]); document.title = `${builders[m[1]].name} | Hall of Builders`; }
   else if (h === '/quiz') { main.innerHTML = quiz(); document.title = 'Which Builder are you? | Hall of Builders'; }
   else if (h === '/vote') { main.innerHTML = vote(); document.title = 'Vote the Hall | Hall of Builders'; }
+  else if (h.startsWith('/legal/') && legalPages[h.slice(7)]) {
+    const p = legalPages[h.slice(7)];
+    main.innerHTML = `<section class="wrap legal"><p class="eyebrow">Legal</p><h1>${esc(p.title)}</h1>${p.body}${legalNav()}</section>`;
+    document.title = `${p.title} | Hall of Builders`;
+  }
   else if (h.startsWith('/')) { main.innerHTML = lobby(); document.title = 'Hall of Builders'; }
   else return; // in-page anchor like #story: let the browser scroll
   document.querySelectorAll('.top nav a').forEach((a) => a.toggleAttribute('aria-current', a.getAttribute('href') === '#' + h));
   window.scrollTo(0, 0);
   main.focus({ preventScroll: true });
   reveal(); wireLeadForms(main); wireQuiz(); wireVote();
+  if (main.querySelector('.m-splash')) initMuseum(main);
   main.querySelectorAll<HTMLAnchorElement>('[data-jump]').forEach((a) => a.addEventListener('click', (e) => {
     e.preventDefault(); document.querySelector(a.getAttribute('href')!)?.scrollIntoView({ behavior: 'smooth' });
   }));
   const ta = document.getElementById('reflect') as HTMLTextAreaElement | null;
   if (ta) ta.addEventListener('input', () => store.set(`hob.reflect.${h.split('/').pop()}`, ta.value));
 }
+
+// Light / dark switch (top right). The choice is saved on this device only.
+const themeBtn = document.getElementById('theme');
+const syncTheme = () => {
+  const t = document.documentElement.getAttribute('data-theme') || 'dark';
+  themeBtn?.setAttribute('aria-label', t === 'dark' ? 'Switch to light theme' : 'Switch to dark theme');
+  document.querySelector('meta[name=theme-color]')?.setAttribute('content', t === 'dark' ? '#14110d' : '#f7f2e8');
+};
+themeBtn?.addEventListener('click', () => {
+  const next = document.documentElement.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+  document.documentElement.setAttribute('data-theme', next); store.set('hob.theme', next); syncTheme();
+});
+syncTheme();
 
 addEventListener('hashchange', route);
 route();

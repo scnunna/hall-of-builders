@@ -1,0 +1,40 @@
+# Nightly release: at midnight Eastern, build the Hall and upload ONLY /NAIC/hallofbuilders/hall/.
+# Sections appear when their `publishAt` date (src/content/hall.json) arrives, so content is prepared and approved in weekly
+# batches and released one a day. No AI runs here. Needs repo secrets FTP_HOST, FTP_USER, FTP_PASSWORD (added by the owner).
+name: nightly-publish
+on:
+  schedule:
+    - cron: '0 5 * * *'   # 00:00 EST (01:00 during daylight time)
+  workflow_dispatch: {}
+concurrency: { group: hob-publish, cancel-in-progress: false }
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20, cache: npm }
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
+      - name: Check deploy secrets
+        id: s
+        env: { H: '${{ secrets.FTP_HOST }}' }
+        run: if [ -z "$H" ]; then echo "HOB_NO_SECRETS: add FTP_HOST/FTP_USER/FTP_PASSWORD in repo settings" ; echo "ok=false" >> $GITHUB_OUTPUT; else echo "ok=true" >> $GITHUB_OUTPUT; fi
+      - name: Upload the Hall only
+        if: steps.s.outputs.ok == 'true'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          security: loose
+          local-dir: ./dist/
+          server-dir: /NAIC/hallofbuilders/hall/
+          dangerous-clean-slate: false
+          timeout: 120000
+      - name: Smoke check
+        if: steps.s.outputs.ok == 'true'
+        run: curl -fsS https://nunnaconsulting.com/NAIC/hallofbuilders/hall/ | grep -q "Hall of Builders"

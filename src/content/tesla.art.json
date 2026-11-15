@@ -1,0 +1,17 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "11-colorado",
+ "panels": [
+  { "key": "01-smiljan", "year": "1856" },
+  { "key": "02-books", "year": "1862", "near": true },
+  { "key": "03-graz", "year": "1875", "near": true },
+  { "key": "04-budapest", "year": "1882" },
+  { "key": "05-newyork", "year": "1884" },
+  { "key": "07-acmotor", "year": "1888" },
+  { "key": "08-lecture", "year": "1891" },
+  { "key": "09-fair", "year": "1893" },
+  { "key": "10-niagara", "year": "1895", "near": true },
+  { "key": "11-colorado", "year": "1899" },
+  { "key": "12-wardenclyffe", "year": "1901", "near": true }
+ ]
+}

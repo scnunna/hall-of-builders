@@ -5,3 +5,6 @@ dist-email/
 !.env.example
 *.log
 .DS_Store
+art-src/
+e2e-report/
+test-results/

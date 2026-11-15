@@ -1,0 +1,1819 @@
+{
+  "sources": {
+    "w-tesla": {
+      "label": "Nikola Tesla (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    "w-wardenclyffe": {
+      "label": "Wardenclyffe Tower (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Wardenclyffe_Tower"
+    },
+    "ws-myinventions": {
+      "label": "My Inventions, Nikola Tesla (1919), full text (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/My_Inventions"
+    },
+    "w-patents": {
+      "label": "List of Nikola Tesla patents (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_Nikola_Tesla_patents"
+    },
+    "w-teslacoil": {
+      "label": "Tesla coil (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Tesla_coil"
+    },
+    "w-turbine": {
+      "label": "Tesla turbine (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Tesla_turbine"
+    },
+    "w-museum": {
+      "label": "Nikola Tesla Museum (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Nikola_Tesla_Museum"
+    },
+    "ws-author": {
+      "label": "Author: Nikola Tesla, list of works (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/Author:Nikola_Tesla"
+    },
+    "ws-newsystem": {
+      "label": "A New System of Alternate Current Motors and Transformers, 1888 (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/A_New_System_of_Alternating_Current_Motors_and_Transformers"
+    },
+    "ws-highpotential": {
+      "label": "Experiments with Alternate Currents of High Potential and High Frequency, 1892 (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/Experiments_with_Alternate_Currents_of_High_Potential_and_High_Frequency"
+    },
+    "ws-onlight": {
+      "label": "On Light and Other High Frequency Phenomena, 1893 (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/On_Light_and_Other_High_Frequency_Phenomena"
+    },
+    "ws-humanenergy": {
+      "label": "The Problem of Increasing Human Energy, 1900 (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/The_Problem_of_Increasing_Human_Energy"
+    },
+    "gut-experiments": {
+      "label": "Experiments with Alternate Currents of High Potential and High Frequency (Project Gutenberg #13476)",
+      "url": "https://www.gutenberg.org/ebooks/13476"
+    },
+    "gut-martin": {
+      "label": "The Inventions, Researches and Writings of Nikola Tesla, T. C. Martin, 1894 (Project Gutenberg #39272)",
+      "url": "https://www.gutenberg.org/ebooks/39272"
+    },
+    "ia-martin": {
+      "label": "The Inventions, Researches and Writings of Nikola Tesla, 1894 scan (Internet Archive)",
+      "url": "https://archive.org/details/inventionsresear00martiala"
+    },
+    "gp-381968": {
+      "label": "US 381,968 Electro-Magnetic Motor (Google Patents)",
+      "url": "https://patents.google.com/patent/US381968"
+    },
+    "museum-belgrade": {
+      "label": "Nikola Tesla Museum, Belgrade (official site)",
+      "url": "https://tesla-museum.org/en/"
+    },
+    "tscw": {
+      "label": "Tesla Science Center at Wardenclyffe (official site)",
+      "url": "https://teslasciencecenter.org/"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1856-07-10",
+      "age": 0,
+      "place": "Smiljan, Austrian Empire",
+      "title": "Born in Smiljan",
+      "text": "Nikola Tesla was born in Smiljan, in the Military Frontier of the Austrian Empire. The village is now in Croatia. He was the fourth of five children of a priest and a mother who made her own household tools.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1873",
+      "age": 17,
+      "place": "Smiljan, Austria-Hungary",
+      "title": "Nine months of illness",
+      "text": "He finished high school at 17, then caught cholera and was bedridden for nine months. His father, who had wanted him to become a priest, promised to send him to engineering school if he recovered.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1875",
+      "age": null,
+      "place": "Graz, Austria-Hungary",
+      "title": "Engineering school in Graz",
+      "text": "He enrolled at the Imperial-Royal Technical College in Graz on a scholarship. Watching a direct current machine spark at its brushes in class, he wondered if a motor could run without them. He left in December 1878 without a degree.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-tesla",
+        "ws-myinventions"
+      ]
+    },
+    {
+      "date": "1881",
+      "age": null,
+      "place": "Budapest, Austria-Hungary",
+      "title": "First job in electrical work",
+      "text": "He moved to Budapest to work for Tivadar Puskas on a new telephone exchange. He started as a draftsman at the Central Telegraph Office and became chief electrician when the exchange opened.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-tesla",
+        "ws-myinventions"
+      ]
+    },
+    {
+      "date": "1882",
+      "age": null,
+      "place": "Budapest, Austria-Hungary",
+      "title": "The rotating magnetic field",
+      "text": "Tesla said the idea of a rotating magnetic field came to him on a walk in a Budapest park, and that he drew the diagrams in the sand. This date and story come from his own later account.",
+      "turning": true,
+      "kind": "invention",
+      "sources": [
+        "w-tesla",
+        "ws-myinventions"
+      ]
+    },
+    {
+      "date": "1882",
+      "age": null,
+      "place": "Paris, France",
+      "title": "Working for Continental Edison",
+      "text": "Puskas found him a job with the Continental Edison Company near Paris, installing electric lighting. Managers soon had him designing improved dynamos and motors.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1884-06",
+      "age": 27,
+      "place": "New York, United States",
+      "title": "Arrives in America",
+      "text": "Tesla moved to the United States in June 1884 and began work at the Edison Machine Works in Manhattan. He troubleshot installations and improved generators.",
+      "turning": true,
+      "kind": "life",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1884-12",
+      "age": 28,
+      "place": "New York, United States",
+      "title": "Leaves the Edison company",
+      "text": "He quit after about six months. The reason is unclear. In his autobiography he said a promised 50,000 dollar bonus turned out to be a joke, but historians note the company did not have that much cash on hand.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-tesla",
+        "ws-myinventions"
+      ]
+    },
+    {
+      "date": "1885-03",
+      "age": 28,
+      "place": "New York, United States",
+      "title": "His own lighting company",
+      "text": "Two businessmen backed the Tesla Electric Light and Manufacturing Company to make arc lighting. Tesla built and installed the system in Rahway, New Jersey, and won his first US patents, granted from January 1886.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-tesla",
+        "w-patents"
+      ]
+    },
+    {
+      "date": "1886",
+      "age": null,
+      "place": "New York, United States",
+      "title": "Pushed out and penniless",
+      "text": "The investors dropped the manufacturing business and formed a new utility without him. He had assigned his patents to the company, so he lost them. He took repair jobs and dug ditches for 2 dollars a day.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1888-05-16",
+      "age": 31,
+      "place": "New York, United States",
+      "title": "The AC induction motor",
+      "text": "His induction motor, which ran on alternating current and needed no brushes, was patented on 1 May 1888. On 16 May he demonstrated it at the American Institute of Electrical Engineers. Galileo Ferraris had presented a similar motor in Italy in March 1888.",
+      "turning": false,
+      "kind": "invention",
+      "sources": [
+        "w-tesla",
+        "ws-newsystem",
+        "gp-381968"
+      ]
+    },
+    {
+      "date": "1888-07",
+      "age": null,
+      "place": "Pittsburgh, United States",
+      "title": "Westinghouse licenses the motor",
+      "text": "George Westinghouse licensed his polyphase motor and transformer patents for 60,000 dollars in cash and stock plus a royalty per horsepower. Tesla spent a year in Pittsburgh as a consultant, a time he found frustrating.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1891",
+      "age": null,
+      "place": "New York, United States",
+      "title": "Giving up his royalties",
+      "text": "Westinghouse Electric was in financial trouble after the panic of 1890. In early 1891 Tesla agreed to release the company from the per-motor royalty in his contract.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1891-05-20",
+      "age": 34,
+      "place": "New York, United States",
+      "title": "The Tesla coil goes public",
+      "text": "After learning of Heinrich Hertz's radio wave experiments in 1889, he designed a new high frequency transformer. In a lecture at Columbia College before the American Institute of Electrical Engineers, he first showed his resonant transformer, the Tesla coil, and lit gas tubes without wires. He patented the coil circuit that year.",
+      "turning": true,
+      "kind": "invention",
+      "sources": [
+        "w-teslacoil",
+        "w-tesla",
+        "w-patents"
+      ]
+    },
+    {
+      "date": "1891-07-30",
+      "age": 35,
+      "place": "New York, United States",
+      "title": "Becomes a US citizen",
+      "text": "Tesla became a naturalized citizen of the United States at age 35.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1892-02",
+      "age": 35,
+      "place": "London, United Kingdom",
+      "title": "Lecturing in Europe",
+      "text": "He gave his lecture 'Experiments with Alternate Currents of High Potential and High Frequency' before the Institution of Electrical Engineers in London. From 1892 to 1894 he also served as a vice-president of the American Institute of Electrical Engineers.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "ws-highpotential",
+        "gut-experiments",
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1893-02",
+      "age": 36,
+      "place": "Philadelphia, United States",
+      "title": "Talks of signals without wires",
+      "text": "In lectures at the Franklin Institute in Philadelphia and in St. Louis, he said a system like his could one day send signals, or even power, to any distance without wires.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "ws-onlight",
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1893",
+      "age": null,
+      "place": "Chicago, United States",
+      "title": "AC lights the World's Fair",
+      "text": "Westinghouse lit the World's Columbian Exposition with alternating current and showed Tesla's motors, including a spinning copper 'Egg of Columbus'. Tesla gave demonstrations of wireless lighting in a darkened room.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1893",
+      "age": null,
+      "place": "Niagara Falls, United States",
+      "title": "Advice for Niagara",
+      "text": "Asked how to send power from Niagara Falls, Tesla advised a two-phase alternating current system. Westinghouse won the contract to build the generating system there.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1895-03-13",
+      "age": 38,
+      "place": "New York, United States",
+      "title": "Fire destroys his lab",
+      "text": "The building on South Fifth Avenue that held his lab caught fire. His notes, models and demonstration pieces, including many shown at the 1893 fair, were destroyed, and his projects were set back.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1896-03",
+      "age": 39,
+      "place": "New York, United States",
+      "title": "X-ray experiments",
+      "text": "After Wilhelm Roentgen announced X-rays, Tesla built his own X-ray tubes powered by his coil. He noted the skin damage they caused, though he wrongly blamed ozone rather than the rays.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1898",
+      "age": null,
+      "place": "New York, United States",
+      "title": "A boat steered by radio",
+      "text": "At an electrical exhibition in Madison Square Garden he showed a boat controlled by radio, which he called a telautomaton. He offered it to the US military as a torpedo, but they showed little interest.",
+      "turning": false,
+      "kind": "invention",
+      "sources": [
+        "w-tesla",
+        "w-patents"
+      ]
+    },
+    {
+      "date": "1899",
+      "age": null,
+      "place": "Colorado Springs, United States",
+      "title": "Lightning in Colorado",
+      "text": "He set up a high-altitude lab to test sending power without wires. His giant coil made artificial lightning, with discharges he and others reported at over 100 feet. He concluded, wrongly, that the whole Earth could carry electrical energy.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "w-tesla",
+        "ws-myinventions"
+      ]
+    },
+    {
+      "date": "1900-06",
+      "age": 43,
+      "place": "New York, United States",
+      "title": "An essay on human energy",
+      "text": "The Century Magazine published his long article 'The Problem of Increasing Human Energy'. It read more as a philosophical essay than a clear account of his experiments.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "ws-humanenergy",
+        "w-tesla",
+        "w-wardenclyffe"
+      ]
+    },
+    {
+      "date": "1901-03",
+      "age": 44,
+      "place": "New York, United States",
+      "title": "Morgan funds a wireless station",
+      "text": "Financier J. P. Morgan agreed to give him 150,000 dollars for a wireless station on Long Island, in return for a 51 percent share of the patents. This became Wardenclyffe Tower.",
+      "turning": true,
+      "kind": "work",
+      "sources": [
+        "w-tesla",
+        "w-wardenclyffe"
+      ]
+    },
+    {
+      "date": "1901-12",
+      "age": 45,
+      "place": "Shoreham, United States",
+      "title": "Marconi crosses the Atlantic first",
+      "text": "Tesla had already enlarged his plans and asked Morgan for more money, which was refused. In December 1901 Guglielmo Marconi sent a radio signal across the Atlantic, beating him to it.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-wardenclyffe",
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1903-07-14",
+      "age": 47,
+      "place": "New York, United States",
+      "title": "Morgan says no",
+      "text": "Morgan replied that he would not make any further advances. Other investors stayed away, and money kept running short.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-wardenclyffe"
+      ]
+    },
+    {
+      "date": "1905-05",
+      "age": 48,
+      "place": "Shoreham, United States",
+      "title": "Wardenclyffe stops",
+      "text": "His alternating current patents expired in May 1905, ending royalty income. Work at Wardenclyffe came to a halt. Sources differ on the year: one says 1905, another says the site was abandoned in 1906.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-wardenclyffe",
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1906-07-10",
+      "age": 50,
+      "place": "New York, United States",
+      "title": "The bladeless turbine",
+      "text": "On his 50th birthday he demonstrated a bladeless turbine of 200 horsepower running at 16,000 rpm. Its smooth spinning discs used the drag of the moving fluid. The turbine patents were granted in 1913.",
+      "turning": false,
+      "kind": "invention",
+      "sources": [
+        "w-tesla",
+        "w-turbine",
+        "w-patents"
+      ]
+    },
+    {
+      "date": "1916",
+      "age": null,
+      "place": "New York, United States",
+      "title": "Edison Medal",
+      "text": "The American Institute of Electrical Engineers awarded him its Edison Medal.",
+      "turning": false,
+      "kind": "honour",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1917-07-04",
+      "age": 61,
+      "place": "Shoreham, United States",
+      "title": "The tower comes down",
+      "text": "After Tesla could not pay his debts, the hotel owner who held the mortgage foreclosed and had the tower demolished for scrap. A wartime rumour said the government ordered it, but that was not true.",
+      "turning": false,
+      "kind": "setback",
+      "sources": [
+        "w-wardenclyffe"
+      ]
+    },
+    {
+      "date": "1919",
+      "age": null,
+      "place": "New York, United States",
+      "title": "He tells his own story",
+      "text": "His autobiography 'My Inventions' ran as a series in the Electrical Experimenter magazine. It is the source of many stories about his early life.",
+      "turning": false,
+      "kind": "work",
+      "sources": [
+        "ws-myinventions",
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1928-01-03",
+      "age": 71,
+      "place": "New York, United States",
+      "title": "Last US patent",
+      "text": "He received his final US patents, for an aircraft that could take off and land vertically. Wikipedia describes the design as impractical.",
+      "turning": false,
+      "kind": "invention",
+      "sources": [
+        "w-patents",
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1931-07",
+      "age": 75,
+      "place": "New York, United States",
+      "title": "75th birthday",
+      "text": "Friends organised a celebration for his 75th birthday. He received congratulations from scientists including Albert Einstein and appeared on the cover of Time magazine.",
+      "turning": false,
+      "kind": "honour",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "date": "1943-01-07",
+      "age": 86,
+      "place": "New York, United States",
+      "title": "Death in New York",
+      "text": "Tesla died in his room at the Hotel New Yorker at age 86. His archive of over 160,000 documents is now kept at the Nikola Tesla Museum in Belgrade.",
+      "turning": false,
+      "kind": "life",
+      "sources": [
+        "w-tesla",
+        "w-museum"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "number": "US 334,823",
+      "title": "Commutator for Dynamo Electric Machines",
+      "filed": "1885-05-06",
+      "granted": "1886-01-26",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US334823"
+    },
+    {
+      "number": "US 335,786",
+      "title": "Electric Arc Lamp",
+      "filed": "1885-03-30",
+      "granted": "1886-02-09",
+      "country": "US",
+      "area": "lighting",
+      "url": "https://patents.google.com/patent/US335786"
+    },
+    {
+      "number": "US 335,787",
+      "title": "Electric Arc Lamp",
+      "filed": "1885-07-13",
+      "granted": "1886-02-09",
+      "country": "US",
+      "area": "lighting",
+      "url": "https://patents.google.com/patent/US335787"
+    },
+    {
+      "number": "US 336,961",
+      "title": "Regulator for Dynamo Electric Machines",
+      "filed": null,
+      "granted": "1886-03-02",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US336961"
+    },
+    {
+      "number": "US 336,962",
+      "title": "Regulator for Dynamo Electric Machines",
+      "filed": null,
+      "granted": "1886-03-02",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US336962"
+    },
+    {
+      "number": "US 350,954",
+      "title": "Regulator for Dynamo Electric Machines",
+      "filed": null,
+      "granted": "1886-10-19",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US350954"
+    },
+    {
+      "number": "US 359,748",
+      "title": "Dynamo Electric Machine",
+      "filed": "1886-01-14",
+      "granted": "1887-03-22",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US359748"
+    },
+    {
+      "number": "US 381,968",
+      "title": "Electro Magnetic Motor",
+      "filed": "1887-10-12",
+      "granted": "1888-05-01",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US381968"
+    },
+    {
+      "number": "US 381,969",
+      "title": "Electro Magnetic Motor",
+      "filed": "1887-11-30",
+      "granted": "1888-05-01",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US381969"
+    },
+    {
+      "number": "US 381,970",
+      "title": "System of Electrical Distribution",
+      "filed": null,
+      "granted": "1888-05-01",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US381970"
+    },
+    {
+      "number": "US 382,279",
+      "title": "Electro Magnetic Motor",
+      "filed": null,
+      "granted": "1888-05-01",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US382279"
+    },
+    {
+      "number": "US 382,280",
+      "title": "Electrical Transmission of Power",
+      "filed": null,
+      "granted": "1888-05-01",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US382280"
+    },
+    {
+      "number": "US 382,281",
+      "title": "Electrical Transmission of Power",
+      "filed": null,
+      "granted": "1888-05-01",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US382281"
+    },
+    {
+      "number": "US 382,282",
+      "title": "Method of Converting and Distributing Electric Currents",
+      "filed": null,
+      "granted": "1888-05-01",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US382282"
+    },
+    {
+      "number": "US 382,845",
+      "title": "Commutator for Dynamo Electric Machines",
+      "filed": null,
+      "granted": "1888-05-15",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US382845"
+    },
+    {
+      "number": "US 390,413",
+      "title": "System of Electrical Distribution",
+      "filed": null,
+      "granted": "1888-10-02",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US390413"
+    },
+    {
+      "number": "US 390,414",
+      "title": "Dynamo Electric Machine",
+      "filed": null,
+      "granted": "1888-10-02",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US390414"
+    },
+    {
+      "number": "US 390,415",
+      "title": "Dynamo Electric Machine or Motor",
+      "filed": null,
+      "granted": "1888-10-02",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US390415"
+    },
+    {
+      "number": "US 390,721",
+      "title": "Dynamo Electric Machine",
+      "filed": null,
+      "granted": "1888-10-09",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US390721"
+    },
+    {
+      "number": "US 390,820",
+      "title": "Regulator for Alternate Current Motors",
+      "filed": null,
+      "granted": "1888-10-09",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US390820"
+    },
+    {
+      "number": "US 396,121",
+      "title": "Thermo Magnetic Motor",
+      "filed": null,
+      "granted": "1889-01-15",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US396121"
+    },
+    {
+      "number": "US 401,520",
+      "title": "Method of Operating Electro Magnetic Motors",
+      "filed": null,
+      "granted": "1889-04-16",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US401520"
+    },
+    {
+      "number": "US 405,858",
+      "title": "Electro Magnetic Motor",
+      "filed": null,
+      "granted": "1889-06-25",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US405858"
+    },
+    {
+      "number": "US 405,859",
+      "title": "Method of Electrical Power Transmission",
+      "filed": null,
+      "granted": "1889-06-25",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US405859"
+    },
+    {
+      "number": "US 406,968",
+      "title": "Dynamo Electric Machine",
+      "filed": null,
+      "granted": "1889-07-16",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US406968"
+    },
+    {
+      "number": "US 413,353",
+      "title": "Method of Obtaining Direct Current from Alternating Currents",
+      "filed": null,
+      "granted": "1889-10-22",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US413353"
+    },
+    {
+      "number": "US 416,191",
+      "title": "Electro-Magnetic Motor",
+      "filed": null,
+      "granted": "1889-12-03",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US416191"
+    },
+    {
+      "number": "US 416,192",
+      "title": "Method of Operating Electro-Magnetic Motors",
+      "filed": null,
+      "granted": "1889-12-03",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US416192"
+    },
+    {
+      "number": "US 416,193",
+      "title": "Electro-Magnetic Motor",
+      "filed": null,
+      "granted": "1889-12-03",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US416193"
+    },
+    {
+      "number": "US 416,194",
+      "title": "Electric Motor",
+      "filed": null,
+      "granted": "1889-12-03",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US416194"
+    },
+    {
+      "number": "US 416,195",
+      "title": "Electro-Magnetic Motor",
+      "filed": null,
+      "granted": "1889-12-03",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US416195"
+    },
+    {
+      "number": "US 417,794",
+      "title": "Armature for Electric Machines",
+      "filed": null,
+      "granted": "1889-12-24",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US417794"
+    },
+    {
+      "number": "US 418,248",
+      "title": "Electro-Magnetic Motor",
+      "filed": null,
+      "granted": "1889-12-31",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US418248"
+    },
+    {
+      "number": "US 424,036",
+      "title": "Electro-Magnetic Motor",
+      "filed": null,
+      "granted": "1890-03-25",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US424036"
+    },
+    {
+      "number": "US 428,057",
+      "title": "Pyromagneto Electric Generator",
+      "filed": null,
+      "granted": "1890-05-13",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US428057"
+    },
+    {
+      "number": "US 433,700",
+      "title": "Alternating-Current Electro-Magnetic Motor",
+      "filed": null,
+      "granted": "1890-08-05",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US433700"
+    },
+    {
+      "number": "US 433,701",
+      "title": "Alternating-Current Motor",
+      "filed": null,
+      "granted": "1890-08-05",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US433701"
+    },
+    {
+      "number": "US 433,702",
+      "title": "Electrical Transformer or Induction Device",
+      "filed": null,
+      "granted": "1890-08-05",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US433702"
+    },
+    {
+      "number": "US 433,703",
+      "title": "Electro-Magnetic Motor",
+      "filed": null,
+      "granted": "1890-08-05",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US433703"
+    },
+    {
+      "number": "US 445,207",
+      "title": "Electro-Magnetic Motor",
+      "filed": null,
+      "granted": "1891-01-27",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US445207"
+    },
+    {
+      "number": "US 447,920",
+      "title": "Method of Operating Arc-Lamps",
+      "filed": null,
+      "granted": "1891-03-10",
+      "country": "US",
+      "area": "lighting",
+      "url": "https://patents.google.com/patent/US447920"
+    },
+    {
+      "number": "US 447,921",
+      "title": "Alternating Electric Current Generator",
+      "filed": null,
+      "granted": "1891-03-10",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US447921"
+    },
+    {
+      "number": "US 454,622",
+      "title": "System of Electric Lighting",
+      "filed": null,
+      "granted": "1891-06-23",
+      "country": "US",
+      "area": "lighting",
+      "url": "https://patents.google.com/patent/US454622"
+    },
+    {
+      "number": "US 455,067",
+      "title": "Electro-Magnetic Motor",
+      "filed": null,
+      "granted": "1891-06-30",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US455067"
+    },
+    {
+      "number": "US 455,068",
+      "title": "Electrical Meter",
+      "filed": null,
+      "granted": "1891-06-30",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US455068"
+    },
+    {
+      "number": "US 455,069",
+      "title": "Electric Incandescent Lamp",
+      "filed": null,
+      "granted": "1891-06-30",
+      "country": "US",
+      "area": "lighting",
+      "url": "https://patents.google.com/patent/US455069"
+    },
+    {
+      "number": "US 459,772",
+      "title": "Electro-Magnetic Motor",
+      "filed": null,
+      "granted": "1891-09-22",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US459772"
+    },
+    {
+      "number": "US 462,418",
+      "title": "Method of and Apparatus for Electrical Conversion and Distribution",
+      "filed": null,
+      "granted": "1891-11-03",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US462418"
+    },
+    {
+      "number": "US 464,666",
+      "title": "Electro-Magnetic Motor",
+      "filed": null,
+      "granted": "1891-12-08",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US464666"
+    },
+    {
+      "number": "US 464,667",
+      "title": "Electrical Condenser",
+      "filed": null,
+      "granted": "1891-12-08",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US464667"
+    },
+    {
+      "number": "US 487,796",
+      "title": "System of Electrical Transmission of Power",
+      "filed": null,
+      "granted": "1892-12-13",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US487796"
+    },
+    {
+      "number": "US 511,559",
+      "title": "Electrical Transmission of Power",
+      "filed": null,
+      "granted": "1893-12-26",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US511559"
+    },
+    {
+      "number": "US 511,560",
+      "title": "System of Electrical Power Transmission",
+      "filed": null,
+      "granted": "1893-12-26",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US511560"
+    },
+    {
+      "number": "US 511,915",
+      "title": "Electrical Transmission of Power",
+      "filed": null,
+      "granted": "1894-01-02",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US511915"
+    },
+    {
+      "number": "US 511,916",
+      "title": "Electric Generator",
+      "filed": null,
+      "granted": "1894-01-02",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US511916"
+    },
+    {
+      "number": "US 512,340",
+      "title": "Coil for Electro-Magnets",
+      "filed": "1893-07-07",
+      "granted": "1894-01-09",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US512340"
+    },
+    {
+      "number": "US 514,167",
+      "title": "Electrical Conductor",
+      "filed": null,
+      "granted": "1894-02-06",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US514167"
+    },
+    {
+      "number": "US 514,168",
+      "title": "Means for Generating Electric Currents",
+      "filed": null,
+      "granted": "1894-02-06",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US514168"
+    },
+    {
+      "number": "US 514,169",
+      "title": "Reciprocating Engine",
+      "filed": "1893-08-19",
+      "granted": "1894-02-06",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US514169"
+    },
+    {
+      "number": "US 514,170",
+      "title": "Incandescent Electric Light",
+      "filed": null,
+      "granted": "1894-02-06",
+      "country": "US",
+      "area": "lighting",
+      "url": "https://patents.google.com/patent/US514170"
+    },
+    {
+      "number": "US 514,972",
+      "title": "Electric Railway System",
+      "filed": null,
+      "granted": "1894-02-20",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US514972"
+    },
+    {
+      "number": "US 514,973",
+      "title": "Electrical Meter",
+      "filed": null,
+      "granted": "1894-02-20",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US514973"
+    },
+    {
+      "number": "US 517,900",
+      "title": "Steam Engine",
+      "filed": null,
+      "granted": "1894-04-10",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US517900"
+    },
+    {
+      "number": "US 524,426",
+      "title": "Electromagnetic Motor",
+      "filed": null,
+      "granted": "1894-08-14",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US524426"
+    },
+    {
+      "number": "US 555,190",
+      "title": "Alternating Motor",
+      "filed": null,
+      "granted": "1896-02-25",
+      "country": "US",
+      "area": "motors",
+      "url": "https://patents.google.com/patent/US555190"
+    },
+    {
+      "number": "US 567,818",
+      "title": "Electrical Condenser",
+      "filed": null,
+      "granted": "1896-09-15",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US567818"
+    },
+    {
+      "number": "US 568,176",
+      "title": "Apparatus for Producing Electrical Currents of High Frequency and Potential",
+      "filed": null,
+      "granted": "1896-09-22",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US568176"
+    },
+    {
+      "number": "US 568,177",
+      "title": "Apparatus for Producing Ozone",
+      "filed": null,
+      "granted": "1896-09-22",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US568177"
+    },
+    {
+      "number": "US 568,178",
+      "title": "Method of Regulating Apparatus for Producing Electric Currents of High Frequency",
+      "filed": null,
+      "granted": "1896-09-22",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US568178"
+    },
+    {
+      "number": "US 568,179",
+      "title": "Method of and Apparatus for Producing Currents of High Frequency",
+      "filed": null,
+      "granted": "1896-09-22",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US568179"
+    },
+    {
+      "number": "US 568,180",
+      "title": "Apparatus for Producing Electrical Currents of High Frequency",
+      "filed": null,
+      "granted": "1896-09-22",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US568180"
+    },
+    {
+      "number": "US 577,670",
+      "title": "Apparatus for Producing Electric Currents of High Frequency",
+      "filed": null,
+      "granted": "1897-02-23",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US577670"
+    },
+    {
+      "number": "US 577,671",
+      "title": "Manufacture of Electrical Condensers, Coils and Similar Devices",
+      "filed": "1896-11-05",
+      "granted": "1897-02-23",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US577671"
+    },
+    {
+      "number": "US 583,953",
+      "title": "Apparatus for Producing Currents of High Frequency",
+      "filed": null,
+      "granted": "1897-06-08",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US583953"
+    },
+    {
+      "number": "US 593,138",
+      "title": "Electrical Transformer",
+      "filed": null,
+      "granted": "1897-11-02",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US593138"
+    },
+    {
+      "number": "US 609,245",
+      "title": "Electrical Circuit Controller",
+      "filed": "1897-12-02",
+      "granted": "1898-08-16",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US609245"
+    },
+    {
+      "number": "US 609,246",
+      "title": "Electric Circuit Controller",
+      "filed": null,
+      "granted": "1898-08-16",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US609246"
+    },
+    {
+      "number": "US 609,247",
+      "title": "Electric Circuit Controller",
+      "filed": null,
+      "granted": "1898-08-16",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US609247"
+    },
+    {
+      "number": "US 609,248",
+      "title": "Electric Circuit Controller",
+      "filed": "1898-03-12",
+      "granted": "1898-08-16",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US609248"
+    },
+    {
+      "number": "US 609,249",
+      "title": "Electric Circuit Controller",
+      "filed": null,
+      "granted": "1898-08-16",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US609249"
+    },
+    {
+      "number": "US 609,250",
+      "title": "Electrical Igniter for Gas Engines",
+      "filed": null,
+      "granted": "1898-08-16",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US609250"
+    },
+    {
+      "number": "US 609,251",
+      "title": "Electric Circuit Controller",
+      "filed": null,
+      "granted": "1898-08-16",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US609251"
+    },
+    {
+      "number": "US 611,719",
+      "title": "Electrical Circuit Controller",
+      "filed": "1897-12-10",
+      "granted": "1898-10-04",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US611719"
+    },
+    {
+      "number": "US 613,735",
+      "title": "Electric Circuit Controller",
+      "filed": null,
+      "granted": "1898-11-08",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US613735"
+    },
+    {
+      "number": "US 613,809",
+      "title": "Method of and Apparatus for Controlling Mechanism of Moving Vehicle or Vehicles",
+      "filed": "1898-07-01",
+      "granted": "1898-11-08",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US613809"
+    },
+    {
+      "number": "US 645,576",
+      "title": "System of Transmission of Electrical Energy",
+      "filed": "1897-09-02",
+      "granted": "1900-03-20",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US645576"
+    },
+    {
+      "number": "US 649,621",
+      "title": "Apparatus for Transmission of Electrical Energy",
+      "filed": "1900-02-19",
+      "granted": "1900-05-15",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US649621"
+    },
+    {
+      "number": "US 655,838",
+      "title": "Method of Insulating Electric Conductors",
+      "filed": "1900-06-15",
+      "granted": "1900-08-14",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US655838"
+    },
+    {
+      "number": "US 685,012",
+      "title": "Means for Increasing the Intensity of Electrical Oscillations",
+      "filed": "1900-03-21",
+      "granted": "1901-10-22",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US685012"
+    },
+    {
+      "number": "US 685,953",
+      "title": "Apparatus for Utilizing Effects Transmitted from a Distance to a Receiving Device through Natural Media",
+      "filed": "1899-06-24",
+      "granted": "1901-11-05",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US685953"
+    },
+    {
+      "number": "US 685,954",
+      "title": "Method of Utilizing Effects Transmitted through Natural Media",
+      "filed": "1899-08-01",
+      "granted": "1901-11-05",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US685954"
+    },
+    {
+      "number": "US 685,955",
+      "title": "Apparatus for Utilizing Effects Transmitted from a Distance to a Receiving Device through Natural Media",
+      "filed": "1899-09-08",
+      "granted": "1901-11-05",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US685955"
+    },
+    {
+      "number": "US 685,956",
+      "title": "Apparatus for Utilizing Effects Transmitted through Natural Media",
+      "filed": "1899-11-02",
+      "granted": "1901-11-05",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US685956"
+    },
+    {
+      "number": "US 685,957",
+      "title": "Apparatus for the Utilization of Radiant Energy",
+      "filed": "1901-03-21",
+      "granted": "1901-11-05",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US685957"
+    },
+    {
+      "number": "US 685,958",
+      "title": "Method of Utilizing of Radiant Energy",
+      "filed": "1901-03-21",
+      "granted": "1901-11-05",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US685958"
+    },
+    {
+      "number": "US 723,188",
+      "title": "Method of Signaling",
+      "filed": "1901-06-14",
+      "granted": "1903-03-17",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US723188"
+    },
+    {
+      "number": "US 725,605",
+      "title": "System of Signaling",
+      "filed": "1900-07-16",
+      "granted": "1903-04-14",
+      "country": "US",
+      "area": "radio",
+      "url": "https://patents.google.com/patent/US725605"
+    },
+    {
+      "number": "US 787,412",
+      "title": "Art of Transmitting Electrical Energy through the Natural Mediums",
+      "filed": "1900-05-16",
+      "granted": "1905-04-18",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US787412"
+    },
+    {
+      "number": "US 1,061,142",
+      "title": "Fluid Propulsion",
+      "filed": "1909-10-21",
+      "granted": "1913-05-06",
+      "country": "US",
+      "area": "turbines",
+      "url": "https://patents.google.com/patent/US1061142"
+    },
+    {
+      "number": "US 1,061,206",
+      "title": "Turbine",
+      "filed": "1911-01-17",
+      "granted": "1913-05-06",
+      "country": "US",
+      "area": "turbines",
+      "url": "https://patents.google.com/patent/US1061206"
+    },
+    {
+      "number": "US 1,113,716",
+      "title": "Fountain",
+      "filed": "1913-10-28",
+      "granted": "1914-10-13",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US1113716"
+    },
+    {
+      "number": "US 1,119,732",
+      "title": "Apparatus for Transmitting Electrical Energy",
+      "filed": "1907-05-04",
+      "granted": "1914-12-01",
+      "country": "US",
+      "area": "power transmission",
+      "url": "https://patents.google.com/patent/US1119732"
+    },
+    {
+      "number": "US 1,209,359",
+      "title": "Speed-Indicator",
+      "filed": "1914-05-29",
+      "granted": "1916-12-19",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US1209359"
+    },
+    {
+      "number": "US 1,266,175",
+      "title": "Lightning-Protector",
+      "filed": "1916-05-06",
+      "granted": "1918-05-14",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US1266175"
+    },
+    {
+      "number": "US 1,274,816",
+      "title": "Speed Indicator",
+      "filed": "1916-12-18",
+      "granted": "1918-08-06",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US1274816"
+    },
+    {
+      "number": "US 1,314,718",
+      "title": "Ship's Log",
+      "filed": null,
+      "granted": "1919-09-02",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US1314718"
+    },
+    {
+      "number": "US 1,329,559",
+      "title": "Valvular Conduit",
+      "filed": "1916-02-21",
+      "granted": "1920-02-03",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US1329559"
+    },
+    {
+      "number": "US 1,365,547",
+      "title": "Flow-Meter",
+      "filed": "1916-12-18",
+      "granted": "1921-01-11",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US1365547"
+    },
+    {
+      "number": "US 1,402,025",
+      "title": "Frequency-Meter",
+      "filed": "1916-12-18",
+      "granted": "1922-01-03",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US1402025"
+    },
+    {
+      "number": "US 1,655,113",
+      "title": "Method of Aerial Transportation",
+      "filed": "1921-09-09",
+      "granted": "1928-01-03",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US1655113"
+    },
+    {
+      "number": "US 1,655,114",
+      "title": "Apparatus for Aerial Transportation",
+      "filed": "1927-10-04",
+      "granted": "1928-01-03",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/US1655114"
+    },
+    {
+      "number": "US RE11,865",
+      "title": "Method of Insulating Electric Conductors",
+      "filed": "1900-09-21",
+      "granted": "1900-10-23",
+      "country": "US",
+      "area": "other",
+      "url": "https://patents.google.com/patent/USRE11865"
+    }
+  ],
+  "patentsNote": "Wikipedia's List of Nikola Tesla patents lists 112 US patents (111 numbered patents plus one reissue, RE11,865); the same page says he held at least 278 patents in 26 countries and around 300 worldwide, so many of his patents were foreign. Filing and grant dates here come from each Google Patents record; where Wikipedia shows a different date (US 396,121, 613,809, 655,838, 685,012, 1,061,142 and 1,061,206), Google Patents was used, and a null filing date means Google Patents does not show one.",
+  "works": [
+    {
+      "year": "1888",
+      "type": "invention",
+      "title": "AC induction motor",
+      "text": "A motor driven by a rotating magnetic field from alternating current, with no brushes or commutator to spark and wear out (US 381,968).",
+      "sources": [
+        "w-tesla",
+        "gp-381968"
+      ],
+      "url": "https://patents.google.com/patent/US381968"
+    },
+    {
+      "year": "1888",
+      "type": "lecture",
+      "title": "A New System of Alternate Current Motors and Transformers",
+      "text": "His May 1888 talk to the American Institute of Electrical Engineers that introduced his motor to engineers.",
+      "sources": [
+        "ws-newsystem",
+        "w-tesla"
+      ],
+      "url": "https://en.wikisource.org/wiki/A_New_System_of_Alternating_Current_Motors_and_Transformers"
+    },
+    {
+      "year": "1888",
+      "type": "invention",
+      "title": "Polyphase AC system",
+      "text": "His polyphase motor and transformer patents, licensed by Westinghouse, became the base of the system Westinghouse later sold as the 'Tesla Polyphase System'.",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "year": "1891",
+      "type": "invention",
+      "title": "Tesla coil",
+      "text": "A resonant air-core transformer that makes very high voltage, high frequency current, used in his lighting and wireless work.",
+      "sources": [
+        "w-teslacoil",
+        "w-tesla"
+      ]
+    },
+    {
+      "year": "1891",
+      "type": "lecture",
+      "title": "Experiments with Alternate Currents of Very High Frequency and Their Application to Methods of Artificial Illumination",
+      "text": "His 20 May 1891 lecture at Columbia College, where he first showed the Tesla coil in public.",
+      "sources": [
+        "w-teslacoil"
+      ]
+    },
+    {
+      "year": "1892",
+      "type": "lecture",
+      "title": "Experiments with Alternate Currents of High Potential and High Frequency",
+      "text": "His lecture before the Institution of Electrical Engineers in London, later printed as a book.",
+      "sources": [
+        "ws-highpotential",
+        "gut-experiments"
+      ],
+      "url": "https://en.wikisource.org/wiki/Experiments_with_Alternate_Currents_of_High_Potential_and_High_Frequency"
+    },
+    {
+      "year": "1893",
+      "type": "lecture",
+      "title": "On Light and Other High Frequency Phenomena",
+      "text": "Lectures at the Franklin Institute in Philadelphia and in St. Louis, where he spoke of sending signals without wires.",
+      "sources": [
+        "ws-onlight",
+        "w-tesla"
+      ],
+      "url": "https://en.wikisource.org/wiki/On_Light_and_Other_High_Frequency_Phenomena"
+    },
+    {
+      "year": "1893",
+      "type": "demonstration",
+      "title": "World's Columbian Exposition",
+      "text": "At the Chicago fair, lit by Westinghouse AC power, he showed wireless lighting and his motors were explained with a spinning copper egg.",
+      "sources": [
+        "w-tesla"
+      ]
+    },
+    {
+      "year": "1893",
+      "type": "invention",
+      "title": "Steam-powered oscillating generator",
+      "text": "A steam-driven piston shook a magnetic armature to make AC directly; it never caught on as a practical generator.",
+      "sources": [
+        "w-tesla",
+        "w-patents"
+      ]
+    },
+    {
+      "year": "1898",
+      "type": "invention",
+      "title": "Radio-controlled boat (telautomaton)",
+      "text": "One of the first wirelessly controlled vehicles, shown at Madison Square Garden and patented as US 613,809.",
+      "sources": [
+        "w-tesla",
+        "w-patents"
+      ],
+      "url": "https://patents.google.com/patent/US613809"
+    },
+    {
+      "year": "1899",
+      "type": "demonstration",
+      "title": "Colorado Springs experiments",
+      "text": "High-altitude tests with a giant coil that made artificial lightning, aimed at sending power through the Earth.",
+      "sources": [
+        "w-tesla",
+        "w-wardenclyffe",
+        "ws-myinventions"
+      ]
+    },
+    {
+      "year": "1900",
+      "type": "article",
+      "title": "The Problem of Increasing Human Energy",
+      "text": "His long Century Magazine essay of June 1900 on energy, the sun, wireless control and the future.",
+      "sources": [
+        "ws-humanenergy",
+        "w-tesla"
+      ],
+      "url": "https://en.wikisource.org/wiki/The_Problem_of_Increasing_Human_Energy"
+    },
+    {
+      "year": "1901",
+      "type": "invention",
+      "title": "Wardenclyffe Tower",
+      "text": "A planned transatlantic wireless station on Long Island that ran out of money, was never finished and was torn down in 1917.",
+      "sources": [
+        "w-wardenclyffe",
+        "w-tesla"
+      ]
+    },
+    {
+      "year": "1913",
+      "type": "invention",
+      "title": "Bladeless (Tesla) turbine",
+      "text": "A turbine of smooth spinning discs driven by fluid drag, demonstrated in 1906 and patented in 1913 (US 1,061,206).",
+      "sources": [
+        "w-turbine",
+        "w-tesla",
+        "w-patents"
+      ],
+      "url": "https://patents.google.com/patent/US1061206"
+    },
+    {
+      "year": "1919",
+      "type": "article",
+      "title": "My Inventions",
+      "text": "His autobiography, published in six parts in the Electrical Experimenter magazine.",
+      "sources": [
+        "ws-myinventions"
+      ],
+      "url": "https://en.wikisource.org/wiki/My_Inventions"
+    },
+    {
+      "year": "1920",
+      "type": "invention",
+      "title": "Valvular conduit (Tesla valve)",
+      "text": "A one-way valve for fluids with no moving parts (US 1,329,559).",
+      "sources": [
+        "w-patents"
+      ],
+      "url": "https://patents.google.com/patent/US1329559"
+    },
+    {
+      "year": "1928",
+      "type": "invention",
+      "title": "Vertical take-off aircraft",
+      "text": "His last US patents described an aircraft that would take off vertically and then tilt into level flight.",
+      "sources": [
+        "w-patents",
+        "w-tesla"
+      ],
+      "url": "https://patents.google.com/patent/US1655114"
+    }
+  ],
+  "resources": [
+    {
+      "label": "My Inventions (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/My_Inventions",
+      "what": "Tesla's own 1919 autobiography, free to read in full."
+    },
+    {
+      "label": "Nikola Tesla's works (Wikisource author page)",
+      "url": "https://en.wikisource.org/wiki/Author:Nikola_Tesla",
+      "what": "A dated list of his lectures, articles and letters, many with full text."
+    },
+    {
+      "label": "The Problem of Increasing Human Energy (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/The_Problem_of_Increasing_Human_Energy",
+      "what": "His 1900 Century Magazine essay in full."
+    },
+    {
+      "label": "On Light and Other High Frequency Phenomena (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/On_Light_and_Other_High_Frequency_Phenomena",
+      "what": "His 1893 Philadelphia and St. Louis lecture in full."
+    },
+    {
+      "label": "Experiments with Alternate Currents of High Potential and High Frequency (Project Gutenberg)",
+      "url": "https://www.gutenberg.org/ebooks/13476",
+      "what": "Free ebook of his 1892 London lecture."
+    },
+    {
+      "label": "The Inventions, Researches and Writings of Nikola Tesla (Project Gutenberg)",
+      "url": "https://www.gutenberg.org/ebooks/39272",
+      "what": "Free ebook of the 1894 collection of his lectures and work, edited by T. C. Martin."
+    },
+    {
+      "label": "The Inventions, Researches and Writings of Nikola Tesla (Internet Archive)",
+      "url": "https://archive.org/details/inventionsresear00martiala",
+      "what": "A scan of the original 1894 printed book."
+    },
+    {
+      "label": "List of Nikola Tesla patents (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_Nikola_Tesla_patents",
+      "what": "Every known US patent with notes, plus counts for other countries."
+    },
+    {
+      "label": "US 381,968 Electro-Magnetic Motor (Google Patents)",
+      "url": "https://patents.google.com/patent/US381968",
+      "what": "The original 1888 induction motor patent, with drawings and full text."
+    },
+    {
+      "label": "Nikola Tesla Museum, Belgrade",
+      "url": "https://tesla-museum.org/en/",
+      "what": "The museum that holds his original archive, listed in UNESCO's Memory of the World."
+    },
+    {
+      "label": "Tesla Science Center at Wardenclyffe",
+      "url": "https://teslasciencecenter.org/",
+      "what": "The nonprofit restoring his last surviving lab on Long Island, with scheduled tours."
+    }
+  ],
+  "books": [
+    {
+      "title": "My Inventions",
+      "author": "Nikola Tesla",
+      "year": "1919",
+      "kind": "by-him",
+      "free": "https://en.wikisource.org/wiki/My_Inventions",
+      "note": "His own account of his life and ideas, short and readable."
+    },
+    {
+      "title": "Experiments with Alternate Currents of High Potential and High Frequency",
+      "author": "Nikola Tesla",
+      "year": "1892",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/13476",
+      "note": "His London lecture, showing how he explained and demonstrated his high frequency work."
+    },
+    {
+      "title": "The Inventions, Researches and Writings of Nikola Tesla",
+      "author": "Thomas Commerford Martin (editor), writings by Nikola Tesla",
+      "year": "1894",
+      "kind": "by-him",
+      "free": "https://www.gutenberg.org/ebooks/39272",
+      "note": "The early collection of his lectures and inventions, gathered while he was at his peak."
+    },
+    {
+      "title": "Tesla: Man Out of Time",
+      "author": "Margaret Cheney",
+      "year": "1981",
+      "kind": "biography",
+      "free": null,
+      "note": "A popular, widely cited life story; Wikipedia cites it (first published 1981)."
+    },
+    {
+      "title": "Tesla: Inventor of the Electrical Age",
+      "author": "W. Bernard Carlson",
+      "year": "2013",
+      "kind": "biography",
+      "free": null,
+      "note": "A historian's careful account of how his inventions and businesses worked (Princeton University Press)."
+    },
+    {
+      "title": "Wizard: The Life and Times of Nikola Tesla",
+      "author": "Marc J. Seifer",
+      "year": "1998",
+      "kind": "biography",
+      "free": null,
+      "note": "A detailed biography; the year given is the Citadel Press edition cited on Wikipedia."
+    }
+  ]
+}
