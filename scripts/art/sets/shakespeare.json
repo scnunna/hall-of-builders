@@ -1,13 +1,13 @@
 {
-  "subject": "an Elizabethan Englishman in his thirties with a high forehead, receding dark hair worn to the collar, a short neat moustache and small beard, a plain dark wool doublet with a white falling-band collar, ink-stained fingers, alert thoughtful eyes",
-  "panels": {
-    "01-stratford": "the market town of Stratford-upon-Avon in Warwickshire in 1564, timber-framed houses with thatched and tiled roofs along a wide street, a stone church spire beside the river Avon, spring morning, wide establishing shot",
-    "02-school": "a Tudor grammar school classroom in the 1570s, boys in plain doublets on wooden benches reciting Latin from hornbooks and small printed books, a stern schoolmaster in a black gown, timber beams and leaded windows",
-    "03-london": "{S} as a young man arriving in Elizabethan London in the early 1590s, crowded streets, timber houses leaning over the lane, Old London Bridge and the Thames behind, a bundle of manuscript papers under his arm",
-    "04-plague": "{S} writing a long poem by candlelight at a wooden desk in a small rented room in 1593, quill and inkpot, stacks of paper, through the window an empty shuttered playhouse in a quiet London street",
-    "05-timber": "Elizabethan carpenters in winter in December 1598 carefully dismantling a round wooden playhouse beam by beam, loading great oak timbers onto carts, snow on the ground, {S} watching and holding a plan",
-    "06-globe": "{S} standing on the stage of the newly built Globe theatre in 1599, a round open-air wooden playhouse with three galleries and a thatched roof, actors in Elizabethan costume rehearsing, crowd gathering in the yard, golden afternoon light",
-    "07-fire": "the thatched roof of the round wooden Globe theatre catching fire in June 1613, audience calmly streaming out into the Southwark streets, smoke rising over the Thames, dramatic but no one hurt",
-    "08-folio": "two Jacobean actors in dark doublets in a London printing shop in 1623 examining freshly printed large folio pages of collected plays beside a wooden hand press, stacks of paper and type cases, warm lamplight"
-  }
+ "subject": "an Englishman of the 1590s in his thirties with a high forehead, receding dark hair worn to the collar, a short neat moustache and small pointed beard, wearing an Elizabethan close-fitting dark doublet laced at the front, a small white ruff or falling-band collar, breeches and hose, no lapels, no buttoned coat, no Victorian clothes, ink-stained fingers, alert thoughtful eyes",
+ "panels": {
+  "01-stratford": "the market town of Stratford-upon-Avon in Warwickshire in 1564, timber-framed houses with thatched and tiled roofs along a wide street, a stone church spire beside the river Avon, spring morning, wide establishing shot",
+  "02-school": "a Tudor grammar school classroom in the 1570s, boys in plain doublets on wooden benches reciting Latin from hornbooks and small printed books, a stern schoolmaster in a black gown, timber beams and leaded windows",
+  "03-london": "{S} as a young man arriving in Elizabethan London in the early 1590s, crowded streets, timber houses leaning over the lane, Old London Bridge and the Thames behind, a bundle of manuscript papers under his arm",
+  "04-plague": "{S} writing a long poem by candlelight at a wooden desk in a small rented room in 1593, quill and inkpot, stacks of paper, through a small leaded-glass window, leaning Elizabethan timber-framed houses in a quiet London lane",
+  "05-timber": "Elizabethan carpenters in winter in December 1598 carefully dismantling a round wooden playhouse beam by beam, loading great oak timbers onto carts, snow on the ground, {S} watching and holding a plan",
+  "06-globe": "{S} standing on the stage of the newly built Globe theatre in 1599, a round open-air wooden playhouse with three galleries and a thatched roof, actors in Elizabethan costume rehearsing, crowd gathering in the yard, golden afternoon light",
+  "07-fire": "the thatched roof of the round wooden Globe theatre catching fire in June 1613, audience calmly streaming out into the Southwark streets, smoke rising over the Thames, dramatic but no one hurt",
+  "08-folio": "two Jacobean actors in dark doublets in a London printing shop in 1623 examining freshly printed large folio pages of collected plays beside a wooden hand press, stacks of paper and type cases, warm lamplight"
+ }
 }

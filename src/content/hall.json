@@ -63,17 +63,54 @@
       "years": "1564 - 1616",
       "status": "open",
       "hook": "The actor and part-owner of a theatre who wrote about 39 plays and 154 sonnets."
+    },
+    {
+      "id": "saladin",
+      "name": "Saladin",
+      "title": "The Just Sultan",
+      "years": "c. 1137 - 1193",
+      "status": "open",
+      "hook": "The sultan who united Egypt and Syria, retook Jerusalem and made peace with Richard."
+    },
+    {
+      "id": "newton",
+      "name": "Isaac Newton",
+      "title": "The Natural Philosopher",
+      "years": "1643 - 1727",
+      "status": "open",
+      "hook": "The farm boy who explained light, motion and gravity with experiments and maths."
+    },
+    {
+      "id": "franklin",
+      "name": "Benjamin Franklin",
+      "title": "The Self-Made Citizen",
+      "years": "1706 - 1790",
+      "status": "open",
+      "hook": "Printer, scientist and statesman who gave his inventions away."
+    },
+    {
+      "id": "hokusai",
+      "name": "Katsushika Hokusai",
+      "title": "The Restless Painter",
+      "years": "1760 - 1849",
+      "status": "open",
+      "hook": "The Edo artist who drew all his life and said he was still learning."
+    },
+    {
+      "id": "lincoln",
+      "name": "Abraham Lincoln",
+      "title": "The Self-Taught President",
+      "years": "1809 - 1865",
+      "status": "open",
+      "hook": "With under a year of school, he taught himself law and wrote words that held a nation."
     }
   ],
   "candidates": [
-    "Benjamin Franklin",
     "Sun Tzu",
     "Alexander the Great",
     "Genghis Khan",
     "Napoleon Bonaparte",
     "Julius Caesar",
-    "Abraham Lincoln",
-    "Isaac Newton",
     "Archimedes",
     "Seneca",
     "Confucius",

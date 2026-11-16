@@ -12,6 +12,7 @@ for (const id of process.argv.slice(2)) {
   fs.mkdirSync(dst, { recursive: true });
   for (const f of fs.readdirSync(src).filter((x) => x.endsWith('.png'))) {
     const out = path.join(dst, f.replace(/\.png$/, '.webp'));
+    if (fs.statSync(path.join(src, f)).size === 0) { console.error(`HOB_EMPTY_PANEL: ${id}/${f} is empty (a failed render); re-run panels.py`); fs.unlinkSync(path.join(src, f)); process.exitCode = 1; continue; }
     execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', path.join(src, f), '-vf', 'scale=1600:-2', '-c:v', 'libwebp', '-quality', '78', out]);
     console.log(`${id}/${path.basename(out)} ${(fs.statSync(out).size / 1024).toFixed(0)} KB`);
   }
