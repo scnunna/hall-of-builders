@@ -247,6 +247,46 @@
       "years": "1821 - 1881",
       "status": "open",
       "hook": "Faced a firing squad, survived Siberia, and wrote Crime and Punishment."
+    },
+    {
+      "id": "ibnbattuta",
+      "name": "Ibn Battuta",
+      "title": "The Traveller",
+      "years": "1304 - 1368/69",
+      "status": "open",
+      "hook": "The Moroccan judge who travelled for 29 years and dictated the Rihla."
+    },
+    {
+      "id": "aristotle",
+      "name": "Aristotle",
+      "title": "The First Teacher",
+      "years": "384 BC - 322 BC",
+      "status": "open",
+      "hook": "Plato's student, Alexander's tutor, and a founder of logic and biology."
+    },
+    {
+      "id": "socrates",
+      "name": "Socrates",
+      "title": "The Questioner",
+      "years": "c. 470 BC - 399 BC",
+      "status": "open",
+      "hook": "He wrote nothing, questioned everyone, and would not stop to save his life."
+    },
+    {
+      "id": "plato",
+      "name": "Plato",
+      "title": "The Teacher",
+      "years": "c. 428 BC - c. 348 BC",
+      "status": "open",
+      "hook": "The Athenian thinker who founded the Academy and wrote the Republic."
+    },
+    {
+      "id": "bell",
+      "name": "Alexander Graham Bell",
+      "title": "The Voice Carrier",
+      "years": "1847 - 1922",
+      "status": "open",
+      "hook": "A teacher of deaf students who learned how to send the human voice down a wire."
     }
   ],
   "candidates": [

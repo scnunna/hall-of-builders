@@ -1,13 +1,13 @@
 {
-  "subject": "an Athenian man of the 5th century BC with a broad snub nose, wide-set bulging eyes, a balding head and a full curly beard, a sturdy build, barefoot, wearing a single plain worn wool cloak",
-  "panels": {
-    "01-alopece": "a small district on a hillside just outside the walls of ancient Athens around 469 BC, simple stone houses, a stoneworker's yard with blocks of marble and chisels, the Acropolis visible in the distance, olive trees, morning light, wide establishing shot",
-    "02-potidaea": "{S} in bronze helmet and simple hoplite armour with a round shield, standing guard outside a siege camp in winter near a walled city in northern Greece in 432 BC, other soldiers huddled by fires, he stands calm and barefoot in the cold, no violence",
-    "03-delium": "{S} in hoplite armour walking steadily and calmly in an orderly retreat across a dusty Boeotian plain in 424 BC, holding his shield and spear, other soldiers falling back around him, a mounted Athenian officer looking on with respect, dust and evening light, no blood",
-    "04-clouds": "an open-air ancient Greek theatre in Athens in 423 BC filled with a laughing audience, on stage a comic actor in an exaggerated mask hangs in a basket among painted clouds, while {S} stands up calmly in the crowd so everyone can compare the real man to the mask",
-    "05-leon": "{S} walking quietly away down a street in ancient Athens at dusk in 404 BC, while behind him four other men leave a round stone building with armed guards, heading the other way toward the harbour, a moment of quiet refusal, dignified",
-    "06-apology": "{S} aged about seventy standing and speaking calmly before a large jury of hundreds of Athenian citizens seated on wooden benches in an open-air court in 399 BC, his accusers seated to one side, a water clock on a stand, tense and dignified",
-    "07-crito": "{S} aged about seventy sitting on a plain bed in a stone prison cell at dawn in 399 BC, talking earnestly with an anxious old friend in a good cloak who leans toward him, a small barred window letting in grey light, calm conversation",
-    "08-phaedo": "{S} aged about seventy sitting upright in a stone prison room in 399 BC, calmly holding a simple clay cup, surrounded by grieving friends and students in cloaks, a jailer standing respectfully by the door, warm late light, peaceful and dignified, not graphic"
-  }
+ "subject": "an Athenian man of the 5th century BC with a broad snub nose, wide-set bulging eyes, a balding head and a full curly beard, a sturdy build, barefoot, wearing a single plain worn wool cloak",
+ "panels": {
+  "01-alopece": "a small district on a hillside just outside the walls of ancient Athens around 469 BC, simple stone houses, a stoneworker's yard with blocks of marble and chisels, the Acropolis visible in the distance, olive trees, morning light, wide establishing shot",
+  "02-potidaea": "{S} in bronze helmet and simple hoplite armour with a round shield, standing guard outside a siege camp in winter near a walled city in northern Greece in 432 BC, other soldiers huddled by fires, he stands calm and barefoot in the cold, no violence",
+  "03-delium": "{S} as a stocky bearded Athenian foot soldier of 424 BC, a classical Greek hoplite with a bronze Corinthian helmet pushed back on his head, a large round bronze shield and a long spear, walking calmly in a slow retreat across a dusty Boeotian plain beside his friend, other Greek hoplites on foot around them, no horses, no knights, no medieval armour, no blood",
+  "04-clouds": "an open-air ancient Greek theatre in Athens in 423 BC filled with a laughing audience, on stage a comic actor in an exaggerated mask hangs in a basket among painted clouds, while {S} stands up calmly in the crowd so everyone can compare the real man to the mask",
+  "05-leon": "{S} walking quietly away down a street in ancient Athens at dusk in 404 BC, while behind him four other men leave a round stone building with armed guards, heading the other way toward the harbour, a moment of quiet refusal, dignified",
+  "06-apology": "{S} aged about seventy standing and speaking calmly before a large jury of hundreds of Athenian citizens seated on wooden benches in an open-air court in 399 BC, his accusers seated to one side, a water clock on a stand, tense and dignified",
+  "07-crito": "{S} aged about seventy sitting on a plain bed in a stone prison cell at dawn in 399 BC, talking earnestly with an anxious old friend in a good cloak who leans toward him, a small barred window letting in grey light, calm conversation",
+  "08-phaedo": "{S} aged about seventy sitting upright in a stone prison room in 399 BC, calmly holding a simple clay cup, surrounded by grieving friends and students in cloaks, a jailer standing respectfully by the door, warm late light, peaceful and dignified, not graphic"
+ }
 }
