@@ -1,0 +1,65 @@
+{
+  "id": "darwin",
+  "name": "Charles Darwin",
+  "years": "1809 - 1882",
+  "title": "The Patient Naturalist",
+  "tagline": "A seasick young collector sailed round the world, then spent twenty years quietly testing the idea that species change.",
+  "sources": {
+    "w-darwin": { "label": "Charles Darwin (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Charles_Darwin" },
+    "w-voyage": { "label": "Second voyage of HMS Beagle (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Second_voyage_of_HMS_Beagle" },
+    "w-origin": { "label": "On the Origin of Species (Wikipedia)", "url": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species" },
+    "pg-voyage": { "label": "The Voyage of the Beagle, 2nd edition (1845), full text (Project Gutenberg #944)", "url": "https://www.gutenberg.org/ebooks/944" },
+    "pg-origin": { "label": "On the Origin of Species, 1st edition (1859), full text (Project Gutenberg #1228)", "url": "https://www.gutenberg.org/ebooks/1228" },
+    "pg-autobio": { "label": "The Autobiography of Charles Darwin, ed. Francis Darwin (1887), full text (Project Gutenberg #2010)", "url": "https://www.gutenberg.org/ebooks/2010" },
+    "wq-darwin": { "label": "Charles Darwin (Wikiquote), incl. Misattributed quotes", "url": "https://en.wikiquote.org/wiki/Charles_Darwin" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Collect, and keep collecting",
+      "idea": "As a student Darwin collected beetles with a passion. On the Beagle he filled crates with rocks, fossils, plants and animals and shipped them home. Looking back, he said his success came less from brilliance than from steady work at gathering facts.",
+      "quote": { "text": "Of these, the most important have been--the love of science--unbounded patience in long reflecting over any subject--industry in observing and collecting facts--and a fair share of invention as well as of common sense.", "credit": "The Autobiography of Charles Darwin, ed. Francis Darwin (1887)" },
+      "practice": "Start a small notebook for one thing you notice every day: birds, clouds, prices, how people answer the phone. Add three dated notes today.",
+      "sources": ["pg-autobio", "w-darwin"]
+    },
+    {
+      "title": "Small differences matter",
+      "idea": "On the Galapagos Islands Darwin saw that birds and tortoises differed a little from island to island. He did not wave the differences away. Small, careful comparisons became the clue to his biggest idea.",
+      "quote": { "text": "Seeing this gradation and diversity of structure in one small, intimately related group of birds, one might really fancy that from an original paucity of birds in this archipelago, one species had been taken and modified for different ends.", "credit": "The Voyage of the Beagle, ch. XVII (2nd ed., 1845)" },
+      "practice": "Pick two things that look the same, like two leaves or two versions of a recipe. List five small differences between them.",
+      "sources": ["pg-voyage", "w-voyage"]
+    },
+    {
+      "title": "Facts first, then the idea",
+      "idea": "After the voyage Darwin spent years gathering evidence before he let himself build a theory. He wrote a short sketch in 1842 and a longer essay in 1844, then kept testing it for another fifteen years before publishing.",
+      "quote": { "text": "On my return home, it occurred to me, in 1837, that something might perhaps be made out on this question by patiently accumulating and reflecting on all sorts of facts which could possibly have any bearing on it.", "credit": "On the Origin of Species, Introduction (1859)" },
+      "practice": "Before you decide something today, write down three facts that bear on it. Make the decision only after you have read them back.",
+      "sources": ["pg-origin", "w-darwin"]
+    },
+    {
+      "title": "Write down what proves you wrong",
+      "idea": "Darwin had a rule: any fact that went against his ideas had to be written down at once. He had noticed that we forget awkward facts much faster than the ones we like. Because of this habit, he had already thought about most objections before critics raised them.",
+      "quote": { "text": "I had, also, during many years followed a golden rule, namely, that whenever a published fact, a new observation or thought came across me, which was opposed to my general results, to make a memorandum of it without fail and at once.", "credit": "The Autobiography of Charles Darwin, ed. Francis Darwin (1887)" },
+      "practice": "Pick one opinion you hold strongly. Write down the best fact or argument against it, in fair words.",
+      "sources": ["pg-autobio", "wq-darwin"]
+    },
+    {
+      "title": "Keep your sense of wonder",
+      "idea": "Darwin spent decades on barnacles, worms and orchids, yet never lost his delight in living things. He ended his most famous book not with a dry summary but with a picture of all of life growing from simple beginnings.",
+      "quote": { "text": "There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.", "credit": "On the Origin of Species, ch. XIV (1859)" },
+      "practice": "Spend ten minutes watching one living thing closely: an ant, a pigeon, a plant in a pot. Write one question about it you cannot yet answer.",
+      "sources": ["pg-origin", "w-origin"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Field notebook", "action": "Start a small notebook. Write three dated notes on something you saw today, with where you saw it." },
+    { "day": 2, "title": "Label everything", "action": "Darwin did not label his own Galapagos finches by island, and later had to work out where each came from. Sort and label one messy drawer, folder or photo album.", "sources": ["w-darwin"] },
+    { "day": 3, "title": "Spot the difference", "action": "Compare two similar things closely, like two apples or two news reports of one event. List five differences." },
+    { "day": 4, "title": "The golden rule", "action": "Write down one fact today that goes against something you believe. Do it the moment you notice it.", "sources": ["pg-autobio"] },
+    { "day": 5, "title": "Thinking walk", "action": "Darwin's home had a garden path, the Sandwalk, that visitors can still walk today. Take a 20-minute walk with one question in mind and no phone." },
+    { "day": 6, "title": "Ask an expert", "action": "More than 15,000 letters to and from Darwin survive, many asking others for facts. Send one polite question to someone who knows more than you about a topic." },
+    { "day": 7, "title": "Slow conclusion", "action": "Read your notebook from the week. Write one careful conclusion, and one thing you would need to check before you were sure." }
+  ],
+  "reflect": "What idea of yours would change if you wrote down every fact that went against it?",
+  "keepsake": "Charles Darwin Builder Collectible"
+}

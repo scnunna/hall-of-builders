@@ -40,7 +40,7 @@ function lobby() {
       <h3>${esc(w.name)}</h3>
       <p class="door-title">${esc(w.title)}</p>
       <p>${esc(w.hook)}</p>
-      ${w.status === 'open' ? `<a class="btn btn-gold" href="#/section/${w.id}">Enter the Section</a>` : `<a class="btn btn-ghost" href="#/vote">Get notified</a>`}
+      ${w.status === 'open' ? `<a class="btn btn-gold" href="${import.meta.env.BASE_URL}${w.id}/">Enter the Section</a>` : `<a class="btn btn-ghost" href="#/vote">Get notified</a>`}
     </article>`).join('');
   return `
   <section class="hero">
@@ -101,9 +101,9 @@ function wing(b: Builder) {
     const x = museumHTML(b.id, b.name, b.years, m, art, all);
     const srcList = Object.values(all).map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join('');
     return `${x.splash}
-    <nav class="m-nav" aria-label="In this museum"><a href="#life" data-jump>Life</a><a href="#works" data-jump>Work</a>${m.patents?.length ? '<a href="#patents" data-jump>Patents</a>' : ''}<a href="#principles" data-jump>Principles</a><a href="#challenge" data-jump>Challenge</a><a href="#books" data-jump>Books</a></nav>
+    <nav class="m-nav" aria-label="In this museum"><a href="#life" data-jump>Life</a>${x.featureNav}<a href="#works" data-jump>Work</a>${m.patents?.length ? '<a href="#patents" data-jump>Patents</a>' : ''}<a href="#principles" data-jump>Principles</a><a href="#challenge" data-jump>Challenge</a><a href="#books" data-jump>Books</a></nav>
     <section class="wrap intro"><p class="lead">${esc(b.tagline)}</p></section>
-    ${x.timeline}${x.works}${x.patents}${tail}${x.books}${x.resources}${keepsake}
+    ${x.timeline}${x.feature}${x.works}${x.patents}${tail}${x.books}${x.resources}${keepsake}
     <section class="wrap sources"><h2 class="sec">All sources</h2><ul>${srcList}</ul><p class="muted small">Where historical accounts disagree, we say so in the text. Found an error? <a href="#/legal/editorial">Corrections policy</a>.</p></section>`;
   }
   return `
@@ -193,8 +193,16 @@ function wireVote() {
   f.addEventListener('change', update);
 }
 
+// Each Section also has a real, crawlable URL: <base>/<id>/ (written by scripts/prerender.mjs). Hash routes keep working.
+const BASE = import.meta.env.BASE_URL;
+let rendered = false;
 function route() {
-  const h = location.hash.replace(/^#/, '') || '/';
+  const hashRoute = location.hash.startsWith('#/') ? location.hash.slice(1) : '';
+  if (!hashRoute && location.hash && rendered) return;   // in-page anchor like #life: let the browser scroll
+  const pathId = location.pathname.startsWith(BASE) ? location.pathname.slice(BASE.length).replace(/\/(index\.html)?$/, '') : '';
+  const h = hashRoute || (/^[a-z]+$/.test(pathId) && builders[pathId] ? `/section/${pathId}` : '/');
+  const anchor = !hashRoute && location.hash ? location.hash : '';
+  rendered = true;
   const m = h.match(/^\/(?:wing|section)\/([a-z]+)/);   // old /wing/ links keep working
   if (m && builders[m[1]]) { main.innerHTML = wing(builders[m[1]]); document.title = `${builders[m[1]].name} | Hall of Builders`; }
   else if (h === '/quiz') { main.innerHTML = quiz(); document.title = 'Which Builder are you? | Hall of Builders'; }
@@ -216,6 +224,7 @@ function route() {
   }));
   const ta = document.getElementById('reflect') as HTMLTextAreaElement | null;
   if (ta) ta.addEventListener('input', () => store.set(`hob.reflect.${h.split('/').pop()}`, ta.value));
+  if (anchor) document.querySelector(anchor)?.scrollIntoView();
 }
 
 // Light / dark switch (top right). The choice is saved on this device only.

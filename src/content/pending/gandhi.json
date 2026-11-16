@@ -1,0 +1,65 @@
+{
+  "id": "gandhi",
+  "name": "Mahatma Gandhi",
+  "years": "1869 - 1948",
+  "title": "The Peaceful Rebel",
+  "tagline": "A shy lawyer who tested one idea for fifty years: that ordinary people can resist injustice by refusing to obey it, openly and without violence.",
+  "sources": {
+    "w-gandhi": { "label": "Mahatma Gandhi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi" },
+    "w-hindswaraj": { "label": "Hind Swaraj (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Hind_Swaraj" },
+    "pg-homerule": { "label": "Indian Home Rule (Hind Swaraj), M. K. Gandhi, 5th ed., Ganesh & Co., Madras, 1922 (Project Gutenberg #40461)", "url": "https://www.gutenberg.org/ebooks/40461" },
+    "pg-freedom": { "label": "Freedom's Battle, M. K. Gandhi, 2nd ed. 1922, writings from Young India (Project Gutenberg #10366)", "url": "https://www.gutenberg.org/ebooks/10366" },
+    "pg-thirdclass": { "label": "Third Class in Indian Railways, M. K. Gandhi, Gandhi Publications League, Lahore (Project Gutenberg #24461)", "url": "https://www.gutenberg.org/ebooks/24461" },
+    "w-chauri": { "label": "Chauri Chaura incident (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Chauri_Chaura_incident" },
+    "w-champaran": { "label": "Champaran Satyagraha (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Champaran_Satyagraha" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "The means are the seed",
+      "idea": "Gandhi argued that you cannot reach a good goal by bad methods. What you do along the way shapes what you end up with, just as a seed decides what kind of tree will grow.",
+      "quote": { "text": "The means may be likened to a seed, the end to a tree; and there is just the same inviolable connection between the means and the end as there is between the seed and the tree.", "credit": "Indian Home Rule (Hind Swaraj), ch. XVI (written 1909; Gandhi's own English translation, Ganesh & Co. ed. 1922)" },
+      "practice": "Pick one goal you care about. Write down how you plan to reach it, and ask: would I be proud of these steps even if the goal failed?",
+      "sources": ["pg-homerule", "w-hindswaraj"]
+    },
+    {
+      "title": "Freedom starts with self-rule",
+      "idea": "For Gandhi, swaraj (self-rule) did not only mean the British leaving. It began with each person learning to govern their own habits, fears and temper.",
+      "quote": { "text": "It is Swaraj when we learn to rule ourselves. It is therefore in the palm of our hands.", "credit": "Indian Home Rule (Hind Swaraj), ch. XIV (written 1909; Ganesh & Co. ed. 1922)" },
+      "practice": "Choose one small habit that rules you, such as checking your phone first thing. Practise ruling it for one day.",
+      "sources": ["pg-homerule", "w-hindswaraj"]
+    },
+    {
+      "title": "Resist by bearing the cost",
+      "idea": "His method, which he called satyagraha or soul-force, meant openly refusing to obey an unjust law and calmly accepting the penalty, instead of hurting the other side.",
+      "quote": { "text": "If I do not obey the law and accept the penalty for its breach, I use soul-force. It involves sacrifice of self.", "credit": "Indian Home Rule (Hind Swaraj), ch. XVII (written 1909; Ganesh & Co. ed. 1922)" },
+      "practice": "Next time you disagree with a rule at school or work, say so openly and politely, through the proper channel, and be ready to accept the answer.",
+      "sources": ["pg-homerule", "w-gandhi"]
+    },
+    {
+      "title": "Own the results",
+      "idea": "When his campaigns turned violent, Gandhi stopped them, even when others thought he was wrong to. At his trial in 1922 he took responsibility instead of blaming his followers.",
+      "quote": { "text": "Non-violence is the first article of my faith. It is the last article of my faith.", "credit": "Statement at his trial, Ahmedabad, 18 March 1922; printed in Freedom's Battle, 2nd ed. (1922)" },
+      "practice": "Think of one thing that went wrong in a group you were part of. Write down your share of it, and one thing you will do differently.",
+      "sources": ["pg-freedom", "w-chauri", "w-gandhi"]
+    },
+    {
+      "title": "See it for yourself",
+      "idea": "Gandhi studied problems by living them. He travelled third class on Indian trains by choice and went to Champaran himself to study the indigo farmers' complaints, then wrote down exactly what he saw.",
+      "quote": { "text": "...let the people in high places, the Viceroy, the Commander-in-Chief, the Rajas, Maharajas, the Imperial Councillors and others, who generally travel in superior classes, without previous warning, go through the experiences now and then of third class travelling.", "credit": "Third Class in Indian Railways, Ranchi, 25 September 1917" },
+      "practice": "Spend ten minutes using something the way the people who rely on it most do, such as the bus, the clinic queue or the help line. Note one thing that could be better.",
+      "sources": ["pg-thirdclass", "w-champaran"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Seed and tree", "action": "Write one goal and the steps you plan to take. Cross out any step you would not be proud of." },
+    { "day": 2, "title": "Rule yourself", "action": "Pick one habit that controls you. Keep it in check from morning to night." },
+    { "day": 3, "title": "Third class", "action": "Use a service the way people with the least money use it. Write down what you notice." },
+    { "day": 4, "title": "Speak openly", "action": "Raise one disagreement calmly and in the open, without insults or hidden moves." },
+    { "day": 5, "title": "Your share", "action": "Think of something that went wrong. Write down your part in it, without blaming anyone else." },
+    { "day": 6, "title": "Make it by hand", "action": "Like Gandhi at his spinning wheel, spend 20 minutes making or mending something useful with your hands.", "sources": ["w-gandhi"] },
+    { "day": 7, "title": "Your experiment", "action": "Read your notes from the week. Write one rule for peaceful courage in your own words." }
+  ],
+  "reflect": "Where in your life could you refuse to go along with something unfair, openly and without harming anyone?",
+  "keepsake": "Mahatma Gandhi Builder Collectible"
+}

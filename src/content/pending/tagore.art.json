@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "04-gitanjali",
+ "panels": [
+  { "key": "01-jorasanko", "year": "1861" },
+  { "key": "02-shelaidaha", "year": "1890" },
+  { "key": "03-school", "year": "1901" },
+  { "key": "04-gitanjali", "year": "1912" },
+  { "key": "05-nobel", "year": "1913" },
+  { "key": "06-protest", "year": "1919" },
+  { "key": "07-painting", "year": "1930" },
+  { "key": "08-farewell", "year": "1941" }
+ ]
+}

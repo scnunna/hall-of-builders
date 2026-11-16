@@ -1,0 +1,66 @@
+{
+  "id": "edison",
+  "name": "Thomas Alva Edison",
+  "years": "1847 - 1931",
+  "title": "The Invention Factory",
+  "tagline": "He left school early, taught himself by testing everything, and built a lab where a team could invent on purpose.",
+  "sources": {
+    "w-edison": { "label": "Thomas Edison (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Thomas_Edison" },
+    "pg-dm": { "label": "Edison: His Life and Inventions, Frank Lewis Dyer and Thomas Commerford Martin (1910), full text (Project Gutenberg #820)", "url": "https://www.gutenberg.org/ebooks/820" },
+    "ws-kineto": { "label": "Edison's Invention of the Kineto-Phonograph: Introduction, by Thomas A. Edison, Century Magazine, June 1894 (Wikisource)", "url": "https://en.wikisource.org/wiki/Century_Magazine/Volume_48/Issue_2/Edison's_Invention_of_the_Kineto-Phonograph:_Introduction" },
+    "rut-factory": { "label": "The Invention Factory, Thomas A. Edison Papers (Rutgers University)", "url": "https://edison.rutgers.edu/life-of-edison/biographical-essays/the-invention-factory" },
+    "rut-working": { "label": "Working at Menlo Park, Thomas A. Edison Papers (Rutgers University)", "url": "https://edison.rutgers.edu/life-of-edison/biographical-essays/factory/working-at-menlo-park" },
+    "rut-transmitter": { "label": "Telephone Transmitter, Thomas A. Edison Papers (Rutgers University)", "url": "https://edison.rutgers.edu/life-of-edison/inventions?view=article&id=541:telephone-transmitter&catid=91" },
+    "rut-battery": { "label": "Storage Battery, Thomas A. Edison Papers (Rutgers University)", "url": "https://edison.rutgers.edu/life-of-edison/inventions?view=article&id=540:storage-battery&catid=91" },
+    "w-kineto": { "label": "Kinetoscope (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Kinetoscope" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Turn a limit into a tool",
+      "idea": "Edison had trouble hearing from about age 12. Instead of treating it only as a loss, he said it helped him focus in noisy telegraph offices, and it pushed him to make the telephone transmitter loud enough for him to hear. That louder transmitter helped make the telephone practical.",
+      "quote": { "text": "In experimenting on the telephone, I had to improve the transmitter so I could hear it.", "credit": "Edison, quoted in Edison: His Life and Inventions, ch. III, by F. L. Dyer and T. C. Martin (1910)" },
+      "practice": "Name one thing that makes a task harder for you. Write one way that same limit could push you to a better method.",
+      "sources": ["pg-dm", "w-edison", "rut-transmitter"]
+    },
+    {
+      "title": "Invent what people need",
+      "idea": "His first patent was a fast vote recorder for lawmakers. It worked, but a congressional committee told him they did not want it, because slow voting was useful to them. Edison decided from then on to work only on things people really wanted.",
+      "quote": { "text": "Young man, if there is any invention on earth that we don't want down here, it is this.", "credit": "A committee chairman's words, as Edison recalled them in Edison: His Life and Inventions, ch. VI, by F. L. Dyer and T. C. Martin (1910)" },
+      "practice": "Before you start a project this week, ask one person who would use it what they actually need. Change one thing based on the answer.",
+      "sources": ["pg-dm", "w-edison"]
+    },
+    {
+      "title": "Every failure is a result",
+      "idea": "While building a new storage battery, Edison and his team ran thousands of tests that did not work. A colleague felt sorry for him. Edison answered that each failed test was useful, because it told them what not to try again.",
+      "quote": { "text": "Results! Why, man, I have gotten a lot of results! I know several thousand things that won't work.", "credit": "Edison, as recalled by his associate W. S. Mallory, in Edison: His Life and Inventions, ch. XXIV, by F. L. Dyer and T. C. Martin (1910)" },
+      "practice": "Keep a short test log today. Each time something does not work, write one line: what you tried and what it taught you.",
+      "sources": ["pg-dm", "rut-battery"]
+    },
+    {
+      "title": "Do not trust the first try",
+      "idea": "When the first tinfoil phonograph played back his voice on the first attempt, Edison was amazed, but also wary. In his experience most inventions had hidden problems that showed up only after long testing, so he kept testing before calling anything finished.",
+      "quote": { "text": "I was always afraid of things that worked the first time.", "credit": "Edison, quoted in Edison: His Life and Inventions, ch. X, by F. L. Dyer and T. C. Martin (1910)" },
+      "practice": "Take something you finished recently and test it once more in a new way, or ask a friend to try it. Fix one problem you find.",
+      "sources": ["pg-dm", "w-edison"]
+    },
+    {
+      "title": "Build on others, and name them",
+      "idea": "Edison worked with a team: machinists, chemists, a mathematician and photographers. When he announced his moving-picture viewer, he named the toy and the earlier inventors that gave him the idea, and the assistant, W. K. L. Dickson, who did much of the work.",
+      "quote": { "text": "This idea, the germ of which came from the little toy called the Zoetrope, and the work of Muybridge, Marié and others has now been accomplished.", "credit": "Thomas A. Edison, Introduction to Edison's Invention of the Kineto-Phonograph, Century Magazine (June 1894)" },
+      "practice": "Think of something you are proud of. Write down two people or ideas that helped you get there, and thank one of them today.",
+      "sources": ["ws-kineto", "w-kineto", "rut-factory", "rut-working"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Read the shelf", "action": "As a boy, Edison tried to read a library shelf straight through. Pick one topic and read one short article or chapter about it today.", "sources": ["pg-dm"] },
+    { "day": 2, "title": "Start a test log", "action": "Get a notebook. Write down one small thing you want to improve and your first idea for how to test it." },
+    { "day": 3, "title": "Ask who needs it", "action": "Ask one person what problem they would love solved. Write down their exact words." },
+    { "day": 4, "title": "Count your results", "action": "Try your idea three different ways. Log what did not work and what each try taught you." },
+    { "day": 5, "title": "Test it again", "action": "Take the version that worked best and test it once more in a new way. Fix one weak spot." },
+    { "day": 6, "title": "Thank the team", "action": "Name the people who helped you this week, even in small ways, and thank one of them.", "sources": ["rut-working"] },
+    { "day": 7, "title": "Make it a system", "action": "Read back your test log. Write the steps that worked as a short checklist you can use again." }
+  ],
+  "reflect": "What is one problem around you worth solving, and who could you solve it with?",
+  "keepsake": "Thomas Alva Edison Builder Collectible"
+}

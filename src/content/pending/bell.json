@@ -1,0 +1,66 @@
+{
+  "id": "bell",
+  "name": "Alexander Graham Bell",
+  "years": "1847 - 1922",
+  "title": "The Voice Carrier",
+  "tagline": "He taught deaf students to speak, studied how the human ear works, and turned that knowledge into the telephone. Then he kept inventing for 45 more years, from Washington to a lake in Nova Scotia.",
+  "sources": {
+    "w-bell": { "label": "Alexander Graham Bell (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell" },
+    "pg-telephone": { "label": "The Telephone: Researches in Electric Telephony, lecture by A. G. Bell, 31 Oct 1877 (published 1878), full text (Project Gutenberg #55787)", "url": "https://www.gutenberg.org/ebooks/55787" },
+    "ia-deposition": { "label": "The Bell Telephone: The Deposition of Alexander Graham Bell (1908), full text (Internet Archive)", "url": "https://archive.org/details/the-bell-telephone" },
+    "pg-marden": { "label": "How They Succeeded, O. S. Marden (1901), chapter 'Hints on Success by Alexander G. Bell' (Project Gutenberg #64059)", "url": "https://www.gutenberg.org/ebooks/64059" },
+    "wq-bell": { "label": "Alexander Graham Bell (Wikiquote)", "url": "https://en.wikiquote.org/wiki/Alexander_Graham_Bell" },
+    "w-visible": { "label": "Visible Speech (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Visible_Speech" },
+    "w-homestead": { "label": "Bell Homestead National Historic Site (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Bell_Homestead_National_Historic_Site" },
+    "w-mabel": { "label": "Mabel Gardiner Hubbard (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mabel_Gardiner_Hubbard" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Copy what nature already does",
+      "idea": "Bell was trying to draw sound waves so deaf students could see them. A doctor gave him a real human ear to use as a recorder. He noticed that a thin eardrum moves heavy little bones, and asked why a thin membrane could not move a piece of iron in front of a magnet. That question became the telephone.",
+      "quote": { "text": "...it occurred to me that there was a remarkable likeness between the manner in which this piece of wood was vibrated by the membrane of the phonautograph and the manner in which the ossiculæ of the human ear were moved by the tympanic membrane.", "credit": "Researches in Electric Telephony, lecture to the Society of Telegraph Engineers, London, 31 October 1877 (published 1878)" },
+      "practice": "Pick one problem you are stuck on. Find one thing in nature or the human body that already solves something like it, and write down what it does differently.",
+      "sources": ["pg-telephone", "w-bell"]
+    },
+    {
+      "title": "Start with the people you serve",
+      "idea": "Bell's first job in America was teaching deaf children to speak with his father's Visible Speech symbols. His sound experiments began as tools for those students. (He used the words of his time, 'deaf and dumb'; today that phrase is seen as outdated.)",
+      "quote": { "text": "The great success of these experiments urged upon me the advisability of devising methods of exhibiting the vibrations of sound optically, for use in teaching the deaf and dumb.", "credit": "Researches in Electric Telephony, lecture to the Society of Telegraph Engineers (1877, published 1878)" },
+      "practice": "Think of one person you help, teach or work for. Ask them what is hardest for them this week, and write down one small thing you could make or change to help.",
+      "sources": ["pg-telephone", "w-visible", "w-bell"]
+    },
+    {
+      "title": "Bring your thoughts to a focus",
+      "idea": "When an interviewer asked Bell what made people succeed, he named perseverance aimed at a practical goal, and then concentration. He compared a focused mind to sunlight through a lens.",
+      "quote": { "text": "Concentrate all your thought upon the work in hand. The sun's rays do not burn until brought to a focus.", "credit": "Interview in O. S. Marden, How They Succeeded (1901)" },
+      "practice": "Choose one task. Put your phone in another room, set a timer for 25 minutes and work only on that task until it rings.",
+      "sources": ["pg-marden", "wq-bell"]
+    },
+    {
+      "title": "Let your mind work overnight",
+      "idea": "Bell did his best thinking at night and believed the brain keeps working while we sleep. Before bed he gathered all the facts about a problem, and often found it clearer in the morning.",
+      "quote": { "text": "When I have worked a long time on one thing, I make it a point to bring all the facts regarding it together before I retire; and I have often been surprised at the results.", "credit": "Interview in O. S. Marden, How They Succeeded (1901)" },
+      "practice": "Tonight, write down one problem and every fact you know about it on a single page. Read it once before sleep, and write your first idea when you wake up.",
+      "sources": ["pg-marden"]
+    },
+    {
+      "title": "Write it down the same day",
+      "idea": "Bell kept careful laboratory notebooks. The words of the first clear telephone call survive because he wrote them in his notebook that day. Years later, those dated records helped him defend his work in court.",
+      "quote": { "text": "Mr. Watson — Come here — I want to see you.", "credit": "Bell's laboratory notebook, 10 March 1876 (as recorded on Wikiquote)" },
+      "practice": "Start a simple work notebook. Each day, write the date, what you tried, what happened and what you will try next.",
+      "sources": ["wq-bell", "w-bell", "ia-deposition"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Listen closely", "action": "Sit quietly for five minutes and list every sound you can hear. Pick one and ask how it travels to your ear." },
+    { "day": 2, "title": "Nature's answer", "action": "Pick a problem you have. Find one thing in nature or the human body that solves something similar, and note what you could borrow." },
+    { "day": 3, "title": "Ask first", "action": "Ask one person you help or work with what is hardest for them right now. Write down one small way to make it easier." },
+    { "day": 4, "title": "Bring it to a focus", "action": "Do 25 minutes on one task with no phone and no other tabs. Notice how far you get." },
+    { "day": 5, "title": "Sleep on it", "action": "Before bed, write one problem and all its facts on one page. In the morning, write your first idea." },
+    { "day": 6, "title": "The notebook", "action": "Like Bell, keep a dated notebook today: what you tried, what happened, what is next.", "sources": ["w-bell"] },
+    { "day": 7, "title": "Thank a teacher", "action": "Bell credited his father's work on speech. Write a short note thanking someone who taught you something you still use.", "sources": ["pg-telephone"] }
+  ],
+  "reflect": "Who are the people your work is really for, and what would you build if you started from their hardest problem?",
+  "keepsake": "Alexander Graham Bell Builder Collectible"
+}

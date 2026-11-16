@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "05-sittingroom",
+ "panels": [
+  { "key": "01-rectory", "year": "1787" },
+  { "key": "02-refused", "year": "1797" },
+  { "key": "03-bath", "year": "1801" },
+  { "key": "04-chawton", "year": "1809" },
+  { "key": "05-sittingroom", "year": "1811" },
+  { "key": "06-readaloud", "year": "1813" },
+  { "key": "07-ending", "year": "1816" },
+  { "key": "08-winchester", "year": "1817" }
+ ]
+}

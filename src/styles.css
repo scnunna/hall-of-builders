@@ -246,3 +246,12 @@ h1, h2, h3 { overflow-wrap: break-word; hyphens: auto; }
   .mp-speed { font-size: 16px; }
 }
 @media (max-width: 400px) { .m-end { display: none; } }
+
+/* ---------- Signature section ---------- */
+.f-items { list-style: none; padding: 0; margin: 22px 0 0; display: grid; gap: 16px; }
+.f-cards .f-items { grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); }
+.f-item { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 14px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; }
+.f-n { font-family: var(--serif); font-size: 1.6rem; color: var(--gold); line-height: 1; min-width: 2ch; }
+.f-item h3 { font-size: 1.2rem; } .f-item h3 a { color: var(--marble); }
+.f-route .f-items { position: relative; gap: 0; }
+.f-route .f-item { border-radius: 0; border-top: 0; } .f-route .f-item:first-child { border-top: 1px solid var(--line); border-radius: 12px 12px 0 0; } .f-route .f-item:last-child { border-radius: 0 0 12px 12px; }

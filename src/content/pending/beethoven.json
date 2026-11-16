@@ -1,0 +1,65 @@
+{
+  "id": "beethoven",
+  "name": "Ludwig van Beethoven",
+  "years": "1770 - 1827",
+  "title": "The Unbroken Composer",
+  "tagline": "He began to lose his hearing before he was 30, chose to keep working, and wrote music that changed what a symphony could be.",
+  "sources": {
+    "w-beethoven": { "label": "Ludwig van Beethoven (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven" },
+    "w-heiligenstadt": { "label": "Heiligenstadt Testament (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Heiligenstadt_Testament" },
+    "wallace1": { "label": "Beethoven's Letters 1790-1826, Vol. 1, tr. Lady Wallace (Project Gutenberg #13065)", "url": "https://www.gutenberg.org/ebooks/13065" },
+    "wallace2": { "label": "Beethoven's Letters 1790-1826, Vol. 2, tr. Lady Wallace (Project Gutenberg #13272)", "url": "https://www.gutenberg.org/ebooks/13272" },
+    "w-method": { "label": "Beethoven's compositional method (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Beethoven%27s_compositional_method" },
+    "w-sym3": { "label": "Symphony No. 3 (Beethoven) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Symphony_No._3_(Beethoven)" },
+    "w-sym9": { "label": "Symphony No. 9 (Beethoven) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Choose patience",
+      "idea": "In 1802, at 31, Beethoven knew his hearing would not come back. In a private letter to his brothers, never sent, he wrote about his despair. He also wrote that his art held him to life, and that he would go on with patience as his guide.",
+      "quote": { "text": "It is decreed that I must now choose Patience for my guide! This I have done.", "credit": "Heiligenstadt Testament, 6 October 1802 (Nohl no. 26), tr. Lady Wallace (1866)" },
+      "practice": "Name one hard thing in your life that will not change soon. Write one sentence on how you will keep working anyway, at a steady, patient pace.",
+      "sources": ["w-heiligenstadt", "wallace1", "w-beethoven"]
+    },
+    {
+      "title": "Meet it head on",
+      "idea": "In letters to his old friend Wegeler, Beethoven admitted how hard deafness was for a musician. But he refused to let it decide his life. He kept composing, and some of his boldest works came in the years that followed.",
+      "quote": { "text": "I will boldly meet my fate, never shall it succeed in crushing me.", "credit": "Letter to Franz Wegeler (Nohl no. 18), tr. Lady Wallace (1866)" },
+      "practice": "Write down one fear about your work. Then write the very next small step you can take toward it today, and take it.",
+      "sources": ["wallace1", "w-beethoven"]
+    },
+    {
+      "title": "A little every day",
+      "idea": "Beethoven filled sketchbooks with ideas and worked them over again and again. One passage of the Pastoral Symphony has at least fourteen drafts. Late in life he told Wegeler his rule: no day without a line.",
+      "quote": { "text": "...my maxim has always been,--Nulla dies sine linea [no day without a line].", "credit": "Letter to Franz Wegeler, 1826 (Nohl no. 459), tr. Lady Wallace (1866)" },
+      "practice": "Keep a small notebook today. Write down every idea you have, even half ones. Tonight, pick one and improve it a little.",
+      "sources": ["wallace2", "w-method"]
+    },
+    {
+      "title": "Never be satisfied",
+      "idea": "Beethoven kept raising his own standard. He told the poet Matthisson that the more an artist grows, the less he likes his old work. That restlessness pushed him from his early style to the huge, new forms of his late years.",
+      "quote": { "text": "...the greater the advances we make in art, the less are we satisfied with our works of an earlier date.", "credit": "Letter to Friedrich von Matthisson, 4 August 1800 (Nohl no. 16), tr. Lady Wallace (1866)" },
+      "practice": "Look at something you made a year ago. Write down one thing you would now do better. Use that lesson in what you make next.",
+      "sources": ["wallace1"]
+    },
+    {
+      "title": "Respect the old, then go further",
+      "idea": "Beethoven studied Bach and Handel closely and told his pupil Archduke Rudolph to learn from them. But he believed art must keep moving. His Eroica doubled the length of a symphony, and his Ninth added singers.",
+      "quote": { "text": "...freedom and progress are our true aim in the world of art, just as in the great creation at large.", "credit": "Letter to Archduke Rudolph, 29 July 1819 (Nohl no. 269), tr. Lady Wallace (1866)" },
+      "practice": "Pick one master in your field. Copy one thing they did well. Then change one part of it to make it your own.",
+      "sources": ["wallace2", "w-sym3", "w-sym9"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Patience", "action": "Name one slow, hard thing in your life. Write how you will keep going with it this week, step by step." },
+    { "day": 2, "title": "The pocket sketchbook", "action": "Carry a small notebook all day. Write down every idea, however rough.", "sources": ["w-method"] },
+    { "day": 3, "title": "No day without a line", "action": "Do at least ten minutes on your main project, even if you do not feel like it." },
+    { "day": 4, "title": "A walk to think", "action": "Take a walk outside without your phone. Let your mind work on one problem, and note what comes to you.", "sources": ["wallace1"] },
+    { "day": 5, "title": "Fourteen drafts", "action": "Take one thing you wrote or made and redo one part three different ways. Keep the best.", "sources": ["w-method"] },
+    { "day": 6, "title": "Learn from a master", "action": "Study one great work in your field for 20 minutes. Write one thing you will borrow and one thing you would change." },
+    { "day": 7, "title": "Your own rule", "action": "Read back your notes from the week. Write one rule, in your own words, for keeping going when it is hard." }
+  ],
+  "reflect": "What is one thing you have been waiting to do until conditions are perfect, that you could start today as you are?",
+  "keepsake": "Ludwig van Beethoven Builder Collectible"
+}

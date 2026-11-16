@@ -1,0 +1,615 @@
+{
+  "sources": {
+    "w-walker": { "label": "Madam C. J. Walker (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Madam_C._J._Walker" },
+    "w-legacy": { "label": "Madam Walker Legacy Center (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Madam_Walker_Legacy_Center" },
+    "w-lewaro": { "label": "Villa Lewaro (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Villa_Lewaro" },
+    "w-alelia": { "label": "A'Lelia Walker (Wikipedia)", "url": "https://en.wikipedia.org/wiki/A%27Lelia_Walker" },
+    "mcjw-essay": { "label": "Madam C. J. Walker, biography essay by A'Lelia Bundles (madamcjwalker.com, Walker family archives)", "url": "https://madamcjwalker.com/about/" },
+    "mcjw-places": { "label": "History resources and places, A'Lelia Bundles (madamcjwalker.com)", "url": "https://madamcjwalker.com/history-resources/" },
+    "mcjw-books": { "label": "Books, A'Lelia Bundles (madamcjwalker.com)", "url": "https://madamcjwalker.com/books/" },
+    "swf-1912": { "label": "Walker's speech to the National Negro Business League, Chicago, 23 August 1912, transcription from the NNBL records (Speaking While Female)", "url": "https://speakingwhilefemale.co/business-walker/" },
+    "nara-prologue": { "label": "Madam C. J. Walker's rags to riches story found in the holdings of the National Archives (Prologue blog, 2021)", "url": "https://prologue.blogs.archives.gov/2021/07/22/madam-c-j-walkers-rags-to-riches-story-found-in-the-holdings-of-the-national-archives/" },
+    "loc-teachers": { "label": "Inventions and Innovations: Entrepreneur Madam C. J. Walker (Library of Congress, Teaching with the Library blog, 2024)", "url": "https://blogs.loc.gov/teachers/2024/04/inventions-and-innovations-entrepreneur-madam-c-j-walker/" },
+    "loc-beauty": { "label": "The Business of Beauty: History (Library of Congress research guide)", "url": "https://guides.loc.gov/business-of-beauty/history" },
+    "ihs-hoosier": { "label": "Madam C. J. Walker, Famous Hoosiers (Indiana Historical Society)", "url": "https://indianahistory.org/education/educator-resources/famous-hoosiers/madam-c-j-walker/" },
+    "ihs-collection": { "label": "More than 40,000 Madam C. J. Walker related items now accessible (Indiana Historical Society, 2020)", "url": "https://indianahistory.org/press-release/more-than-40000-madam-c-j-walker-related-items-now-accessible-from-anywhere-in-the-world/" },
+    "qi-flower": { "label": "Quote Origin: There Is No Royal and Flower Strewn Road To Success (Quote Investigator, 2021)", "url": "https://quoteinvestigator.com/2021/02/12/flower-strewn/" }
+  },
+  "feature": {
+    "nav": "Her Route",
+    "title": "From washerwoman to company founder",
+    "lead": "Walker did not inherit a business or marry into one. Step by step, over about fifteen years, she turned a home-made hair product into a company, a school system and a network of thousands of women agents.",
+    "style": "route",
+    "items": [
+      {
+        "label": "At the washtub",
+        "date": "1888",
+        "place": "St. Louis, Missouri",
+        "text": "A young widow with a small daughter, she moved to St. Louis, where her brothers worked as barbers. She earned her living washing clothes, and learned about hair care from her brothers.",
+        "sources": ["w-walker", "mcjw-essay", "nara-prologue"]
+      },
+      {
+        "label": "A problem of her own",
+        "date": "1890s",
+        "place": "St. Louis, Missouri",
+        "text": "A scalp ailment made her lose most of her hair. She tried many remedies looking for a cure. Her business began with her own need.",
+        "sources": ["mcjw-essay"]
+      },
+      {
+        "label": "Selling for someone else",
+        "date": "c. 1904",
+        "place": "St. Louis, Missouri",
+        "text": "She became a commission agent selling hair products for Annie Turnbo Malone, another Black businesswoman. She learned how door-to-door selling worked, and began working on her own product line.",
+        "sources": ["w-walker", "loc-beauty"]
+      },
+      {
+        "label": "Her own product",
+        "date": "1905-1906",
+        "place": "Denver, Colorado",
+        "text": "In Denver she began selling Madam Walker's Wonderful Hair Grower, which she said had come to her in a dream. Malone accused her of copying a formula; the basic mix of petroleum jelly and sulfur had been in use for a century. She married Charles Joseph Walker and took the name Madam C. J. Walker.",
+        "sources": ["mcjw-essay", "w-walker"]
+      },
+      {
+        "label": "On the road",
+        "date": "1906-1907",
+        "place": "The South and Southeast, United States",
+        "text": "From September 1906 she spent about a year and a half travelling across the South and Southeast, selling her products door to door. Her daughter Lelia ran the mail-order side.",
+        "sources": ["mcjw-essay", "mcjw-places", "w-walker"]
+      },
+      {
+        "label": "A school for the method",
+        "date": "1908",
+        "place": "Pittsburgh, Pennsylvania",
+        "text": "She opened Lelia College in Pittsburgh to train Walker hair culturists in the Walker System, her method of washing, treating and pressing hair. Training turned customers into skilled workers.",
+        "sources": ["mcjw-essay", "mcjw-places", "w-walker"]
+      },
+      {
+        "label": "The factory in Indianapolis",
+        "date": "1910",
+        "place": "Indianapolis, Indiana",
+        "text": "In February 1910 she moved her headquarters to Indianapolis. At 640 North West Street she set up a factory, a hair and manicure salon and a training school. The Madam C. J. Walker Manufacturing Company stayed in the city for more than seventy years.",
+        "url": "https://indianahistory.org/education/educator-resources/famous-hoosiers/madam-c-j-walker/",
+        "sources": ["mcjw-places", "w-walker", "loc-beauty", "ihs-hoosier"]
+      },
+      {
+        "label": "Speaking from the floor",
+        "date": "1912",
+        "place": "Chicago, Illinois",
+        "text": "At the National Negro Business League convention, Booker T. Washington did not put her on the program. She stood up from the floor and told her story anyway. The next year she spoke as a keynote speaker from the podium.",
+        "sources": ["swf-1912", "nara-prologue", "w-walker"]
+      },
+      {
+        "label": "The Walker agents",
+        "date": "1911-1919",
+        "place": "Across the United States and the Caribbean",
+        "text": "Several thousand women worked as licensed Walker sales agents, earning commissions and running their own small businesses. By 1917 the company said it had trained nearly 20,000 women. Many managers and staff were women too.",
+        "sources": ["w-walker", "ihs-hoosier", "loc-teachers"]
+      },
+      {
+        "label": "Clubs and a convention",
+        "date": "1917",
+        "place": "Philadelphia, Pennsylvania",
+        "text": "She organized her agents into local and state clubs and held their first national convention, with about 200 women. She gave prizes not only for top sales but also to agents who gave the most to charity in their towns. She urged them to protest the violence in East St. Louis.",
+        "sources": ["w-walker", "mcjw-essay"]
+      },
+      {
+        "label": "Giving back",
+        "date": "1911-1919",
+        "place": "Indianapolis, New York and beyond",
+        "text": "She gave $1,000 to the building fund of the Senate Avenue YMCA in Indianapolis, funded scholarships at Tuskegee, supported schools led by Black women such as Mary McLeod Bethune's, helped save Frederick Douglass's house, and pledged $5,000 to the NAACP's anti-lynching fund.",
+        "url": "https://www.loc.gov/resource/sn91052311/1911-12-23/ed-1/?sp=2",
+        "sources": ["w-walker", "loc-teachers", "ihs-hoosier", "mcjw-essay"]
+      },
+      {
+        "label": "A will that kept giving",
+        "date": "1919",
+        "place": "Irvington, New York",
+        "text": "When she died, she left nearly $100,000 to orphanages, schools and people, and directed that two-thirds of the future net profits of her estate go to charity. Her daughter A'Lelia became president of the company.",
+        "sources": ["w-walker", "w-alelia"]
+      },
+      {
+        "label": "The building she planned",
+        "date": "1927",
+        "place": "Indianapolis, Indiana",
+        "text": "Before she died she bought land in downtown Indianapolis. In 1927 the Walker Building opened there, with the company headquarters, factory, beauty school, theatre and shops. Today it is the Madam Walker Legacy Center, a National Historic Landmark.",
+        "url": "https://en.wikipedia.org/wiki/Madam_Walker_Legacy_Center",
+        "sources": ["w-legacy", "mcjw-places"]
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1867-12-23",
+      "age": 0,
+      "place": "Delta, Louisiana, (United States)",
+      "title": "Born free",
+      "text": "Sarah Breedlove was born on a plantation near Delta, where her parents, Owen and Minerva Breedlove, had been enslaved before the Civil War. She was the first child in her family born into freedom.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-walker", "mcjw-essay"]
+    },
+    {
+      "date": "1872",
+      "age": 4,
+      "place": "Delta, Louisiana, (United States)",
+      "title": "Orphaned young",
+      "text": "Her mother died in 1872, probably of cholera. Her father remarried and died about a year later. By the age of seven Sarah was an orphan.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-walker", "nara-prologue"]
+    },
+    {
+      "date": "1878",
+      "age": 10,
+      "place": "Vicksburg, Mississippi, (United States)",
+      "title": "Working as a child",
+      "text": "Around the age of ten she moved to Vicksburg to live with her older sister Louvenia and her husband. She worked as a domestic servant. She later said she had \"little or no opportunity\" when she started out in life.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-walker", "mcjw-places"]
+    },
+    {
+      "date": "1882",
+      "age": 14,
+      "place": "Vicksburg, Mississippi, (United States)",
+      "title": "Married at fourteen",
+      "text": "At 14 she married Moses McWilliams, partly to escape mistreatment by her brother-in-law.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-walker", "mcjw-essay"]
+    },
+    {
+      "date": "1885-06-06",
+      "age": 17,
+      "place": "Vicksburg, Mississippi, (United States)",
+      "title": "Her daughter Lelia",
+      "text": "Her only child, Lelia, was born on 6 June 1885. Lelia, later known as A'Lelia Walker, would become her partner in the business.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-walker", "w-alelia"]
+    },
+    {
+      "date": "1887",
+      "age": 19,
+      "place": "Vicksburg, Mississippi, (United States)",
+      "title": "Widowed at twenty",
+      "text": "Moses McWilliams died, leaving Sarah a young widow with a two-year-old daughter.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-walker", "ihs-hoosier"]
+    },
+    {
+      "date": "1888",
+      "age": 20,
+      "place": "St. Louis, Missouri, (United States)",
+      "title": "A laundress in St. Louis",
+      "text": "She moved with Lelia to St. Louis, where her brothers were barbers. She worked as a laundress and joined St. Paul AME Church. From her brothers she learned about hair care.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["w-walker", "mcjw-essay", "mcjw-places"]
+    },
+    {
+      "date": "1894",
+      "age": 26,
+      "place": "St. Louis, Missouri, (United States)",
+      "title": "A second marriage",
+      "text": "She married John Davis. The 1900 census lists her as Sarah Davis. She left him around 1903.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-walker", "nara-prologue"]
+    },
+    {
+      "date": "1895",
+      "age": null,
+      "place": "St. Louis, Missouri, (United States)",
+      "title": "Losing her hair",
+      "text": "Sometime in the 1890s (the exact year is not known) a scalp ailment caused her to lose most of her hair. She tried many remedies. This personal problem led to her life's work.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["mcjw-essay"]
+    },
+    {
+      "date": "1904",
+      "age": 36,
+      "place": "St. Louis, Missouri, (United States)",
+      "title": "An agent for Annie Malone",
+      "text": "Around the time of the 1904 World's Fair in St. Louis she became a commission agent for Annie Turnbo Malone, who made hair products for Black women. Her own sales there were disappointing, but she learned the trade.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-walker", "loc-beauty"]
+    },
+    {
+      "date": "1905-07",
+      "age": 37,
+      "place": "Denver, Colorado, (United States)",
+      "title": "A fresh start in Denver",
+      "text": "In July 1905 she moved to Denver as a sales agent for Malone, then began making and selling her own product, Madam Walker's Wonderful Hair Grower. She said the formula came to her in a dream. Malone later accused her of copying.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["mcjw-essay", "mcjw-places", "w-walker"]
+    },
+    {
+      "date": "1906-01",
+      "age": 38,
+      "place": "Denver, Colorado, (United States)",
+      "title": "Madam C. J. Walker",
+      "text": "She married Charles Joseph Walker and from then on called herself Madam C. J. Walker. Sources differ on the year: Wikipedia gives January 1906, while some archives say 1905.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-walker", "nara-prologue"]
+    },
+    {
+      "date": "1906-09",
+      "age": 38,
+      "place": "The South and Southeast, (United States)",
+      "title": "Door to door",
+      "text": "She set out on about a year and a half of travel across the South and Southeast, selling her products door to door and showing women how to use them. Lelia ran the mail-order business from Denver.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["mcjw-essay", "mcjw-places", "w-walker"]
+    },
+    {
+      "date": "1908",
+      "age": 40,
+      "place": "Pittsburgh, Pennsylvania, (United States)",
+      "title": "Lelia College",
+      "text": "She moved her base to Pittsburgh and opened a beauty parlour and Lelia College, a school to train Walker hair culturists in her method.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["mcjw-essay", "mcjw-places", "w-walker"]
+    },
+    {
+      "date": "1910-02",
+      "age": 42,
+      "place": "Indianapolis, Indiana, (United States)",
+      "title": "Headquarters in Indianapolis",
+      "text": "She moved to Indianapolis and bought a house and factory at 640 North West Street. There she built a factory, a laboratory, a salon and a beauty school. The 1910 census lists her as a manufacturer of hair goods.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["mcjw-places", "w-walker", "ihs-hoosier", "nara-prologue"]
+    },
+    {
+      "date": "1911-12",
+      "age": 43,
+      "place": "Indianapolis, Indiana, (United States)",
+      "title": "A gift to the YMCA",
+      "text": "She pledged $1,000 to the building fund of the Senate Avenue YMCA for Black residents of Indianapolis. Newspapers reported the gift widely.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-walker", "loc-teachers", "mcjw-essay"]
+    },
+    {
+      "date": "1912",
+      "age": 44,
+      "place": "Indianapolis, Indiana, (United States)",
+      "title": "Divorce",
+      "text": "She and Charles Joseph Walker divorced. She kept the name under which she had built her business.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-walker", "nara-prologue"]
+    },
+    {
+      "date": "1912-08-23",
+      "age": 44,
+      "place": "Chicago, Illinois, (United States)",
+      "title": "\"I promoted myself\"",
+      "text": "At the National Negro Business League convention, Booker T. Washington did not give her a place on the program. She rose from the floor and spoke: she had come from the cotton fields, been \"promoted to the wash-tub\", and then promoted herself into manufacturing.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["swf-1912", "nara-prologue", "w-walker"]
+    },
+    {
+      "date": "1913",
+      "age": 45,
+      "place": "Harlem, New York City, (United States)",
+      "title": "A keynote speaker",
+      "text": "A year later she addressed the Business League convention from the podium as a keynote speaker. Lelia moved into a new Harlem townhouse with a Walker salon and training school designed by the Black architect Vertner Tandy.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-walker", "mcjw-essay", "w-alelia"]
+    },
+    {
+      "date": "1914",
+      "age": 46,
+      "place": "Cuba, Caribbean, (Cuba)",
+      "title": "Selling abroad",
+      "text": "After applying for a passport in 1913, she travelled in the Caribbean to promote her products. A 1914 ship manifest records her returning from Cuba.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["nara-prologue"]
+    },
+    {
+      "date": "1915",
+      "age": 47,
+      "place": "Indianapolis, Indiana, (United States)",
+      "title": "Challenging a theatre",
+      "text": "She began a lawsuit protesting racial discrimination at an Indianapolis theatre.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["ihs-hoosier"]
+    },
+    {
+      "date": "1916",
+      "age": 48,
+      "place": "New York City, New York, (United States)",
+      "title": "Move to New York",
+      "text": "She moved to Harlem to join Lelia. Her lawyer Freeman B. Ransom and factory manager Alice Kelly ran the Indianapolis headquarters. She began building an estate on the Hudson River.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["mcjw-essay", "mcjw-places", "w-lewaro"]
+    },
+    {
+      "date": "1917-07",
+      "age": 49,
+      "place": "New York City and Washington, D.C., (United States)",
+      "title": "Against lynching",
+      "text": "After deadly attacks on Black residents in East St. Louis, she joined the NAACP's New York executive committee, which organized the Silent Protest Parade. She was among Harlem leaders who took a petition to the White House asking for a federal law against lynching.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-walker", "mcjw-essay", "nara-prologue"]
+    },
+    {
+      "date": "1917-08",
+      "age": 49,
+      "place": "Philadelphia, Pennsylvania, (United States)",
+      "title": "The first agents' convention",
+      "text": "In the summer of 1917 about 200 Walker agents met in Philadelphia, one of the first national meetings of businesswomen in the country. She gave prizes for sales and for giving to charity, and urged her agents to protest injustice.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-walker", "mcjw-essay"]
+    },
+    {
+      "date": "1917-11",
+      "age": 49,
+      "place": "New York City, New York, (United States)",
+      "title": "Illness and hard work",
+      "text": "In a New York Times interview she said, \"Perseverance is my motto.\" That November doctors found she had nephritis, a kidney disease. She kept working.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["qi-flower", "w-walker"]
+    },
+    {
+      "date": "1918-03-04",
+      "age": 50,
+      "place": "New York City, New York, (United States)",
+      "title": "\"Not yet a millionaire\"",
+      "text": "Newspapers called her a millionaire, but in a letter to her lawyer Freeman Ransom she denied it. Her estate at her death was about $600,000 to $700,000 by family estimates, so the popular title \"first female self-made millionaire\" is debated.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["ihs-hoosier", "w-walker"]
+    },
+    {
+      "date": "1918-05",
+      "age": 50,
+      "place": "Irvington, New York, (United States)",
+      "title": "Villa Lewaro",
+      "text": "She moved into Villa Lewaro, a mansion on the Hudson designed by Vertner Tandy. The opera singer Enrico Caruso made up its name from Lelia Walker Robinson. Its landmark papers say its importance is \"tied inextricably to race pride.\"",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-lewaro", "w-walker", "nara-prologue"]
+    },
+    {
+      "date": "1919-04",
+      "age": 51,
+      "place": "St. Louis, Missouri, (United States)",
+      "title": "Taken ill on the road",
+      "text": "She pledged $5,000 to the NAACP's anti-lynching fund. In April, on a trip to St. Louis, she became very ill.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["ihs-hoosier", "w-walker"]
+    },
+    {
+      "date": "1919-05-25",
+      "age": 51,
+      "place": "Irvington, New York, (United States)",
+      "title": "Her death",
+      "text": "She died at Villa Lewaro on 25 May 1919, aged 51, of kidney failure and complications of high blood pressure. She was buried at Woodlawn Cemetery in the Bronx. Her will left two-thirds of future net profits of her estate to charity.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-walker", "mcjw-essay", "mcjw-places"]
+    },
+    {
+      "date": "1927-12-26",
+      "age": null,
+      "place": "Indianapolis, Indiana, (United States)",
+      "title": "The Walker Building opens",
+      "text": "The headquarters building she had planned opened on Indiana Avenue, with the factory, a beauty school, a theatre, a ballroom and shops. It is now the Madam Walker Legacy Center.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-legacy", "w-walker"]
+    },
+    {
+      "date": "1991-07-17",
+      "age": null,
+      "place": "Indianapolis, Indiana, (United States)",
+      "title": "A national landmark",
+      "text": "The Walker Building was named a National Historic Landmark. Villa Lewaro had been named one in 1976. In 1998 the U.S. Postal Service issued a stamp in her honour.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-legacy", "w-lewaro", "w-walker"]
+    },
+    {
+      "date": "2020-01-14",
+      "age": null,
+      "place": "Indianapolis, Indiana, (United States)",
+      "title": "Her papers for everyone",
+      "text": "The Indiana Historical Society finished putting more than 40,000 items about Walker and her company online, from letters to business records.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["ihs-collection"]
+    }
+  ],
+  "works": [
+    {
+      "year": "1905",
+      "type": "business",
+      "title": "Madam Walker's Wonderful Hair Grower",
+      "text": "Her first and best-known product, an ointment for scalp care she began selling in Denver. Competitors made similar products; her strength was in how she taught and sold it.",
+      "sources": ["mcjw-essay", "w-walker", "loc-beauty"]
+    },
+    {
+      "year": "1906",
+      "type": "practice",
+      "title": "The Walker System",
+      "text": "Her method of grooming hair, from washing and scalp treatment to pressing with iron combs. Every agent learned it, which gave customers a consistent service.",
+      "sources": ["w-walker"]
+    },
+    {
+      "year": "1906",
+      "type": "journey",
+      "title": "The selling tour of the South",
+      "text": "About a year and a half of door-to-door selling and demonstrations across the South and Southeast, which built her first customers and agents.",
+      "sources": ["mcjw-essay", "mcjw-places"]
+    },
+    {
+      "year": "1908",
+      "type": "school",
+      "title": "Lelia College, Pittsburgh",
+      "text": "A training school for Walker hair culturists, named after her daughter. Later Walker training schools opened in Indianapolis and Harlem.",
+      "sources": ["mcjw-essay", "w-alelia"]
+    },
+    {
+      "year": "1910",
+      "type": "institution",
+      "title": "Madam C. J. Walker Manufacturing Company",
+      "text": "Her company, based in Indianapolis from 1910, with a factory, laboratory, salon and school. It stayed in Indianapolis for more than seventy years.",
+      "url": "https://indianahistory.org/press-release/more-than-40000-madam-c-j-walker-related-items-now-accessible-from-anywhere-in-the-world/",
+      "sources": ["loc-beauty", "mcjw-places", "ihs-collection"]
+    },
+    {
+      "year": "1912",
+      "type": "speech",
+      "title": "Speech to the National Negro Business League",
+      "text": "Her short, unplanned talk from the convention floor in Chicago, telling how she rose from the cotton fields and the washtub to owning her factory.",
+      "url": "https://speakingwhilefemale.co/business-walker/",
+      "sources": ["swf-1912", "nara-prologue"]
+    },
+    {
+      "year": "1913",
+      "type": "speech",
+      "title": "Keynote to the Business League",
+      "text": "A year after speaking from the floor, she addressed the convention from the podium.",
+      "sources": ["w-walker"]
+    },
+    {
+      "year": "1911",
+      "type": "business",
+      "title": "The Walker agents",
+      "text": "A network of several thousand licensed women sales agents who earned commissions and ran their own small businesses. By 1917 the company claimed to have trained nearly 20,000 women.",
+      "sources": ["w-walker", "ihs-hoosier", "loc-teachers"]
+    },
+    {
+      "year": "1917",
+      "type": "institution",
+      "title": "The agents' clubs and union",
+      "text": "Local and state clubs of Walker agents, which became a national association and later the Madam C. J. Walker Beauty Culturists Union of America. The clubs rewarded charity as well as sales.",
+      "sources": ["w-walker", "mcjw-essay"]
+    },
+    {
+      "year": "1917",
+      "type": "activism",
+      "title": "Anti-lynching petition",
+      "text": "With other Harlem leaders she brought a petition to the White House asking that lynching be made a federal crime.",
+      "sources": ["mcjw-essay", "nara-prologue"]
+    },
+    {
+      "year": "1918",
+      "type": "building",
+      "title": "Villa Lewaro",
+      "text": "Her Hudson River estate, designed by Vertner Tandy, which later hosted gatherings of Harlem Renaissance figures. It is a National Historic Landmark and a private home.",
+      "url": "https://en.wikipedia.org/wiki/Villa_Lewaro",
+      "sources": ["w-lewaro", "mcjw-places"]
+    },
+    {
+      "year": "1911",
+      "type": "giving",
+      "title": "Gifts to schools and causes",
+      "text": "Gifts to the Senate Avenue YMCA, Tuskegee Institute, Bethune's school in Daytona, the Palmer Memorial Institute, the Haines Institute, Flanner House, Bethel AME Church, the Frederick Douglass home and the NAACP.",
+      "sources": ["w-walker", "ihs-hoosier"]
+    },
+    {
+      "year": "1927",
+      "type": "building",
+      "title": "The Walker Building",
+      "text": "The Indianapolis headquarters she planned, finished by her daughter and her lawyer after her death. Now the Madam Walker Legacy Center.",
+      "url": "https://en.wikipedia.org/wiki/Madam_Walker_Legacy_Center",
+      "sources": ["w-legacy"]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Madam Walker essay and family archive site, A'Lelia Bundles",
+      "url": "https://madamcjwalker.com/about/",
+      "what": "A full, careful life story written by her great-great-granddaughter and biographer, with a FAQ."
+    },
+    {
+      "label": "Madam C. J. Walker collection (Indiana Historical Society)",
+      "url": "https://indianahistory.org/press-release/more-than-40000-madam-c-j-walker-related-items-now-accessible-from-anywhere-in-the-world/",
+      "what": "More than 40,000 digitized letters, photos and business records of the Walker company."
+    },
+    {
+      "label": "Famous Hoosiers: Madam C. J. Walker (Indiana Historical Society)",
+      "url": "https://indianahistory.org/education/educator-resources/famous-hoosiers/madam-c-j-walker/",
+      "what": "A short, reliable classroom biography, including her own denial that she was a millionaire."
+    },
+    {
+      "label": "Her 1912 speech, transcribed (Speaking While Female)",
+      "url": "https://speakingwhilefemale.co/business-walker/",
+      "what": "The text of her talk from the floor of the National Negro Business League convention."
+    },
+    {
+      "label": "Walker in the National Archives (Prologue blog)",
+      "url": "https://prologue.blogs.archives.gov/2021/07/22/madam-c-j-walkers-rags-to-riches-story-found-in-the-holdings-of-the-national-archives/",
+      "what": "Census entries, her passport, a letter and the records behind her story."
+    },
+    {
+      "label": "Entrepreneur Madam C. J. Walker (Library of Congress)",
+      "url": "https://blogs.loc.gov/teachers/2024/04/inventions-and-innovations-entrepreneur-madam-c-j-walker/",
+      "what": "Old newspaper adverts and articles about her business, with teaching ideas."
+    },
+    {
+      "label": "The Business of Beauty (Library of Congress guide)",
+      "url": "https://guides.loc.gov/business-of-beauty/history",
+      "what": "Background on Walker, Annie Malone and the early Black beauty industry."
+    },
+    {
+      "label": "Where her famous sayings come from (Quote Investigator)",
+      "url": "https://quoteinvestigator.com/2021/02/12/flower-strewn/",
+      "what": "Traces her words on hard work to a 1917 New York Times interview and a 1919 newspaper."
+    }
+  ],
+  "books": [
+    {
+      "title": "On Her Own Ground: The Life and Times of Madam C. J. Walker",
+      "author": "A'Lelia Bundles",
+      "year": "2001",
+      "kind": "biography",
+      "free": null,
+      "note": "The standard full biography, drawn from the family archives, by her great-great-granddaughter (Scribner)."
+    },
+    {
+      "title": "Madam C. J. Walker's Gospel of Giving: Black Women's Philanthropy During Jim Crow",
+      "author": "Tyrone McKinley Freeman",
+      "year": "2020",
+      "kind": "biography",
+      "free": null,
+      "note": "A study of her giving and how she taught her agents to give (University of Illinois Press)."
+    },
+    {
+      "title": "Madam C. J. Walker: Entrepreneur",
+      "author": "A'Lelia Perry Bundles",
+      "year": "2008",
+      "kind": "biography",
+      "free": null,
+      "note": "A shorter life for young readers, in the Black Americans of Achievement series (Chelsea House)."
+    },
+    {
+      "title": "All About Madam C. J. Walker",
+      "author": "A'Lelia Bundles",
+      "year": "2018",
+      "kind": "biography",
+      "free": null,
+      "note": "An easy-to-read biography for grades 4 to 7 that also works as a quick introduction (Blue River Press)."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "05-press",
+ "panels": [
+  { "key": "01-mainz", "year": "1400" },
+  { "key": "02-strasbourg", "year": "1439" },
+  { "key": "03-mould", "year": "1450" },
+  { "key": "04-setting", "year": "1452" },
+  { "key": "05-press", "year": "1455" },
+  { "key": "06-frankfurt", "year": "1455" },
+  { "key": "07-lawsuit", "year": "1455" },
+  { "key": "08-eltville", "year": "1465" }
+ ]
+}

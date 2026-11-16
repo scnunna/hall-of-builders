@@ -1,0 +1,473 @@
+{
+  "sources": {
+    "w-arch": { "label": "Archimedes (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Archimedes" },
+    "mactutor": { "label": "Archimedes of Syracuse, MacTutor History of Mathematics (University of St Andrews)", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Archimedes/" },
+    "heath-works": { "label": "The Works of Archimedes, ed. and tr. T. L. Heath, Cambridge University Press, 1897 (Internet Archive)", "url": "https://archive.org/details/worksofarchimede00arch" },
+    "heath-method": { "label": "The Method of Archimedes, tr. T. L. Heath, 1912 supplement to the Works (Internet Archive)", "url": "https://archive.org/details/methodofarchimed00arch" },
+    "heath-1920": { "label": "Archimedes, by T. L. Heath (Project Gutenberg #35550)", "url": "https://www.gutenberg.org/ebooks/35550" },
+    "w-method": { "label": "The Method of Mechanical Theorems (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Method_of_Mechanical_Theorems" },
+    "w-sand": { "label": "The Sand Reckoner (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Sand_Reckoner" },
+    "w-circle": { "label": "Measurement of a Circle (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Measurement_of_a_Circle" },
+    "w-floating": { "label": "On Floating Bodies (Wikipedia)", "url": "https://en.wikipedia.org/wiki/On_Floating_Bodies" },
+    "w-screw": { "label": "Archimedes' screw (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Archimedes%27_screw" },
+    "w-claw": { "label": "Claw of Archimedes (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Claw_of_Archimedes" },
+    "w-heatray": { "label": "Archimedes' heat ray (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Archimedes%27_heat_ray" },
+    "w-siege": { "label": "Siege of Syracuse, 213-212 BC (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Siege_of_Syracuse_(213%E2%80%93212_BC)" },
+    "w-hiero": { "label": "Hiero II of Syracuse (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Hiero_II_of_Syracuse" },
+    "w-conon": { "label": "Conon of Samos (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Conon_of_Samos" },
+    "w-palimpsest": { "label": "Archimedes Palimpsest (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Archimedes_Palimpsest" },
+    "palimpsest-site": { "label": "The Archimedes Palimpsest Project (official site)", "url": "https://www.archimedespalimpsest.org/" },
+    "vitruvius": { "label": "Vitruvius, The Ten Books on Architecture, tr. Morris Hicky Morgan, 1914 (Project Gutenberg #20239)", "url": "https://www.gutenberg.org/ebooks/20239" },
+    "plutarch": { "label": "Plutarch, Life of Marcellus, Loeb Classical Library vol. V, 1917 (LacusCurtius, University of Chicago)", "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marcellus*.html" },
+    "cicero": { "label": "Cicero, Tusculan Disputations, tr. C. D. Yonge (Project Gutenberg #14988)", "url": "https://www.gutenberg.org/ebooks/14988" },
+    "nyu": { "label": "Archimedes Home Page, Chris Rorres (New York University)", "url": "https://math.nyu.edu/Archimedes/" },
+    "nyu-crown": { "label": "The Golden Crown, Archimedes Home Page (Chris Rorres, NYU)", "url": "https://math.nyu.edu/Archimedes/Crown/CrownIntro.html" },
+    "nyu-lever": { "label": "Give me a place to stand, Archimedes Home Page (Chris Rorres, NYU)", "url": "https://math.nyu.edu/Archimedes/Lever/LeverIntro.html" },
+    "nyu-sphere": { "label": "Spheres and Planetaria, Archimedes Home Page (Chris Rorres, NYU)", "url": "https://math.nyu.edu/Archimedes/Sphere/SphereIntro.html" },
+    "nyu-claw": { "label": "Archimedes' Claw, illustrations, Archimedes Home Page (Chris Rorres, NYU)", "url": "https://math.nyu.edu/Archimedes/Claw/illustrations.html" }
+  },
+  "feature": {
+    "nav": "Discoveries",
+    "title": "Machines and discoveries",
+    "lead": "Archimedes moved between two worlds: the workshop, with its levers and pulleys, and pure geometry. Here are the ideas and machines linked to his name, with the legends marked as legends.",
+    "style": "cards",
+    "items": [
+      {
+        "label": "The law of the lever",
+        "date": "c. 250 BC (date uncertain)",
+        "place": "Syracuse",
+        "text": "In On the Equilibrium of Planes he proved that two weights balance when their distances from the pivot are in inverse proportion to the weights. A small weight far out can balance a large weight close in. Pappus, writing centuries later, says he boasted: \"Give me a place to stand on, and I can move the earth.\"",
+        "url": "https://math.nyu.edu/Archimedes/Lever/LeverIntro.html",
+        "sources": ["heath-works", "w-arch", "nyu-lever"]
+      },
+      {
+        "label": "Pulleys and the king's ship",
+        "place": "Syracuse",
+        "text": "Plutarch says King Hiero asked for proof that a small force could move a great weight. Archimedes used a set of compound pulleys to draw a fully loaded ship onto land by himself. Ancient writers disagree on the details, and historians treat them with caution.",
+        "sources": ["plutarch", "w-arch", "mactutor"]
+      },
+      {
+        "label": "The water screw",
+        "text": "A screw turning inside a tube lifts water uphill. It is named after Archimedes, and one ancient writer says he invented it in Egypt. Some historians think he found it already in use, and one scholar argues it is far older. Screw pumps still drain land and move water today.",
+        "sources": ["w-screw", "w-arch", "mactutor"]
+      },
+      {
+        "label": "Why things float",
+        "place": "Syracuse",
+        "text": "In On Floating Bodies he showed that a floating solid sinks until it has pushed aside its own weight of fluid. This is now called Archimedes' principle. It is the first known book on the science of fluids.",
+        "url": "https://archive.org/details/worksofarchimede00arch",
+        "sources": ["w-floating", "heath-works"]
+      },
+      {
+        "label": "The golden crown (a legend)",
+        "text": "Vitruvius, writing about two hundred years later, tells how Archimedes noticed water spilling from his bath and shouted \"Eureka\" (\"I have found it\"), because he saw how to test whether a gold crown held silver. It is a story, not a record. Modern scholars note the water method he describes would be too hard to measure, and a balance in water would work better.",
+        "url": "https://www.gutenberg.org/ebooks/20239",
+        "sources": ["vitruvius", "w-arch", "nyu-crown"]
+      },
+      {
+        "label": "Pinning down pi",
+        "text": "In Measurement of a Circle he drew 96-sided shapes inside and outside a circle. That trapped the ratio we call pi between 3 10/71 and 3 1/7, close to 3.14.",
+        "sources": ["w-circle", "heath-works"]
+      },
+      {
+        "label": "Sphere inside a cylinder",
+        "text": "He proved that a sphere has two-thirds of the volume and surface of the cylinder that just holds it. Ancient writers say he was proudest of this, and asked for it to be marked on his tomb.",
+        "url": "https://archive.org/details/worksofarchimede00arch",
+        "sources": ["heath-works", "w-arch", "plutarch"]
+      },
+      {
+        "label": "Counting the sand",
+        "text": "In The Sand Reckoner, written for King Gelon, he invented a way to name huge numbers. He showed the sand needed to fill the universe would be no more than about 10 to the power 63 grains. The book also keeps one of the few records of Aristarchus's idea that the Earth goes round the Sun.",
+        "url": "https://archive.org/details/worksofarchimede00arch",
+        "sources": ["w-sand", "heath-works"]
+      },
+      {
+        "label": "The Method",
+        "text": "In a letter to Eratosthenes he explained his secret tool: imagine a shape cut into thin slices and balance them on a lever to find an answer, then prove it properly. This letter was lost for centuries.",
+        "url": "https://archive.org/details/methodofarchimed00arch",
+        "sources": ["w-method", "heath-method"]
+      },
+      {
+        "label": "A sky in bronze",
+        "text": "Cicero describes a sphere built by Archimedes that showed the moving sun, moon and five planets. Marcellus took it to Rome after Syracuse fell. No piece of it survives.",
+        "url": "https://math.nyu.edu/Archimedes/Sphere/SphereIntro.html",
+        "sources": ["cicero", "nyu-sphere", "heath-works"]
+      },
+      {
+        "label": "Defending Syracuse",
+        "date": "213-212 BC",
+        "place": "Syracuse",
+        "text": "When Rome attacked, his machines held the city for months. Catapults on the walls threw stones and beams. A crane with a grappling hook, later called the Claw, could lift the front of a ship and tip it over. Modern engineers have built working models.",
+        "url": "https://math.nyu.edu/Archimedes/Claw/illustrations.html",
+        "sources": ["w-siege", "w-claw", "plutarch", "nyu-claw"]
+      },
+      {
+        "label": "The burning mirrors (a legend)",
+        "text": "A famous story says he set Roman ships on fire with mirrors. It appears only in writers who lived centuries later, and nothing like it is in his own works. Modern tests could only light a fire on a still target in perfect sun, so most historians doubt it.",
+        "sources": ["w-heatray", "w-arch", "nyu"]
+      },
+      {
+        "label": "The Archimedes Palimpsest",
+        "date": "1906",
+        "place": "Constantinople, then Baltimore",
+        "text": "In 1229 a scribe scraped a book of Archimedes and wrote prayers over it. In 1906 the scholar Johan Ludvig Heiberg saw faint Greek mathematics under the prayers and found The Method, lost for a thousand years. After a 1998 sale, the Walters Art Museum used special imaging to read the hidden pages.",
+        "url": "https://www.archimedespalimpsest.org/",
+        "sources": ["w-palimpsest", "palimpsest-site", "mactutor"]
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "-0287",
+      "age": 0,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Born in Syracuse",
+      "text": "Archimedes was born in Syracuse, a Greek city on the island of Sicily, around 287 BC. The year is worked out from a later writer who said he lived 75 years. In The Sand Reckoner he names his father, Phidias, an astronomer.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-arch", "mactutor"]
+    },
+    {
+      "date": "-0287",
+      "age": 0,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Rich or humble?",
+      "text": "Sources disagree about his family. Plutarch says he was related to the future King Hiero II. Cicero calls him a humble and obscure mathematician.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-arch", "cicero"]
+    },
+    {
+      "date": "-0270",
+      "age": null,
+      "place": "Alexandria, Egypt, (Egypt)",
+      "title": "Probably a student in Alexandria",
+      "text": "As a young man he probably spent time in Alexandria, the great center of learning, studying with followers of Euclid. This is not certain. It may be where he met Conon of Samos and Eratosthenes, who stayed his friends and readers for life.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["heath-works", "mactutor", "w-arch"]
+    },
+    {
+      "date": "-0268",
+      "age": null,
+      "place": "Nile Delta, Egypt, (Egypt)",
+      "title": "The water screw",
+      "text": "One ancient writer says Archimedes invented the water-lifting screw while in Egypt. Others think he found Egyptians already using it. Either way, it has carried his name ever since.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-screw", "heath-works"]
+    },
+    {
+      "date": "-0265",
+      "age": 22,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Hiero becomes king",
+      "text": "Hiero, a general, was proclaimed king of Syracuse after a victory over the Mamertines. He would rule for about fifty years and become Archimedes' patron.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-hiero"]
+    },
+    {
+      "date": "-0263",
+      "age": 24,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Peace with Rome",
+      "text": "Hiero made a treaty with Rome. It gave Syracuse decades of peace, the calm years in which Archimedes did most of his work.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-hiero"]
+    },
+    {
+      "date": "-0260",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "A life of research",
+      "text": "Back in Syracuse he gave his life to mathematics. He sent new results by letter to scholars in Alexandria, often first to Conon. The years of his books are not known; this timeline follows the likely order worked out by T. L. Heath in 1897.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["heath-works", "mactutor"]
+    },
+    {
+      "date": "-0250",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "The law of the lever",
+      "text": "In On the Equilibrium of Planes he proved the law of the lever and showed how to find the balance point of flat shapes. This idea of balance became the key to many of his later discoveries.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-arch", "heath-works"]
+    },
+    {
+      "date": "-0248",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Moving the king's ship",
+      "text": "Plutarch says Archimedes told Hiero that any weight could be moved by a given force. To prove it he pulled a loaded ship onto land with compound pulleys. The details differ between ancient writers, and the date is unknown.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["plutarch", "mactutor", "w-arch"]
+    },
+    {
+      "date": "-0245",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Losing a friend",
+      "text": "Conon of Samos died; the year is not known. Archimedes wrote that he grieved for \"the loss not only of a friend but of an admirable mathematician\". From then on he sent his work to Conon's student Dositheus.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["heath-works", "w-conon"]
+    },
+    {
+      "date": "-0245",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Squaring the parabola",
+      "text": "In Quadrature of the Parabola he found the exact area of a curved shape: four-thirds of a triangle drawn inside it. He said he found it first by mechanics and then proved it by geometry.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["heath-works", "w-arch"]
+    },
+    {
+      "date": "-0240",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "A letter about his method",
+      "text": "He wrote to Eratosthenes, the head of the Library of Alexandria, to explain how he discovered results: by slicing shapes and balancing the slices on an imagined lever. Then he proved them by strict geometry.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-method", "heath-method", "mactutor"]
+    },
+    {
+      "date": "-0238",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "The sphere and the cylinder",
+      "text": "In On the Sphere and Cylinder he proved that a sphere has two-thirds of the volume and surface area of the cylinder around it. It was the result he was proudest of.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["heath-works", "w-arch"]
+    },
+    {
+      "date": "-0235",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Spirals, and a test",
+      "text": "In On Spirals he studied the curve now called the Archimedean spiral. In its preface he admits he had once sent out two false theorems, to catch anyone who claimed to have proved them.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["heath-works", "mactutor"]
+    },
+    {
+      "date": "-0232",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Conoids and spheroids",
+      "text": "He worked out the volumes of solids made by spinning curves, such as egg shapes and bowl shapes, and compared them with cones and cylinders.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-arch", "heath-works"]
+    },
+    {
+      "date": "-0230",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Why things float",
+      "text": "On Floating Bodies, the first known book on fluids, states the rule now called Archimedes' principle: a body in water is pushed up by the weight of the water it pushes aside. Book II works out how curved shapes float steadily.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-floating", "heath-works"]
+    },
+    {
+      "date": "-0230",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "The crown and the bath: a legend",
+      "text": "Vitruvius, two centuries later, tells how Archimedes saw his bath water overflow, cried \"Eureka\", and solved Hiero's question about a gold crown mixed with silver. It is a much-loved story, but no source from his own time confirms it.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["vitruvius", "w-arch", "nyu-crown"]
+    },
+    {
+      "date": "-0228",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Measuring the circle",
+      "text": "Using shapes with 96 sides, he showed that pi lies between 3 10/71 and 3 1/7. Only part of this short book survives.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-circle", "heath-works"]
+    },
+    {
+      "date": "-0225",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Counting the sand",
+      "text": "In The Sand Reckoner, written for Hiero's son Gelon, he invented a way to name enormous numbers. He estimated the universe could hold no more than about 10 to the power 63 grains of sand.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-sand", "heath-works"]
+    },
+    {
+      "date": "-0225",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "A puzzle for Alexandria",
+      "text": "The Cattle Problem, a hard puzzle in verse about the herds of the Sun god, is said to have been sent to Eratosthenes. Its hardest form was only fully solved in 1880. The date is unknown.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-arch", "heath-works"]
+    },
+    {
+      "date": "-0220",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "A model of the sky",
+      "text": "Cicero later described a sphere made by Archimedes that showed the moving sun, moon and planets. Pappus says he wrote a book on sphere-making, his only book on machines. Neither survives; the date is unknown.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["cicero", "nyu-sphere", "heath-works"]
+    },
+    {
+      "date": "-0215",
+      "age": 72,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "The old king dies",
+      "text": "Hiero II died around 215 BC (one account says 216). His grandson Hieronymus took the throne, and Syracuse turned away from its long friendship with Rome.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-hiero", "w-siege"]
+    },
+    {
+      "date": "-0213",
+      "age": 74,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "His machines defend the city",
+      "text": "A Roman army and fleet under Marcellus attacked Syracuse (some sources say from 214 BC). Archimedes' catapults and cranes drove back the attacks from land and sea. Plutarch says Marcellus gave up direct assaults and settled in for a long siege.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-siege", "plutarch", "w-claw"]
+    },
+    {
+      "date": "-0213",
+      "age": 74,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Burning mirrors? A legend",
+      "text": "Writers centuries later said he burned Roman ships with mirrors. Nothing from his own time mentions it, and modern tests have mostly failed. It is best treated as a legend.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-heatray", "w-siege"]
+    },
+    {
+      "date": "-0212",
+      "age": 75,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "The city falls",
+      "text": "While the Syracusans held a festival, Roman soldiers climbed the walls at night. Over the following months the whole city was taken.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-siege", "plutarch"]
+    },
+    {
+      "date": "-0212",
+      "age": 75,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "His last problem",
+      "text": "Archimedes died in the capture of the city, aged about 75. Ancient writers say he was absorbed in a geometry problem and was killed by a soldier who did not know who he was. Marcellus had ordered that he be spared, and grieved when he heard. The famous line \"Do not disturb my circles\" is not found in any ancient source.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-arch", "plutarch", "w-siege"]
+    },
+    {
+      "date": "-0075",
+      "age": null,
+      "place": "Syracuse, Sicily, (Italy)",
+      "title": "Cicero finds the tomb",
+      "text": "About 137 years later the Roman Cicero, serving in Sicily, searched for Archimedes' forgotten tomb. He found it overgrown with briers, marked by a small column with a sphere and a cylinder.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["cicero", "mactutor"]
+    },
+    {
+      "date": "1906",
+      "age": null,
+      "place": "Constantinople, (Turkey)",
+      "title": "A lost book under prayers",
+      "text": "In 1906 the Danish scholar Johan Ludvig Heiberg examined a prayer book written in 1229 over an older copy of Archimedes. Under the prayers he found The Method, lost for about a thousand years.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-palimpsest", "mactutor", "heath-method"]
+    },
+    {
+      "date": "2008-10-29",
+      "age": null,
+      "place": "Baltimore, Maryland, (United States)",
+      "title": "The palimpsest read again",
+      "text": "After the book was sold at auction in 1998, the Walters Art Museum spent about ten years conserving it and imaging it with special light and X-rays. In 2008 all the images and transcriptions were released free online.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-palimpsest", "palimpsest-site"]
+    }
+  ],
+  "works": [
+    { "year": "-0250", "type": "book", "title": "On the Equilibrium of Planes", "text": "Two books proving the law of the lever and finding the balance points of flat shapes.", "sources": ["w-arch", "heath-works"], "url": "https://archive.org/details/worksofarchimede00arch" },
+    { "year": "-0245", "type": "book", "title": "Quadrature of the Parabola", "text": "Finds the exact area of a parabola segment, four-thirds of the triangle inside it, by two methods.", "sources": ["w-arch", "heath-works"], "url": "https://archive.org/details/worksofarchimede00arch" },
+    { "year": "-0240", "type": "letter", "title": "The Method of Mechanical Theorems", "text": "A letter to Eratosthenes explaining how he discovered results by balancing slices on a lever. Known only from the palimpsest found in 1906.", "sources": ["w-method", "heath-method"], "url": "https://archive.org/details/methodofarchimed00arch" },
+    { "year": "-0238", "type": "book", "title": "On the Sphere and Cylinder", "text": "Two books proving that a sphere is two-thirds of its surrounding cylinder in volume and surface, the result he was proudest of.", "sources": ["w-arch", "heath-works"], "url": "https://archive.org/details/worksofarchimede00arch" },
+    { "year": "-0235", "type": "book", "title": "On Spirals", "text": "Defines and studies the Archimedean spiral, with a preface about his friend Conon.", "sources": ["w-arch", "heath-works"], "url": "https://archive.org/details/worksofarchimede00arch" },
+    { "year": "-0232", "type": "book", "title": "On Conoids and Spheroids", "text": "Volumes of solids formed by spinning curves, compared with cones and cylinders.", "sources": ["w-arch", "heath-works"], "url": "https://archive.org/details/worksofarchimede00arch" },
+    { "year": "-0230", "type": "book", "title": "On Floating Bodies", "text": "The first known book on fluids. States the principle of buoyancy and studies how curved solids float.", "sources": ["w-floating", "heath-works"], "url": "https://archive.org/details/worksofarchimede00arch" },
+    { "year": "-0228", "type": "book", "title": "Measurement of a Circle", "text": "A short surviving fragment that traps pi between 3 10/71 and 3 1/7 using 96-sided shapes.", "sources": ["w-circle", "heath-works"], "url": "https://archive.org/details/worksofarchimede00arch" },
+    { "year": "-0225", "type": "book", "title": "The Sand Reckoner", "text": "A book for King Gelon that names huge numbers and estimates the sand needed to fill the universe.", "sources": ["w-sand", "heath-works"], "url": "https://archive.org/details/worksofarchimede00arch" },
+    { "year": "-0225", "type": "mathematics", "title": "The Cattle Problem", "text": "A puzzle in verse said to be sent to Eratosthenes. Its hardest version has an answer with over 200,000 digits.", "sources": ["w-arch", "heath-works"] },
+    { "year": "-0225", "type": "mathematics", "title": "Stomachion", "text": "A puzzle of 14 pieces that form a square. It survives only in the palimpsest, and may be an early study of counting arrangements.", "sources": ["w-arch", "w-palimpsest"] },
+    { "year": "-0268", "type": "invention", "title": "The water screw", "text": "A turning screw inside a tube that lifts water. Named after him; whether he invented it is debated.", "sources": ["w-screw", "heath-works"] },
+    { "year": "-0248", "type": "invention", "title": "Compound pulleys", "text": "Plutarch says he used a pulley system to draw a loaded ship onto land by himself.", "sources": ["plutarch", "mactutor"] },
+    { "year": "-0220", "type": "invention", "title": "The planetarium sphere", "text": "A model showing the motions of the sun, moon and planets, described by Cicero. It does not survive.", "sources": ["cicero", "nyu-sphere"] },
+    { "year": "-0213", "type": "invention", "title": "Machines for the defence of Syracuse", "text": "Catapults and a crane with a grappling hook, later called the Claw, that held off the Roman fleet for months.", "sources": ["w-siege", "w-claw", "plutarch"] }
+  ],
+  "resources": [
+    { "label": "The Works of Archimedes, tr. T. L. Heath, 1897 (Internet Archive)", "url": "https://archive.org/details/worksofarchimede00arch", "what": "Free scanned copy of the standard English translation of his surviving books, with a long introduction on his life." },
+    { "label": "The Method of Archimedes, tr. T. L. Heath, 1912 (Internet Archive)", "url": "https://archive.org/details/methodofarchimed00arch", "what": "Heath's translation of the letter to Eratosthenes found in the palimpsest in 1906." },
+    { "label": "Archimedes, by T. L. Heath (Project Gutenberg #35550)", "url": "https://www.gutenberg.org/ebooks/35550", "what": "A short, readable introduction to Archimedes' life and mathematics by his great translator, free to read." },
+    { "label": "Archimedes Home Page (Chris Rorres, NYU)", "url": "https://math.nyu.edu/Archimedes/", "what": "A rich 'virtual book' with pages on the claw, the screw, the crown, the mirrors, the tomb and the ancient sources." },
+    { "label": "The Archimedes Palimpsest Project", "url": "https://www.archimedespalimpsest.org/", "what": "The story of the hidden manuscript, its conservation and imaging, with the raw data and transcriptions online." },
+    { "label": "Archimedes, MacTutor History of Mathematics", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Archimedes/", "what": "A clear biography from the University of St Andrews, with the mathematics explained." },
+    { "label": "Vitruvius, The Ten Books on Architecture (Project Gutenberg #20239)", "url": "https://www.gutenberg.org/ebooks/20239", "what": "Book IX tells the famous 'Eureka' story of the golden crown, in Morris Hicky Morgan's translation." },
+    { "label": "Plutarch, Life of Marcellus (LacusCurtius)", "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marcellus*.html", "what": "The main ancient account of the siege of Syracuse and of Archimedes' machines, chapters 14 to 19." },
+    { "label": "Cicero, Tusculan Disputations (Project Gutenberg #14988)", "url": "https://www.gutenberg.org/ebooks/14988", "what": "Cicero's own account of finding Archimedes' overgrown tomb, in Book V." }
+  ],
+  "books": [
+    {
+      "title": "The Works of Archimedes",
+      "author": "Archimedes, edited and translated by T. L. Heath",
+      "year": "1897",
+      "kind": "by-him",
+      "free": "https://archive.org/details/worksofarchimede00arch",
+      "note": "All his surviving books except The Method, in modern notation, with a long introduction (Cambridge University Press)."
+    },
+    {
+      "title": "The Method of Archimedes, recently discovered by Heiberg",
+      "author": "Archimedes, translated by T. L. Heath",
+      "year": "1912",
+      "kind": "by-him",
+      "free": "https://archive.org/details/methodofarchimed00arch",
+      "note": "A supplement to the Works, translating the letter found under a prayer book in 1906."
+    },
+    {
+      "title": "The Archimedes Codex",
+      "author": "Reviel Netz and William Noel",
+      "year": "2007",
+      "kind": "biography",
+      "free": null,
+      "note": "The story of the palimpsest and what it reveals, told by a Stanford historian of mathematics and the Walters curator who led the project. Some reviewers think it overstates a few claims."
+    },
+    {
+      "title": "Archimedes",
+      "author": "E. J. Dijksterhuis",
+      "year": "1987",
+      "kind": "biography",
+      "free": null,
+      "note": "A classic scholarly study of his life and works, first published in Dutch in 1938; Princeton edition of 1987."
+    }
+  ]
+}

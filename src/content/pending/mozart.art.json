@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "03-grandtour",
+ "panels": [
+  { "key": "01-salzburg", "year": "1756" },
+  { "key": "02-empress", "year": "1762" },
+  { "key": "03-grandtour", "year": "1763" },
+  { "key": "04-london", "year": "1764" },
+  { "key": "05-milan", "year": "1770" },
+  { "key": "06-figaro", "year": "1786" },
+  { "key": "07-prague", "year": "1787" },
+  { "key": "08-lastyear", "year": "1791" }
+ ]
+}

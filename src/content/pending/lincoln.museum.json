@@ -1,0 +1,415 @@
+{
+  "sources": {
+    "w-lincoln": { "label": "Abraham Lincoln (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln" },
+    "w-early": { "label": "Early life and career of Abraham Lincoln (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Early_life_and_career_of_Abraham_Lincoln" },
+    "nps-1859": { "label": "Abraham Lincoln Autobiography, letter to Jesse W. Fell, 1859 (National Park Service, Abraham Lincoln Birthplace)", "url": "https://www.nps.gov/abli/learn/historyculture/abraham-lincoln-autobiography.htm" },
+    "nps-1860": { "label": "1860 Autobiographical statement for the Chicago Press and Tribune, full text (National Park Service, Lincoln Home)", "url": "https://www.nps.gov/liho/learn/historyculture/pressand-tribune.htm" },
+    "pg-papers": { "label": "The Papers and Writings of Abraham Lincoln, Constitutional Edition, ed. Arthur Brooks Lapsley (1905) (Project Gutenberg #3253)", "url": "https://www.gutenberg.org/ebooks/3253" },
+    "pg-roe": { "label": "Speeches & Letters of Abraham Lincoln, 1832-1865, ed. Merwin Roe (1907) (Project Gutenberg #14721)", "url": "https://www.gutenberg.org/ebooks/14721" },
+    "pg-debates": { "label": "Papers and Writings of Abraham Lincoln, Volume 3: The Lincoln-Douglas Debates (Project Gutenberg #2655)", "url": "https://www.gutenberg.org/ebooks/2655" },
+    "pg-herndon": { "label": "Herndon's Lincoln: The True Story of a Great Life, Volume 1 (Project Gutenberg #38483)", "url": "https://www.gutenberg.org/ebooks/38483" },
+    "w-boyhood": { "label": "Lincoln Boyhood National Memorial (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Lincoln_Boyhood_National_Memorial" },
+    "nps-libo": { "label": "Lincoln Boyhood National Memorial (National Park Service)", "url": "https://www.nps.gov/libo/index.htm" },
+    "nps-liho": { "label": "Lincoln Home National Historic Site (National Park Service)", "url": "https://www.nps.gov/liho/index.htm" },
+    "nps-foth": { "label": "Ford's Theatre National Historic Site (National Park Service)", "url": "https://www.nps.gov/foth/index.htm" },
+    "w-lyceum": { "label": "Abraham Lincoln's Lyceum address (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln%27s_Lyceum_address" },
+    "w-patent": { "label": "Abraham Lincoln's patent (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln%27s_patent" },
+    "gp-6469": { "label": "US 6,469, Buoying vessels over shoals (Google Patents)", "url": "https://patents.google.com/patent/US6469A/en" },
+    "w-housedivided": { "label": "Lincoln's House Divided Speech (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Lincoln%27s_House_Divided_Speech" },
+    "w-debates": { "label": "Lincoln-Douglas debates (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Lincoln%E2%80%93Douglas_debates" },
+    "w-cooper": { "label": "Cooper Union speech (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Cooper_Union_speech" },
+    "w-emancipation": { "label": "Emancipation Proclamation (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Emancipation_Proclamation" },
+    "w-gettysburg": { "label": "Gettysburg Address (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Gettysburg_Address" },
+    "loc-gettysburg": { "label": "Gettysburg Address exhibition (Library of Congress)", "url": "https://www.loc.gov/exhibits/gettysburg-address/" },
+    "w-13th": { "label": "Thirteenth Amendment to the United States Constitution (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution" },
+    "w-second": { "label": "Abraham Lincoln's second inaugural address (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln%27s_second_inaugural_address" },
+    "w-memorial": { "label": "Lincoln Memorial (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Lincoln_Memorial" }
+  },
+  "feature": {
+    "nav": "How he learned",
+    "title": "How he learned",
+    "lead": "Lincoln's schooling added up to less than a year. Everything else he taught himself, from borrowed books, from watching courts and from arguing in public.",
+    "style": "cards",
+    "items": [
+      {
+        "label": "School \"by littles\"",
+        "date": "1815-1824",
+        "place": "Kentucky and Indiana, (United States)",
+        "text": "He went to small A-B-C schools now and then, kept by travelling teachers. In 1860 he wrote that all his schooling together did not add up to one year.",
+        "url": "https://www.nps.gov/liho/learn/historyculture/pressand-tribune.htm",
+        "sources": ["nps-1860", "w-early"]
+      },
+      {
+        "label": "Borrowed books by the fire",
+        "date": "1820s",
+        "place": "Little Pigeon Creek, Indiana, (United States)",
+        "text": "Family and neighbours remembered a boy who was always reading: the Bible, Aesop's Fables, The Pilgrim's Progress, Robinson Crusoe and Weems's Life of Washington. His stepmother shared her own books with him and encouraged him.",
+        "sources": ["w-early"]
+      },
+      {
+        "label": "The first law book",
+        "date": "1820s",
+        "place": "Spencer County, Indiana, (United States)",
+        "text": "After a local judge cleared him of running a ferry without a licence, he grew curious about the law. A constable could not lend out his copy of the Revised Statutes of Indiana, so Lincoln kept going to his house to read it there.",
+        "sources": ["w-early"]
+      },
+      {
+        "label": "Watching the courts",
+        "date": "1820s",
+        "place": "Boonville and Rockport, Indiana, (United States)",
+        "text": "Like many people on the frontier, he went to court sessions as a spectator to hear the lawyers speak. Noticing what they quoted, he studied the Declaration of Independence and the Constitution.",
+        "sources": ["w-early"]
+      },
+      {
+        "label": "Two trips to New Orleans",
+        "date": "1828 and 1831",
+        "place": "Mississippi River to New Orleans, Louisiana, (United States)",
+        "text": "He worked as a hired hand on flatboats carrying goods down the river. In New Orleans he saw a large city and its slave market for the first time; historians think this left a lasting mark on him.",
+        "url": "https://www.nps.gov/liho/learn/historyculture/pressand-tribune.htm",
+        "sources": ["nps-1860", "w-early"]
+      },
+      {
+        "label": "The debating club",
+        "date": "1831-1832",
+        "place": "New Salem, Illinois, (United States)",
+        "text": "In his first winter in New Salem he joined the village debating club. His speaking there got the attention of local leaders, who urged him to run for office.",
+        "sources": ["w-early"]
+      },
+      {
+        "label": "Grammar at 23",
+        "date": "1832",
+        "place": "New Salem, Illinois, (United States)",
+        "text": "After he left his father's home, he studied English grammar on his own, he wrote, \"imperfectly of course, but so as to speak and write as well as he now does.\"",
+        "url": "https://www.nps.gov/liho/learn/historyculture/pressand-tribune.htm",
+        "sources": ["nps-1860"]
+      },
+      {
+        "label": "Surveying from two books",
+        "date": "1833",
+        "place": "Sangamon County, Illinois, (United States)",
+        "text": "Offered work as a deputy county surveyor with no experience, he got a compass and chain and taught himself from borrowed copies of two surveying books by Flint and Gibson, including the trigonometry behind them.",
+        "url": "https://www.nps.gov/liho/learn/historyculture/pressand-tribune.htm",
+        "sources": ["nps-1860", "w-early"]
+      },
+      {
+        "label": "\"He studied with nobody\"",
+        "date": "1834-1836",
+        "place": "New Salem, Illinois, (United States)",
+        "text": "John T. Stuart urged him to study law and lent him books. Lincoln read Blackstone's Commentaries and other standard texts without a teacher or law school, and got his law licence in 1836.",
+        "url": "https://www.nps.gov/liho/learn/historyculture/pressand-tribune.htm",
+        "sources": ["nps-1860", "w-early"]
+      },
+      {
+        "label": "Nights in the court library",
+        "date": "1841-1844",
+        "place": "Springfield, Illinois, (United States)",
+        "text": "As junior partner to Stephen T. Logan, he learned careful case preparation. He spent many nights in the Supreme Court library hunting for past cases, and later appeared before that court more than 300 times.",
+        "sources": ["w-early"]
+      },
+      {
+        "label": "The patent model",
+        "date": "1849",
+        "place": "Washington, D.C., (United States)",
+        "text": "After seeing boats stuck on river sandbars, he designed air chambers to lift them over and got US patent 6,469. It was never built for use, and a Smithsonian curator doubted it would have worked.",
+        "url": "https://patents.google.com/patent/US6469A/en",
+        "sources": ["w-patent", "gp-6469"]
+      },
+      {
+        "label": "Euclid in his forties",
+        "date": "1849-1854",
+        "place": "Springfield, Illinois, (United States)",
+        "text": "After his term in Congress he worked through the six books of Euclid's geometry, to train himself in proof. He later used Euclid in debate as the model of a fair argument.",
+        "url": "https://www.nps.gov/liho/learn/historyculture/pressand-tribune.htm",
+        "sources": ["nps-1860", "pg-papers"]
+      },
+      {
+        "label": "The almanac in court",
+        "date": "1858",
+        "place": "Illinois, (United States)",
+        "text": "Defending Duff Armstrong on a murder charge, he used an almanac to show the moon was too low for a witness to have seen the crime by moonlight. Armstrong was acquitted.",
+        "sources": ["w-early"]
+      },
+      {
+        "label": "Learning by debate",
+        "date": "1858",
+        "place": "Seven towns in Illinois, (United States)",
+        "text": "In seven three-hour debates with Senator Stephen Douglas, reporters took down every word in shorthand. Lincoln lost the Senate seat but gathered the debates into a book in 1860.",
+        "url": "https://www.gutenberg.org/ebooks/2655",
+        "sources": ["w-debates", "w-housedivided", "pg-debates"]
+      },
+      {
+        "label": "Research before Cooper Union",
+        "date": "1860",
+        "place": "New York City, New York, (United States)",
+        "text": "He checked how the 39 signers of the Constitution had acted on slavery in the territories, and built his longest speech on those facts. Newspapers praised it and it helped make him a national candidate.",
+        "sources": ["w-cooper", "pg-papers"]
+      },
+      {
+        "label": "Ten sentences at Gettysburg",
+        "date": "1863",
+        "place": "Gettysburg, Pennsylvania, (United States)",
+        "text": "Years of practice in plain speech came together in 271 words, spoken in about two minutes. Five copies in his own hand survive; the Library of Congress holds two.",
+        "url": "https://www.loc.gov/exhibits/gettysburg-address/",
+        "sources": ["w-gettysburg", "loc-gettysburg"]
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1809-02-12", "age": 0, "place": "Hodgenville, Kentucky, (United States)",
+      "title": "Born in a log cabin",
+      "text": "Abraham Lincoln was born in a one-room log cabin on the Sinking Spring Farm in Kentucky. His father Thomas was a farmer and carpenter. Later storytellers often exaggerated how poor the family was; their life was typical for frontier families.",
+      "turning": false, "kind": "life", "sources": ["w-lincoln", "w-early"]
+    },
+    {
+      "date": "1816", "age": 7, "place": "Little Pigeon Creek, Indiana, (United States)",
+      "title": "Into the Indiana forest",
+      "text": "The family moved to Indiana, he later wrote, \"partly on account of slavery; but chiefly on account of the difficulty in land titles\" in Kentucky. He was handed an axe at once and helped clear the forest for years.",
+      "turning": false, "kind": "life", "sources": ["nps-1860", "w-early", "nps-libo"]
+    },
+    {
+      "date": "1818-10-05", "age": 9, "place": "Little Pigeon Creek, Indiana, (United States)",
+      "title": "His mother dies",
+      "text": "His mother, Nancy Hanks Lincoln, died of milk sickness. His sister Sarah, then 11, took charge of the household.",
+      "turning": false, "kind": "setback", "sources": ["w-lincoln", "w-boyhood"]
+    },
+    {
+      "date": "1819-12-02", "age": 10, "place": "Little Pigeon Creek, Indiana, (United States)",
+      "title": "A stepmother with books",
+      "text": "His father married Sarah Bush Johnston, a widow with three children. Lincoln came to call her \"Mama\". She encouraged his love of reading and shared her own books with him.",
+      "turning": false, "kind": "life", "sources": ["w-lincoln", "w-early"]
+    },
+    {
+      "date": "1824", "age": 15, "place": "Spencer County, Indiana, (United States)",
+      "title": "Less than a year of school",
+      "text": "By about 15, his time in small frontier schools added up to less than twelve months. He kept learning by reading everything he could borrow and reciting what he read.",
+      "turning": false, "kind": "life", "sources": ["w-lincoln", "w-early", "nps-1860"]
+    },
+    {
+      "date": "1828-01-20", "age": 18, "place": "Spencer County, Indiana, (United States)",
+      "title": "His sister dies",
+      "text": "His older sister Sarah died in childbirth, aged nearly 21.",
+      "turning": false, "kind": "setback", "sources": ["w-lincoln", "w-early"]
+    },
+    {
+      "date": "1828", "age": 19, "place": "New Orleans, Louisiana, (United States)",
+      "title": "Flatboat to New Orleans",
+      "text": "With Allen Gentry he took a flatboat of goods down the Ohio and Mississippi rivers to New Orleans. There he probably saw the slave market; historians are not sure whether on this trip or his next one in 1831.",
+      "turning": false, "kind": "work", "sources": ["w-early", "nps-1860"]
+    },
+    {
+      "date": "1830-03", "age": 21, "place": "Macon County, Illinois, (United States)",
+      "title": "West to Illinois",
+      "text": "The family moved to Illinois. Lincoln helped his father build a log cabin and clear land near Decatur before setting out on his own.",
+      "turning": false, "kind": "life", "sources": ["w-early", "w-lincoln"]
+    },
+    {
+      "date": "1831-07", "age": 22, "place": "New Salem, Illinois, (United States)",
+      "title": "On his own in New Salem",
+      "text": "After a second flatboat trip to New Orleans, he settled in the small village of New Salem as a store clerk. That winter he joined the village debating club.",
+      "turning": false, "kind": "work", "sources": ["nps-1860", "w-early"]
+    },
+    {
+      "date": "1832", "age": 23, "place": "New Salem, Illinois, (United States)",
+      "title": "Captain, then a lost election",
+      "text": "In the Black Hawk War his fellow volunteers elected him captain; he saw no fighting. He ran for the state legislature and lost, though his own precinct voted 277 to 7 for him. He called it the only time he was beaten by the people.",
+      "turning": false, "kind": "setback", "sources": ["nps-1860", "nps-1859", "w-lincoln"]
+    },
+    {
+      "date": "1833-05", "age": 24, "place": "New Salem, Illinois, (United States)",
+      "title": "Store fails, surveyor rises",
+      "text": "The store he bought with a partner on credit failed and left him in debt. He became village postmaster, then taught himself surveying from two borrowed books to work as a deputy county surveyor.",
+      "turning": false, "kind": "work", "sources": ["w-early", "nps-1860"]
+    },
+    {
+      "date": "1834-08-04", "age": 25, "place": "New Salem, Illinois, (United States)",
+      "title": "Legislator and law student",
+      "text": "He won a seat in the Illinois House, the first of four terms. Fellow member John T. Stuart urged him to study law. He borrowed Stuart's books and, in his words, \"studied with nobody.\"",
+      "turning": true, "kind": "work", "sources": ["w-early", "nps-1860", "w-lincoln"]
+    },
+    {
+      "date": "1836-09-09", "age": 27, "place": "Springfield, Illinois, (United States)",
+      "title": "Law licence",
+      "text": "After an oral exam by practising lawyers, he received his licence to practise law. He had never been inside a college building.",
+      "turning": false, "kind": "work", "sources": ["w-early", "nps-1860"]
+    },
+    {
+      "date": "1837-04-15", "age": 28, "place": "Springfield, Illinois, (United States)",
+      "title": "Lawyer in Springfield",
+      "text": "He moved to Springfield as Stuart's law partner. A month earlier he had filed a written protest in the legislature that slavery was \"founded on both injustice and bad policy.\"",
+      "turning": false, "kind": "work", "sources": ["nps-1860", "w-early"]
+    },
+    {
+      "date": "1838-01-27", "age": 28, "place": "Springfield, Illinois, (United States)",
+      "title": "The Lyceum Address",
+      "text": "Speaking to a young men's society after a mob killed the newspaper editor Elijah Lovejoy, he warned that mob violence could destroy the country and urged respect for the law.",
+      "turning": false, "kind": "work", "sources": ["w-lyceum", "w-lincoln", "pg-papers"]
+    },
+    {
+      "date": "1842-11-04", "age": 33, "place": "Springfield, Illinois, (United States)",
+      "title": "Marriage to Mary Todd",
+      "text": "He married Mary Todd of Lexington, Kentucky. They had four sons; only the eldest, Robert, lived to adulthood.",
+      "turning": false, "kind": "life", "sources": ["w-lincoln", "nps-1860"]
+    },
+    {
+      "date": "1844", "age": null, "place": "Springfield, Illinois, (United States)",
+      "title": "A home and a partner",
+      "text": "The Lincolns bought a house in Springfield, the only home he ever owned. He started a law practice with William Herndon and rode the Eighth Circuit for weeks each spring and autumn, earning the nickname \"Honest Abe\".",
+      "turning": false, "kind": "work", "sources": ["w-lincoln", "w-early", "nps-liho"]
+    },
+    {
+      "date": "1847-12", "age": 38, "place": "Washington, D.C., (United States)",
+      "title": "One term in Congress",
+      "text": "Elected in 1846, he took his seat in the US House. His \"spot resolutions\" challenged President Polk on how the Mexican-American War began. Newspapers mocked him as \"spotty Lincoln\", and he did not run for a second term.",
+      "turning": false, "kind": "work", "sources": ["w-lincoln", "nps-1860", "nps-1859"]
+    },
+    {
+      "date": "1849-05-22", "age": 40, "place": "Washington, D.C., (United States)",
+      "title": "The only president with a patent",
+      "text": "He received US patent 6,469 for a way to lift boats over shoals using air chambers. Back in Springfield he practised law harder than ever and, to train his reasoning, studied the six books of Euclid.",
+      "turning": false, "kind": "work", "sources": ["w-patent", "gp-6469", "nps-1860", "nps-1859"]
+    },
+    {
+      "date": "1850-02-01", "age": 40, "place": "Springfield, Illinois, (United States)",
+      "title": "Eddie dies",
+      "text": "His son Edward, aged three, died, probably of tuberculosis.",
+      "turning": false, "kind": "setback", "sources": ["w-lincoln"]
+    },
+    {
+      "date": "1854-10", "age": 45, "place": "Peoria, Illinois, (United States)",
+      "title": "Back into politics",
+      "text": "The Kansas-Nebraska Act opened western lands to slavery. Lincoln, who said he had been \"losing interest in politics\", was \"aroused\" again and spoke at Peoria against spreading slavery.",
+      "turning": true, "kind": "work", "sources": ["w-lincoln", "nps-1859", "pg-papers"]
+    },
+    {
+      "date": "1858-06-16", "age": 49, "place": "Springfield, Illinois, (United States)",
+      "title": "A house divided",
+      "text": "Accepting the Republican nomination for the US Senate, he said, \"A house divided against itself cannot stand,\" warning that the nation could not stay half slave and half free.",
+      "turning": false, "kind": "work", "sources": ["w-housedivided", "pg-papers"]
+    },
+    {
+      "date": "1858-08-21", "age": 49, "place": "Ottawa, Illinois, (United States)",
+      "title": "The great debates",
+      "text": "From August 21 at Ottawa to October 15 at Alton, he and Senator Stephen Douglas held seven debates on slavery before crowds of thousands. The legislature re-elected Douglas, but Lincoln became a national figure.",
+      "turning": true, "kind": "work", "sources": ["w-debates", "pg-debates"]
+    },
+    {
+      "date": "1860-02-27", "age": 51, "place": "New York City, New York, (United States)",
+      "title": "Cooper Union",
+      "text": "His carefully researched speech in New York argued that most of the Constitution's framers believed the national government could limit slavery. Some historians think it won him the presidency.",
+      "turning": true, "kind": "work", "sources": ["w-cooper", "pg-papers"]
+    },
+    {
+      "date": "1860-11-06", "age": 51, "place": "Springfield, Illinois, (United States)",
+      "title": "Elected president",
+      "text": "Nominated on the third ballot in Chicago in May, he was elected the first Republican president. Several Southern states then began to secede.",
+      "turning": false, "kind": "honour", "sources": ["w-lincoln"]
+    },
+    {
+      "date": "1861-04", "age": 52, "place": "Washington, D.C., (United States)",
+      "title": "The Civil War begins",
+      "text": "About a month after he took office on March 4, Confederate forces attacked Fort Sumter in South Carolina and the war began. In his first inaugural he had pleaded, \"We are not enemies, but friends.\"",
+      "turning": false, "kind": "war", "sources": ["w-lincoln", "pg-papers"]
+    },
+    {
+      "date": "1862-02-20", "age": 53, "place": "Washington, D.C., (United States)",
+      "title": "Willie dies",
+      "text": "His son Willie, 11, died at the White House in the middle of the war.",
+      "turning": false, "kind": "setback", "sources": ["w-lincoln"]
+    },
+    {
+      "date": "1863-01-01", "age": 53, "place": "Washington, D.C., (United States)",
+      "title": "The Emancipation Proclamation",
+      "text": "After a preliminary order in September 1862, he declared all people enslaved in the rebelling states \"forever free\". It changed the legal status of more than 3.5 million people. Freedom became real as Union armies advanced, and Black men could now join the Union forces.",
+      "turning": true, "kind": "war", "sources": ["w-emancipation", "w-lincoln"]
+    },
+    {
+      "date": "1863-11-19", "age": 54, "place": "Gettysburg, Pennsylvania, (United States)",
+      "title": "The Gettysburg Address",
+      "text": "At the dedication of a soldiers' cemetery, after a two-hour main speech, Lincoln spoke for about two minutes. His 271 words ended with the hope of \"a new birth of freedom.\"",
+      "turning": true, "kind": "work", "sources": ["w-gettysburg", "loc-gettysburg", "pg-papers"]
+    },
+    {
+      "date": "1864-11", "age": 55, "place": "Washington, D.C., (United States)",
+      "title": "Re-elected in wartime",
+      "text": "He won a second term, with Andrew Johnson as vice president. Speaking to a crowd afterwards, he said that holding a regular election during the rebellion had put the republic to \"a severe test\", and asked the country to learn from it rather than seek revenge.",
+      "turning": false, "kind": "honour", "sources": ["w-lincoln", "pg-papers"]
+    },
+    {
+      "date": "1865-01-31", "age": 55, "place": "Washington, D.C., (United States)",
+      "title": "The Thirteenth Amendment passes",
+      "text": "With his strong support, the House passed the amendment to abolish slavery in the whole country, on its second try. The Senate had passed it in April 1864.",
+      "turning": false, "kind": "work", "sources": ["w-13th", "w-lincoln"]
+    },
+    {
+      "date": "1865-03-04", "age": 56, "place": "Washington, D.C., (United States)",
+      "title": "\"With malice toward none\"",
+      "text": "In his short second inaugural address he spoke not of victory but of healing, asking the nation to \"bind up the nation's wounds.\"",
+      "turning": false, "kind": "work", "sources": ["w-second", "pg-papers"]
+    },
+    {
+      "date": "1865-04-15", "age": 56, "place": "Washington, D.C., (United States)",
+      "title": "Death in Washington",
+      "text": "Five days after Lee's surrender at Appomattox, he was shot by John Wilkes Booth at Ford's Theatre on the evening of April 14. He died the next morning in the Petersen House across the street, the first US president to be assassinated. He was buried in Springfield.",
+      "turning": false, "kind": "life", "sources": ["w-lincoln", "nps-foth"]
+    },
+    {
+      "date": "1865-12-06", "age": null, "place": "Washington, D.C., (United States)",
+      "title": "Slavery abolished",
+      "text": "Enough states ratified the Thirteenth Amendment, and slavery was ended throughout the United States.",
+      "turning": false, "kind": "legacy", "sources": ["w-13th"]
+    },
+    {
+      "date": "1922-05-30", "age": null, "place": "Washington, D.C., (United States)",
+      "title": "The Lincoln Memorial",
+      "text": "The Lincoln Memorial was dedicated on the National Mall. The Gettysburg Address and the Second Inaugural are carved on its inner walls. In 1963 Martin Luther King Jr. gave his \"I Have a Dream\" speech there.",
+      "turning": false, "kind": "legacy", "sources": ["w-memorial"]
+    }
+  ],
+  "patents": [
+    {
+      "number": "US 6,469",
+      "title": "Buoying Vessels over Shoals",
+      "filed": "1849-03-10",
+      "granted": "1849-05-22",
+      "country": "US",
+      "area": "boats",
+      "url": "https://patents.google.com/patent/US6469A/en"
+    }
+  ],
+  "patentsNote": "Lincoln held one patent, the only US president to do so. Dates are from the Google Patents record. The device was never made for use, and a Smithsonian curator judged it impractical.",
+  "works": [
+    { "year": "1832", "type": "writing", "title": "First campaign letter", "text": "His March 1832 address to the voters of Sangamon County, asking for a more navigable Sangamon River and for every person to get at least a moderate education.", "sources": ["w-early", "pg-papers"] },
+    { "year": "1838", "type": "speech", "title": "The Lyceum Address", "text": "\"The Perpetuation of Our Political Institutions\": a young lawyer's warning against mob rule and his call for respect for the law.", "sources": ["w-lyceum", "pg-papers"], "url": "https://www.gutenberg.org/ebooks/3253" },
+    { "year": "1847", "type": "writing", "title": "The spot resolutions", "text": "His resolutions in Congress asking President Polk to name the exact spot where the Mexican-American War began.", "sources": ["w-lincoln"] },
+    { "year": "1849", "type": "invention", "title": "Buoying vessels over shoals", "text": "Air chambers fixed to a boat's sides to lift it over sandbars (US 6,469). It was never built for use.", "sources": ["w-patent", "gp-6469"], "url": "https://patents.google.com/patent/US6469A/en" },
+    { "year": "1854", "type": "speech", "title": "Peoria speech", "text": "His long reply to Stephen Douglas on the Kansas-Nebraska Act, setting out why slavery must not spread west.", "sources": ["w-lincoln", "pg-papers"] },
+    { "year": "1858", "type": "speech", "title": "House Divided speech", "text": "His speech accepting the Senate nomination: \"A house divided against itself cannot stand.\"", "sources": ["w-housedivided", "pg-papers"] },
+    { "year": "1858", "type": "speech", "title": "The Lincoln-Douglas debates", "text": "Seven debates across Illinois on slavery in the territories, taken down in shorthand and published as a book in 1860.", "sources": ["w-debates", "pg-debates"], "url": "https://www.gutenberg.org/ebooks/2655" },
+    { "year": "1859", "type": "writing", "title": "Autobiographical sketch for Jesse Fell", "text": "A short, modest life story written for a campaign newspaper: \"there is not much of it, for the reason, I suppose, that there is not much of me.\"", "sources": ["nps-1859", "pg-papers"], "url": "https://www.nps.gov/abli/learn/historyculture/abraham-lincoln-autobiography.htm" },
+    { "year": "1860", "type": "speech", "title": "Cooper Union address", "text": "A researched argument, over 7,000 words, that the founders meant the national government to be able to limit slavery.", "sources": ["w-cooper", "pg-papers"] },
+    { "year": "1860", "type": "writing", "title": "Autobiography for John L. Scripps", "text": "A fuller life story, written in the third person for a campaign biography, with the best record of how he taught himself.", "sources": ["nps-1860"], "url": "https://www.nps.gov/liho/learn/historyculture/pressand-tribune.htm" },
+    { "year": "1861", "type": "speech", "title": "First Inaugural Address", "text": "His plea to the seceding South, ending with \"the better angels of our nature.\"", "sources": ["w-lincoln", "pg-papers"] },
+    { "year": "1862", "type": "writing", "title": "Annual Message to Congress", "text": "His December 1862 message: \"As our case is new, so we must think anew and act anew.\"", "sources": ["pg-papers"] },
+    { "year": "1863", "type": "document", "title": "Emancipation Proclamation", "text": "The order declaring enslaved people in the rebelling states free, and allowing them to be \"received into the armed service of the United States.\"", "sources": ["w-emancipation", "w-lincoln"] },
+    { "year": "1863", "type": "speech", "title": "Gettysburg Address", "text": "Ten sentences, 271 words, about two minutes. Five handwritten copies survive.", "sources": ["w-gettysburg", "loc-gettysburg"], "url": "https://www.loc.gov/exhibits/gettysburg-address/" },
+    { "year": "1865", "type": "speech", "title": "Second Inaugural Address", "text": "A short, sombre speech on the cause of the war and the work of healing: \"With malice toward none, with charity for all.\"", "sources": ["w-second", "pg-papers"] }
+  ],
+  "resources": [
+    { "label": "The Papers and Writings of Abraham Lincoln (Project Gutenberg #3253)", "url": "https://www.gutenberg.org/ebooks/3253", "what": "Lapsley's 1905 edition of his speeches, letters and papers, free to read or download." },
+    { "label": "Speeches & Letters of Abraham Lincoln, 1832-1865 (Project Gutenberg #14721)", "url": "https://www.gutenberg.org/ebooks/14721", "what": "A shorter one-volume selection, a good place to start." },
+    { "label": "Lincoln's 1860 autobiography (National Park Service)", "url": "https://www.nps.gov/liho/learn/historyculture/pressand-tribune.htm", "what": "His own account of his schooling, reading and law study, in full." },
+    { "label": "Gettysburg Address exhibition (Library of Congress)", "url": "https://www.loc.gov/exhibits/gettysburg-address/", "what": "The Library's two handwritten drafts and the story of the five known copies." },
+    { "label": "Lincoln Boyhood National Memorial (National Park Service)", "url": "https://www.nps.gov/libo/index.htm", "what": "The Indiana farm where he grew up and read by the fire." },
+    { "label": "Lincoln Home National Historic Site (National Park Service)", "url": "https://www.nps.gov/liho/index.htm", "what": "The only home he ever owned, in Springfield, Illinois." },
+    { "label": "Ford's Theatre National Historic Site (National Park Service)", "url": "https://www.nps.gov/foth/index.htm", "what": "The theatre and the Petersen House, where the story ends." },
+    { "label": "Herndon's Lincoln (Project Gutenberg #38483)", "url": "https://www.gutenberg.org/ebooks/38483", "what": "His law partner's 1889 memoir. Lively but sometimes unreliable; read it alongside modern histories." }
+  ],
+  "books": [
+    { "title": "The Papers and Writings of Abraham Lincoln", "author": "Abraham Lincoln, edited by Arthur Brooks Lapsley", "year": "1905", "kind": "by-him", "free": "https://www.gutenberg.org/ebooks/3253", "note": "His speeches, letters and papers from 1832 to 1865, in seven volumes." },
+    { "title": "The Lincoln-Douglas Debates (Papers and Writings, Volume 3)", "author": "Abraham Lincoln and Stephen A. Douglas", "year": "1858", "kind": "by-him", "free": "https://www.gutenberg.org/ebooks/2655", "note": "The great 1858 debates on slavery, word for word." },
+    { "title": "Speeches & Letters of Abraham Lincoln, 1832-1865", "author": "Abraham Lincoln, edited by Merwin Roe", "year": "1907", "kind": "by-him", "free": "https://www.gutenberg.org/ebooks/14721", "note": "A compact selection with the best-known speeches and letters." },
+    { "title": "Lincoln", "author": "David Herbert Donald", "year": "1995", "kind": "biography", "free": null, "note": "A widely respected one-volume life by a leading Lincoln historian." },
+    { "title": "Honor's Voice: The Transformation of Abraham Lincoln", "author": "Douglas L. Wilson", "year": "1998", "kind": "biography", "free": null, "note": "How the young Lincoln of New Salem and Springfield shaped himself, through reading, writing and debate." }
+  ]
+}

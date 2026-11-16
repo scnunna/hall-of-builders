@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "07-floor",
+ "panels": [
+  { "key": "01-delta", "year": "1867" },
+  { "key": "02-washtub", "year": "1888" },
+  { "key": "03-hair-grower", "year": "1905" },
+  { "key": "04-door-to-door", "year": "1906" },
+  { "key": "05-lelia-college", "year": "1908" },
+  { "key": "06-factory", "year": "1910" },
+  { "key": "07-floor", "year": "1912" },
+  { "key": "08-agents", "year": "1917" }
+ ]
+}

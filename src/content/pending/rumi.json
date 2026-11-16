@@ -1,0 +1,63 @@
+{
+  "id": "rumi",
+  "name": "Jalal al-Din Rumi",
+  "years": "1207 - 1273",
+  "title": "The Reed's Song",
+  "tagline": "A respected teacher in Konya lost his closest friend, and turned that loss into tens of thousands of verses and a great poem of teaching stories that is still read in many languages.",
+  "sources": {
+    "w-rumi": { "label": "Rumi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Rumi" },
+    "w-masnavi": { "label": "Masnavi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Masnavi" },
+    "w-divan": { "label": "Divan-e Shams-e Tabrizi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Divan-e_Shams-e_Tabrizi" },
+    "ia-whinfield": { "label": "Masnavi i Ma'navi, tr. E. H. Whinfield, Trubner, London, 1898 (Internet Archive)", "url": "https://archive.org/details/masnaviimanavisp00jala_0" },
+    "ia-nicholson": { "label": "Selected Poems from the Divani Shamsi Tabriz, ed. and tr. R. A. Nicholson, Cambridge University Press, 1898 (Internet Archive)", "url": "https://archive.org/details/in.ernet.dli.2015.52959" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Turn loss into making",
+      "idea": "When his friend Shams disappeared, Rumi did not go quiet. His grief poured out as lyric poems, later gathered as the Divan of Shams. His great Masnavi opens with a reed flute that sings because it was cut from its reed bed. The pain of missing something becomes the music.",
+      "quote": { "text": "This plaint of the flute is fire, not mere air.", "credit": "Masnavi, Book I, Prologue, tr. E. H. Whinfield (1898)" },
+      "practice": "Think of something or someone you miss. Make one small thing from that feeling today: five lines, a sketch, or a short letter.",
+      "sources": ["w-rumi", "w-divan", "ia-whinfield"]
+    },
+    {
+      "title": "Feel the whole elephant",
+      "idea": "In one Masnavi story, people touch an elephant in a dark room. One feels the trunk and says it is a water pipe, another the ear and says it is a fan. Each is partly right and none sees the whole. Rumi used the story to show how small one view can be.",
+      "quote": { "text": "The eye of outward sense is as the palm of a hand, / The whole of the object is not grasped in the palm.", "credit": "Masnavi, Book III, Story V, tr. E. H. Whinfield (1898)" },
+      "practice": "Before you decide what you think about a problem today, ask two other people how it looks to them. Write down one thing you had missed.",
+      "sources": ["ia-whinfield", "w-masnavi"]
+    },
+    {
+      "title": "Listen for the heart",
+      "idea": "In the story of Moses and the shepherd, Moses scolds a shepherd for praying in simple, clumsy words. In the poem, God tells Moses that people have many ways of showing devotion, and that what matters is the sincere heart behind the words.",
+      "quote": { "text": "I regard not the outside and the words, / I regard the inside and the state of heart.", "credit": "Masnavi, Book II, Story VII, tr. E. H. Whinfield (1898)" },
+      "practice": "The next time someone explains something badly or in a way you find strange, ask yourself what they truly mean before you correct how they said it.",
+      "sources": ["ia-whinfield"]
+    },
+    {
+      "title": "Trust, and tie the camel",
+      "idea": "In the story of the lion and the beasts, the animals argue about whether to trust in God or to make an effort. The lion quotes the saying of the Prophet: trust in God, yet tie the camel's leg. Faith and hard work go together. Rumi himself dictated the six books of the Masnavi over about twelve years.",
+      "quote": { "text": "Exert yourself to attain your objects, bit by bit.", "credit": "Masnavi, Book I, Story V, tr. E. H. Whinfield (1898)" },
+      "practice": "Pick one goal you have been hoping will happen. Write down the smallest real step toward it, and do that step today.",
+      "sources": ["ia-whinfield", "w-masnavi", "w-rumi"]
+    },
+    {
+      "title": "Let joy move you",
+      "idea": "Rumi taught with music and poetry, not only with lectures. E. H. Whinfield wrote that he brought music into the religious gatherings of his followers, and allowed religious dances that other Sufi groups had used before him. In one ghazal he asks why every Sufi should not dance like a speck of dust in the sunlight.",
+      "quote": { "text": "Why should not every Súfí begin to dance, like a mote, / In the sun of eternity, that it may deliver him from decay?", "credit": "Divani Shamsi Tabriz, poem XXIX, tr. R. A. Nicholson (1898)" },
+      "practice": "Put on a piece of music you love while you do one dull job today. Notice whether the work feels lighter.",
+      "sources": ["ia-nicholson", "ia-whinfield"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Listen like the reed", "action": "Sit still for five minutes and only listen. Write down every sound you hear, near and far." },
+    { "day": 2, "title": "Make from a loss", "action": "Think of something you miss. Turn the feeling into five lines of writing or a quick drawing.", "sources": ["w-divan"] },
+    { "day": 3, "title": "Another part of the elephant", "action": "Ask someone who sees a topic differently from you to explain their view. Write down one thing they notice that you did not." },
+    { "day": 4, "title": "Heart over words", "action": "When someone says something clumsily today, answer what they mean, not how they said it." },
+    { "day": 5, "title": "Tie the camel", "action": "Take one goal you have been only hoping for. Do one small, real step toward it today." },
+    { "day": 6, "title": "Teach with a story", "action": "Like the Masnavi, explain one idea you care about to someone by telling a short story, not a rule.", "sources": ["w-masnavi"] },
+    { "day": 7, "title": "Thank your Shams", "action": "Write a short thank-you note to a friend or teacher who changed how you see the world, and send it.", "sources": ["w-rumi"] }
+  ],
+  "reflect": "Who in your life has been a Shams to you, someone whose friendship changed how you think and what you make?",
+  "keepsake": "Jalal al-Din Rumi Builder Collectible"
+}

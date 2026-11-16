@@ -1,0 +1,65 @@
+{
+  "id": "galileo",
+  "name": "Galileo Galilei",
+  "years": "1564 - 1642",
+  "title": "The Observer",
+  "tagline": "He made his own telescope, watched the sky night after night, and tested falling bodies a hundred times, so that evidence, not old authority, would decide.",
+  "sources": {
+    "w-galileo": { "label": "Galileo Galilei (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Galileo_Galilei" },
+    "pg-sidereal": { "label": "The Sidereal Messenger of Galileo Galilei, tr. Edward Stafford Carlos (1880), full text (Project Gutenberg #46036)", "url": "https://www.gutenberg.org/ebooks/46036" },
+    "ia-twonew": { "label": "Dialogues Concerning Two New Sciences, tr. Henry Crew and Alfonso de Salvio (1914), full scan (Internet Archive)", "url": "https://archive.org/details/dialoguesconcern00galiuoft" },
+    "w-twonew": { "label": "Two New Sciences (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Two_New_Sciences" },
+    "rice-telescope": { "label": "The Telescope, The Galileo Project (Rice University)", "url": "https://galileo.library.rice.edu/sci/instruments/telescope.html" },
+    "rice-chron": { "label": "Chronology of Galileo's life, The Galileo Project (Rice University)", "url": "https://galileo.library.rice.edu/chron/galileo.html" },
+    "wq-galileo": { "label": "Galileo Galilei (Wikiquote), incl. misattributed quotes", "url": "https://en.wikiquote.org/wiki/Galileo_Galilei" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Look for yourself",
+      "idea": "Many scholars, following Aristotle, taught that the Moon was a perfect, smooth sphere. Galileo pointed his telescope at it and drew what he actually saw: mountains, valleys and shadows that moved as the sunlight changed. He trusted careful looking over what the books said.",
+      "quote": { "text": "...any one may know with the certainty that is due to the use of our senses, that the Moon certainly does not possess a smooth and polished surface, but one rough and uneven...", "credit": "The Sidereal Messenger, Introduction, tr. Edward Stafford Carlos (1880)" },
+      "practice": "Pick one thing you 'know' because you were told it. Find a way to check it with your own eyes today, and write down what you found.",
+      "sources": ["pg-sidereal", "w-galileo"]
+    },
+    {
+      "title": "Build the tool you need",
+      "idea": "In 1609 Galileo only heard a report of a Dutch spyglass. He did not wait to buy one. He worked out how it must work, built his own, and within months went from a 3-power to a 20-power telescope.",
+      "quote": { "text": "I prepared a tube, at first of lead, in the ends of which I fitted two glass lenses, both plane on one side, but on the other side one spherically convex, and the other concave.", "credit": "The Sidereal Messenger, account of the telescope, tr. Edward Stafford Carlos (1880)" },
+      "practice": "Think of a small job you do often that is slow or awkward. Make or improve one simple tool or template that makes it easier.",
+      "sources": ["pg-sidereal", "rice-telescope", "rice-chron"]
+    },
+    {
+      "title": "Watch night after night",
+      "idea": "On 7 January 1610 Galileo saw small 'stars' beside Jupiter. One night could not tell him what they were, so he came back night after night and drew where they stood. By 15 January he knew: four moons were circling Jupiter.",
+      "quote": { "text": "...I have discovered four planets, neither known nor observed by any one of the astronomers before my time...", "credit": "The Sidereal Messenger, Introduction, tr. Edward Stafford Carlos (1880)" },
+      "practice": "Choose one thing that changes day to day (the Moon, a plant, your mood, a price). Note it at the same time each day for a week before you draw a conclusion.",
+      "sources": ["pg-sidereal", "w-galileo", "rice-chron"]
+    },
+    {
+      "title": "Test it a hundred times",
+      "idea": "Galileo could not time a falling stone with the clocks of his day, so he slowed the fall down. He rolled a bronze ball down a long smooth groove, timed it with flowing water, and repeated the trial again and again until the pattern was clear.",
+      "quote": { "text": "...in such experiments, repeated a full hundred times, we always found that the spaces traversed were to each other as the squares of the times...", "credit": "Two New Sciences, Third Day, tr. Henry Crew and Alfonso de Salvio (1914)" },
+      "practice": "Before you trust a result, do it again. Repeat one small test (a recipe, a route, a study method) at least five times and write down each result.",
+      "sources": ["ia-twonew", "w-twonew"]
+    },
+    {
+      "title": "Learn from people who make things",
+      "idea": "Two New Sciences opens in the shipyards of Venice. Galileo said the workers there, who built machines every day, knew things that scholars had missed. He took real problems, like why big beams break more easily, and turned them into science.",
+      "quote": { "text": "The constant activity which you Venetians display in your famous arsenal suggests to the studious mind a large field for investigation, especially that part of the work which involves mechanics...", "credit": "Two New Sciences, First Day, tr. Henry Crew and Alfonso de Salvio (1914)" },
+      "practice": "Ask someone who works with their hands (a cook, mechanic, gardener or builder) how they do one part of their job. Write down one thing you learned.",
+      "sources": ["ia-twonew", "w-twonew"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Look up", "action": "Tonight, find the Moon if it is out. Sketch what you see in two minutes, including any dark patches. Never look at the Sun, with or without a lens.", "sources": ["pg-sidereal"] },
+    { "day": 2, "title": "Same time, again", "action": "Look again at the same time and sketch again (or note the sky was cloudy). Write one thing that changed since yesterday." },
+    { "day": 3, "title": "Swing test", "action": "Tie a key to a string. Count its swings in 30 seconds with a big swing, then with a small one. Compare the counts.", "sources": ["w-galileo"] },
+    { "day": 4, "title": "Slow the fall", "action": "Prop up a book to make a gentle ramp. Roll a ball or marble down it five times and time each run. Write the times in a list.", "sources": ["ia-twonew"] },
+    { "day": 5, "title": "Ask a maker", "action": "Ask someone who builds, fixes or cooks how they do one task. Note one trick they know that books do not teach." },
+    { "day": 6, "title": "Check a claim", "action": "Pick one thing you believe because you heard it. Find one way to check it yourself, and do it." },
+    { "day": 7, "title": "Your logbook", "action": "Read back your notes from the week. Write one sentence on what you saw for yourself that you would not have known by only reading." }
+  ],
+  "reflect": "What is one thing you believe only because someone told you, and how could you look for yourself?",
+  "keepsake": "Galileo Galilei Builder Collectible"
+}

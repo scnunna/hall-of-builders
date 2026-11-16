@@ -1,0 +1,69 @@
+{
+  "id": "tolstoy",
+  "name": "Leo Tolstoy",
+  "years": "1828 - 1910",
+  "title": "The Truth Seeker",
+  "tagline": "He wrote life exactly as he saw it in War and Peace and Anna Karenina, opened a free school for peasant children, and spent his last years trying to live by his conscience, in words that reached a young Gandhi.",
+  "sources": {
+    "w-tolstoy": { "label": "Leo Tolstoy (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Leo_Tolstoy" },
+    "w-warpeace": { "label": "War and Peace (Wikipedia)", "url": "https://en.wikipedia.org/wiki/War_and_Peace" },
+    "w-anna": { "label": "Anna Karenina (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Anna_Karenina" },
+    "w-kingdom": { "label": "The Kingdom of God Is Within You (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Kingdom_of_God_Is_Within_You" },
+    "g-warpeace": { "label": "War and Peace, tr. Louise and Aylmer Maude (Project Gutenberg #2600)", "url": "https://www.gutenberg.org/ebooks/2600" },
+    "g-anna": { "label": "Anna Karenina, tr. Constance Garnett (Project Gutenberg #1399)", "url": "https://www.gutenberg.org/ebooks/1399" },
+    "g-kingdom": { "label": "The Kingdom of God Is Within You, tr. Constance Garnett, 1894 (Project Gutenberg #4602)", "url": "https://www.gutenberg.org/ebooks/4602" },
+    "g-art": { "label": "What Is Art?, tr. Aylmer Maude, 1904 edition (Project Gutenberg #64908)", "url": "https://www.gutenberg.org/ebooks/64908" },
+    "g-tales": { "label": "What Men Live By, and Other Tales, tr. Louise and Aylmer Maude (Project Gutenberg #6157)", "url": "https://www.gutenberg.org/ebooks/6157" },
+    "ia-23tales": { "label": "Twenty-Three Tales, tr. L. and A. Maude, Oxford University Press 1906 (Internet Archive)", "url": "https://archive.org/details/cihm_85206" },
+    "yp-museum": { "label": "Yasnaya Polyana Museum-Estate, About (official site)", "url": "https://www.ypmuseum.ru/about?lang=en" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Pass on what you truly felt",
+      "idea": "Tolstoy believed real art is not decoration. A writer, painter or musician lives through a feeling, then finds a way to hand that exact feeling to someone else. He set out this idea in his long essay What Is Art?",
+      "quote": { "text": "Art is a human activity, consisting in this, that one man consciously, by means of certain external signs, hands on to others feelings he has lived through, and that other people are infected by these feelings, and also experience them.", "credit": "What Is Art?, ch. V, tr. Aylmer Maude (1904 edition)" },
+      "practice": "Write five honest lines about one moment from today that moved you. Use plain words and real details, not big adjectives.",
+      "sources": ["g-art", "w-tolstoy"]
+    },
+    {
+      "title": "Patience and time",
+      "idea": "War and Peace took about six years. Tolstoy rewrote it again and again, and his wife Sophia copied out full drafts many times before he was ready. In the novel, the old general Kutuzov wins not by rushing but by waiting. These are a character's words, but they match how Tolstoy worked.",
+      "quote": { "text": "But believe me, my dear boy, there is nothing stronger than those two: patience and time, they will do it all.", "credit": "War and Peace, Book 10, ch. XVI (spoken by Kutuzov), tr. Louise and Aylmer Maude (1922)" },
+      "practice": "Take one piece of work you think is finished. Go through it once more slowly and improve three small things.",
+      "sources": ["g-warpeace", "w-warpeace"]
+    },
+    {
+      "title": "Learn by doing",
+      "idea": "Tolstoy's school for peasant children was built on freedom and creativity, not force: children learned by trying, asking and making. In Anna Karenina, the landowner Levin, often seen as a picture of Tolstoy himself, discovers the joy of mowing with the peasants until the work seems to flow by itself.",
+      "quote": { "text": "The longer Levin mowed, the oftener he felt the moments of unconsciousness in which it seemed not his hands that swung the scythe, but the scythe mowing of itself, a body full of life and consciousness of its own, and as though by magic, without thinking of it, the work turned out regular and well-finished of itself.", "credit": "Anna Karenina, Part 3, ch. 5 (about Levin), tr. Constance Garnett (1901)" },
+      "practice": "Learn one small hands-on skill today by trying it, not reading about it: fix, cook, plant or build something simple.",
+      "sources": ["g-anna", "w-anna", "yp-museum"]
+    },
+    {
+      "title": "Now, and the person in front of you",
+      "idea": "In his short tale Three Questions, a king asks: when is the right time, who matters most, and what should I do? A hermit's answer sums up the plain wisdom of Tolstoy's later short tales.",
+      "quote": { "text": "Remember then: there is only one time that is important--Now! It is the most important time because it is the only time when we have any power.", "credit": "Three Questions, in Twenty-Three Tales, tr. Louise and Aylmer Maude (1906)" },
+      "practice": "In your next conversation, put your phone away and give the person your full attention. Ask one question about them and listen to the whole answer.",
+      "sources": ["g-tales", "ia-23tales"]
+    },
+    {
+      "title": "Live by your conscience",
+      "idea": "In later life Tolstoy decided that each person must follow their own conscience and refuse to answer harm with violence. He gave away the profits of some books to help people in need. His book on this idea was banned in Russia, but it deeply moved the young Gandhi.",
+      "quote": { "text": "The sole meaning of life is to serve humanity by contributing to the establishment of the kingdom of God, which can only be done by the recognition and profession of the truth by every man.", "credit": "The Kingdom of God Is Within You, ch. XII, tr. Constance Garnett (1894)" },
+      "practice": "Notice one moment today when you feel like answering rudeness with rudeness. Answer calmly and kindly instead, then write down what happened.",
+      "sources": ["g-kingdom", "w-kingdom", "w-tolstoy"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Truly felt", "action": "Write five honest lines about one moment today that moved you, using real details, not big words.", "sources": ["g-art"] },
+    { "day": 2, "title": "Watch closely", "action": "Sit somewhere busy for ten minutes and note small details of how people move, speak and wait. Tolstoy's scenes were built from details like these." },
+    { "day": 3, "title": "One more pass", "action": "Pick something you made or wrote this week. Improve three small things in it, slowly.", "sources": ["w-warpeace"] },
+    { "day": 4, "title": "Hands on", "action": "Learn one simple practical skill by doing it: cook a new dish, mend something, or plant a seed." },
+    { "day": 5, "title": "Teach freely", "action": "Teach someone younger one thing you know, by letting them try it and asking questions instead of lecturing.", "sources": ["yp-museum"] },
+    { "day": 6, "title": "Now", "action": "Give one person your full attention in conversation today. No phone, just listening.", "sources": ["g-tales"] },
+    { "day": 7, "title": "A letter of conscience", "action": "Like Tolstoy writing to Gandhi, write a thoughtful letter or message to someone whose work for good you admire, and send it." }
+  ],
+  "reflect": "Where in your life are you doing what is expected of you, and where are you doing what your own conscience says is right?",
+  "keepsake": "Leo Tolstoy Builder Collectible"
+}

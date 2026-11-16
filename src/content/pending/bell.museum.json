@@ -1,0 +1,330 @@
+{
+  "sources": {
+    "w-bell": { "label": "Alexander Graham Bell (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell" },
+    "w-gray": { "label": "Elisha Gray and Alexander Bell telephone controversy (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Elisha_Gray_and_Alexander_Bell_telephone_controversy" },
+    "w-meucci": { "label": "Antonio Meucci (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Antonio_Meucci" },
+    "w-visible": { "label": "Visible Speech (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Visible_Speech" },
+    "w-oralism": { "label": "Oralism (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Oralism" },
+    "w-homestead": { "label": "Bell Homestead National Historic Site (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Bell_Homestead_National_Historic_Site" },
+    "w-mabel": { "label": "Mabel Gardiner Hubbard (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mabel_Gardiner_Hubbard" },
+    "w-volta": { "label": "Volta Laboratory and Bureau (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Volta_Laboratory_and_Bureau" },
+    "w-photophone": { "label": "Photophone (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Photophone" },
+    "w-beinn": { "label": "Beinn Bhreagh (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Beinn_Bhreagh" },
+    "w-kite": { "label": "Tetrahedral kite (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Tetrahedral_kite" },
+    "w-aea": { "label": "Aerial Experiment Association (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Aerial_Experiment_Association" },
+    "w-hd4": { "label": "HD-4 hydrofoil (Wikipedia)", "url": "https://en.wikipedia.org/wiki/HD-4" },
+    "pc-nhs": { "label": "Alexander Graham Bell National Historic Site, Baddeck (Parks Canada)", "url": "https://parks.canada.ca/lhn-nhs/ns/grahambell" },
+    "pg-telephone": { "label": "The Telephone: Researches in Electric Telephony, lecture by A. G. Bell, 31 Oct 1877 (published 1878), full text (Project Gutenberg #55787)", "url": "https://www.gutenberg.org/ebooks/55787" },
+    "ia-deposition": { "label": "The Bell Telephone: The Deposition of Alexander Graham Bell (1908), full text (Internet Archive)", "url": "https://archive.org/details/the-bell-telephone" },
+    "pg-marden": { "label": "How They Succeeded, O. S. Marden (1901), chapter 'Hints on Success by Alexander G. Bell' (Project Gutenberg #64059)", "url": "https://www.gutenberg.org/ebooks/64059" },
+    "pg-phonograph": { "label": "Development of the Phonograph at Alexander Graham Bell's Volta Laboratory, Leslie J. Newville (Project Gutenberg #30112)", "url": "https://www.gutenberg.org/ebooks/30112" },
+    "wq-bell": { "label": "Alexander Graham Bell (Wikiquote)", "url": "https://en.wikiquote.org/wiki/Alexander_Graham_Bell" },
+    "gp-161739": { "label": "US 161,739, Transmitters and Receivers for Electric Telegraphs (Google Patents)", "url": "https://patents.google.com/patent/US161739" },
+    "gp-174465": { "label": "US 174,465, Improvement in Telegraphy (Google Patents)", "url": "https://patents.google.com/patent/US174465" },
+    "gp-178399": { "label": "US 178,399, Telephonic Telegraph-Receivers (Google Patents)", "url": "https://patents.google.com/patent/US178399" },
+    "gp-186787": { "label": "US 186,787, Improvement in Electric Telegraphy (Google Patents)", "url": "https://patents.google.com/patent/US186787" },
+    "gp-201488": { "label": "US 201,488, Improvement in Speaking-Telephones (Google Patents)", "url": "https://patents.google.com/patent/US201488" },
+    "gp-235199": { "label": "US 235,199, Photophone (Google Patents)", "url": "https://patents.google.com/patent/US235199" },
+    "gp-241909": { "label": "US 241,909, Photophonic Receiver (Google Patents)", "url": "https://patents.google.com/patent/US241909" },
+    "gp-341212": { "label": "US 341,212, Reproducing Sounds from Phonograph Records (Google Patents)", "url": "https://patents.google.com/patent/US341212" },
+    "gp-341214": { "label": "US 341,214, Recording and Reproducing Speech and Other Sounds, C. A. Bell and S. Tainter (Google Patents)", "url": "https://patents.google.com/patent/US341214" },
+    "gp-770626": { "label": "US 770,626, Aerial Vehicle or Other Structure (Google Patents)", "url": "https://patents.google.com/patent/US770626" },
+    "gp-856838": { "label": "US 856,838, Connection Device for the Frames of Aerial Vehicles (Google Patents)", "url": "https://patents.google.com/patent/US856838" },
+    "gp-1410874": { "label": "US 1,410,874, Hydrodrome, Hydroaeroplane, and the Like (Google Patents)", "url": "https://patents.google.com/patent/US1410874" },
+    "gp-1410876": { "label": "US 1,410,876, Hydrodrome, Hydroaeroplane, and the Like (Google Patents)", "url": "https://patents.google.com/patent/US1410876A/en" }
+  },
+  "timeline": [
+    {
+      "date": "1847-03-03", "age": 0, "place": "Edinburgh, Scotland, (United Kingdom)",
+      "title": "Born in Edinburgh",
+      "text": "Alexander Bell was born on South Charlotte Street in Edinburgh. His father, Alexander Melville Bell, and his grandfather both taught speech. His mother, Eliza, was losing her hearing by the time he was about 12. He added the middle name Graham at 11.",
+      "turning": false, "kind": "life", "sources": ["w-bell", "pg-marden"]
+    },
+    {
+      "date": "1859", "age": 12, "place": "Edinburgh, Scotland, (United Kingdom)",
+      "title": "A first invention",
+      "text": "At about 12, he built a machine to remove the husks from wheat, which was used at the Herdman family's flour mill.",
+      "turning": false, "kind": "work", "sources": ["w-bell"]
+    },
+    {
+      "date": "1863", "age": 16, "place": "Elgin, Moray, Scotland, (United Kingdom)",
+      "title": "A speaking head and a first teaching job",
+      "text": "After seeing a speaking machine, he and his brother Melville built a talking head of their own. At 16 he became a pupil-teacher of speech and music at Weston House Academy in Elgin. He later studied at the University of Edinburgh.",
+      "turning": false, "kind": "work", "sources": ["w-bell"]
+    },
+    {
+      "date": "1867", "age": null, "place": "London, England, (United Kingdom)",
+      "title": "Visible Speech, and a loss",
+      "text": "His father published Visible Speech, a set of symbols that showed how the lips, tongue and throat make each sound. Bell learned it and helped demonstrate it. The same year his younger brother Edward died of tuberculosis.",
+      "turning": false, "kind": "setback", "sources": ["w-visible", "w-bell"]
+    },
+    {
+      "date": "1870-05", "age": 23, "place": "London, England, (United Kingdom)",
+      "title": "His last brother dies",
+      "text": "His older brother Melville also died of tuberculosis. Bell's own health was poor. A later interviewer wrote that he came to Canada, as Bell put it, \"to die.\"",
+      "turning": false, "kind": "setback", "sources": ["w-bell", "pg-marden"]
+    },
+    {
+      "date": "1870-08", "age": 23, "place": "Brantford, Ontario, (Canada)",
+      "title": "A new home at Tutelo Heights",
+      "text": "The family emigrated to Canada and bought a farm at Tutelo Heights, near Brantford, Ontario. Bell's health recovered there. He spent long hours studying a French translation of Helmholtz's book on sound.",
+      "turning": true, "kind": "life", "sources": ["w-bell", "w-homestead", "ia-deposition"]
+    },
+    {
+      "date": "1871-04", "age": 24, "place": "Boston, Massachusetts, (United States)",
+      "title": "Teaching deaf children to speak",
+      "text": "The Boston School for Deaf Mutes invited Bell to train its teachers in Visible Speech. He then taught at schools for the deaf in Northampton and Hartford, and spent part of each year with his parents in Brantford.",
+      "turning": false, "kind": "work", "sources": ["w-bell", "ia-deposition"]
+    },
+    {
+      "date": "1872-10", "age": 25, "place": "Boston, Massachusetts, (United States)",
+      "title": "His own school",
+      "text": "He opened a School of Vocal Physiology and Mechanics of Speech in Boston. His first class had 30 students, many of them deaf. He also became a professor of vocal physiology at Boston University.",
+      "turning": false, "kind": "work", "sources": ["w-bell", "ia-deposition"]
+    },
+    {
+      "date": "1873", "age": null, "place": "Boston, Massachusetts, (United States)",
+      "title": "Sound experiments, and Mabel",
+      "text": "Bell gave up most of his private teaching to work on sending several telegraph messages down one wire using musical tones. He kept two pupils. One was Mabel Hubbard, who had been deaf since a childhood illness. She later became his wife.",
+      "turning": false, "kind": "work", "sources": ["w-bell", "w-mabel"]
+    },
+    {
+      "date": "1874", "age": 27, "place": "Brantford, Ontario, (Canada)",
+      "title": "The idea, at home in Brantford",
+      "text": "While working with an 'ear phonautograph', a device that traced sound waves, Bell saw how a thin eardrum moves heavy bones. On his summer holiday at the family home he worked out how a speaking telephone could work. He dated the idea to the summer of 1874; the Bell Homestead gives 26 July.",
+      "turning": true, "kind": "work", "sources": ["ia-deposition", "pg-telephone", "w-homestead", "w-bell"]
+    },
+    {
+      "date": "1874", "age": 27, "place": "Boston, Massachusetts, (United States)",
+      "title": "Meeting Thomas Watson",
+      "text": "Bell met Thomas A. Watson, a skilled electrical mechanic at Charles Williams' shop in Boston. Watson became his assistant. Two backers, Gardiner Hubbard and Thomas Sanders, paid for the experiments.",
+      "turning": false, "kind": "work", "sources": ["w-bell"]
+    },
+    {
+      "date": "1875-03", "age": 28, "place": "Washington, D.C., (United States)",
+      "title": "\"Get it!\"",
+      "text": "Bell visited Joseph Henry of the Smithsonian Institution. Henry said he had the germ of a great invention. When Bell said he lacked the knowledge of electricity, Henry is reported to have answered: \"Get it!\"",
+      "turning": false, "kind": "work", "sources": ["w-bell"]
+    },
+    {
+      "date": "1876-02-14", "age": 28, "place": "Washington, D.C., (United States)",
+      "title": "A patent, and a same-day rival",
+      "text": "Bell's lawyer filed his telephone patent application. The same day, Elisha Gray's lawyer filed a caveat (a notice of an invention in progress) for a telephone with a liquid transmitter. Which arrived first, and whether Bell's lawyers saw Gray's papers, is still argued by historians.",
+      "turning": false, "kind": "work", "sources": ["w-gray", "w-bell", "gp-174465"]
+    },
+    {
+      "date": "1876-03-07", "age": 29, "place": "Washington, D.C., (United States)",
+      "title": "US Patent 174,465",
+      "text": "The patent for an 'Improvement in Telegraphy' was granted. It covered his method of sending sounds, including speech, by electricity.",
+      "turning": false, "kind": "work", "sources": ["gp-174465", "w-bell"]
+    },
+    {
+      "date": "1876-03-10", "age": 29, "place": "Boston, Massachusetts, (United States)",
+      "title": "\"Mr. Watson — Come here\"",
+      "text": "Speaking into a liquid transmitter, Bell called to Watson in the next room. Watson heard the words clearly. Bell wrote them in his notebook that day. It was the first clear speech sent by their telephone.",
+      "turning": true, "kind": "work", "sources": ["w-bell", "wq-bell"]
+    },
+    {
+      "date": "1876", "age": 29, "place": "Philadelphia, Pennsylvania, (United States)",
+      "title": "Shown at the Centennial",
+      "text": "Bell showed the telephone at the Centennial Exhibition in Philadelphia. The display brought it attention from around the world.",
+      "turning": false, "kind": "honour", "sources": ["w-bell"]
+    },
+    {
+      "date": "1876-08-10", "age": 29, "place": "Paris, Ontario, (Canada)",
+      "title": "Brantford to Paris",
+      "text": "After test calls from Brantford to Mount Pleasant (3 August) and to the family home (4 August), Bell listened in Paris, Ontario, to voices and songs sent from Brantford, 8 miles away. He recognised his father's voice. Many sources call it the first long-distance call.",
+      "turning": true, "kind": "work", "sources": ["ia-deposition", "w-homestead", "w-bell"]
+    },
+    {
+      "date": "1876-10-09", "age": 29, "place": "Cambridge, Massachusetts, (United States)",
+      "title": "The first two-way conversation",
+      "text": "Bell and Watson held a two-way telephone conversation over about 2.5 miles of wire between Cambridge and Boston.",
+      "turning": false, "kind": "work", "sources": ["w-bell"]
+    },
+    {
+      "date": "1877-07-11", "age": 30, "place": "Cambridge, Massachusetts, (United States)",
+      "title": "Marriage and a company",
+      "text": "Bell married Mabel Hubbard at her parents' home, a few days after the Bell Telephone Company was set up. They had two daughters, Elsie and Marian. Two sons died as babies.",
+      "turning": false, "kind": "life", "sources": ["w-bell", "w-mabel"]
+    },
+    {
+      "date": "1880", "age": null, "place": "Washington, D.C., (United States)",
+      "title": "The Volta Prize",
+      "text": "France awarded Bell the Volta Prize of 50,000 francs for the telephone. He used the money to found the Volta Laboratory with his cousin Chichester Bell and instrument maker Charles Sumner Tainter, and to fund work for deaf people.",
+      "turning": true, "kind": "honour", "sources": ["w-bell", "w-volta"]
+    },
+    {
+      "date": "1880-06", "age": 33, "place": "Washington, D.C., (United States)",
+      "title": "Speech on a beam of light",
+      "text": "Tainter spoke from the roof of the Franklin School and Bell heard him at his laboratory window, about 213 metres away, through the photophone, which carried sound on sunlight. Sources give 3 June or 21 June. Bell later called it his greatest invention.",
+      "turning": false, "kind": "work", "sources": ["w-photophone", "w-bell", "gp-235199"]
+    },
+    {
+      "date": "1881-07", "age": 34, "place": "Washington, D.C., (United States)",
+      "title": "Searching for a president's bullet",
+      "text": "After President James Garfield was shot, Bell quickly built an induction balance, an early metal detector, to find the bullet. It did not find it, and accounts disagree on why.",
+      "turning": false, "kind": "setback", "sources": ["w-bell"]
+    },
+    {
+      "date": "1882", "age": null, "place": "Washington, D.C., (United States)",
+      "title": "American citizen",
+      "text": "Bell became a US citizen. He had been a British subject in Scotland and in Canada until then. The family made their main city home in Washington.",
+      "turning": false, "kind": "life", "sources": ["w-bell"]
+    },
+    {
+      "date": "1885", "age": 38, "place": "Baddeck, Nova Scotia, (Canada)",
+      "title": "Summer on Cape Breton",
+      "text": "The Bells spent a summer holiday at the village of Baddeck on Cape Breton Island. They loved it, and soon began to build a home across the bay.",
+      "turning": false, "kind": "life", "sources": ["w-bell", "w-beinn"]
+    },
+    {
+      "date": "1886-05-04", "age": 39, "place": "Washington, D.C., (United States)",
+      "title": "Recording sound in wax",
+      "text": "The Volta Laboratory received patents for recording sound by cutting it into wax instead of tinfoil, an improvement on Edison's phonograph. Its sale funded Bell's work for the deaf.",
+      "turning": false, "kind": "work", "sources": ["w-volta", "gp-341212", "gp-341214", "pg-phonograph"]
+    },
+    {
+      "date": "1887-01-13", "age": 39, "place": "Washington, D.C., (United States)",
+      "title": "The government sues",
+      "text": "The US government moved to cancel Bell's patents for fraud. Over 18 years the Bell company faced about 587 court challenges. The courts upheld Bell's patents, and the government case was dropped in 1897 after the patents had expired.",
+      "turning": false, "kind": "setback", "sources": ["w-bell", "w-meucci"]
+    },
+    {
+      "date": "1887", "age": null, "place": "Washington, D.C., (United States)",
+      "title": "The Volta Bureau",
+      "text": "With money from the wax-recording patents, Bell founded the Volta Bureau 'for the increase and diffusion of knowledge relating to the deaf'. It lives on as the Alexander Graham Bell Association for the Deaf and Hard of Hearing.",
+      "turning": false, "kind": "work", "sources": ["w-volta", "w-bell"]
+    },
+    {
+      "date": "1888", "age": null, "place": "Baddeck, Nova Scotia, (Canada)",
+      "title": "Beinn Bhreagh",
+      "text": "On a peninsula across from Baddeck the Bells built the Lodge, the first house on their estate, Beinn Bhreagh. It became their main home, with a laboratory and boatyard.",
+      "turning": false, "kind": "life", "sources": ["w-beinn", "w-mabel", "w-bell"]
+    },
+    {
+      "date": "1893", "age": null, "place": "Washington, D.C., (United States)",
+      "title": "Helen Keller breaks the ground",
+      "text": "Helen Keller, who was deaf and blind, turned the first sod for the Volta Bureau's new building. She later said Bell gave his life to breaking through the 'inhuman silence which separates and estranges'.",
+      "turning": false, "kind": "work", "sources": ["w-bell", "w-volta"]
+    },
+    {
+      "date": "1898", "age": null, "place": "Washington, D.C., (United States)",
+      "title": "Kites and National Geographic",
+      "text": "Bell became the second president of the National Geographic Society (1898 to 1903) and pushed for many more photographs in its magazine. At Beinn Bhreagh he flew ever larger kites built from tetrahedral cells.",
+      "turning": false, "kind": "work", "sources": ["w-bell", "w-kite"]
+    },
+    {
+      "date": "1907-09-30", "age": 60, "place": "Baddeck, Nova Scotia, (Canada)",
+      "title": "The Aerial Experiment Association",
+      "text": "Bell formed a team of young engineers to build flying machines: Casey Baldwin, J. A. D. McCurdy, Glenn Curtiss and Lt. Thomas Selfridge. Mabel Bell paid for it with about $35,000 of her own money.",
+      "turning": false, "kind": "work", "sources": ["w-aea", "w-mabel"]
+    },
+    {
+      "date": "1909-02-23", "age": 61, "place": "Baddeck, Nova Scotia, (Canada)",
+      "title": "The Silver Dart flies",
+      "text": "McCurdy flew the AEA's Silver Dart at Baddeck, the first controlled powered flight in Canada. The association ended on 31 March 1909.",
+      "turning": false, "kind": "work", "sources": ["w-aea", "w-beinn"]
+    },
+    {
+      "date": "1915-01-25", "age": 67, "place": "New York, New York, (United States)",
+      "title": "Coast to coast",
+      "text": "Bell spoke from New York to Thomas Watson in San Francisco in the first ceremonial transcontinental telephone call, nearly 39 years after their first call.",
+      "turning": false, "kind": "honour", "sources": ["w-bell"]
+    },
+    {
+      "date": "1919-09-09", "age": 72, "place": "Baddeck, Nova Scotia, (Canada)",
+      "title": "The HD-4 sets a record",
+      "text": "The HD-4, a hydrofoil boat designed by Bell and Casey Baldwin and built at the Beinn Bhreagh boatyard, lifted out of the water on underwater wings and reached 114 km/h (70.86 mph) on the Bras d'Or Lake, a world water speed record that stood for about a year.",
+      "turning": true, "kind": "work", "sources": ["w-hd4", "w-bell", "w-beinn"]
+    },
+    {
+      "date": "1922-08-02", "age": 75, "place": "Baddeck, Nova Scotia, (Canada)",
+      "title": "Death at Beinn Bhreagh",
+      "text": "Bell died at his Cape Breton home at 75. He was buried on the top of Beinn Bhreagh, overlooking the lake. At the end of his funeral, telephones across North America fell silent for one minute. Mabel died five months later and is buried beside him.",
+      "turning": false, "kind": "life", "sources": ["w-bell", "w-beinn", "w-mabel"]
+    },
+    {
+      "date": "1996-06-01", "age": null, "place": "Brantford, Ontario, (Canada)",
+      "title": "Bell Homestead honoured",
+      "text": "The family farm at Tutelo Heights, where Bell said the telephone was conceived, was named a National Historic Site of Canada. It is now a museum.",
+      "turning": false, "kind": "legacy", "sources": ["w-homestead"]
+    },
+    {
+      "date": "2002-06-11", "age": null, "place": "Washington, D.C., (United States)",
+      "title": "Who invented the telephone?",
+      "text": "The US House of Representatives passed a resolution saying Antonio Meucci's 'work in the invention of the telephone should be acknowledged'. Ten days later Canada's House of Commons passed a motion naming Bell as the inventor. Historians still debate the roles of Bell, Meucci and Gray.",
+      "turning": false, "kind": "legacy", "sources": ["w-meucci", "w-bell", "w-gray"]
+    }
+  ],
+  "feature": {
+    "nav": "Voice to Phone",
+    "title": "From voice to telephone",
+    "lead": "The telephone did not come from electricity alone. It came from a family of speech teachers, from deaf classrooms, and from a close look at how the human ear works. Follow the steps from Edinburgh to Brantford, Boston and Baddeck.",
+    "style": "route",
+    "items": [
+      { "label": "A family of speech teachers", "date": "1867", "place": "London, England, (United Kingdom)", "text": "His father's Visible Speech symbols showed how the mouth and throat shape every sound. Bell learned to read and demonstrate them, which gave him an exact sense of how speech is made.", "sources": ["w-visible", "pg-telephone"] },
+      { "label": "Reading Helmholtz", "date": "1870", "place": "Brantford, Ontario, (Canada)", "text": "At his parents' new home near Brantford, Bell spent much of his time studying Hermann von Helmholtz's work on how tones combine to make vowel sounds, and how tuning forks could be driven by electricity.", "url": "https://archive.org/details/the-bell-telephone", "sources": ["ia-deposition", "pg-telephone"] },
+      { "label": "Teaching deaf students", "date": "1871-04", "place": "Boston, Massachusetts, (United States)", "text": "Bell trained teachers of deaf children in Boston, Northampton and Hartford. To help his students, he looked for ways to make the vibrations of sound visible.", "sources": ["w-bell", "ia-deposition", "pg-telephone"] },
+      { "label": "The ear phonautograph", "date": "1874", "place": "Boston, Massachusetts, (United States)", "text": "Ear doctor Clarence Blake suggested using a real human ear to trace sound waves. Bell was struck that a thin eardrum could move the heavy bones of the ear. Why not a thin membrane moving iron in front of a magnet?", "url": "https://www.gutenberg.org/ebooks/55787", "sources": ["pg-telephone"] },
+      { "label": "The idea at Tutelo Heights", "date": "1874", "place": "Brantford, Ontario, (Canada)", "text": "On his summer holiday at the family home, Bell worked out how a speaking telephone could work. He later swore it was the summer of 1874; the homestead dates it to 26 July.", "sources": ["ia-deposition", "w-homestead", "w-bell"] },
+      { "label": "The twanged reed", "date": "1875-06-02", "place": "Boston, Massachusetts, (United States)", "text": "Working on a multiple telegraph, Watson plucked a stuck reed. Bell heard its full tone at the other end of the wire and saw that one membrane and magnet could carry all the parts of a voice.", "sources": ["w-bell"] },
+      { "label": "Patent 174,465", "date": "1876-03-07", "place": "Washington, D.C., (United States)", "text": "Filed on 14 February 1876, the same day as Elisha Gray's caveat, and granted on 7 March. Courts later upheld it many times, but the timing is still debated.", "url": "https://patents.google.com/patent/US174465", "sources": ["gp-174465", "w-gray"] },
+      { "label": "\"Mr. Watson — Come here\"", "date": "1876-03-10", "place": "Boston, Massachusetts, (United States)", "text": "The first clear sentence passed between two rooms. Bell wrote it down in his notebook the same day.", "sources": ["w-bell", "wq-bell"] },
+      { "label": "Brantford to Paris", "date": "1876-08-10", "place": "Paris, Ontario, (Canada)", "text": "Listening in Paris, Ontario, Bell heard speakers and singers in Brantford, 8 miles away, and recognised his father's voice. He believed it was the first time words were carried 'many miles away'.", "url": "https://archive.org/details/the-bell-telephone", "sources": ["ia-deposition", "w-homestead"] },
+      { "label": "Talking both ways", "date": "1876-10-09", "place": "Cambridge, Massachusetts, (United States)", "text": "Bell and Watson held the first two-way telephone conversation, over about 2.5 miles of wire.", "sources": ["w-bell"] },
+      { "label": "Sound on a beam of light", "date": "1880-06", "place": "Washington, D.C., (United States)", "text": "With Charles Sumner Tainter, Bell sent speech on sunlight with the photophone, an early ancestor of fibre-optic communication.", "url": "https://patents.google.com/patent/US235199", "sources": ["w-photophone", "gp-235199"] },
+      { "label": "The Volta Laboratory and Bureau", "date": "1881", "place": "Washington, D.C., (United States)", "text": "Prize money from the telephone paid for a lab that improved sound recording, and that money in turn founded the Volta Bureau for knowledge about deafness.", "url": "https://www.gutenberg.org/ebooks/30112", "sources": ["w-volta", "pg-phonograph"] },
+      { "label": "Kites and the Silver Dart", "date": "1907", "place": "Baddeck, Nova Scotia, (Canada)", "text": "At Beinn Bhreagh, Bell's tetrahedral kites led to the Aerial Experiment Association and Canada's first powered flight in 1909.", "sources": ["w-kite", "w-aea"] },
+      { "label": "The HD-4 on the Bras d'Or", "date": "1919-09-09", "place": "Baddeck, Nova Scotia, (Canada)", "text": "Bell's last great project was a boat that rose on underwater wings. The HD-4 set a world water speed record. A full-size replica is at the Bell museum in Baddeck, now a Parks Canada site.", "url": "https://parks.canada.ca/lhn-nhs/ns/grahambell", "sources": ["w-hd4", "pc-nhs"] }
+    ]
+  },
+  "patents": [
+    { "number": "US 161,739", "title": "Improvement in Transmitters and Receivers for Electric Telegraphs", "filed": "1875-03-06", "granted": "1875-04-06", "country": "US", "area": "telegraphy", "url": "https://patents.google.com/patent/US161739" },
+    { "number": "US 174,465", "title": "Improvement in Telegraphy", "filed": "1876-02-14", "granted": "1876-03-07", "country": "US", "area": "telephone", "url": "https://patents.google.com/patent/US174465" },
+    { "number": "US 178,399", "title": "Improvement in Telephonic Telegraph-Receivers", "filed": "1876-04-08", "granted": "1876-06-06", "country": "US", "area": "telephone", "url": "https://patents.google.com/patent/US178399" },
+    { "number": "US 186,787", "title": "Improvement in Electric Telegraphy", "filed": "1877-01-15", "granted": "1877-01-30", "country": "US", "area": "telephone", "url": "https://patents.google.com/patent/US186787" },
+    { "number": "US 201,488", "title": "Improvement in Speaking-Telephones", "filed": "1878-02-08", "granted": "1878-03-19", "country": "US", "area": "telephone", "url": "https://patents.google.com/patent/US201488" },
+    { "number": "US 235,199", "title": "Apparatus for Signaling and Communicating, called Photophone", "filed": null, "granted": "1880-12-07", "country": "US", "area": "light", "url": "https://patents.google.com/patent/US235199" },
+    { "number": "US 241,909", "title": "Photophonic Receiver (with Sumner Tainter)", "filed": "1881-03-24", "granted": "1881-05-24", "country": "US", "area": "light", "url": "https://patents.google.com/patent/US241909" },
+    { "number": "US 341,212", "title": "Reproducing Sounds from Phonograph Records (with Chichester A. Bell and Sumner Tainter)", "filed": "1885-11-18", "granted": "1886-05-04", "country": "US", "area": "sound recording", "url": "https://patents.google.com/patent/US341212" },
+    { "number": "US 770,626", "title": "Aerial Vehicle or Other Structure", "filed": "1903-06-01", "granted": "1904-09-20", "country": "US", "area": "flight", "url": "https://patents.google.com/patent/US770626" },
+    { "number": "US 856,838", "title": "Connection Device for the Frames of Aerial Vehicles and Other Structures (with Hector P. McNeil)", "filed": "1906-10-24", "granted": "1907-06-11", "country": "US", "area": "flight", "url": "https://patents.google.com/patent/US856838" },
+    { "number": "US 1,410,874", "title": "Hydrodrome, Hydroaeroplane, and the Like (with Frederick W. Baldwin)", "filed": "1920-05-07", "granted": "1922-03-28", "country": "US", "area": "hydrofoils", "url": "https://patents.google.com/patent/US1410874" },
+    { "number": "US 1,410,876", "title": "Hydrodrome, Hydroaeroplane, and the Like (with Frederick W. Baldwin)", "filed": "1920-05-07", "granted": "1922-03-28", "country": "US", "area": "hydrofoils", "url": "https://patents.google.com/patent/US1410876A/en" }
+  ],
+  "patentsNote": "Wikipedia says Bell was granted 18 patents in his name alone and 12 shared with collaborators; this list shows a selection of 12 key US patents. Titles and dates come from each Google Patents record. The filing date of the photophone patent (US 235,199) is illegible in the scan (August 1880), so it is left blank. Wikipedia's Tetrahedral kite article names US 770,088 as Bell's kite patent, but that number is a valve patent by another inventor; Bell's tetrahedral frame patent is US 770,626. The famous 1886 wax-recording patent US 341,214 was granted to Chichester Bell and Sumner Tainter of his Volta Laboratory, not to Alexander Graham Bell, so it is not listed here.",
+  "works": [
+    { "year": "1875", "type": "invention", "title": "Harmonic (multiple) telegraph", "text": "Tuned reeds and magnets meant to send several telegraph messages on one wire at once, each on its own musical pitch (US 161,739). This work led straight to the telephone.", "sources": ["gp-161739", "w-bell", "pg-telephone"], "url": "https://patents.google.com/patent/US161739" },
+    { "year": "1876", "type": "invention", "title": "The telephone", "text": "His method of sending speech by electricity (US 174,465). His first clear sentence went between two rooms on 10 March 1876.", "sources": ["gp-174465", "w-bell"], "url": "https://patents.google.com/patent/US174465" },
+    { "year": "1877", "type": "invention", "title": "The magneto telephone", "text": "His second key telephone patent, granted in January 1877 (US 186,787). This and US 174,465 were the two patents at the centre of the court battles.", "sources": ["gp-186787", "w-bell"], "url": "https://patents.google.com/patent/US186787" },
+    { "year": "1877", "type": "lecture", "title": "Researches in Electric Telephony", "text": "His London lecture of 31 October 1877, telling in his own words how speech teaching, Helmholtz and the human ear led him to the telephone. He also named others working on the same problem, including Elisha Gray and Thomas Edison.", "sources": ["pg-telephone"], "url": "https://www.gutenberg.org/ebooks/55787" },
+    { "year": "1880", "type": "invention", "title": "The photophone", "text": "With Charles Sumner Tainter, a device that sent speech on a beam of sunlight with no wire (US 235,199). Bell called it his greatest invention.", "sources": ["w-photophone", "gp-235199"], "url": "https://patents.google.com/patent/US235199" },
+    { "year": "1880", "type": "lecture", "title": "On the Production and Reproduction of Sound by Light", "text": "His paper on the photophone, given to the American Association for the Advancement of Science in Boston on 27 August 1880.", "sources": ["w-photophone", "wq-bell"] },
+    { "year": "1881", "type": "invention", "title": "Induction balance (metal detector)", "text": "Built in a hurry to find the bullet in President Garfield. It worked in tests but did not locate the bullet. Bell described it to the American Association for the Advancement of Science in 1882.", "sources": ["w-bell"] },
+    { "year": "1880", "type": "institution", "title": "The journal Science", "text": "With his father-in-law Gardiner Greene Hubbard, Bell helped set up the journal Science in the early 1880s.", "sources": ["w-bell"] },
+    { "year": "1883", "type": "paper", "title": "Upon the Formation of a Deaf Variety of the Human Race", "text": "A study of the inheritance of deafness, read to the National Academy of Sciences. It is criticised today for its links to eugenics and its support for oral-only teaching; historians note he opposed laws limiting marriage between deaf people.", "sources": ["w-bell", "w-oralism"] },
+    { "year": "1886", "type": "invention", "title": "Wax sound recording (Graphophone)", "text": "At the Volta Laboratory, Bell, Chichester Bell and Tainter improved Edison's phonograph by cutting sound into wax (US 341,212 and others). The business later became part of Columbia Records.", "sources": ["w-volta", "gp-341212", "pg-phonograph"], "url": "https://patents.google.com/patent/US341212" },
+    { "year": "1887", "type": "institution", "title": "The Volta Bureau", "text": "A centre 'for the increase and diffusion of knowledge relating to the deaf', paid for by sound-recording patents. Its 1893 building in Washington is a National Historic Landmark.", "sources": ["w-volta"] },
+    { "year": "1903", "type": "writing", "title": "Tetrahedral Principle in Kite Structure", "text": "His National Geographic article on kites made from many small, light, strong triangular cells. The idea later inspired space frames in architecture (US 770,626).", "sources": ["w-kite", "gp-770626"], "url": "https://patents.google.com/patent/US770626" },
+    { "year": "1907", "type": "institution", "title": "Aerial Experiment Association", "text": "A 'co-operative scientific association, not for gain but for the love of the art', funded by Mabel Bell. It built the Red Wing, White Wing, June Bug and Silver Dart.", "sources": ["w-aea"] },
+    { "year": "1908", "type": "book", "title": "The Bell Telephone: The Deposition of Alexander Graham Bell", "text": "His long sworn testimony from the US government's case against his patents, published in 1908. It gives dates, drawings and his own account of the Brantford tests.", "sources": ["ia-deposition"], "url": "https://archive.org/details/the-bell-telephone" },
+    { "year": "1919", "type": "invention", "title": "HD-4 hydrofoil", "text": "With Casey Baldwin, a boat that rose on underwater wings and set a world water speed record of 114 km/h on the Bras d'Or Lake (US 1,410,874 and others).", "sources": ["w-hd4", "gp-1410874", "gp-1410876"], "url": "https://patents.google.com/patent/US1410874" }
+  ],
+  "resources": [
+    { "label": "The Telephone: Researches in Electric Telephony (Project Gutenberg)", "url": "https://www.gutenberg.org/ebooks/55787", "what": "Bell's 1877 London lecture on how he invented the telephone, free to read in full." },
+    { "label": "The Bell Telephone: The Deposition of Alexander Graham Bell (Internet Archive)", "url": "https://archive.org/details/the-bell-telephone", "what": "His 1908 sworn testimony, with dates, drawings and the Brantford and Paris tests." },
+    { "label": "How They Succeeded, O. S. Marden (Project Gutenberg)", "url": "https://www.gutenberg.org/ebooks/64059", "what": "A 1901 book of interviews; the chapter on Bell gives his own advice on focus, health and ideas." },
+    { "label": "Development of the Phonograph at Alexander Graham Bell's Volta Laboratory (Project Gutenberg)", "url": "https://www.gutenberg.org/ebooks/30112", "what": "A Smithsonian history of the Volta Laboratory's sound recording work." },
+    { "label": "Alexander Graham Bell National Historic Site (Parks Canada)", "url": "https://parks.canada.ca/lhn-nhs/ns/grahambell", "what": "The museum in Baddeck, Nova Scotia, with artifacts from his life and inventions." },
+    { "label": "Bell Homestead National Historic Site (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Bell_Homestead_National_Historic_Site", "what": "The family home at Tutelo Heights in Brantford, Ontario, where he worked out the telephone; now a museum." },
+    { "label": "US Patent 174,465 (Google Patents)", "url": "https://patents.google.com/patent/US174465", "what": "The original 1876 telephone patent, with drawings and full text." },
+    { "label": "Alexander Graham Bell (Wikiquote)", "url": "https://en.wikiquote.org/wiki/Alexander_Graham_Bell", "what": "Sourced quotes, with a list of disputed ones to avoid." }
+  ],
+  "books": [
+    { "title": "The Telephone: Researches in Electric Telephony", "author": "Alexander Graham Bell", "year": "1878", "kind": "by-him", "free": "https://www.gutenberg.org/ebooks/55787", "note": "His lecture to the Society of Telegraph Engineers, 31 October 1877, published by the Society in 1878. Short and clear, with drawings." },
+    { "title": "The Bell Telephone: The Deposition of Alexander Graham Bell", "author": "Alexander Graham Bell", "year": "1908", "kind": "by-him", "free": "https://archive.org/details/the-bell-telephone", "note": "Long and legal, but full of first-hand detail about his years in Brantford and Boston." },
+    { "title": "Reluctant Genius: The Passionate Life and Inventive Mind of Alexander Graham Bell", "author": "Charlotte Gray", "year": "2006", "kind": "biography", "free": null, "note": "A Canadian historian's life of Bell, with much on Mabel and Baddeck; cited on Wikipedia." },
+    { "title": "Bell: Alexander Graham Bell and the Conquest of Solitude", "author": "Robert V. Bruce", "year": "1990", "kind": "biography", "free": null, "note": "The standard scholarly biography; the year given is the Cornell University Press edition cited on Wikipedia." }
+  ]
+}

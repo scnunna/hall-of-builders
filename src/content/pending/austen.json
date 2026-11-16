@@ -1,0 +1,65 @@
+{
+  "id": "austen",
+  "name": "Jane Austen",
+  "years": "1775 - 1817",
+  "title": "The Close Observer",
+  "tagline": "She wrote on small sheets of paper in a shared sitting room, revised for years, published without her name, and made a few country families unforgettable.",
+  "sources": {
+    "w-austen": { "label": "Jane Austen (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Jane_Austen" },
+    "w-pp": { "label": "Pride and Prejudice (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice" },
+    "w-na": { "label": "Northanger Abbey (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Northanger_Abbey" },
+    "g-pp": { "label": "Pride and Prejudice (Project Gutenberg #1342)", "url": "https://www.gutenberg.org/ebooks/1342" },
+    "g-na": { "label": "Northanger Abbey (Project Gutenberg #121)", "url": "https://www.gutenberg.org/ebooks/121" },
+    "letters": { "label": "The Letters of Jane Austen, selected from Lord Brabourne's compilation, ed. Susan Coolidge (Project Gutenberg #42078)", "url": "https://www.gutenberg.org/ebooks/42078" },
+    "memoir": { "label": "J. E. Austen-Leigh, A Memoir of Jane Austen, 1871 edition (Project Gutenberg #17797)", "url": "https://www.gutenberg.org/ebooks/17797" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Work small and deep",
+      "idea": "Austen did not write about wars or far-off lands. She wrote about a few families in the country: their visits, dances, money worries and mistakes. She told her niece Anna, who was writing a novel, that this small world was the best material of all.",
+      "quote": { "text": "Three or four families in a country village is the very thing to work on...", "credit": "Letter to Anna Austen, 9 September 1814, in The Letters of Jane Austen, ed. Susan Coolidge (1892)" },
+      "practice": "Pick one small scene from your day, like a family meal or a queue at a shop. Write five careful sentences about what the people said and did.",
+      "sources": ["letters", "w-austen"]
+    },
+    {
+      "title": "Cut and polish",
+      "idea": "Pride and Prejudice began as First Impressions in 1796. It was refused by a publisher and not printed until 1813, after years of revision. When the book arrived, she wrote that she had cut it hard to make it tight.",
+      "quote": { "text": "I have lop't and crop't so successfully, however, that I imagine it must be rather shorter than \"Sense and Sensibility\" altogether.", "credit": "Letter to Cassandra Austen, 29 January 1813, in The Letters of Jane Austen, ed. Susan Coolidge (1892)" },
+      "practice": "Take something you wrote this week, an email, a report or a post. Cut it by a quarter without losing the point.",
+      "sources": ["letters", "w-pp", "w-austen"]
+    },
+    {
+      "title": "Know your own scale",
+      "idea": "When her nephew was writing a novel, Austen joked that his bold, sweeping sketches would never fit her own work. She saw her art as fine, patient detail on a small surface, and she stayed true to it instead of copying other styles.",
+      "quote": { "text": "...the little bit (two inches wide) of ivory on which I work with so fine a brush, as produces little effect after much labour?", "credit": "Letter to James Edward Austen, 16 December 1816, in J. E. Austen-Leigh, A Memoir of Jane Austen, ch. 11 (1871 ed.)" },
+      "practice": "Write down the one kind of work you do better than most people around you. Spend twenty minutes today doing only that, as well as you can.",
+      "sources": ["memoir"]
+    },
+    {
+      "title": "Look again",
+      "idea": "Her best-known heroine, Elizabeth Bennet, judges two men too quickly and gets both wrong. When she reads a letter that shows her mistake, she admits it plainly. Austen's stories are about seeing people more truly the second time.",
+      "quote": { "text": "Till this moment, I never knew myself.", "credit": "Pride and Prejudice (1813), vol. 2 ch. 13 (ch. 36 in one-volume editions)" },
+      "practice": "Think of one person you judged quickly. Write down three facts about them that do not fit your first opinion.",
+      "sources": ["g-pp", "w-pp"]
+    },
+    {
+      "title": "Stand up for your craft",
+      "idea": "In Austen's time many people looked down on novels. A publisher refused her first finished book unseen, and another bought Susan and never printed it. In that same book she spoke up for the novel as serious work that shows human nature.",
+      "quote": { "text": "...only some work in which the greatest powers of the mind are displayed, in which the most thorough knowledge of human nature, the happiest delineation of its varieties, the liveliest effusions of wit and humour, are conveyed to the world in the best-chosen language.", "credit": "Northanger Abbey (1817, dated 1818), ch. 5" },
+      "practice": "Name one thing you love that other people dismiss. Write two lines on what it has taught you, and say them out loud.",
+      "sources": ["g-na", "w-na", "w-austen"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Small sheets", "action": "Write for fifteen minutes on a small piece of paper, in a shared room, with people around you. Notice that you can still work.", "sources": ["memoir"] },
+    { "day": 2, "title": "Three or four families", "action": "Watch a small group today, at home, school or work. Write one true, specific detail about each person." },
+    { "day": 3, "title": "Lop and crop", "action": "Take one piece of your writing and cut it by a quarter. Read both versions and keep the better one." },
+    { "day": 4, "title": "Second look", "action": "Revisit one quick judgment you made about a person or idea. Find one fact that changes your view." },
+    { "day": 5, "title": "Read it aloud", "action": "Read something you made aloud to a friend or family member, as Austen read her new novel aloud at home. Note where they smile or get lost.", "sources": ["letters"] },
+    { "day": 6, "title": "The creaking door", "action": "Choose one small signal that protects your work time, like a closed door or a set hour. Use it today.", "sources": ["memoir"] },
+    { "day": 7, "title": "Your two inches", "action": "Write one paragraph about the small subject you know best. Make every word count." }
+  ],
+  "reflect": "What small, everyday scene around you would make a good story if you looked at it closely enough?",
+  "keepsake": "Jane Austen Builder Collectible"
+}

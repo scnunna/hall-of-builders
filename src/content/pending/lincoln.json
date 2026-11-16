@@ -1,0 +1,67 @@
+{
+  "id": "lincoln",
+  "name": "Abraham Lincoln",
+  "years": "1809 - 1865",
+  "title": "The Self-Taught President",
+  "tagline": "A frontier boy with less than a year of school taught himself from borrowed books, then used plain, careful words to lead a divided nation and end slavery.",
+  "sources": {
+    "w-lincoln": { "label": "Abraham Lincoln (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln" },
+    "w-early": { "label": "Early life and career of Abraham Lincoln (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Early_life_and_career_of_Abraham_Lincoln" },
+    "nps-1859": { "label": "Abraham Lincoln Autobiography, letter to Jesse W. Fell, 1859 (National Park Service, Abraham Lincoln Birthplace)", "url": "https://www.nps.gov/abli/learn/historyculture/abraham-lincoln-autobiography.htm" },
+    "nps-1860": { "label": "1860 Autobiographical statement for the Chicago Press and Tribune, full text (National Park Service, Lincoln Home)", "url": "https://www.nps.gov/liho/learn/historyculture/pressand-tribune.htm" },
+    "pg-papers": { "label": "The Papers and Writings of Abraham Lincoln, Constitutional Edition, ed. Arthur Brooks Lapsley (1905) (Project Gutenberg #3253)", "url": "https://www.gutenberg.org/ebooks/3253" },
+    "w-cooper": { "label": "Cooper Union speech (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Cooper_Union_speech" },
+    "w-gettysburg": { "label": "Gettysburg Address (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Gettysburg_Address" },
+    "w-second": { "label": "Abraham Lincoln's second inaugural address (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln%27s_second_inaugural_address" },
+    "wq-lincoln": { "label": "Abraham Lincoln (Wikiquote), checked against its Misattributed section", "url": "https://en.wikiquote.org/wiki/Abraham_Lincoln" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Borrow the books",
+      "idea": "Lincoln's schooling added up to less than a year. He borrowed what he could read, from the Bible and Aesop's Fables as a boy to a friend's law books as a young man, and taught himself. He did not wait for a teacher or a school.",
+      "quote": { "text": "The little advance I now have upon this store of education I have picked up from time to time under the pressure of necessity.", "credit": "Autobiographical sketch for J. W. Fell (1859), in Papers and Writings, ed. A. B. Lapsley (1905)" },
+      "practice": "Pick one skill you need right now. Find one free book, library copy or borrowed guide on it, and read ten pages today.",
+      "sources": ["nps-1859", "nps-1860", "w-early", "pg-papers", "wq-lincoln"]
+    },
+    {
+      "title": "Learn to prove it",
+      "idea": "As a lawyer, Lincoln wanted to know what it really means to prove something. After his term in Congress, he worked through the six books of Euclid's geometry. He later used Euclid as his model of a fair argument: step by step, from evidence to conclusion.",
+      "quote": { "text": "He studied and nearly mastered the Six-books of Euclid, since he was a member of Congress.", "credit": "Autobiography written for John L. Scripps (1860), in his own words, written in the third person" },
+      "practice": "Take one opinion you hold strongly. Write the steps that lead to it, one line each. Mark any step you cannot back up.",
+      "sources": ["nps-1860", "pg-papers", "w-early"]
+    },
+    {
+      "title": "Do the homework first",
+      "idea": "Before his Cooper Union speech in New York, Lincoln checked how each of the 39 men who signed the Constitution had later acted on slavery in the territories, and showed that most believed the national government could control it. The long, careful speech made his name in the East. He spoke with force because he had checked his facts.",
+      "quote": { "text": "Let us have faith that right makes might, and in that faith let us, to the end, dare to do our duty as we understand it.", "credit": "Address at Cooper Institute, New York (1860), in Papers and Writings, ed. A. B. Lapsley (1905)" },
+      "practice": "Before your next big conversation or meeting, spend 20 minutes checking the facts. Write down the three that matter most.",
+      "sources": ["w-cooper", "pg-papers", "wq-lincoln"]
+    },
+    {
+      "title": "Say it short and plain",
+      "idea": "At Gettysburg, the main speaker talked for two hours. Lincoln spoke for about two minutes, in ten sentences. He had practised plain speech since boyhood, telling stories to friends, and he cut every word that did not need to be there.",
+      "quote": { "text": "The world will little note, nor long remember what we say here, but it can never forget what they did here.", "credit": "Address at Gettysburg (1863), in Papers and Writings, ed. A. B. Lapsley (1905)" },
+      "practice": "Take something you wrote this week. Cut it to half its length without losing the main point.",
+      "sources": ["w-gettysburg", "w-early", "pg-papers"]
+    },
+    {
+      "title": "Firm, without malice",
+      "idea": "Lincoln held firmly to ending slavery and saving the Union. Yet as the war neared its end, he asked the country to heal, not to take revenge. He showed you can stand firm on what is right and still treat the other side as people to live with.",
+      "quote": { "text": "With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds...", "credit": "Second Inaugural Address (1865), in Papers and Writings, ed. A. B. Lapsley (1905)" },
+      "practice": "Think of someone you disagree with. Write one point you will not give up, and one kind thing you can do for them anyway.",
+      "sources": ["w-second", "pg-papers", "wq-lincoln"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Borrow a book", "action": "Get one book or guide on a skill you need, from a library or a friend. Read ten pages.", "sources": ["w-early"] },
+    { "day": 2, "title": "Read it aloud", "sources": ["w-early"], "action": "Lincoln learned by reading and then reciting what he read. Read one page out loud, then say its main point from memory." },
+    { "day": 3, "title": "Step by step", "action": "Write out the steps behind one strong opinion you hold. Find the weakest step and look it up.", "sources": ["nps-1860"] },
+    { "day": 4, "title": "Check the facts", "action": "Before a talk or message that matters, spend 20 minutes checking three facts. Change anything that was wrong.", "sources": ["w-cooper"] },
+    { "day": 5, "title": "Half as long", "action": "Rewrite one email or note at half the length. Keep the main point.", "sources": ["w-gettysburg"] },
+    { "day": 6, "title": "Make the peace", "action": "Lincoln told young lawyers to help neighbours settle quarrels. Help two people, or yourself and one other, find a fair middle ground today.", "sources": ["pg-papers"] },
+    { "day": 7, "title": "Your own sketch", "action": "Like Lincoln's short life sketch, write one paragraph on what you have taught yourself and what you will learn next." }
+  ],
+  "reflect": "What is one thing you have taught yourself, and what is the next thing you could learn the same way?",
+  "keepsake": "Abraham Lincoln Builder Collectible"
+}

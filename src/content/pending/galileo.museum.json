@@ -1,0 +1,513 @@
+{
+  "sources": {
+    "w-galileo": { "label": "Galileo Galilei (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Galileo_Galilei" },
+    "w-affair": { "label": "Galileo affair (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Galileo_affair" },
+    "w-sidereus": { "label": "Sidereus Nuncius (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Sidereus_Nuncius" },
+    "w-venus": { "label": "Phases of Venus (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Phases_of_Venus" },
+    "w-sunspots": { "label": "Letters on Sunspots (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Letters_on_Sunspots" },
+    "w-twonew": { "label": "Two New Sciences (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Two_New_Sciences" },
+    "w-dialogue": { "label": "Dialogue Concerning the Two Chief World Systems (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Dialogue_Concerning_the_Two_Chief_World_Systems" },
+    "rice-chron": { "label": "Chronology of Galileo's life, The Galileo Project (Rice University)", "url": "https://galileo.library.rice.edu/chron/galileo.html" },
+    "rice-telescope": { "label": "The Telescope, The Galileo Project (Rice University)", "url": "https://galileo.library.rice.edu/sci/instruments/telescope.html" },
+    "rice-moon": { "label": "The Moon, The Galileo Project (Rice University)", "url": "https://galileo.library.rice.edu/sci/observations/moon.html" },
+    "rice-sunspots": { "label": "Sunspots, The Galileo Project (Rice University)", "url": "https://galileo.library.rice.edu/sci/observations/sunspots.html" },
+    "rice-saturn": { "label": "Saturn, The Galileo Project (Rice University)", "url": "https://galileo.library.rice.edu/sci/observations/saturn.html" },
+    "pg-sidereal": { "label": "The Sidereal Messenger of Galileo Galilei, tr. Edward Stafford Carlos (1880), full text (Project Gutenberg #46036)", "url": "https://www.gutenberg.org/ebooks/46036" },
+    "ia-twonew": { "label": "Dialogues Concerning Two New Sciences, tr. Henry Crew and Alfonso de Salvio (1914), full scan (Internet Archive)", "url": "https://archive.org/details/dialoguesconcern00galiuoft" },
+    "wq-galileo": { "label": "Galileo Galilei (Wikiquote), incl. misattributed quotes", "url": "https://en.wikiquote.org/wiki/Galileo_Galilei" }
+  },
+  "timeline": [
+    {
+      "date": "1564-02-15",
+      "age": 0,
+      "place": "Pisa, Duchy of Florence, (Italy)",
+      "title": "Born in Pisa",
+      "text": "Galileo was born in Pisa, the first of six children of Vincenzo Galilei, a lutenist, composer and music theorist, and Giulia Ammannati. He was baptised four days later in the baptistry of Pisa cathedral.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1574",
+      "age": 10,
+      "place": "Florence, Grand Duchy of Tuscany, (Italy)",
+      "title": "To Florence",
+      "text": "His family moved to Florence. Sources differ slightly on the year: Wikipedia says the family moved around 1572 and left him in Pisa for two years, so he joined them at about ten.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1575",
+      "age": 11,
+      "place": "Vallombrosa, Grand Duchy of Tuscany, (Italy)",
+      "title": "School at the abbey",
+      "text": "He studied logic at Vallombrosa Abbey, in the hills about 30 km from Florence. The Galileo Project says he even thought about joining the monastery before he returned home in 1579.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1581-09-05",
+      "age": 17,
+      "place": "Pisa, Grand Duchy of Tuscany, (Italy)",
+      "title": "A medical student",
+      "text": "He enrolled at the University of Pisa. At his father's urging, he studied medicine. (Wikipedia gives 1580 for his enrolment; the Galileo Project gives 5 September 1581.)",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1581",
+      "age": 17,
+      "place": "Pisa, Grand Duchy of Tuscany, (Italy)",
+      "title": "The swinging lamp",
+      "text": "The story, told by his later student Vincenzo Viviani, is that he watched a lamp swing in Pisa cathedral and, timing it by his pulse, saw that big and small swings took the same time. The date is given as 1581 or 1583, and the story may be partly legend.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1585",
+      "age": 21,
+      "place": "Pisa, Grand Duchy of Tuscany, (Italy)",
+      "title": "Leaves without a degree",
+      "text": "Drawn to mathematics after studying Euclid with Ostilio Ricci, he left the university without a degree. For the next few years he gave private mathematics lessons in Florence and Siena.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["rice-chron"]
+    },
+    {
+      "date": "1586",
+      "age": 22,
+      "place": "Florence, Grand Duchy of Tuscany, (Italy)",
+      "title": "The little balance",
+      "text": "Following Archimedes, he invented a hydrostatic balance for weighing things in water and wrote a short book about it. It first brought him attention from scholars.",
+      "turning": false,
+      "kind": "invention",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1588",
+      "age": 24,
+      "place": "Florence, Grand Duchy of Tuscany, (Italy)",
+      "title": "Measuring Dante's Inferno",
+      "text": "He gave two public lectures to the Florentine Academy on the shape and size of Hell in Dante's poem, using geometry. That year he also taught at the Accademia delle Arti del Disegno.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1589",
+      "age": 25,
+      "place": "Pisa, Grand Duchy of Tuscany, (Italy)",
+      "title": "Teaching at Pisa",
+      "text": "He became lecturer in mathematics at Pisa. His notes On Motion questioned Aristotle on falling bodies. The famous story of dropping weights from the Leaning Tower comes from Viviani; Galileo never described it, and most historians think it was at most a thought experiment.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1591",
+      "age": 27,
+      "place": "Florence, Grand Duchy of Tuscany, (Italy)",
+      "title": "Head of the family",
+      "text": "His father died. Galileo became responsible for his younger brother and for a large dowry promised for his sister Virginia's marriage.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1592-12-07",
+      "age": 28,
+      "place": "Padua, Republic of Venice, (Italy)",
+      "title": "Professor at Padua",
+      "text": "He gave his first lecture as professor of mathematics at the University of Padua. He stayed 18 years, teaching geometry and astronomy and taking private students in his house.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1594",
+      "age": 30,
+      "place": "Venice, Republic of Venice, (Italy)",
+      "title": "A patent for a pump",
+      "text": "The Venetian Senate granted him a patent for a horse-powered machine for raising water.",
+      "turning": false,
+      "kind": "invention",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1597",
+      "age": 33,
+      "place": "Padua, Republic of Venice, (Italy)",
+      "title": "The calculating compass",
+      "text": "He designed a geometric and military compass, a hinged ruler for quick calculations, and a craftsman made copies for his students to buy. Wikipedia dates its development to 1595 to 1598.",
+      "turning": false,
+      "kind": "invention",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1600-08-13",
+      "age": 36,
+      "place": "Padua, Republic of Venice, (Italy)",
+      "title": "A daughter is born",
+      "text": "Galileo and Marina Gamba, who never married, had three children: Virginia (1600), Livia (1601) and Vincenzo (1606). Both daughters later became nuns near Florence, and Virginia took the name Sister Maria Celeste.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1604",
+      "age": 40,
+      "place": "Padua, Republic of Venice, (Italy)",
+      "title": "Ramps and a new star",
+      "text": "He began rolling balls down sloping planes to study how falling bodies speed up. In December he observed a new star (a supernova) and early in 1605 gave public lectures arguing it lay far beyond the Moon.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1609-08",
+      "age": 45,
+      "place": "Venice, Republic of Venice, (Italy)",
+      "title": "The spyglass",
+      "text": "Hearing in May of a Dutch spyglass, he built a 3-power one in June, then showed an 8-power telescope to Venice's leaders in August. They doubled his salary and gave him a job for life.",
+      "turning": true,
+      "kind": "invention",
+      "sources": ["rice-chron", "rice-telescope", "w-galileo"]
+    },
+    {
+      "date": "1609-11-30",
+      "age": 45,
+      "place": "Padua, Republic of Venice, (Italy)",
+      "title": "Turning to the Moon",
+      "text": "With a stronger telescope of about 20 power, he observed the Moon from 30 November to 19 December and drew its mountains and shadows. Thomas Harriot in England had drawn the Moon through a telescope a few months earlier but did not publish.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["rice-chron", "rice-moon", "w-galileo"]
+    },
+    {
+      "date": "1610-01-07",
+      "age": 45,
+      "place": "Padua, Republic of Venice, (Italy)",
+      "title": "Moons around Jupiter",
+      "text": "He saw three small 'stars' in a line beside Jupiter. Watching night after night, he found by 15 January that four bodies were circling the planet. It was clear proof that not everything in the sky goes around the Earth.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-galileo", "rice-chron", "pg-sidereal"]
+    },
+    {
+      "date": "1610-03-13",
+      "age": 46,
+      "place": "Venice, Republic of Venice, (Italy)",
+      "title": "The Starry Messenger",
+      "text": "His short Latin book Sidereus Nuncius came out, the first published science based on a telescope. He named Jupiter's moons the Medicean Stars after the Medici family and dedicated it to Grand Duke Cosimo II.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-sidereus", "rice-chron", "pg-sidereal"]
+    },
+    {
+      "date": "1610-07",
+      "age": 46,
+      "place": "Florence, Grand Duchy of Tuscany, (Italy)",
+      "title": "Court mathematician",
+      "text": "Cosimo II named him Chief Mathematician at Pisa and Philosopher and Mathematician to the Grand Duke, for life, with no duty to teach. He moved to Florence in September.",
+      "turning": false,
+      "kind": "honour",
+      "sources": ["rice-chron"]
+    },
+    {
+      "date": "1610-12",
+      "age": 46,
+      "place": "Florence, Grand Duchy of Tuscany, (Italy)",
+      "title": "Venus has phases",
+      "text": "He confirmed that Venus shows a full set of phases, like the Moon. That could not happen in the old Ptolemaic system, where Venus never goes around to the far side of the Sun. The finding fit a Sun-centred system, though also Tycho Brahe's mixed system.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-venus", "rice-chron"]
+    },
+    {
+      "date": "1611-04",
+      "age": 47,
+      "place": "Rome, Papal States, (Italy)",
+      "title": "Welcomed in Rome",
+      "text": "Jesuit astronomers at the Collegio Romano confirmed his observations, though not all his conclusions. He joined Federico Cesi's Accademia dei Lincei at a banquet where the word 'telescope' was first used.",
+      "turning": false,
+      "kind": "honour",
+      "sources": ["rice-chron", "w-galileo"]
+    },
+    {
+      "date": "1613-03",
+      "age": 49,
+      "place": "Rome, Papal States, (Italy)",
+      "title": "Letters on Sunspots",
+      "text": "The Lincei published his letters arguing that sunspots are on or very near the Sun, and that the Sun turns, carrying them around. The book also first published his finding about Venus.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-sunspots", "rice-sunspots", "rice-chron"]
+    },
+    {
+      "date": "1613-12",
+      "age": 49,
+      "place": "Florence, Grand Duchy of Tuscany, (Italy)",
+      "title": "Science and Scripture",
+      "text": "He wrote to his former student Benedetto Castelli that the Bible is not a guide to science. In 1615 a copy was sent to the Inquisition, and he wrote a longer version as a letter to the Grand Duchess Christina.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-galileo", "w-affair", "rice-chron"]
+    },
+    {
+      "date": "1616-02-26",
+      "age": 52,
+      "place": "Rome, Papal States, (Italy)",
+      "title": "The warning of 1616",
+      "text": "After the Inquisition's experts called the Sun-centred view heretical, Cardinal Bellarmine told Galileo to abandon it. In March, Copernicus's book was suspended until corrected. Galileo was not named, and in May Bellarmine certified that he had not been tried or condemned.",
+      "turning": true,
+      "kind": "setback",
+      "sources": ["w-affair", "rice-chron"]
+    },
+    {
+      "date": "1623-10",
+      "age": 59,
+      "place": "Rome, Papal States, (Italy)",
+      "title": "The Assayer",
+      "text": "In a long dispute over comets with the Jesuit Orazio Grassi, he published The Assayer, dedicated to the new pope, Urban VIII. In 1624 Urban received him six times and allowed him to write about Copernicus as a hypothesis.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["rice-chron", "w-galileo"]
+    },
+    {
+      "date": "1632-02",
+      "age": 68,
+      "place": "Florence, Grand Duchy of Tuscany, (Italy)",
+      "title": "The Dialogue",
+      "text": "He published, in Italian and with the Inquisition's licence, his Dialogue Concerning the Two Chief World Systems. Its case for the moving Earth was strong. By summer the Pope had stopped its sale, and in September the case went to the Inquisition.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-dialogue", "rice-chron"]
+    },
+    {
+      "date": "1633-06-22",
+      "age": 69,
+      "place": "Rome, Papal States, (Italy)",
+      "title": "The sentence",
+      "text": "After months of questioning, including one under threat of torture, the Inquisition found him 'vehemently suspect of heresy'. He had to formally reject the Sun-centred view, and the Dialogue was banned. The famous line 'And yet it moves' first appears in print about a century later and is almost certainly legend.",
+      "turning": true,
+      "kind": "setback",
+      "sources": ["w-affair", "w-galileo", "rice-chron", "wq-galileo"]
+    },
+    {
+      "date": "1633-12",
+      "age": 69,
+      "place": "Arcetri, Grand Duchy of Tuscany, (Italy)",
+      "title": "House arrest for life",
+      "text": "His prison sentence was changed to house arrest. After some months in Siena with Archbishop Piccolomini, where he started his last book, he was allowed home to his villa at Arcetri near Florence, where he stayed for the rest of his life.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-affair", "rice-chron"]
+    },
+    {
+      "date": "1634-04-02",
+      "age": 70,
+      "place": "Arcetri, Grand Duchy of Tuscany, (Italy)",
+      "title": "Loss of Maria Celeste",
+      "text": "His eldest daughter, Sister Maria Celeste, who lived in the convent near his villa, died. She is buried with him in Santa Croce in Florence.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1638-01",
+      "age": 73,
+      "place": "Arcetri, Grand Duchy of Tuscany, (Italy)",
+      "title": "Total blindness",
+      "text": "He had lost the sight of his right eye in 1637, and by January 1638 he was completely blind. He kept working by dictating to helpers.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["rice-chron", "w-galileo"]
+    },
+    {
+      "date": "1638-07",
+      "age": 74,
+      "place": "Leiden, Dutch Republic, (Netherlands)",
+      "title": "Two New Sciences",
+      "text": "His last book was printed in Leiden by the Elzevir firm, outside the reach of the Inquisition. It sums up some thirty years of work on motion and on the strength of materials, and helped found modern physics.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-twonew", "rice-chron", "ia-twonew"]
+    },
+    {
+      "date": "1641",
+      "age": 77,
+      "place": "Arcetri, Grand Duchy of Tuscany, (Italy)",
+      "title": "A pendulum clock",
+      "text": "Blind, he worked out how a pendulum could keep time in a clock and described a design. It was not built in his lifetime.",
+      "turning": false,
+      "kind": "invention",
+      "sources": ["rice-chron", "w-galileo"]
+    },
+    {
+      "date": "1642-01-08",
+      "age": 77,
+      "place": "Arcetri, Grand Duchy of Tuscany, (Italy)",
+      "title": "Death at Arcetri",
+      "text": "Galileo died at his villa at 77. Plans for a grand tomb were dropped after Pope Urban VIII protested, because of his condemnation, so he was buried in a small side room of the Basilica of Santa Croce in Florence rather than in a grand tomb.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-galileo", "rice-chron"]
+    },
+    {
+      "date": "1737",
+      "age": null,
+      "place": "Florence, Grand Duchy of Tuscany, (Italy)",
+      "title": "A tomb in Santa Croce",
+      "text": "His body was moved to a marble monument in the main church of Santa Croce. The Church later dropped the general ban on Sun-centred books in 1758, and his works were removed from the Index in 1835.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-galileo"]
+    },
+    {
+      "date": "1992-10-31",
+      "age": null,
+      "place": "Vatican City, (Vatican City)",
+      "title": "The Church admits its error",
+      "text": "Pope John Paul II acknowledged that the Inquisition had erred in condemning Galileo for saying that the Earth moves around the Sun.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-galileo", "w-affair"]
+    }
+  ],
+  "feature": {
+    "nav": "Telescope",
+    "title": "What the telescope showed",
+    "lead": "In about three years of looking up, Galileo saw things no book had described. Each one chipped away at the old idea of a perfect sky that turned around the Earth.",
+    "style": "cards",
+    "items": [
+      {
+        "label": "A rough Moon",
+        "date": "1609-12",
+        "place": "Padua",
+        "text": "The Moon was not smooth. Bright points appeared in its dark part and grew until they joined the lit part: mountain tops catching the sunlight, and he estimated some peaks were over four Italian miles high. He wrote that it was 'just like the face of the Earth itself'.",
+        "url": "https://www.gutenberg.org/ebooks/46036",
+        "sources": ["pg-sidereal", "w-sidereus", "rice-moon"]
+      },
+      {
+        "label": "Earthshine",
+        "date": "1610",
+        "place": "Padua",
+        "text": "The faint glow on the dark part of a thin crescent Moon, he argued, is sunlight bounced off the Earth. In Carlos's translation: 'The Earth, with fair and grateful exchange, pays back to the Moon an illumination.'",
+        "url": "https://www.gutenberg.org/ebooks/46036",
+        "sources": ["pg-sidereal"]
+      },
+      {
+        "label": "Stars beyond counting",
+        "date": "1610",
+        "place": "Padua",
+        "text": "Where the eye sees six stars in the Pleiades he counted 35, and in Orion about 80 instead of nine. Stars did not look much bigger in the telescope, unlike the Moon and planets.",
+        "url": "https://www.gutenberg.org/ebooks/46036",
+        "sources": ["w-sidereus", "pg-sidereal"]
+      },
+      {
+        "label": "The Milky Way",
+        "date": "1610",
+        "place": "Padua",
+        "text": "The milky band across the night sky turned out to be crowds of faint stars. He wrote that 'the Galaxy is nothing else but a mass of innumerable stars planted together in clusters', ending a very old debate.",
+        "url": "https://www.gutenberg.org/ebooks/46036",
+        "sources": ["pg-sidereal", "w-sidereus"]
+      },
+      {
+        "label": "Four moons of Jupiter",
+        "date": "1610-01-07",
+        "place": "Padua",
+        "text": "Over a week of nights he watched four points of light shift around Jupiter and realised they were moons. Here were bodies circling something other than the Earth. Today they are called the Galilean moons: Io, Europa, Ganymede and Callisto.",
+        "url": "https://www.gutenberg.org/ebooks/46036",
+        "sources": ["w-galileo", "w-sidereus", "rice-chron", "pg-sidereal"]
+      },
+      {
+        "label": "Saturn's strange shape",
+        "date": "1610-07",
+        "place": "Padua",
+        "text": "Saturn looked like three bodies side by side. In 1612 the side parts vanished, and he predicted they would return, which they did. His telescope was too weak to show what they were; Christiaan Huygens explained them as a ring in 1659.",
+        "sources": ["rice-saturn", "rice-chron", "pg-sidereal"]
+      },
+      {
+        "label": "The phases of Venus",
+        "date": "1610-12",
+        "place": "Florence",
+        "text": "Venus waxed and waned like the Moon, from a thin crescent to nearly full. This ruled out the old Ptolemaic system, though it also fit Tycho Brahe's system. He first hid the news in a Latin anagram, a common way then to claim a discovery.",
+        "sources": ["w-venus", "rice-chron", "pg-sidereal"]
+      },
+      {
+        "label": "Spots on the Sun",
+        "date": "1612",
+        "place": "Florence",
+        "text": "He studied dark spots on the Sun by projecting its image onto paper, a safe method worked out by his student Castelli. He argued the spots lie on the Sun, which turns. Thomas Harriot and Johannes Fabricius also saw sunspots around the same time. Never look at the Sun directly or through a lens.",
+        "sources": ["w-sunspots", "rice-sunspots", "rice-chron"]
+      },
+      {
+        "label": "Neptune, unnoticed",
+        "date": "1612",
+        "place": "Florence",
+        "text": "While following Jupiter's moons he recorded a faint 'star' that we now know was the planet Neptune. He noted it moved but did not realise it was a planet. ",
+        "sources": ["w-galileo"]
+      },
+      {
+        "label": "A double star",
+        "date": "1617",
+        "place": "Florence",
+        "text": "He observed that the star Mizar, in the Big Dipper, is really two stars close together.",
+        "sources": ["w-galileo"]
+      },
+      {
+        "label": "Clocks in the sky",
+        "date": "1616-06",
+        "place": "Florence",
+        "text": "He proposed using the regular eclipses of Jupiter's moons as a clock in the sky, to help sailors find their longitude at sea. He offered the idea to Spain and later the Netherlands, but the Dutch judged it impractical.",
+        "sources": ["rice-chron"]
+      },
+      {
+        "label": "The Moon's slow nod",
+        "date": "1637-11",
+        "place": "Arcetri",
+        "text": "Even as his eyesight failed, he announced that the Moon slowly rocks, letting us see a little more than half of its face over time.",
+        "sources": ["rice-chron"]
+      }
+    ]
+  },
+  "works": [
+    { "year": "1586", "type": "invention", "title": "The little balance (La Bilancetta)", "text": "A hydrostatic balance for weighing objects in water, after Archimedes, with a short book explaining it.", "sources": ["w-galileo", "rice-chron"] },
+    { "year": "1588", "type": "lecture", "title": "Lectures on Dante's Inferno", "text": "Two talks to the Florentine Academy that used geometry to work out the shape and size of Hell in Dante's poem.", "sources": ["w-galileo", "rice-chron"] },
+    { "year": "1590", "type": "writing", "title": "On Motion (De motu)", "text": "Lecture notes from his Pisa years, unpublished in his life, that questioned Aristotle's ideas about falling bodies.", "sources": ["rice-chron", "w-galileo"] },
+    { "year": "1594", "type": "invention", "title": "Horse-powered water pump", "text": "A machine for lifting water, for which the Venetian Senate gave him a patent.", "sources": ["w-galileo", "rice-chron"] },
+    { "year": "1597", "type": "invention", "title": "Geometric and military compass", "text": "A hinged calculating ruler for gunners, surveyors and merchants. He sold copies made by a craftsman and printed an instruction book.", "sources": ["w-galileo", "rice-chron"] },
+    { "year": "1606", "type": "invention", "title": "Thermoscope", "text": "An early air thermometer: warm air in a glass bulb pushed water along a tube. Wikipedia dates his first version to 1593; the Galileo Project to 1606 or 1607.", "sources": ["w-galileo", "rice-chron"] },
+    { "year": "1609", "type": "invention", "title": "His telescopes", "text": "Starting from a report of a Dutch spyglass, he made his own, improving from 3 power to about 20 power within months.", "sources": ["rice-telescope", "rice-chron", "pg-sidereal"] },
+    { "year": "1610", "type": "book", "title": "Sidereus Nuncius (The Starry Messenger)", "text": "A short Latin book reporting the Moon's mountains, countless new stars and the moons of Jupiter. The first published science based on a telescope.", "sources": ["w-sidereus", "pg-sidereal"], "url": "https://www.gutenberg.org/ebooks/46036" },
+    { "year": "1613", "type": "book", "title": "Letters on Sunspots", "text": "Three letters, published by the Lincei, arguing that sunspots are on the Sun and that the Sun rotates; also his first published report of the phases of Venus.", "sources": ["w-sunspots", "rice-sunspots"] },
+    { "year": "1613", "type": "letter", "title": "Letter to Castelli", "text": "A letter arguing that the Bible is not an authority on questions of science.", "sources": ["w-galileo", "w-affair"] },
+    { "year": "1615", "type": "letter", "title": "Letter to the Grand Duchess Christina", "text": "A longer, carefully argued version of the Letter to Castelli, which circulated widely in copies and was printed in 1636.", "sources": ["w-galileo", "rice-chron"] },
+    { "year": "1623", "type": "book", "title": "The Assayer (Il Saggiatore)", "text": "His reply in a dispute over comets, dedicated to Pope Urban VIII, and a sharp statement of how science should reason.", "sources": ["w-galileo", "rice-chron"] },
+    { "year": "1624", "type": "invention", "title": "Compound microscope", "text": "He showed a microscope he had made to the Lincean Academy in Rome.", "sources": ["rice-chron"] },
+    { "year": "1632", "type": "book", "title": "Dialogue Concerning the Two Chief World Systems", "text": "A conversation in Italian between three characters weighing the Earth-centred and Sun-centred views. It led to his trial and stayed on the Index of banned books until 1835.", "sources": ["w-dialogue", "w-affair"] },
+    { "year": "1638", "type": "book", "title": "Two New Sciences", "text": "His last book, printed in Leiden: the strength of materials, the law of falling bodies and the parabolic path of a thrown object.", "sources": ["w-twonew", "ia-twonew"], "url": "https://archive.org/details/dialoguesconcern00galiuoft" },
+    { "year": "1641", "type": "invention", "title": "Pendulum clock design", "text": "A plan for using a pendulum to regulate a clock, worked out when he was blind. It was not built in his lifetime.", "sources": ["rice-chron", "w-galileo"] }
+  ],
+  "resources": [
+    { "label": "The Sidereal Messenger (Project Gutenberg #46036)", "url": "https://www.gutenberg.org/ebooks/46036", "what": "Galileo's 1610 telescope report in Edward Stafford Carlos's 1880 English translation, free to read." },
+    { "label": "Dialogues Concerning Two New Sciences (Internet Archive)", "url": "https://archive.org/details/dialoguesconcern00galiuoft", "what": "A scan of the 1914 Crew and de Salvio translation of his last book, free to read or download." },
+    { "label": "The Galileo Project (Rice University)", "url": "https://galileo.library.rice.edu/", "what": "A long-running university site on Galileo's life, science, instruments and world." },
+    { "label": "Chronology of Galileo's life (The Galileo Project)", "url": "https://galileo.library.rice.edu/chron/galileo.html", "what": "A detailed year-by-year timeline, month by month for the busy years." },
+    { "label": "The Telescope (The Galileo Project)", "url": "https://galileo.library.rice.edu/sci/instruments/telescope.html", "what": "How early telescopes were made and what they could and could not show." },
+    { "label": "Saturn (The Galileo Project)", "url": "https://galileo.library.rice.edu/sci/observations/saturn.html", "what": "Galileo's puzzling views of Saturn and how the ring was finally explained." },
+    { "label": "Galileo affair (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Galileo_affair", "what": "A careful, sourced account of the events of 1616 and the 1633 trial." },
+    { "label": "Galileo Galilei (Wikiquote)", "url": "https://en.wikiquote.org/wiki/Galileo_Galilei", "what": "Sourced quotes, plus a list of famous lines he never actually said." }
+  ],
+  "books": [
+    { "title": "The Sidereal Messenger", "author": "Galileo Galilei, translated by Edward Stafford Carlos", "year": "1610", "kind": "by-him", "free": "https://www.gutenberg.org/ebooks/46036", "note": "Short and vivid: what he saw in his first months with the telescope. The 1880 translation includes part of Kepler's reply." },
+    { "title": "Dialogues Concerning Two New Sciences", "author": "Galileo Galilei, translated by Henry Crew and Alfonso de Salvio", "year": "1638", "kind": "by-him", "free": "https://archive.org/details/dialoguesconcern00galiuoft", "note": "His last book, written as a friendly conversation. The Third Day has the famous ramp experiment." },
+    { "title": "Galileo at Work: His Scientific Biography", "author": "Stillman Drake", "year": "1978", "kind": "biography", "free": null, "note": "A classic account of how he actually worked, by a leading Galileo scholar (University of Chicago Press); cited on Wikipedia." },
+    { "title": "Galileo's Daughter", "author": "Dava Sobel", "year": "1999", "kind": "biography", "free": null, "note": "A popular history of Galileo and his daughter, Sister Maria Celeste; cited on Wikipedia." },
+    { "title": "Galileo", "author": "J. L. Heilbron", "year": "2010", "kind": "biography", "free": null, "note": "A full scholarly biography (Oxford University Press); cited on Wikipedia." }
+  ]
+}

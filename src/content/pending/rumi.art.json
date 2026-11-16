@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "06-masnavi",
+ "panels": [
+  { "key": "01-road", "year": "1218" },
+  { "key": "02-konya", "year": "1228" },
+  { "key": "03-teacher", "year": "1240" },
+  { "key": "04-shams", "year": "1244" },
+  { "key": "05-divan", "year": "1249" },
+  { "key": "06-masnavi", "year": "1258" },
+  { "key": "07-farewell", "year": "1273" },
+  { "key": "08-ney", "year": "1284" }
+ ]
+}

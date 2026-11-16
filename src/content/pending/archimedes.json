@@ -1,0 +1,64 @@
+{
+  "id": "archimedes",
+  "name": "Archimedes of Syracuse",
+  "years": "c. 287 BC - 212 BC",
+  "title": "The Great Measurer",
+  "tagline": "He tested ideas with levers, weights and water, then proved them with geometry, and measured things others thought could never be measured.",
+  "sources": {
+    "w-arch": { "label": "Archimedes (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Archimedes" },
+    "mactutor": { "label": "Archimedes of Syracuse, MacTutor History of Mathematics (University of St Andrews)", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Archimedes/" },
+    "heath-works": { "label": "The Works of Archimedes, ed. and tr. T. L. Heath, Cambridge University Press, 1897 (Internet Archive)", "url": "https://archive.org/details/worksofarchimede00arch" },
+    "heath-method": { "label": "The Method of Archimedes, tr. T. L. Heath, 1912 supplement to the Works (Internet Archive)", "url": "https://archive.org/details/methodofarchimed00arch" },
+    "w-method": { "label": "The Method of Mechanical Theorems (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Method_of_Mechanical_Theorems" },
+    "w-sand": { "label": "The Sand Reckoner (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Sand_Reckoner" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Find it first, then prove it",
+      "idea": "Archimedes often found an answer by imagining shapes as weights hanging on a balance. He did not stop there. He then wrote a careful geometric proof, because a good guess is not the same as knowing.",
+      "quote": { "text": "...certain things first became clear to me by a mechanical method, although they had to be demonstrated by geometry afterwards...", "credit": "The Method, letter to Eratosthenes, tr. T. L. Heath (1912)" },
+      "practice": "Pick one thing you believe is true about your work or studies. Write how you first got the idea, then write one way you could check it properly.",
+      "sources": ["heath-method", "w-method"]
+    },
+    {
+      "title": "The answer is already there",
+      "idea": "Archimedes said the facts he found about the sphere and the cylinder had always been true. No one had noticed them before. Discovery often means looking harder at ordinary things.",
+      "quote": { "text": "Now these properties were all along naturally inherent in the figures referred to ... but remained unknown to those who were before my time engaged in the study of geometry.", "credit": "On the Sphere and Cylinder I, preface, tr. T. L. Heath (1897)" },
+      "practice": "Look closely at one everyday object for five minutes. Write down three things about it you never noticed before.",
+      "sources": ["heath-works", "w-arch"]
+    },
+    {
+      "title": "Show your proof",
+      "idea": "Archimedes sent results to other mathematicians and asked them to check his work. He even said he once sent two false claims, to catch people who said they had solved things without proof.",
+      "quote": { "text": "...[and which may serve as a warning] how those who claim to discover everything but produce no proofs of the same may be confuted as having actually pretended to discover the impossible.", "credit": "On Spirals, preface, tr. T. L. Heath (1897)" },
+      "practice": "Next time you make a claim at work or school, add one line that says how you know it. Ask a friend to check it.",
+      "sources": ["heath-works", "mactutor"]
+    },
+    {
+      "title": "Count what seems countless",
+      "idea": "People said the grains of sand could never be counted. Archimedes built a new way to name huge numbers and showed that even the sand to fill the universe had a limit. Big problems get smaller when you give names to the steps.",
+      "quote": { "text": "There are some, king Gelon, who think that the number of the sand is infinite in multitude ... But I will try to show you by means of geometrical proofs, which you will be able to follow...", "credit": "The Sand-Reckoner, tr. T. L. Heath (1897)" },
+      "practice": "Choose one task that feels too big to start. Break it into named steps until the first step takes less than ten minutes.",
+      "sources": ["heath-works", "w-sand"]
+    },
+    {
+      "title": "Find your lever",
+      "idea": "Archimedes proved how a small weight far from the pivot can balance a large weight close to it. The same idea works in life: a small effort in the right place can move a lot.",
+      "quote": { "text": "Two magnitudes, whether commensurable [Prop. 6] or incommensurable [Prop. 7], balance at distances reciprocally proportional to the magnitudes.", "credit": "On the Equilibrium of Planes I, Propositions 6 and 7, tr. T. L. Heath (1897)" },
+      "practice": "List three small actions you could take this week. Circle the one that would make the others easier. Do that one first.",
+      "sources": ["heath-works", "w-arch"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Look again", "action": "Spend five minutes looking at one ordinary object. Write three things about it you never noticed." },
+    { "day": 2, "title": "Measure something", "action": "Measure something you usually guess, such as how long a task really takes. Compare it to your guess." },
+    { "day": 3, "title": "Name the steps", "action": "Take one big task and break it into named steps. Do the first one today." },
+    { "day": 4, "title": "Find the lever", "action": "List three small actions. Pick the one that makes the others easier and do it.", "sources": ["heath-works"] },
+    { "day": 5, "title": "Guess, then check", "action": "Write down a guess about something you can test, like how many steps to the shop. Then test it." },
+    { "day": 6, "title": "Show your work", "action": "Explain one idea to a friend, with how you know it is true. Ask them to find a weak spot.", "sources": ["heath-works"] },
+    { "day": 7, "title": "Thank your Conon", "action": "Archimedes wrote warmly about his friend Conon. Send a note to someone who helps you think, and tell them how.", "sources": ["heath-works"] }
+  ],
+  "reflect": "What is one thing you see every day that might hide a rule nobody has noticed yet?",
+  "keepsake": "Archimedes Builder Collectible"
+}

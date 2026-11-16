@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "07-ninth",
+ "panels": [
+  { "key": "01-bonn", "year": "1778" },
+  { "key": "02-organ", "year": "1784" },
+  { "key": "03-vienna", "year": "1792" },
+  { "key": "04-heiligenstadt", "year": "1802" },
+  { "key": "05-sketches", "year": "1808" },
+  { "key": "06-conversation", "year": "1818" },
+  { "key": "07-ninth", "year": "1824" },
+  { "key": "08-quartets", "year": "1826" }
+ ]
+}

@@ -1,0 +1,262 @@
+{
+  "sources": {
+    "w-ramanujan": { "label": "Srinivasa Ramanujan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan" },
+    "mactutor": { "label": "Srinivasa Ramanujan, MacTutor History of Mathematics (University of St Andrews)", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ramanujan/" },
+    "ia-collected": { "label": "Collected Papers of Srinivasa Ramanujan, ed. G. H. Hardy, P. V. Seshu Aiyar and B. M. Wilson, Cambridge University Press 1927, with memoirs by Seshu Aiyar and Ramachandra Rao and by Hardy (Internet Archive)", "url": "https://archive.org/details/pli.kerala.rare.28155" },
+    "w-hardy": { "label": "G. H. Hardy (Wikipedia)", "url": "https://en.wikipedia.org/wiki/G._H._Hardy" },
+    "w-1729": { "label": "1729 (number) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/1729_(number)" },
+    "w-partition": { "label": "Partition function (number theory) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Partition_function_(number_theory)" },
+    "w-mock": { "label": "Mock modular form (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mock_modular_form" },
+    "w-lost": { "label": "Ramanujan's lost notebook (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook" },
+    "w-rr": { "label": "Rogers-Ramanujan identities (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Rogers%E2%80%93Ramanujan_identities" },
+    "w-hcn": { "label": "Highly composite number (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Highly_composite_number" },
+    "w-tau": { "label": "Ramanujan tau function (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ramanujan_tau_function" },
+    "w-sato": { "label": "Ramanujan-Sato series (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ramanujan%E2%80%93Sato_series" },
+    "w-nmd": { "label": "National Mathematics Day (India) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/National_Mathematics_Day_(India)" },
+    "w-kanigel": { "label": "The Man Who Knew Infinity (book) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Man_Who_Knew_Infinity_(book)" },
+    "ia-hr1918": { "label": "Hardy and Ramanujan, Asymptotic Formulae in Combinatory Analysis, 1918 (Internet Archive)", "url": "https://archive.org/details/hardy-ramanujan-1918-asymptotic-formulaae-in-combinatory-analysis" }
+  },
+  "timeline": [
+    {
+      "date": "1887-12-22", "age": 0, "place": "Erode, Madras Presidency, (Tamil Nadu, India)",
+      "title": "Born in Erode",
+      "text": "Ramanujan was born on 22 December 1887 in the house of his mother's father in Erode. His family was poor. His father was a clerk to a cloth merchant in the temple town of Kumbakonam, where Ramanujan grew up.",
+      "turning": false, "kind": "life", "sources": ["w-ramanujan", "ia-collected", "mactutor"]
+    },
+    {
+      "date": "1889-12", "age": 1, "place": "Kumbakonam, Madras Presidency, (Tamil Nadu, India)",
+      "title": "A childhood illness",
+      "text": "In December 1889 the small boy caught smallpox and recovered. Afterwards he moved for a time with his mother to Kanchipuram, near Madras.",
+      "turning": false, "kind": "setback", "sources": ["w-ramanujan"]
+    },
+    {
+      "date": "1892", "age": 4, "place": "Kumbakonam, Madras Presidency, (Tamil Nadu, India)",
+      "title": "First school",
+      "text": "In 1892, aged about five, he started at a simple local school. Sources differ on the details and the later schools he moved between before the Town High School.",
+      "turning": false, "kind": "life", "sources": ["w-ramanujan", "ia-collected"]
+    },
+    {
+      "date": "1897", "age": 9, "place": "Kumbakonam, Madras Presidency, (Tamil Nadu, India)",
+      "title": "Top of the district",
+      "text": "In 1897 he came first in the Tanjore District in the primary examination. He joined the Town High School in Kumbakonam, where he met formal mathematics for the first time.",
+      "turning": false, "kind": "life", "sources": ["w-ramanujan", "ia-collected"]
+    },
+    {
+      "date": "1903", "age": 15, "place": "Kumbakonam, Madras Presidency, (Tamil Nadu, India)",
+      "title": "The book that woke him",
+      "text": "A friend borrowed for him G. S. Carr's Synopsis, a dense list of formulas, from the college library. He set out to prove every result himself. His early biographers wrote: \"It was this book that awakened his genius.\"",
+      "turning": true, "kind": "turning", "sources": ["ia-collected", "w-ramanujan", "mactutor"]
+    },
+    {
+      "date": "1904", "age": 16, "place": "Kumbakonam, Madras Presidency, (Tamil Nadu, India)",
+      "title": "A scholarship lost",
+      "text": "He won a scholarship to the Government College in Kumbakonam. But he spent his lessons on mathematics, failed the other subjects, and lost the scholarship. Hardy later blamed mainly his weak English.",
+      "turning": false, "kind": "setback", "sources": ["ia-collected", "w-ramanujan", "mactutor"]
+    },
+    {
+      "date": "1905-08", "age": 17, "place": "Rajahmundry, Madras Presidency, (Andhra Pradesh, India)",
+      "title": "Running away",
+      "text": "Upset at his failure, he left home and travelled north into the Telugu country. He stayed about a month in Rajahmundry before coming back to Kumbakonam.",
+      "turning": false, "kind": "setback", "sources": ["w-ramanujan", "ia-collected"]
+    },
+    {
+      "date": "1906", "age": 18, "place": "Madras, Madras Presidency, (Chennai, India)",
+      "title": "No degree",
+      "text": "He enrolled at Pachaiyappa's College in Madras, passed in mathematics, but failed the First Arts examination in December 1906. Wikipedia says he failed again a year later. He never earned a regular degree and kept working alone, filling his notebooks.",
+      "turning": false, "kind": "setback", "sources": ["w-ramanujan", "mactutor", "ia-collected"]
+    },
+    {
+      "date": "1909-07-14", "age": 21, "place": "Kumbakonam, Madras Presidency, (Tamil Nadu, India)",
+      "title": "Marriage",
+      "text": "On 14 July 1909 he married Janaki (Janakiammal), who was about ten. Now he needed a steady job.",
+      "turning": false, "kind": "life", "sources": ["w-ramanujan", "mactutor"]
+    },
+    {
+      "date": "1910", "age": 22, "place": "Tirukoilur, Madras Presidency, (Tamil Nadu, India)",
+      "title": "Looking for work, notebook in hand",
+      "text": "He visited V. Ramaswami Aiyar, founder of the Indian Mathematical Society, to ask for a clerk's job. Aiyar saw the notebook and felt such talent would be wasted in an office. He sent Ramanujan on to friends in Madras.",
+      "turning": false, "kind": "work", "sources": ["ia-collected", "w-ramanujan"]
+    },
+    {
+      "date": "1910-12", "age": 22, "place": "Nellore, Madras Presidency, (Andhra Pradesh, India)",
+      "title": "A patron is convinced",
+      "text": "The official R. Ramachandra Rao met him in December 1910. He later remembered a poor young man with a frayed notebook and shining eyes, who wanted only enough to live on so he could do research. Rao paid his costs for a time.",
+      "turning": false, "kind": "life", "sources": ["ia-collected"]
+    },
+    {
+      "date": "1911", "age": 23, "place": "Madras, Madras Presidency, (Chennai, India)",
+      "title": "First paper",
+      "text": "His first long article, \"Some Properties of Bernoulli's Numbers\", appeared in the Journal of the Indian Mathematical Society in 1911.",
+      "turning": false, "kind": "work", "sources": ["w-ramanujan", "ia-collected"]
+    },
+    {
+      "date": "1912-03-01", "age": 24, "place": "Madras, Madras Presidency, (Chennai, India)",
+      "title": "Clerk at the Port Trust",
+      "text": "He became an accounts clerk at the Madras Port Trust for 30 rupees a month. Sources disagree on the start date: Wikipedia and MacTutor say 1 March 1912; his 1927 memoir says 9 February 1912. His managers liked mathematics and encouraged him.",
+      "turning": false, "kind": "work", "sources": ["w-ramanujan", "mactutor", "ia-collected"]
+    },
+    {
+      "date": "1913-01-16", "age": 25, "place": "Madras, Madras Presidency, (Chennai, India)",
+      "title": "The letter to Hardy",
+      "text": "After two other Cambridge mathematicians returned his papers without comment, he wrote to G. H. Hardy at Trinity College. The letter came with pages of theorems. Hardy first wondered if it was a prank, then decided it was genuine and remarkable.",
+      "turning": true, "kind": "turning", "sources": ["w-ramanujan", "w-hardy", "ia-collected", "mactutor"]
+    },
+    {
+      "date": "1913-02-08", "age": 25, "place": "Cambridge, (England)",
+      "title": "Hardy replies",
+      "text": "Hardy answered on 8 February 1913 with interest. He asked to see proofs of some of the claims, and he began trying to bring Ramanujan to Cambridge.",
+      "turning": false, "kind": "work", "sources": ["w-ramanujan", "mactutor"]
+    },
+    {
+      "date": "1913-05", "age": 25, "place": "Madras, Madras Presidency, (Chennai, India)",
+      "title": "Paid to do mathematics",
+      "text": "In May 1913 the University of Madras gave him a two-year research scholarship, 75 rupees a month. For the first time he could do mathematics as his job.",
+      "turning": false, "kind": "work", "sources": ["w-ramanujan", "mactutor", "ia-collected"]
+    },
+    {
+      "date": "1914-03-17", "age": 26, "place": "Madras, Madras Presidency, (Chennai, India)",
+      "title": "Sailing for England",
+      "text": "At first he refused to travel, partly for religious reasons. His mother agreed after a dream, and the university gave him a scholarship of 250 pounds a year. He sailed on 17 March 1914.",
+      "turning": true, "kind": "turning", "sources": ["ia-collected", "w-ramanujan", "mactutor"]
+    },
+    {
+      "date": "1914-04-14", "age": 26, "place": "Cambridge, (England)",
+      "title": "Arrival at Trinity",
+      "text": "He reached London on 14 April with E. H. Neville and soon moved into rooms at Trinity College. Hardy found him brilliant but missing much of modern mathematics, and set about teaching him proof.",
+      "turning": false, "kind": "life", "sources": ["w-ramanujan", "mactutor", "ia-collected"]
+    },
+    {
+      "date": "1914", "age": 26, "place": "Cambridge, (England)",
+      "title": "Formulas for pi",
+      "text": "His paper \"Modular equations and approximations to pi\", mostly Indian work, came out in 1914. It held striking new series for pi. Similar series are behind some of the fastest methods for computing pi today.",
+      "turning": false, "kind": "work", "sources": ["ia-collected", "w-ramanujan", "w-sato"]
+    },
+    {
+      "date": "1915", "age": 27, "place": "Cambridge, (England)",
+      "title": "Highly composite numbers",
+      "text": "He published a long paper on numbers that have more divisors than any smaller number. Hardy called the analysis \"most remarkable\". Keeping to his strict religious diet in wartime England was hard.",
+      "turning": false, "kind": "work", "sources": ["w-hcn", "ia-collected", "w-ramanujan"]
+    },
+    {
+      "date": "1916-03-16", "age": 28, "place": "Cambridge, (England)",
+      "title": "A Cambridge degree",
+      "text": "Cambridge gave him a Bachelor of Arts by Research for his work on highly composite numbers. The degree was later renamed the PhD.",
+      "turning": false, "kind": "work", "sources": ["w-ramanujan", "mactutor"]
+    },
+    {
+      "date": "1916", "age": 28, "place": "Cambridge, (England)",
+      "title": "The tau function",
+      "text": "In \"On certain arithmetical functions\" he made three guesses about a number sequence now called the tau function. Mordell proved two in 1917. The hardest was proved by Pierre Deligne in 1974.",
+      "turning": false, "kind": "work", "sources": ["w-tau"]
+    },
+    {
+      "date": "1917", "age": 29, "place": "Cambridge, (England)",
+      "title": "Serious illness",
+      "text": "In 1917 he fell seriously ill and spent much of the next two years in nursing homes. Because of the war, sailing home was too risky. He kept working whenever he could.",
+      "turning": false, "kind": "setback", "sources": ["ia-collected", "w-ramanujan"]
+    },
+    {
+      "date": "1918", "age": 30, "place": "Cambridge, (England)",
+      "title": "Counting partitions",
+      "text": "With Hardy he published a formula that estimates how many ways a number can be split into a sum of smaller numbers. It was accurate enough to give exact answers. Hardy and MacMahon both counted it among his best work.",
+      "turning": false, "kind": "work", "sources": ["ia-hr1918", "w-partition", "ia-collected"]
+    },
+    {
+      "date": "1918-05-02", "age": 30, "place": "London, (England)",
+      "title": "Fellow of the Royal Society",
+      "text": "He was elected a Fellow of the Royal Society. His 1927 memoir dates it 28 February and calls him the first Indian Fellow. Wikipedia and MacTutor say the election was confirmed on 2 May 1918, and Wikipedia says he was the second Indian, after Ardaseer Cursetjee in 1841.",
+      "turning": true, "kind": "turning", "sources": ["w-ramanujan", "mactutor", "ia-collected"]
+    },
+    {
+      "date": "1918-10-13", "age": 30, "place": "Cambridge, (England)",
+      "title": "Fellow of Trinity",
+      "text": "He became the first Indian elected a Fellow of Trinity College, with six years of paid research and no duties. MacTutor gives the date as 10 October instead of 13 October.",
+      "turning": false, "kind": "work", "sources": ["w-ramanujan", "mactutor", "ia-collected"]
+    },
+    {
+      "date": "1919-02-27", "age": 31, "place": "Madras, Madras Presidency, (Chennai, India)",
+      "title": "Home to India",
+      "text": "Hoping the climate would help him recover, he left England on 27 February 1919. The 1927 memoir says he landed at Bombay on 27 March; MacTutor says he arrived on 13 March. The University of Madras gave him an allowance for five more years.",
+      "turning": false, "kind": "life", "sources": ["ia-collected", "mactutor", "w-ramanujan"]
+    },
+    {
+      "date": "1920-01-12", "age": 32, "place": "Madras, Madras Presidency, (Chennai, India)",
+      "title": "The last letter",
+      "text": "Though very ill, he wrote to Hardy about new functions he called mock theta functions. The 1927 memoir says this work was done in his last months. It took mathematicians about 80 years to fully understand them.",
+      "turning": false, "kind": "work", "sources": ["ia-collected", "w-mock", "w-ramanujan"]
+    },
+    {
+      "date": "1920-04-26", "age": 32, "place": "Chetput, Madras, (Chennai, India) or Kumbakonam, (Tamil Nadu, India)",
+      "title": "Death at 32",
+      "text": "Ramanujan died on 26 April 1920. Sources disagree on the place: his Indian memoir says Chetput in Madras, while Hardy and MacTutor say Kumbakonam. The illness was long thought to be tuberculosis; a 1994 study suggested a liver infection instead.",
+      "turning": true, "kind": "life", "sources": ["ia-collected", "mactutor", "w-ramanujan"]
+    },
+    {
+      "date": "1927", "age": null, "place": "Cambridge, (England)",
+      "title": "The Collected Papers",
+      "text": "Hardy and others published his Collected Papers, with his letters and two memoirs of his life. The editors wrote that his notebooks held much that \"should certainly be published\".",
+      "turning": false, "kind": "legacy", "sources": ["ia-collected", "w-ramanujan"]
+    },
+    {
+      "date": "1976", "age": null, "place": "Cambridge, (England)",
+      "title": "The lost notebook found",
+      "text": "In spring 1976 George Andrews found a bundle of over 100 pages of Ramanujan's last-year work in the Wren Library at Trinity College. It had been out of sight for decades. It was published in 1987-88.",
+      "turning": false, "kind": "legacy", "sources": ["w-lost", "w-ramanujan"]
+    },
+    {
+      "date": "2011-12-26", "age": null, "place": "Chennai, Tamil Nadu, (India)",
+      "title": "National Mathematics Day",
+      "text": "At the University of Madras, India's prime minister declared his birthday, 22 December, National Mathematics Day, marking his 125th birth anniversary.",
+      "turning": false, "kind": "legacy", "sources": ["w-nmd", "w-ramanujan"]
+    }
+  ],
+  "feature": {
+    "nav": "Famous results",
+    "title": "Famous results, simply explained",
+    "lead": "Ramanujan wrote down nearly 3,900 results, most without proofs. Here are some of the best known, in plain words.",
+    "style": "cards",
+    "items": [
+      { "label": "1729, the taxicab number", "place": "Putney, London", "text": "Hardy visited him in hospital and said his taxi number, 1729, seemed dull. Ramanujan said no: it is the smallest number you can write as the sum of two cubes in two different ways (1 cubed + 12 cubed, and 9 cubed + 10 cubed). The fact was known since 1657, and was also in his notebook years before.", "url": "https://en.wikipedia.org/wiki/1729_(number)", "sources": ["ia-collected", "w-1729"] },
+      { "label": "Counting partitions", "date": "1918", "text": "A partition is a way to split a number into a sum. The number 4 has five: 4, 3+1, 2+2, 2+1+1 and 1+1+1+1. The count grows enormous very fast. With Hardy he found a formula that predicts it so well it gives exact answers.", "url": "https://archive.org/details/hardy-ramanujan-1918-asymptotic-formulaae-in-combinatory-analysis", "sources": ["ia-hr1918", "w-partition"] },
+      { "label": "Patterns of 5, 7 and 11", "date": "1919", "text": "By working out many examples, he noticed that the number of partitions of 4, 9, 14, 19 and so on (every fifth number) is always divisible by 5. Similar rules hold for 7 and 11. Hardy said he found these patterns from numerical examples.", "sources": ["w-partition", "ia-collected"] },
+      { "label": "Rogers-Ramanujan identities", "date": "1919", "text": "Two formulas he found on his own before 1913. One says: the ways to split a number into parts that differ by at least 2 equal the ways to split it into parts ending in a 1, 4, 6 or 9 (one more or less than a multiple of 5). L. J. Rogers had proved them in 1894; the two published a joint proof in 1919.", "sources": ["w-rr", "ia-collected"] },
+      { "label": "Fast formulas for pi", "date": "1914", "text": "His 1914 paper gave new series for pi that close in on the right value very quickly. Hardy praised them. Related series are used by modern computers to work out pi to trillions of digits.", "url": "https://archive.org/details/pli.kerala.rare.28155", "sources": ["ia-collected", "w-ramanujan", "w-sato"] },
+      { "label": "Highly composite numbers", "date": "1915", "text": "Numbers like 12, 24, 36, 48 and 60 have more divisors than any smaller number. He studied them in a long paper that earned his Cambridge degree. Hardy said it showed his \"extraordinary mastery\" of inequalities.", "sources": ["w-hcn", "ia-collected", "w-ramanujan"] },
+      { "label": "The tau function", "date": "1916", "text": "He looked at a special sequence of numbers (1, -24, 252, and on) and guessed three rules about it. Mordell proved two the next year. The last, a size limit, was proved by Pierre Deligne in 1974 as part of work that won a Fields Medal.", "sources": ["w-tau", "w-ramanujan"] },
+      { "label": "Bernoulli numbers", "date": "1911", "text": "His first long paper, published in India, found new properties of a famous sequence of fractions used across mathematics.", "sources": ["w-ramanujan", "ia-collected"] },
+      { "label": "Mock theta functions", "date": "1920", "text": "In his last letter to Hardy he described 17 new functions that behave almost, but not quite, like older ones. Only in 2002 did Sander Zwegers explain what they really are. They are now used even in the physics of black holes.", "sources": ["w-mock", "ia-collected"] },
+      { "label": "The notebooks", "date": "1903", "text": "From his teens he wrote his results in notebooks, mostly without proofs. Bruce Berndt spent years checking them and argues he could prove most of them. They were printed in facsimile in 1957.", "sources": ["w-ramanujan", "ia-collected"] },
+      { "label": "The lost notebook", "date": "1920", "text": "Over 600 formulas from his final year, on loose sheets. They were found in the Wren Library at Trinity College in 1976 and filled five volumes of proofs by George Andrews and Bruce Berndt (2005 to 2018).", "sources": ["w-lost"] }
+    ]
+  },
+  "works": [
+    { "year": "1903", "type": "book", "title": "The notebooks", "text": "The notebooks of results he kept from his teens, mostly without proofs. Printed in facsimile in 1957.", "sources": ["w-ramanujan", "ia-collected"] },
+    { "year": "1911", "type": "paper", "title": "Some Properties of Bernoulli's Numbers", "text": "His first long paper, in the Journal of the Indian Mathematical Society.", "sources": ["w-ramanujan", "ia-collected"], "url": "https://archive.org/details/pli.kerala.rare.28155" },
+    { "year": "1913", "type": "letter", "title": "Letters to Hardy", "text": "His letters of 1913 from Madras, packed with theorems, which brought him to Cambridge. Parts are printed in the Collected Papers.", "sources": ["ia-collected", "w-hardy"], "url": "https://archive.org/details/pli.kerala.rare.28155" },
+    { "year": "1914", "type": "paper", "title": "Modular equations and approximations to pi", "text": "Series and approximations for pi, mostly worked out in India; the basis of modern fast pi formulas.", "sources": ["ia-collected", "w-sato"] },
+    { "year": "1915", "type": "paper", "title": "Highly composite numbers", "text": "A long study of numbers with record numbers of divisors; the basis of his Cambridge degree.", "sources": ["w-hcn", "w-ramanujan", "ia-collected"] },
+    { "year": "1916", "type": "paper", "title": "On certain arithmetical functions", "text": "Introduced his three conjectures about the tau function, fully proved only in 1974.", "sources": ["w-tau"] },
+    { "year": "1918", "type": "paper", "title": "Asymptotic formulae in combinatory analysis (with Hardy)", "text": "The Hardy-Ramanujan formula for counting partitions, made exact by Rademacher in 1937.", "sources": ["ia-hr1918", "w-partition"], "url": "https://archive.org/details/hardy-ramanujan-1918-asymptotic-formulaae-in-combinatory-analysis" },
+    { "year": "1919", "type": "paper", "title": "Rogers-Ramanujan identities (with L. J. Rogers)", "text": "A joint proof of two partition formulas that Ramanujan had found on his own.", "sources": ["w-rr"] },
+    { "year": "1919", "type": "paper", "title": "Congruence properties of partitions", "text": "His patterns for partitions with 5, 7 and 11. A further paper on them appeared after his death in 1921.", "sources": ["w-partition", "w-ramanujan"] },
+    { "year": "1920", "type": "letter", "title": "Last letter on mock theta functions", "text": "His letter of 12 January 1920 listing 17 mock theta functions.", "sources": ["ia-collected", "w-mock"] },
+    { "year": "1920", "type": "book", "title": "The lost notebook", "text": "Over 600 formulas from his last year, rediscovered in 1976 and published in 1987-88.", "sources": ["w-lost"] },
+    { "year": "1927", "type": "book", "title": "Collected Papers of Srinivasa Ramanujan", "text": "All his published papers, with letters and memoirs, edited by Hardy, Seshu Aiyar and Wilson.", "sources": ["ia-collected"], "url": "https://archive.org/details/pli.kerala.rare.28155" }
+  ],
+  "resources": [
+    { "label": "Collected Papers of Srinivasa Ramanujan, 1927 (Internet Archive)", "url": "https://archive.org/details/pli.kerala.rare.28155", "what": "His papers, his letters to Hardy, and two early memoirs of his life, free to read." },
+    { "label": "Srinivasa Ramanujan (MacTutor, St Andrews)", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ramanujan/", "what": "A careful dated biography from a leading history of mathematics archive." },
+    { "label": "Srinivasa Ramanujan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan", "what": "A detailed, well sourced account of his life, work and legacy." },
+    { "label": "Hardy and Ramanujan, 1918 partition paper (Internet Archive)", "url": "https://archive.org/details/hardy-ramanujan-1918-asymptotic-formulaae-in-combinatory-analysis", "what": "The original paper with the famous partition formula." },
+    { "label": "Partition function (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Partition_function_(number_theory)", "what": "A clear explanation of partitions with examples." },
+    { "label": "1729 (number) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/1729_(number)", "what": "The story and the maths of the taxicab number." },
+    { "label": "Ramanujan's lost notebook (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook", "what": "How his last year's work was lost and found again." },
+    { "label": "Mock modular form (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mock_modular_form", "what": "The long story of his last discovery, for readers who want more depth." }
+  ],
+  "books": [
+    { "title": "Collected Papers of Srinivasa Ramanujan", "author": "Srinivasa Ramanujan, edited by G. H. Hardy, P. V. Seshu Aiyar and B. M. Wilson", "year": "1927", "kind": "by-him", "free": "https://archive.org/details/pli.kerala.rare.28155", "note": "Cambridge University Press. His papers plus letters and memoirs; the memoirs are easy to read even if the maths is not." },
+    { "title": "Notebooks of Srinivasa Ramanujan", "author": "Srinivasa Ramanujan", "year": "1957", "kind": "by-him", "free": null, "note": "Facsimile edition in two volumes, Tata Institute of Fundamental Research, Bombay." },
+    { "title": "The Man Who Knew Infinity: A Life of the Genius Ramanujan", "author": "Robert Kanigel", "year": "1991", "kind": "biography", "free": null, "note": "The best known full biography (Scribner's); a 2015 film of the same name stars Dev Patel." },
+    { "title": "Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work", "author": "G. H. Hardy", "year": "1940", "kind": "biography", "free": null, "note": "Lectures by the mathematician who brought him to Cambridge (Cambridge University Press)." }
+  ]
+}

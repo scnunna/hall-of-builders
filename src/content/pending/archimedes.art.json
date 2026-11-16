@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "03-lever",
+ "panels": [
+  { "key": "01-syracuse", "year": "-0287" },
+  { "key": "02-alexandria", "year": "-0270" },
+  { "key": "03-lever", "year": "-0250" },
+  { "key": "04-ship", "year": "-0248" },
+  { "key": "05-sphere", "year": "-0238" },
+  { "key": "06-floating", "year": "-0230" },
+  { "key": "07-walls", "year": "-0213" },
+  { "key": "08-tomb", "year": "-0075" }
+ ]
+}

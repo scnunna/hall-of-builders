@@ -1,0 +1,503 @@
+{
+  "sources": {
+    "w-rumi": { "label": "Rumi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Rumi" },
+    "w-masnavi": { "label": "Masnavi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Masnavi" },
+    "w-shams": { "label": "Shams Tabrizi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Shams_Tabrizi" },
+    "w-divan": { "label": "Divan-e Shams-e Tabrizi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Divan-e_Shams-e_Tabrizi" },
+    "w-fihi": { "label": "Fihi Ma Fihi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Fihi_Ma_Fihi" },
+    "w-mevlevi": { "label": "Mevlevi Order (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mevlevi_Order" },
+    "w-sultanwalad": { "label": "Sultan Walad (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Sultan_Walad" },
+    "w-sama": { "label": "Sama (Sufism) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Sama_(Sufism)" },
+    "w-museum": { "label": "Mevlana Museum (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mevlana_Museum" },
+    "unesco-sema": { "label": "Mevlevi Sema ceremony, UNESCO Intangible Cultural Heritage (official page)", "url": "https://ich.unesco.org/en/RL/mevlevi-sema-ceremony-00100" },
+    "ia-whinfield": { "label": "Masnavi i Ma'navi, tr. E. H. Whinfield, Trubner, London, 1898 (Internet Archive)", "url": "https://archive.org/details/masnaviimanavisp00jala_0" },
+    "ia-nicholson": { "label": "Selected Poems from the Divani Shamsi Tabriz, ed. and tr. R. A. Nicholson, Cambridge University Press, 1898 (Internet Archive)", "url": "https://archive.org/details/in.ernet.dli.2015.52959" },
+    "gut-redhouse": { "label": "The Mesnevi, Book I, tr. James W. Redhouse (Project Gutenberg #61724)", "url": "https://www.gutenberg.org/ebooks/61724" },
+    "gut-hastie": { "label": "The Festival of Spring, from the Divan of Jelaleddin, tr. William Hastie (Project Gutenberg #57068)", "url": "https://www.gutenberg.org/ebooks/57068" },
+    "gut-davis": { "label": "The Persian Mystics: Jalalu'd-din Rumi, ed. F. Hadland Davis (Project Gutenberg #45159)", "url": "https://www.gutenberg.org/ebooks/45159" },
+    "wq-rumi": { "label": "Rumi (Wikiquote), with sourced and misattributed quotes", "url": "https://en.wikiquote.org/wiki/Rumi" }
+  },
+  "timeline": [
+    {
+      "date": "1207-09-30",
+      "age": 0,
+      "place": "Wakhsh, Khorasan, (Tajikistan)",
+      "title": "Born in Central Asia",
+      "text": "Jalal al-Din Muhammad was born on 30 September 1207 to a Persian-speaking family. His father, Baha al-Din Walad, was a preacher and religious scholar. The family came from Balkh, and he is often called Balkhi, but modern scholars such as Fritz Meier think he was born in the nearby town of Wakhsh.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-rumi"]
+    },
+    {
+      "date": "1212",
+      "age": 5,
+      "place": "Samarkand, Khwarazmian Empire, (Uzbekistan)",
+      "title": "A move to Samarkand",
+      "text": "When he was about five, the family moved from Wakhsh to Samarkand. The exact dates of the family's early moves are not certain.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-rumi"]
+    },
+    {
+      "date": "1216",
+      "age": null,
+      "place": "Khorasan, (Central Asia)",
+      "title": "Leaving home ahead of the Mongols",
+      "text": "As Mongol armies invaded Central Asia, sometime between 1215 and 1220, Baha al-Din set out west with his family and a group of students. Sources disagree on the year: R. A. Nicholson, following old accounts, put the departure several years earlier. They would never return.",
+      "turning": true,
+      "kind": "setback",
+      "sources": ["w-rumi", "ia-nicholson"]
+    },
+    {
+      "date": "1217",
+      "age": null,
+      "place": "Nishapur, Khorasan, (Iran)",
+      "title": "The poet Attar, a famous story",
+      "text": "A well-known story says that in Nishapur the old poet Attar met the family, gave the boy his Book of Mysteries, and said, \"Here comes a sea followed by an ocean.\" Many scholars doubt the meeting; Nicholson thought it was probably a good story rather than a fact. The date is not known.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-rumi", "ia-nicholson"]
+    },
+    {
+      "date": "1218",
+      "age": null,
+      "place": "Baghdad, Abbasid Caliphate, (Iraq)",
+      "title": "Baghdad, Mecca and the long road west",
+      "text": "The family went on to Baghdad, where they heard that Balkh had been destroyed by Genghis Khan, then made the pilgrimage to Mecca. They passed through Damascus, Malatya, Erzincan and other towns of Anatolia. The years of this journey are uncertain.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-rumi", "ia-whinfield", "ia-nicholson"]
+    },
+    {
+      "date": "1225",
+      "age": 17,
+      "place": "Karaman (Laranda), Sultanate of Rum, (Turkey)",
+      "title": "Marriage in Karaman",
+      "text": "The family settled for about seven years in Karaman, where Rumi's mother and brother died. There he married Gowhar Khatun. Wikipedia gives 1225; Nicholson's dating from the Islamic calendar points to about 1226.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-rumi", "ia-nicholson"]
+    },
+    {
+      "date": "1227",
+      "age": null,
+      "place": "Karaman (Laranda), Sultanate of Rum, (Turkey)",
+      "title": "A son, Sultan Walad",
+      "text": "His son Sultan Walad was born around 1227. He would later write poems about his father's life and lead the Mevlevi order. A second son, Ala al-Din, followed.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-sultanwalad", "w-rumi"]
+    },
+    {
+      "date": "1228-05-01",
+      "age": 20,
+      "place": "Konya, Sultanate of Rum, (Turkey)",
+      "title": "Settling in Konya",
+      "text": "On 1 May 1228, most likely invited by the Seljuk sultan Kayqubad I, Baha al-Din settled in Konya, capital of the Sultanate of Rum. Rumi would live there for the rest of his life. His name Rumi means \"from Rum\", the old name for this land once ruled by Rome.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-rumi", "ia-whinfield"]
+    },
+    {
+      "date": "1231",
+      "age": null,
+      "place": "Konya, Sultanate of Rum, (Turkey)",
+      "title": "Taking his father's place",
+      "text": "When Baha al-Din died, Rumi inherited his post as a religious teacher. Nicholson dates the death to 628 in the Islamic calendar, about 1231; Wikipedia says Rumi was 25, which would be a year or two later.",
+      "turning": true,
+      "kind": "setback",
+      "sources": ["w-rumi", "ia-nicholson"]
+    },
+    {
+      "date": "1232",
+      "age": null,
+      "place": "Aleppo and Damascus, (Syria)",
+      "title": "Study in Syria and with Burhan al-Din",
+      "text": "Burhan al-Din Muhaqqiq, a former student of his father, took over Rumi's training in Islamic law and the Sufi path. The old biographer Aflaki says Rumi also studied in Aleppo and Damascus; Wikipedia says he spent about four years in Damascus. The dates are not certain.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-rumi", "ia-nicholson"]
+    },
+    {
+      "date": "1240",
+      "age": null,
+      "place": "Konya, Sultanate of Rum, (Turkey)",
+      "title": "A teacher and jurist",
+      "text": "After nine years with Burhan al-Din, who died in 1240 or 1241, Rumi's public life began. He gave legal rulings, preached in the mosques of Konya and taught in a madrasa. Nicholson records a tradition that he had a class of 400 students.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-rumi", "ia-nicholson"]
+    },
+    {
+      "date": "1244-11-15",
+      "age": 37,
+      "place": "Konya, Sultanate of Rum, (Turkey)",
+      "title": "Meeting Shams of Tabriz",
+      "text": "A wandering dervish named Shams of Tabriz arrived in Konya, and his meeting with Rumi changed Rumi's life. Wikipedia gives 15 November 1244; the old biographers Aflaki and Jami, as reported by Nicholson, give 28 November. The two spent long periods together in talk.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-rumi", "w-shams", "ia-nicholson"]
+    },
+    {
+      "date": "1245",
+      "age": null,
+      "place": "Konya, Sultanate of Rum, (Turkey)",
+      "title": "Students resent the stranger",
+      "text": "Many of Rumi's students resented the time their teacher spent with Shams. Nicholson writes that they attacked the visitor with insults, and that Shams fled for a time before Rumi brought him back.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["ia-nicholson", "w-shams"]
+    },
+    {
+      "date": "1246",
+      "age": null,
+      "place": "Konya, Sultanate of Rum, (Turkey)",
+      "title": "Shams leaves for Damascus",
+      "text": "After fresh hostility, Shams left for Damascus. Nicholson writes that Rumi missed him deeply, asked musicians to sing songs of love, and took part in the sama, the Sufi gathering for music and remembrance of God. Many of his lyric poems date from this separation. The year is probable, not certain.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["ia-nicholson", "w-shams"]
+    },
+    {
+      "date": "1247",
+      "age": null,
+      "place": "Damascus, (Syria)",
+      "title": "Sultan Walad brings Shams back",
+      "text": "Rumi sent his son Sultan Walad to Damascus to find Shams and bring him back to Konya. Nicholson says the events of these years are unclear in the old sources.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["ia-nicholson"]
+    },
+    {
+      "date": "1248-12-05",
+      "age": 41,
+      "place": "Konya, Sultanate of Rum, (Turkey)",
+      "title": "Shams disappears",
+      "text": "According to Wikipedia, on the night of 5 December 1248 Shams was called to the back door and was never seen again. What happened is disputed. Old stories say he was killed; Nicholson called these legends. The Shams Tabrizi article says the evidence points to him leaving Konya and dying in Khoy, where his tomb stands.",
+      "turning": true,
+      "kind": "setback",
+      "sources": ["w-rumi", "w-shams", "ia-nicholson"]
+    },
+    {
+      "date": "1249",
+      "age": null,
+      "place": "Damascus, (Syria)",
+      "title": "Grief becomes poetry",
+      "text": "Rumi waited for news, then went to Damascus to search for Shams himself. His grief poured out in lyric poems, later collected as the Divan of Shams of Tabriz. He often signed them with his friend's name rather than his own.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-rumi", "w-divan"]
+    },
+    {
+      "date": "1250",
+      "age": null,
+      "place": "Konya, Sultanate of Rum, (Turkey)",
+      "title": "The goldsmith friend",
+      "text": "Back in Konya, Rumi found a new companion in Salah al-Din Zarkub, a goldsmith who could not read. Rumi named him as his successor and used some of his plain, mispronounced words in poems, as a sign of respect. Zarkub died before Rumi. Exact dates are not given in the sources used here.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-rumi"]
+    },
+    {
+      "date": "1258",
+      "age": null,
+      "place": "Meram, near Konya, Sultanate of Rum, (Turkey)",
+      "title": "The first lines of the Masnavi",
+      "text": "His student and scribe Husam al-Din Chalabi asked him to write a long teaching poem, like those of the poets Sanai and Attar. In the story, walking in the Meram vineyards, Rumi took out a paper with the first eighteen lines, beginning with the song of the reed. Wikipedia's Masnavi article dates the start to about 1258; others give slightly later.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-rumi", "w-masnavi"]
+    },
+    {
+      "date": "1260",
+      "age": null,
+      "place": "Konya, Sultanate of Rum, (Turkey)",
+      "title": "Talks and sermons",
+      "text": "Rumi's spoken teaching was also recorded. His talks were later collected as Fihi Ma Fihi, probably from students' notes, and seven of his sermons survive as the Seven Sessions. One modern writer dates the talks to about 1260 to 1273; who compiled them is uncertain.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-fihi", "w-rumi"]
+    },
+    {
+      "date": "1264",
+      "age": null,
+      "place": "Konya, Sultanate of Rum, (Turkey)",
+      "title": "Book after book",
+      "text": "For about twelve years Rumi dictated the Masnavi while Husam wrote down the verses and read them back to him. It grew to six books of about 25,000 verses, full of stories from the Quran, the hadith, fables and everyday life in the bazaar.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-masnavi", "w-rumi"]
+    },
+    {
+      "date": "1273-12",
+      "age": 66,
+      "place": "Konya, Sultanate of Rum, (Turkey)",
+      "title": "Last illness",
+      "text": "In December 1273 Rumi fell ill. He said he was dying and composed a last ghazal. The sixth book of the Masnavi seems to end without a clear finish, and scholars still debate whether it was complete.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-rumi", "w-masnavi"]
+    },
+    {
+      "date": "1273-12-17",
+      "age": 66,
+      "place": "Konya, Sultanate of Rum, (Turkey)",
+      "title": "Mourned by all of Konya",
+      "text": "Rumi died on 17 December 1273. Local Christians and Jews joined the Muslim crowd as his body was carried through the city. He was buried beside his father, and a tomb with a turquoise-tiled dome was finished over the grave in 1274.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["w-rumi", "w-museum"]
+    },
+    {
+      "date": "1284",
+      "age": null,
+      "place": "Konya, Sultanate of Rum, (Turkey)",
+      "title": "The Mevlevi order takes shape",
+      "text": "After his death, his followers founded the Mevlevi order. Husam al-Din led it first; when he died in 1284, Sultan Walad became its head, and Rumi's grandson Ulu Arif Chelebi carried the work on. The order is known for the sema ceremony with its turning dervishes, which grew into its formal shape after Rumi's lifetime.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-rumi", "w-mevlevi", "w-sultanwalad"]
+    },
+    {
+      "date": "1927-03-02",
+      "age": null,
+      "place": "Konya, (Turkey)",
+      "title": "The lodge becomes a museum",
+      "text": "Sufi orders were banned in Turkey in 1925. By a 1926 decree, Rumi's tomb and the dervish lodge around it became a museum, which opened on 2 March 1927 and is now called the Mevlana Museum. It holds early manuscripts of the Masnavi and the Divan.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-museum", "w-mevlevi"]
+    },
+    {
+      "date": "2005",
+      "age": null,
+      "place": "Konya, (Turkey)",
+      "title": "The sema honoured by UNESCO",
+      "text": "UNESCO proclaimed the Mevlevi Sema ceremony a masterpiece of the world's intangible heritage in 2005 and listed it in 2008. In 2007, the 800th year since Rumi's birth, UNESCO joined in the celebrations.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["unesco-sema", "w-rumi"]
+    }
+  ],
+  "feature": {
+    "nav": "Reed & Whirl",
+    "title": "The Masnavi and the whirling",
+    "lead": "Rumi's great poem, the friend who inspired his songs, and the turning ceremony his followers built after his death. Each card links to a free old translation or a trusted page.",
+    "style": "cards",
+    "items": [
+      {
+        "label": "The song of the reed",
+        "date": "c. 1258",
+        "place": "Konya",
+        "text": "The Masnavi opens with a reed flute that cries because it was cut from its reed bed. It stands for the soul longing to return to God. These eighteen opening lines are the most famous part of the poem.",
+        "url": "https://archive.org/details/masnaviimanavisp00jala_0",
+        "sources": ["ia-whinfield", "w-rumi"]
+      },
+      {
+        "label": "Six books, dictated aloud",
+        "date": "c. 1258 - 1273",
+        "place": "Konya",
+        "text": "Rumi spoke the verses and his student Husam al-Din wrote them down and read them back. The Masnavi grew to six books of about 25,000 verses, each with its own prose introduction.",
+        "url": "https://en.wikipedia.org/wiki/Masnavi",
+        "sources": ["w-masnavi", "w-rumi"]
+      },
+      {
+        "label": "The elephant in the dark",
+        "text": "People feel an elephant in a dark room and each describes only the part they touched: a pipe, a fan, a pillar, a throne. A short story about how partial our own view can be. Book III in Whinfield's translation.",
+        "url": "https://archive.org/details/masnaviimanavisp00jala_0",
+        "sources": ["ia-whinfield"]
+      },
+      {
+        "label": "Moses and the shepherd",
+        "text": "Moses scolds a shepherd for praying in simple words, and is told that people have many ways of devotion and that the sincere heart is what counts. Book II in Whinfield's translation.",
+        "url": "https://archive.org/details/masnaviimanavisp00jala_0",
+        "sources": ["ia-whinfield"]
+      },
+      {
+        "label": "The lion and the beasts",
+        "text": "The animals argue about trust in God and human effort. The lion quotes the saying \"Trust in God, yet tie the camel's leg.\" Book I in Whinfield's translation.",
+        "url": "https://archive.org/details/masnaviimanavisp00jala_0",
+        "sources": ["ia-whinfield"]
+      },
+      {
+        "label": "Shams of Tabriz",
+        "date": "1244 - 1248",
+        "place": "Konya and Damascus",
+        "text": "A wandering dervish whose friendship transformed Rumi from a respected scholar into a poet. He left his own book of sayings, the Maqalat. His disappearance in 1248 is still not fully explained.",
+        "url": "https://en.wikipedia.org/wiki/Shams_Tabrizi",
+        "sources": ["w-shams", "w-rumi"]
+      },
+      {
+        "label": "The Divan of Shams",
+        "place": "Konya",
+        "text": "Rumi's huge collection of lyric poems, more than 3,000 ghazals and nearly 2,000 quatrains, mostly in Persian with some Arabic, Turkish and Greek. Many are signed with Shams's name. Nicholson's 1898 English selection is free online; later scholars found a few of its poems were not by Rumi.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.52959",
+        "sources": ["w-divan", "ia-nicholson"]
+      },
+      {
+        "label": "Fihi Ma Fihi",
+        "text": "\"In it what is in it\": about 71 to 72 short talks in Persian prose, probably gathered from notes by his circle. It explains his ideas more plainly than the poems.",
+        "url": "https://en.wikipedia.org/wiki/Fihi_Ma_Fihi",
+        "sources": ["w-fihi"]
+      },
+      {
+        "label": "Music in his lifetime",
+        "date": "1240s - 1273",
+        "place": "Konya",
+        "text": "Rumi took part in the sama, a Sufi gathering of music, poetry and remembrance of God, especially while Shams was away. Whinfield wrote that he brought music into his followers' gatherings and allowed religious dances that other Sufi groups had used before him.",
+        "sources": ["ia-nicholson", "ia-whinfield"]
+      },
+      {
+        "label": "The Mevlevi order",
+        "date": "after 1273",
+        "place": "Konya",
+        "text": "Founded after Rumi's death by his followers, led by Husam al-Din, then Sultan Walad and Ulu Arif Chelebi. Its leaders, called the Chelebi, have come from Rumi's family ever since.",
+        "url": "https://en.wikipedia.org/wiki/Mevlevi_Order",
+        "sources": ["w-mevlevi", "w-rumi", "w-sultanwalad"]
+      },
+      {
+        "label": "The sema ceremony",
+        "date": "after 1273",
+        "text": "The formal turning ceremony of the order took shape after Rumi's death. Dancers turn on the left foot, right palm up to receive grace and left palm down to pass it on, to music in four parts with the ney flute and kettledrum. Training traditionally took 1,001 days.",
+        "url": "https://ich.unesco.org/en/RL/mevlevi-sema-ceremony-00100",
+        "sources": ["w-mevlevi", "unesco-sema"]
+      },
+      {
+        "label": "The Mevlana Museum",
+        "date": "1927",
+        "place": "Konya, Turkey",
+        "text": "Rumi's tomb under its turquoise dome, with the old dervish lodge. It shows a Masnavi manuscript from 1278, a Divan from 1366, and musical instruments including a ney said to have been played by Rumi.",
+        "url": "https://en.wikipedia.org/wiki/Mevlana_Museum",
+        "sources": ["w-museum"]
+      },
+      {
+        "label": "Early English translations",
+        "date": "1887 - 1940",
+        "text": "James Redhouse put Book I into English, E. H. Whinfield made an abridged Masnavi in 1887 (revised 1898), and R. A. Nicholson published the first complete English Masnavi between 1924 and 1940. Many popular \"Rumi quotes\" online are loose modern versions, not these.",
+        "url": "https://www.gutenberg.org/ebooks/61724",
+        "sources": ["gut-redhouse", "w-masnavi", "wq-rumi"]
+      }
+    ]
+  },
+  "works": [
+    {
+      "year": "1258",
+      "type": "book",
+      "title": "The Masnavi (Masnavi-ye Ma'navi)",
+      "text": "Six books of rhyming couplets, about 25,000 verses, built from teaching stories and reflections.",
+      "sources": ["w-masnavi", "w-rumi", "ia-whinfield"],
+      "url": "https://archive.org/details/masnaviimanavisp00jala_0"
+    },
+    {
+      "year": "1249",
+      "type": "poetry",
+      "title": "The Divan of Shams of Tabriz",
+      "text": "His collected lyric poems, more than 3,000 ghazals and about 2,000 quatrains in the standard edition, named for and dedicated to his friend Shams.",
+      "sources": ["w-divan", "w-rumi", "ia-nicholson"],
+      "url": "https://archive.org/details/in.ernet.dli.2015.52959"
+    },
+    {
+      "year": "1260",
+      "type": "book",
+      "title": "Fihi Ma Fihi (Discourses)",
+      "text": "Short prose talks on faith and life, recorded by his circle. A. J. Arberry translated them as Discourses of Rumi in 1961.",
+      "sources": ["w-fihi", "w-rumi"]
+    },
+    {
+      "year": "1249",
+      "type": "teaching",
+      "title": "Majalis-e Sab'a (Seven Sessions)",
+      "text": "Seven Persian sermons explaining the deeper meaning of passages from the Quran and hadith, given at the request of leading people of Konya.",
+      "sources": ["w-rumi"]
+    },
+    {
+      "year": "1250",
+      "type": "letters",
+      "title": "Makatib (Letters)",
+      "text": "Letters to his students, family and officials.",
+      "sources": ["w-rumi"]
+    },
+    {
+      "year": "1240",
+      "type": "teaching",
+      "title": "Teacher and jurist of Konya",
+      "text": "Before Shams, Rumi was a respected scholar of Islamic law who preached, gave legal rulings and taught in a madrasa.",
+      "sources": ["w-rumi", "ia-nicholson"]
+    },
+    {
+      "year": "1258",
+      "type": "teaching",
+      "title": "Teaching through stories",
+      "text": "Rather than lecture only, the Masnavi teaches with stories from the Quran, the hadith, fables and the bazaar, such as the elephant in the dark and Moses and the shepherd.",
+      "sources": ["w-masnavi", "ia-whinfield"]
+    },
+    {
+      "year": "1249",
+      "type": "poetry",
+      "title": "Verses in four languages",
+      "text": "Most of his poems are in Persian, but some are in Arabic, and a few mix in Turkish and Greek, the languages spoken around him in Konya.",
+      "sources": ["w-divan", "w-rumi"]
+    },
+    {
+      "year": "1273",
+      "type": "music",
+      "title": "Music and the sama",
+      "text": "He made music and poetry part of his followers' gatherings. After his death this grew into the Mevlevi sema, now on UNESCO's heritage list.",
+      "sources": ["ia-whinfield", "w-mevlevi", "unesco-sema"]
+    },
+    {
+      "year": "1284",
+      "type": "order",
+      "title": "The Mevlevi order",
+      "text": "A Sufi brotherhood founded by his followers after his death and led by his family ever since, which spread across the Ottoman Empire.",
+      "sources": ["w-mevlevi", "w-rumi", "unesco-sema"],
+      "url": "https://en.wikipedia.org/wiki/Mevlevi_Order"
+    }
+  ],
+  "resources": [
+    { "label": "Masnavi i Ma'navi, tr. E. H. Whinfield, 1898 (Internet Archive)", "url": "https://archive.org/details/masnaviimanavisp00jala_0", "what": "A free, readable abridged English Masnavi with Whinfield's introduction to Rumi's life." },
+    { "label": "Selected Poems from the Divani Shamsi Tabriz, tr. R. A. Nicholson, 1898 (Internet Archive)", "url": "https://archive.org/details/in.ernet.dli.2015.52959", "what": "About fifty lyric poems in Persian and English, with a long introduction on Rumi and Shams." },
+    { "label": "The Mesnevi, Book I, tr. James W. Redhouse (Project Gutenberg #61724)", "url": "https://www.gutenberg.org/ebooks/61724", "what": "A Victorian verse translation of the first book of the Masnavi, free to read." },
+    { "label": "The Festival of Spring, tr. William Hastie (Project Gutenberg #57068)", "url": "https://www.gutenberg.org/ebooks/57068", "what": "Poems from the Divan in an older English verse translation." },
+    { "label": "The Persian Mystics: Jalalu'd-din Rumi, ed. F. Hadland Davis (Project Gutenberg #45159)", "url": "https://www.gutenberg.org/ebooks/45159", "what": "A short early-1900s introduction with selections from older translations." },
+    { "label": "Rumi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Rumi", "what": "A detailed account of his life, works and legacy, with notes on disputed facts." },
+    { "label": "Masnavi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Masnavi", "what": "How the Masnavi was written and how it has been translated." },
+    { "label": "Mevlevi Sema ceremony (UNESCO)", "url": "https://ich.unesco.org/en/RL/mevlevi-sema-ceremony-00100", "what": "UNESCO's description of the turning ceremony, its music and training." },
+    { "label": "Mevlana Museum (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mevlana_Museum", "what": "Rumi's tomb in Konya and the manuscripts and instruments it holds." },
+    { "label": "Rumi (Wikiquote)", "url": "https://en.wikiquote.org/wiki/Rumi", "what": "Quotes with their sources, plus a list of popular sayings wrongly credited to Rumi." }
+  ],
+  "books": [
+    {
+      "title": "Masnavi i Ma'navi: The Spiritual Couplets",
+      "author": "Jalal al-Din Rumi, translated and abridged by E. H. Whinfield",
+      "year": "1898",
+      "kind": "by-him",
+      "free": "https://archive.org/details/masnaviimanavisp00jala_0",
+      "note": "Second edition (Trubner, London) of Whinfield's 1887 abridgment. The stories are told in short prose summaries with key passages in verse."
+    },
+    {
+      "title": "Selected Poems from the Divani Shamsi Tabriz",
+      "author": "Jalal al-Din Rumi, edited and translated by Reynold A. Nicholson",
+      "year": "1898",
+      "kind": "by-him",
+      "free": "https://archive.org/details/in.ernet.dli.2015.52959",
+      "note": "Cambridge University Press. Persian text with English versions; a few poems in it were later judged not to be Rumi's."
+    },
+    {
+      "title": "Rumi: Past and Present, East and West",
+      "author": "Franklin D. Lewis",
+      "year": "2000",
+      "kind": "biography",
+      "free": null,
+      "note": "A detailed modern study of his life, teaching, poetry and how he is read today (Oneworld; cited throughout the Wikipedia article)."
+    },
+    {
+      "title": "The Triumphal Sun: A Study of the Works of Jalaloddin Rumi",
+      "author": "Annemarie Schimmel",
+      "year": "1993",
+      "kind": "biography",
+      "free": null,
+      "note": "A classic study of the imagery and ideas in his poetry (SUNY Press edition, as cited on Wikipedia)."
+    }
+  ]
+}

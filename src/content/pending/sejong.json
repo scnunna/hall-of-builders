@@ -1,0 +1,65 @@
+{
+  "id": "sejong",
+  "name": "Sejong the Great",
+  "years": "1397 - 1450",
+  "title": "The Alphabet King",
+  "tagline": "He saw that ordinary people could not write down their own words, so he designed an alphabet anyone could learn in days, and backed tools like rain gauges and water clocks that served daily life.",
+  "sources": {
+    "w-sejong": { "label": "Sejong the Great (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Sejong_the_Great" },
+    "w-hunmin": { "label": "Hunminjeongeum (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Hunminjeongeum" },
+    "w-hangul": { "label": "Hangul (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Hangul" },
+    "w-jang": { "label": "Jang Yeong-sil (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Jang_Yeong-sil" },
+    "w-cheugugi": { "label": "Cheugugi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Cheugugi" },
+    "zh-hunmin": { "label": "訓民正音, original classical Chinese text of the king's preface (Chinese Wikisource)", "url": "https://zh.wikisource.org/wiki/%E8%A8%93%E6%B0%91%E6%AD%A3%E9%9F%B3" },
+    "ko-hunmin": { "label": "훈민정음, full text including Jeong Inji's postface (Korean Wikisource)", "url": "https://ko.wikisource.org/wiki/%ED%9B%88%EB%AF%BC%EC%A0%95%EC%9D%8C" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Start with people's real problem",
+      "idea": "Sejong began with a plain fact: many common people had things to say but could not write them down, because writing meant years of learning Chinese characters. He even had more than 170,000 people asked about a tax reform in 1430. He looked first at what ordinary people needed.",
+      "quote": { "text": "故愚民，有所欲言，而終不得伸其情者多矣。(Gloss: So there are many simple people who have something to say, yet in the end cannot express their feelings.)", "credit": "Hunminjeongeum, King Sejong's preface (1446), original classical Chinese; English is our gloss" },
+      "practice": "Ask one person today what part of their day is harder than it should be. Write their answer down in their own words.",
+      "sources": ["zh-hunmin", "w-sejong", "w-hunmin"]
+    },
+    {
+      "title": "Make a tool that fits",
+      "idea": "Korean and Chinese are very different languages, yet Koreans had to write with Chinese characters. Instead of forcing the old tool to work, Sejong made a new one that matched how Koreans actually spoke.",
+      "quote": { "text": "國之語音，異乎中國，與文字不相流通。(Gloss: The sounds of our country's speech differ from those of China and do not fit its written characters.)", "credit": "Hunminjeongeum, King Sejong's preface (1446), original classical Chinese; English is our gloss" },
+      "practice": "Find one tool, form or habit you use that does not fit your need. Change one small thing so it fits better.",
+      "sources": ["zh-hunmin", "w-hangul"]
+    },
+    {
+      "title": "Design for daily use",
+      "idea": "Sejong said his goal was simple: letters that everyone could learn easily and use every day. He did not design for scholars alone but for daily life.",
+      "quote": { "text": "予爲此憫然，新制二十八字，欲使人人易習便於日用耳。(Gloss: Feeling sorry for this, I have newly made twenty-eight letters, wishing only that everyone may learn them easily and use them conveniently every day.)", "credit": "Hunminjeongeum, King Sejong's preface (1446), original classical Chinese; English is our gloss" },
+      "practice": "Take something you made (a note, a list, a set of instructions) and rewrite it so a 10-year-old could use it.",
+      "sources": ["zh-hunmin", "w-hunmin"]
+    },
+    {
+      "title": "Simple enough to learn in a morning",
+      "idea": "The scholar Jeong Inji, who led the team that wrote the commentary on the new script, praised how quickly it could be learned. Sejong kept the system small: 28 letters, with shapes based on the mouth and tongue.",
+      "quote": { "text": "故智者不終朝而㑹，愚者可浹旬而學。(Gloss: So a wise person can master it before the morning is over, and even a slow learner can learn it in ten days.)", "credit": "Jeong Inji, postface to the Hunminjeongeum Haerye (1446), original classical Chinese; written by Sejong's scholar, not the king; English is our gloss" },
+      "practice": "Teach someone one useful thing in under ten minutes. Notice which part you can cut to make it simpler.",
+      "sources": ["ko-hunmin", "w-hunmin", "w-hangul"]
+    },
+    {
+      "title": "Observe, then build",
+      "idea": "The basic consonant shapes copy the position of the tongue, lips, teeth and throat. In the same spirit, Sejong's court built rain gauges, water clocks and star instruments to measure the real world. He also gave talent a chance: the engineer Jang Yeong-sil began life as a government slave.",
+      "quote": { "text": "雖風聲鶴戾，雞鳴狗吠，皆可得而書矣。(Gloss: Even the sound of the wind, the cry of the crane, the crowing rooster and the barking dog can all be written down.)", "credit": "Jeong Inji, postface to the Hunminjeongeum Haerye (1446), original classical Chinese; English is our gloss" },
+      "practice": "Measure one thing in your life for a week, such as minutes of reading or glasses of water. Look at the numbers before you change anything.",
+      "sources": ["ko-hunmin", "w-hangul", "w-jang", "w-cheugugi"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Listen first", "action": "Ask one person what part of their day is harder than it should be. Write down their exact words." },
+    { "day": 2, "title": "Does it fit?", "action": "Pick one tool, form or habit that does not fit your need. Change one small thing about it." },
+    { "day": 3, "title": "For everyone", "action": "Rewrite one set of instructions so a 10-year-old could follow them.", "sources": ["w-hunmin"] },
+    { "day": 4, "title": "Learn some Hangul", "action": "Learn the five basic Korean consonants (ㄱ ㄴ ㅁ ㅅ ㅇ) and the mouth shape each one pictures.", "sources": ["w-hangul"] },
+    { "day": 5, "title": "Measure it", "action": "Start measuring one small thing each day, like minutes spent reading. Do not change anything yet, just record it." },
+    { "day": 6, "title": "Teach in ten", "action": "Teach someone one useful skill in under ten minutes. Cut every step they do not need." },
+    { "day": 7, "title": "Give credit", "action": "Name one person whose work helped yours this week, like Sejong's engineers and scholars, and thank them." }
+  ],
+  "reflect": "Who around you has something to say but no easy way to say it, and what simple tool could help them?",
+  "keepsake": "Sejong the Great Builder Collectible"
+}

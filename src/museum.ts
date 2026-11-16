@@ -13,6 +13,8 @@ export type Museum = {
   works: { year: string; type: string; title: string; text: string; sources: string[]; url?: string }[];
   resources: { label: string; url: string; what: string }[];
   books: { title: string; author: string; year: string | number; kind: string; free: string | null; note: string }[];
+  // A signature section that shows what made this person special (a voyage, the symphonies, the paintings...).
+  feature?: { nav: string; title: string; lead: string; style: 'route' | 'cards'; items: { label: string; date?: string; place?: string; text: string; url?: string; sources: string[] }[] };
 };
 export type Art = { style: string; splash: string; panels: { key: string; year: string; near?: boolean }[] };
 
@@ -74,7 +76,12 @@ export function museumHTML(id: string, name: string, years: string, m: Museum, a
   const books = m.books.map((b) => `<li class="book rv"><p class="ev-meta">${b.kind === 'by-him' || b.kind === 'by-her' || b.kind === 'by-them' ? 'Their own words' : 'Biography'} · ${esc(showYear(b.year))}</p><h3>${esc(b.title)}</h3><p class="muted">${esc(b.author)}</p><p>${esc(b.note)}</p><p class="row">${b.free ? `<a class="btn btn-gold sm" href="${esc(b.free)}" target="_blank" rel="noopener">Read free</a>` : ''}<a class="btn btn-ghost sm" href="https://bookshop.org/search?keywords=${encodeURIComponent(b.title + ' ' + b.author)}" target="_blank" rel="noopener sponsored">Find a copy</a></p></li>`).join('');
   const res = m.resources.map((r) => `<li><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.label)}</a><span class="muted"> · ${esc(r.what)}</span></li>`).join('');
 
+  const f = m.feature;
+  const feature = f ? `<section class="wrap feature f-${esc(f.style)}" id="feature"><p class="eyebrow">What made ${esc(name.split(' ')[0])} special</p><h2 class="sec">${esc(f.title)}</h2><p class="lead">${esc(f.lead)}</p>
+    <ol class="f-items">${f.items.map((it, i) => `<li class="f-item rv"><span class="f-n" aria-hidden="true">${String(i + 1).padStart(2, '0')}</span><div><p class="ev-meta">${it.date ? `<b>${esc(showYear(it.date))}</b>` : ''}${it.date && it.place ? ' · ' : ''}${esc(it.place || '')}</p><h3>${it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.label)}</a>` : esc(it.label)}</h3><p>${esc(it.text)} ${cite(it.sources)}</p></div></li>`).join('')}</ol></section>` : '';
   return {
+    feature,
+    featureNav: f ? `<a href="#feature" data-jump>${esc(f.nav)}</a>` : '',
     splash: `
     <section class="m-splash" aria-label="${esc(name)}">
       <div class="m-splash-img"><img src="${img(art.splash)}" alt="" fetchpriority="high"></div>

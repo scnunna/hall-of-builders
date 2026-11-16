@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "05-watson",
+ "panels": [
+  { "key": "01-speakinghead", "year": "1863" },
+  { "key": "02-boston", "year": "1871" },
+  { "key": "03-dreaming", "year": "1874" },
+  { "key": "04-reed", "year": "1875" },
+  { "key": "05-watson", "year": "1876" },
+  { "key": "06-paris", "year": "1876" },
+  { "key": "07-photophone", "year": "1880" },
+  { "key": "08-hd4", "year": "1919" }
+ ]
+}

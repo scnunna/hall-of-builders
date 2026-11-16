@@ -1,0 +1,63 @@
+{
+  "id": "walker",
+  "name": "Madam C. J. Walker",
+  "years": "1867 - 1919",
+  "title": "The Founder",
+  "tagline": "The daughter of parents freed from slavery, she went from washing clothes to building a hair-care company that trained thousands of Black women to earn their own living.",
+  "sources": {
+    "w-walker": { "label": "Madam C. J. Walker (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Madam_C._J._Walker" },
+    "mcjw-essay": { "label": "Madam C. J. Walker, biography essay by A'Lelia Bundles (madamcjwalker.com, Walker family archives)", "url": "https://madamcjwalker.com/about/" },
+    "swf-1912": { "label": "Walker's speech to the National Negro Business League, Chicago, 23 August 1912, transcription from the NNBL records (Speaking While Female)", "url": "https://speakingwhilefemale.co/business-walker/" },
+    "qi-flower": { "label": "Quote Origin: There Is No Royal and Flower Strewn Road To Success (Quote Investigator, 2021)", "url": "https://quoteinvestigator.com/2021/02/12/flower-strewn/" },
+    "ihs-hoosier": { "label": "Madam C. J. Walker, Famous Hoosiers (Indiana Historical Society)", "url": "https://indianahistory.org/education/educator-resources/famous-hoosiers/madam-c-j-walker/" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Own your story",
+      "idea": "Walker never hid where she came from. In front of a hall full of business leaders she named the cotton fields and the washtub out loud, and turned her hard start into proof of what was possible.",
+      "quote": { "text": "I am a woman who came from the cotton fields of the South. From there I was promoted to the wash-tub.", "credit": "Speech to the National Negro Business League, Chicago (1912)" },
+      "practice": "Write three short lines about where you started. Read them back and underline one thing that start taught you.",
+      "sources": ["swf-1912", "w-walker"]
+    },
+    {
+      "title": "Give yourself a start",
+      "idea": "No one handed Walker a job as a manufacturer. She mixed her own product, gave it her own name and began selling it herself. She did not wait to be invited, even when she was left off the program in 1912.",
+      "quote": { "text": "I got my start by giving myself a start.", "credit": "As quoted by her biographer A'Lelia Bundles (madamcjwalker.com); date of the original not recorded" },
+      "practice": "Pick one small project you keep waiting to begin. Do the first 20-minute step today, without asking anyone's permission.",
+      "sources": ["mcjw-essay", "w-walker"]
+    },
+    {
+      "title": "Hard work, kept up",
+      "idea": "Walker spent a year and a half on the road, selling door to door, then moved her business three times as it grew. She said plainly that steady work, not luck, was behind what she built.",
+      "quote": { "text": "If I have accomplished anything in life it is because I have been willing to work hard.", "credit": "Interview in The New York Times Magazine (4 November 1917), as traced by Quote Investigator" },
+      "practice": "Choose one task you usually give up on. Set a timer and work on it for 25 minutes with no breaks or screens.",
+      "sources": ["qi-flower", "mcjw-essay"]
+    },
+    {
+      "title": "Teach others to stand",
+      "idea": "Walker's real invention was a way of training. Her schools and agents taught thousands of women a skill they could carry into their own homes and towns, so her success became theirs too.",
+      "quote": { "text": "I love to use a part of what I make in trying to help others.", "credit": "Speech to the National Negro Business League, Chicago (1912)" },
+      "practice": "Teach one person a skill you know well, step by step, in under ten minutes. Then let them show it back to you.",
+      "sources": ["swf-1912", "w-walker", "ihs-hoosier"]
+    },
+    {
+      "title": "Build on your own ground",
+      "idea": "Walker wanted something that was truly hers: her own factory, her own school, her own name on the door. She then used that solid ground to give to schools and to speak out against injustice.",
+      "quote": { "text": "I have built my own factory on my own ground", "credit": "Speech to the National Negro Business League, Chicago (1912)" },
+      "practice": "Name one thing in your life you want to build that will still be standing in five years. Write the first brick: one action for this week.",
+      "sources": ["swf-1912", "mcjw-essay", "ihs-hoosier"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Your story", "action": "Write three lines about where you started. Say one of them out loud to someone you trust." },
+    { "day": 2, "title": "Give yourself a start", "action": "Take the first 20-minute step on a project you have been putting off. No permission needed.", "sources": ["mcjw-essay"] },
+    { "day": 3, "title": "Solve your own problem", "action": "Walker began with her own hair loss. Name one everyday problem you have and write three ideas to fix it.", "sources": ["mcjw-essay"] },
+    { "day": 4, "title": "Show, don't tell", "action": "Like a Walker agent giving a demonstration, show someone how to do one useful thing instead of just explaining it." },
+    { "day": 5, "title": "Teach one person", "action": "Teach a friend or family member a skill you know. Let them try it while you watch and encourage." },
+    { "day": 6, "title": "Give back", "action": "Do one helpful act for your community today: help a neighbour, tidy a shared space or volunteer an hour.", "sources": ["w-walker"] },
+    { "day": 7, "title": "Speak up", "action": "Write down one unfair thing you have seen and one calm, peaceful way you could raise it with someone who can help." }
+  ],
+  "reflect": "What is one problem in your own life that, once you solve it, could help other people too?",
+  "keepsake": "Madam C. J. Walker Builder Collectible"
+}

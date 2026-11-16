@@ -1,0 +1,898 @@
+{
+ "sources": {
+  "w-mozart": {
+   "label": "Wolfgang Amadeus Mozart (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+  },
+  "w-tour": {
+   "label": "Mozart family grand tour (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Mozart_family_grand_tour"
+  },
+  "w-italy": {
+   "label": "Mozart in Italy (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Mozart_in_Italy"
+  },
+  "w-nannerl": {
+   "label": "Maria Anna Mozart (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Maria_Anna_Mozart"
+  },
+  "w-leopold": {
+   "label": "Leopold Mozart (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Leopold_Mozart"
+  },
+  "w-finta": {
+   "label": "La finta semplice (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/La_finta_semplice"
+  },
+  "w-flute": {
+   "label": "The Magic Flute (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/The_Magic_Flute"
+  },
+  "w-requiem": {
+   "label": "Requiem (Mozart) (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Requiem_(Mozart)"
+  },
+  "w-salieri": {
+   "label": "Antonio Salieri (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Antonio_Salieri"
+  },
+  "w-daponte": {
+   "label": "Lorenzo Da Ponte (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Lorenzo_Da_Ponte"
+  },
+  "w-amadeus": {
+   "label": "Amadeus (film) (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Amadeus_(film)"
+  },
+  "w-koechel": {
+   "label": "Köchel catalogue (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/K%C3%B6chel_catalogue"
+  },
+  "w-mozarthaus": {
+   "label": "Mozarthaus Vienna (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Mozarthaus_Vienna"
+  },
+  "birthplace": {
+   "label": "Mozart's Birthplace (International Mozarteum Foundation, Salzburg)",
+   "url": "https://mozarteum.at/en/museums/mozarts-birthplace/"
+  },
+  "dme-letters": {
+   "label": "Digital Mozart Edition: Letters and Documents (International Mozarteum Foundation)",
+   "url": "https://dme.mozarteum.at/briefe-dokumente/"
+  },
+  "gb-letters1": {
+   "label": "The Letters of Wolfgang Amadeus Mozart, Vol. 1, tr. Lady Wallace (Project Gutenberg #5307)",
+   "url": "https://www.gutenberg.org/ebooks/5307"
+  },
+  "ia-letters2": {
+   "label": "The Letters of Wolfgang Amadeus Mozart, Vol. 2, tr. Lady Wallace (Internet Archive)",
+   "url": "https://archive.org/details/lettersofwolfgan02moza"
+  }
+ },
+ "feature": {
+  "nav": "The tours",
+  "title": "The childhood tours, 1762 - 1773",
+  "lead": "From the age of six to seventeen, Mozart spent much of his childhood on the road. These journeys, in order, were his real school: he heard the best music of Europe, played for kings and empresses, and wrote his first symphonies and operas along the way.",
+  "style": "route",
+  "items": [
+   {
+    "label": "Munich",
+    "date": "January 1762",
+    "place": "Munich, Bavaria, (Germany)",
+    "text": "The first family trip. Leopold took Wolfgang, then five, and his sister Nannerl to play for the Elector of Bavaria.",
+    "sources": [
+     "w-nannerl",
+     "w-tour"
+    ]
+   },
+   {
+    "label": "Vienna and the Empress",
+    "date": "Sep 1762 - Jan 1763",
+    "place": "Vienna, (Austria)",
+    "text": "About three months in the capital. The children played for Empress Maria Theresa at the imperial court.",
+    "sources": [
+     "w-nannerl",
+     "w-tour"
+    ]
+   },
+   {
+    "label": "Setting out west",
+    "date": "1763",
+    "place": "Salzburg, (Austria)",
+    "text": "The great tour of western Europe began with a broken carriage wheel. Sources disagree on the start date: 9 June or 9 July 1763. Concerts followed in Munich, Augsburg, Schwetzingen and Mainz.",
+    "sources": [
+     "w-tour",
+     "w-nannerl"
+    ]
+   },
+   {
+    "label": "Frankfurt",
+    "date": "August 1763",
+    "place": "Frankfurt, Hesse, (Germany)",
+    "text": "Several public concerts. The writer Goethe, then fourteen, was in the audience and later remembered the little boy with his wig and sword.",
+    "sources": [
+     "w-tour"
+    ]
+   },
+   {
+    "label": "Brussels",
+    "date": "Oct - Nov 1763",
+    "place": "Brussels, (Belgium)",
+    "text": "The family waited weeks for a grand concert, held on 7 November, before moving on to France.",
+    "sources": [
+     "w-tour"
+    ]
+   },
+   {
+    "label": "Paris and Versailles",
+    "date": "Nov 1763 - Apr 1764",
+    "place": "Paris, Île-de-France, (France)",
+    "text": "Five months in Paris, with a two-week stay at the royal court at Versailles from Christmas Eve.",
+    "sources": [
+     "w-tour"
+    ]
+   },
+   {
+    "label": "London",
+    "date": "Apr 1764 - Jul 1765",
+    "place": "London, England, (United Kingdom)",
+    "text": "They played for King George III and Queen Charlotte. Wolfgang met Johann Christian Bach, who inspired him to write symphonies, and he finished his Symphony No. 1, K. 16, here.",
+    "url": "https://en.wikipedia.org/wiki/Symphony_No._1_(Mozart)",
+    "sources": [
+     "w-tour",
+     "w-mozart"
+    ]
+   },
+   {
+    "label": "The Hague",
+    "date": "Sep 1765 - Mar 1766",
+    "place": "The Hague, South Holland, (Netherlands)",
+    "text": "A hard stop. Nannerl became gravely ill, then Wolfgang. Both recovered, and he wrote Gallimathias musicum, K. 32, for the Prince of Orange's coming-of-age in March 1766.",
+    "sources": [
+     "w-tour",
+     "w-nannerl"
+    ]
+   },
+   {
+    "label": "Paris, Switzerland and home",
+    "date": "May - Nov 1766",
+    "place": "Geneva, (Switzerland)",
+    "text": "Back through Paris, then Dijon, Lyon, Geneva, Lausanne, Zürich, Donaueschingen and Munich. They reached Salzburg on 29 November 1766, three and a half years after leaving.",
+    "sources": [
+     "w-tour"
+    ]
+   },
+   {
+    "label": "Vienna again",
+    "date": "Sep 1767 - Jan 1769",
+    "place": "Vienna, (Austria)",
+    "text": "A smallpox outbreak drove the family to Olomouc, where both children fell ill. Back in Vienna, Wolfgang, aged 12, wrote the opera La finta semplice, but rivals blocked its performance.",
+    "sources": [
+     "w-nannerl",
+     "w-finta"
+    ]
+   },
+   {
+    "label": "Across the Alps",
+    "date": "Dec 1769 - Mar 1770",
+    "place": "Verona, Veneto, (Italy)",
+    "text": "Wolfgang and his father left Salzburg on 13 December 1769, crossed the Brenner Pass, gave a concert in Verona on 5 January 1770, and spent seven weeks in Milan.",
+    "sources": [
+     "w-italy"
+    ]
+   },
+   {
+    "label": "Rome and Naples",
+    "date": "Apr - Jul 1770",
+    "place": "Rome, Lazio, (Italy)",
+    "text": "In Rome he is said to have written down Allegri's Miserere from memory after hearing it in the Sistine Chapel; the details are disputed. After Naples, the Pope made him a knight of the Order of the Golden Spur.",
+    "sources": [
+     "w-italy",
+     "w-mozart"
+    ]
+   },
+   {
+    "label": "Bologna",
+    "date": "October 1770",
+    "place": "Bologna, Emilia-Romagna, (Italy)",
+    "text": "On 9 October 1770 he passed the examination of the Accademia Filarmonica, a society of professional musicians, at fourteen.",
+    "sources": [
+     "w-italy",
+     "w-mozart"
+    ]
+   },
+   {
+    "label": "Milan: Mitridate",
+    "date": "26 Dec 1770",
+    "place": "Milan, Lombardy, (Italy)",
+    "text": "His opera Mitridate, re di Ponto opened in Milan, the first of three operas he wrote for that city.",
+    "sources": [
+     "w-italy",
+     "w-mozart"
+    ]
+   },
+   {
+    "label": "Milan: Ascanio in Alba",
+    "date": "Aug - Dec 1771",
+    "place": "Milan, Lombardy, (Italy)",
+    "text": "A second Italian journey, to write the stage work Ascanio in Alba for Milan.",
+    "sources": [
+     "w-italy",
+     "w-mozart"
+    ]
+   },
+   {
+    "label": "Milan: Lucio Silla, then home",
+    "date": "Oct 1772 - Mar 1773",
+    "place": "Milan, Lombardy, (Italy)",
+    "text": "The third and last Italian trip. Lucio Silla opened on 26 December 1772. Hopes of a post in Florence came to nothing, and they were home in Salzburg by about 13 March 1773.",
+    "sources": [
+     "w-italy",
+     "w-mozart"
+    ]
+   }
+  ]
+ },
+ "timeline": [
+  {
+   "date": "1756-01-27",
+   "age": 0,
+   "place": "Salzburg, Salzburg, (Austria)",
+   "title": "Born in Salzburg",
+   "text": "Wolfgang was born at Getreidegasse 9 and baptised the next day. He was the youngest of seven children, and only he and his sister Nannerl survived infancy. His father Leopold was a court violinist and well-known teacher.",
+   "turning": false,
+   "kind": "life",
+   "sources": [
+    "w-mozart",
+    "birthplace",
+    "w-leopold"
+   ]
+  },
+  {
+   "date": "1762-01",
+   "age": 5,
+   "place": "Munich, Bavaria, (Germany)",
+   "title": "The first tour",
+   "text": "Leopold had been his only teacher. Now he took Wolfgang and Nannerl to play for the Elector of Bavaria in Munich. It was the start of more than ten years of travel.",
+   "turning": true,
+   "kind": "work",
+   "sources": [
+    "w-nannerl",
+    "w-mozart",
+    "w-leopold"
+   ]
+  },
+  {
+   "date": "1762-09",
+   "age": 6,
+   "place": "Vienna, (Austria)",
+   "title": "Before the Empress",
+   "text": "On a first visit to Vienna, from September 1762 to January 1763, the children played for Empress Maria Theresa at the imperial court.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-nannerl",
+    "w-tour"
+   ]
+  },
+  {
+   "date": "1763",
+   "age": 7,
+   "place": "Salzburg, Salzburg, (Austria)",
+   "title": "The grand tour begins",
+   "text": "The family set off on a tour of western Europe that lasted three and a half years. Sources disagree on the day they left: 9 June or 9 July 1763.",
+   "turning": true,
+   "kind": "turning",
+   "sources": [
+    "w-tour",
+    "w-nannerl"
+   ]
+  },
+  {
+   "date": "1763-08",
+   "age": 7,
+   "place": "Frankfurt, Hesse, (Germany)",
+   "title": "Goethe in the audience",
+   "text": "At a public concert in Frankfurt, the fourteen-year-old Goethe heard him play. Decades later he still remembered the little boy with his wig and sword.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-tour"
+   ]
+  },
+  {
+   "date": "1764-04",
+   "age": 8,
+   "place": "London, England, (United Kingdom)",
+   "title": "Playing for the King",
+   "text": "The family reached London on 23 April 1764. Four days later the children played for King George III and Queen Charlotte. They stayed more than a year.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-tour"
+   ]
+  },
+  {
+   "date": "1764",
+   "age": 8,
+   "place": "London, England, (United Kingdom)",
+   "title": "A first symphony",
+   "text": "In London Wolfgang met Johann Christian Bach, youngest son of J. S. Bach. Inspired to write symphonies, he finished his Symphony No. 1 in E flat, K. 16. When exactly he met Bach is not clear.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-tour",
+    "w-mozart"
+   ]
+  },
+  {
+   "date": "1765-09",
+   "age": 9,
+   "place": "The Hague, South Holland, (Netherlands)",
+   "title": "Illness at The Hague",
+   "text": "Nannerl fell gravely ill and was given the last rites, then slowly recovered. Wolfgang fell ill next and was well again by mid-December.",
+   "turning": false,
+   "kind": "setback",
+   "sources": [
+    "w-tour",
+    "w-nannerl"
+   ]
+  },
+  {
+   "date": "1766-11-29",
+   "age": 10,
+   "place": "Salzburg, Salzburg, (Austria)",
+   "title": "Home again",
+   "text": "After Paris, Switzerland and Munich, the family came home. A symphony by Wolfgang was played in Salzburg Cathedral on 8 December.",
+   "turning": false,
+   "kind": "life",
+   "sources": [
+    "w-tour"
+   ]
+  },
+  {
+   "date": "1767-11",
+   "age": 11,
+   "place": "Olomouc, Moravia, (Czech Republic)",
+   "title": "Smallpox",
+   "text": "On a second trip to Vienna, a smallpox outbreak drove the family away to Olomouc. Both children caught it there and recovered.",
+   "turning": false,
+   "kind": "setback",
+   "sources": [
+    "w-nannerl"
+   ]
+  },
+  {
+   "date": "1768",
+   "age": 12,
+   "place": "Vienna, (Austria)",
+   "title": "An opera blocked",
+   "text": "Emperor Joseph II suggested he write an opera, and at 12 he wrote La finta semplice. Rivals spread the rumour that his father had written it, and the Vienna performance never happened. It was probably staged in Salzburg in 1769.",
+   "turning": false,
+   "kind": "setback",
+   "sources": [
+    "w-finta"
+   ]
+  },
+  {
+   "date": "1769-12-13",
+   "age": 13,
+   "place": "Salzburg, Salzburg, (Austria)",
+   "title": "Off to Italy",
+   "text": "Wolfgang and his father left for Italy, the home of opera. It was the first of three Italian journeys.",
+   "turning": true,
+   "kind": "turning",
+   "sources": [
+    "w-italy",
+    "w-mozart"
+   ]
+  },
+  {
+   "date": "1770-07",
+   "age": 14,
+   "place": "Rome, Lazio, (Italy)",
+   "title": "A papal knight",
+   "text": "Pope Clement XIV made him a knight of the Order of the Golden Spur. In Rome he is also said to have written down Allegri's Miserere from memory; the details of that story are disputed.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-italy",
+    "w-mozart"
+   ]
+  },
+  {
+   "date": "1770-10-09",
+   "age": 14,
+   "place": "Bologna, Emilia-Romagna, (Italy)",
+   "title": "Admitted in Bologna",
+   "text": "He passed the examination of the Accademia Filarmonica in Bologna, a society of professional musicians.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-italy",
+    "w-mozart"
+   ]
+  },
+  {
+   "date": "1770-12-26",
+   "age": 14,
+   "place": "Milan, Lombardy, (Italy)",
+   "title": "Mitridate",
+   "text": "His opera Mitridate, re di Ponto opened in Milan. Two more Milan operas followed: Ascanio in Alba in 1771 and Lucio Silla in 1772.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-italy",
+    "w-mozart"
+   ]
+  },
+  {
+   "date": "1773-03-13",
+   "age": 17,
+   "place": "Salzburg, Salzburg, (Austria)",
+   "title": "A court musician",
+   "text": "Back from Italy, he worked for the new Prince-Archbishop of Salzburg, Hieronymus Colloredo, for 150 florins a year.",
+   "turning": false,
+   "kind": "life",
+   "sources": [
+    "w-mozart",
+    "w-italy"
+   ]
+  },
+  {
+   "date": "1777-09",
+   "age": 21,
+   "place": "Mannheim, Baden-Württemberg, (Germany)",
+   "title": "Looking for work",
+   "text": "With his mother, he left Salzburg to look for a better post. He spent months in Mannheim among its famous orchestra players, then went on to Paris in March 1778.",
+   "turning": false,
+   "kind": "life",
+   "sources": [
+    "w-mozart",
+    "gb-letters1"
+   ]
+  },
+  {
+   "date": "1778-06",
+   "age": 22,
+   "place": "Paris, Île-de-France, (France)",
+   "title": "The Paris symphony",
+   "text": "His new symphony opened the Concert Spirituel and was a hit. In a letter he described how he planned its surprises for the Paris audience.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "gb-letters1"
+   ]
+  },
+  {
+   "date": "1778-07-03",
+   "age": 22,
+   "place": "Paris, Île-de-France, (France)",
+   "title": "His mother dies",
+   "text": "His mother Anna Maria died in Paris. No job had been found. In January 1779 he was back in Salzburg as court organist and concertmaster, on 450 florins a year.",
+   "turning": false,
+   "kind": "setback",
+   "sources": [
+    "w-mozart",
+    "w-nannerl"
+   ]
+  },
+  {
+   "date": "1781-01",
+   "age": 25,
+   "place": "Munich, Bavaria, (Germany)",
+   "title": "Idomeneo",
+   "text": "His serious opera Idomeneo opened in Munich. Nannerl travelled to see it.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-mozart",
+    "w-nannerl"
+   ]
+  },
+  {
+   "date": "1781-06",
+   "age": 25,
+   "place": "Vienna, (Austria)",
+   "title": "Free in Vienna",
+   "text": "After a bitter quarrel, Archbishop Colloredo dismissed him. Mozart chose to stay in Vienna and live as a freelance composer, performer and teacher.",
+   "turning": true,
+   "kind": "turning",
+   "sources": [
+    "w-mozart",
+    "ia-letters2"
+   ]
+  },
+  {
+   "date": "1782-07-16",
+   "age": 26,
+   "place": "Vienna, (Austria)",
+   "title": "The Abduction from the Seraglio",
+   "text": "His German comic opera opened in Vienna. In his letters he explained how he shaped each aria for the singer's voice and the character's feelings.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-mozart",
+    "ia-letters2"
+   ]
+  },
+  {
+   "date": "1782-08-04",
+   "age": 26,
+   "place": "Vienna, (Austria)",
+   "title": "Marriage",
+   "text": "He married Constanze Weber in St. Stephen's Cathedral, one day before his father's letter of consent arrived. They had six children; two survived infancy.",
+   "turning": false,
+   "kind": "life",
+   "sources": [
+    "w-mozart"
+   ]
+  },
+  {
+   "date": "1784",
+   "age": 28,
+   "place": "Vienna, (Austria)",
+   "title": "Friends with Haydn",
+   "text": "He became friends with Joseph Haydn and dedicated six string quartets to him. That year he moved to Domgasse 5, his only Vienna home that survives, and in December he joined the Freemasons.",
+   "turning": false,
+   "kind": "life",
+   "sources": [
+    "w-mozart",
+    "w-mozarthaus"
+   ]
+  },
+  {
+   "date": "1786",
+   "age": 30,
+   "place": "Vienna, (Austria)",
+   "title": "The Marriage of Figaro",
+   "text": "Written in the Domgasse apartment, Le nozze di Figaro opened in Vienna. It was his first opera with the librettist Lorenzo Da Ponte.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-mozart",
+    "w-mozarthaus",
+    "w-daponte"
+   ]
+  },
+  {
+   "date": "1787-01",
+   "age": 30,
+   "place": "Prague, Bohemia, (Czech Republic)",
+   "title": "Figaro fever in Prague",
+   "text": "In Prague he found the whole city dancing and singing tunes from Figaro. His Prague Symphony was first played on this visit.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "ia-letters2",
+    "w-mozart"
+   ]
+  },
+  {
+   "date": "1787-05-28",
+   "age": 31,
+   "place": "Salzburg, Salzburg, (Austria)",
+   "title": "His father dies",
+   "text": "Leopold Mozart, his father and only teacher, died in Salzburg.",
+   "turning": false,
+   "kind": "setback",
+   "sources": [
+    "w-leopold",
+    "w-mozart"
+   ]
+  },
+  {
+   "date": "1787-10",
+   "age": 31,
+   "place": "Prague, Bohemia, (Czech Republic)",
+   "title": "Don Giovanni",
+   "text": "His opera Don Giovanni opened in Prague. In December Emperor Joseph II made him imperial chamber composer, a part-time post.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-mozart"
+   ]
+  },
+  {
+   "date": "1788",
+   "age": 32,
+   "place": "Vienna, (Austria)",
+   "title": "Three symphonies in one summer",
+   "text": "In a few weeks of summer he wrote his last three symphonies, Nos. 39, 40 and 41, the Jupiter. Money was tight during a war with the Ottoman Empire.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-mozart"
+   ]
+  },
+  {
+   "date": "1790",
+   "age": null,
+   "place": "Vienna, (Austria)",
+   "title": "Così fan tutte",
+   "text": "His third opera with Da Ponte opened in Vienna. He also travelled to German cities looking for work.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-mozart",
+    "w-daponte"
+   ]
+  },
+  {
+   "date": "1791-09-30",
+   "age": 35,
+   "place": "Vienna, (Austria)",
+   "title": "The Magic Flute",
+   "text": "Die Zauberflöte opened at the Theater auf der Wieden, with Mozart conducting. It was a hit from the start. On 14 October he took Antonio Salieri to see it, and wrote that Salieri cried bravo at every piece.",
+   "turning": true,
+   "kind": "work",
+   "sources": [
+    "w-flute",
+    "ia-letters2"
+   ]
+  },
+  {
+   "date": "1791-12-05",
+   "age": 35,
+   "place": "Vienna, (Austria)",
+   "title": "Death in Vienna",
+   "text": "Mozart died after a short illness, leaving his Requiem unfinished. The cause is not known; the official record names a fever, and doctors and historians still disagree. He was buried on 7 December in an ordinary single grave at St. Marx, outside the city, as was normal then.",
+   "turning": false,
+   "kind": "life",
+   "sources": [
+    "w-mozart",
+    "w-requiem"
+   ]
+  },
+  {
+   "date": "1792",
+   "age": null,
+   "place": "Vienna, (Austria)",
+   "title": "The Requiem completed",
+   "text": "The Requiem had been ordered secretly by Count Franz von Walsegg. Mozart's pupil Franz Xaver Süssmayr finished it, and it was delivered in 1792.",
+   "turning": false,
+   "kind": "legacy",
+   "sources": [
+    "w-requiem"
+   ]
+  },
+  {
+   "date": "1862",
+   "age": null,
+   "place": "Vienna, (Austria)",
+   "title": "The Köchel catalogue",
+   "text": "Ludwig von Köchel published a catalogue of Mozart's works in time order. Its K numbers, like K. 16 or K. 626, are still used today; the ninth edition appeared in 2024.",
+   "turning": false,
+   "kind": "legacy",
+   "sources": [
+    "w-koechel"
+   ]
+  },
+  {
+   "date": "1984",
+   "age": null,
+   "place": "Prague, Bohemia, (Czech Republic)",
+   "title": "Amadeus and the Salieri myth",
+   "text": "The film Amadeus, shot largely in Prague, shows Salieri as a jealous rival who plots Mozart's death. That is a myth. Its makers called it a fantasy, not a documentary. Rumours of poisoning began only after Mozart died, and Salieri denied them. The two were rivals, but they also worked together, and Salieri later taught Mozart's younger son.",
+   "turning": false,
+   "kind": "legacy",
+   "sources": [
+    "w-amadeus",
+    "w-salieri"
+   ]
+  }
+ ],
+ "works": [
+  {
+   "year": "1764",
+   "type": "symphony",
+   "title": "Symphony No. 1, K. 16",
+   "text": "His first symphony, written at eight in London on the grand tour, after meeting Johann Christian Bach.",
+   "sources": [
+    "w-tour"
+   ]
+  },
+  {
+   "year": "1768",
+   "type": "opera",
+   "title": "La finta semplice",
+   "text": "A full-length comic opera written at 12 in Vienna. Rivals kept it off the Vienna stage.",
+   "sources": [
+    "w-finta"
+   ]
+  },
+  {
+   "year": "1770",
+   "type": "opera",
+   "title": "Mitridate, re di Ponto",
+   "text": "His first opera for Milan, written at fourteen during his first Italian journey.",
+   "sources": [
+    "w-italy",
+    "w-mozart"
+   ]
+  },
+  {
+   "year": "1781",
+   "type": "opera",
+   "title": "Idomeneo",
+   "text": "A serious opera in Italian, written for the court in Munich.",
+   "sources": [
+    "w-mozart"
+   ]
+  },
+  {
+   "year": "1782",
+   "type": "opera",
+   "title": "The Abduction from the Seraglio",
+   "text": "A German comic opera with spoken dialogue, his first big success in Vienna.",
+   "sources": [
+    "w-mozart",
+    "ia-letters2"
+   ]
+  },
+  {
+   "year": "1785",
+   "type": "chamber",
+   "title": "The Haydn Quartets",
+   "text": "Six string quartets written between 1782 and 1785 and dedicated to his friend Joseph Haydn.",
+   "sources": [
+    "w-mozart",
+    "w-mozarthaus"
+   ]
+  },
+  {
+   "year": "1786",
+   "type": "opera",
+   "title": "The Marriage of Figaro",
+   "text": "A comic opera with Da Ponte about servants who outwit their master. It made him famous in Prague.",
+   "sources": [
+    "w-mozart",
+    "w-mozarthaus",
+    "ia-letters2"
+   ]
+  },
+  {
+   "year": "1787",
+   "type": "opera",
+   "title": "Don Giovanni",
+   "text": "An opera mixing comedy and darkness, written for Prague, where it opened in October 1787.",
+   "sources": [
+    "w-mozart"
+   ]
+  },
+  {
+   "year": "1788",
+   "type": "symphony",
+   "title": "Symphonies Nos. 39, 40 and 41 (Jupiter)",
+   "text": "His last three symphonies, written in a single summer.",
+   "sources": [
+    "w-mozart"
+   ]
+  },
+  {
+   "year": "1790",
+   "type": "opera",
+   "title": "Così fan tutte",
+   "text": "His third and last opera with Da Ponte.",
+   "sources": [
+    "w-mozart",
+    "w-daponte"
+   ]
+  },
+  {
+   "year": "1791",
+   "type": "concerto",
+   "title": "Piano Concerto No. 27 and Clarinet Concerto",
+   "text": "Two late concertos from his final year, K. 595 and K. 622.",
+   "sources": [
+    "w-mozart"
+   ]
+  },
+  {
+   "year": "1791",
+   "type": "opera",
+   "title": "The Magic Flute",
+   "text": "A German fairy-tale opera with spoken dialogue, written with Emanuel Schikaneder for a popular theatre. It reached its 100th performance in 1792.",
+   "sources": [
+    "w-flute"
+   ]
+  },
+  {
+   "year": "1791",
+   "type": "sacred",
+   "title": "Requiem, K. 626",
+   "text": "A Mass for the dead, left unfinished at his death and completed by Süssmayr.",
+   "sources": [
+    "w-requiem"
+   ]
+  },
+  {
+   "year": "1769",
+   "type": "letters",
+   "title": "Letters",
+   "text": "Hundreds of lively letters, mostly to his father and sister, written from 1769 on. They show how he thought about music, audiences and singers.",
+   "url": "https://www.gutenberg.org/ebooks/5307",
+   "sources": [
+    "gb-letters1",
+    "ia-letters2",
+    "dme-letters"
+   ]
+  }
+ ],
+ "resources": [
+  {
+   "label": "The Letters of Wolfgang Amadeus Mozart, Vol. 1 (Project Gutenberg #5307)",
+   "url": "https://www.gutenberg.org/ebooks/5307",
+   "what": "Lady Wallace's translation of his letters from 1769 to 1781, free to read or download."
+  },
+  {
+   "label": "The Letters of Wolfgang Amadeus Mozart, Vol. 2 (Internet Archive)",
+   "url": "https://archive.org/details/lettersofwolfgan02moza",
+   "what": "A scan of the second volume, covering his Vienna years from 1781 to 1791."
+  },
+  {
+   "label": "Digital Mozart Edition: Letters and Documents (Mozarteum)",
+   "url": "https://dme.mozarteum.at/briefe-dokumente/",
+   "what": "The Mozart family letters in the original German, free online from the International Mozarteum Foundation in Salzburg."
+  },
+  {
+   "label": "Digital Mozart Edition (Mozarteum)",
+   "url": "https://dme.mozarteum.at/",
+   "what": "The Mozarteum's project to put all of Mozart's works online free for study and education."
+  },
+  {
+   "label": "Mozart scores at IMSLP",
+   "url": "https://imslp.org/wiki/Category:Mozart,_Wolfgang_Amadeus",
+   "what": "A large online library of sheet music, with hundreds of Mozart works."
+  },
+  {
+   "label": "Mozart's Birthplace, Salzburg (Mozarteum)",
+   "url": "https://mozarteum.at/en/museums/mozarts-birthplace/",
+   "what": "The museum in the house where he was born, with his childhood violin and clavichord."
+  },
+  {
+   "label": "Mozarthaus Vienna",
+   "url": "https://www.mozarthausvienna.at/en",
+   "what": "His only surviving Vienna apartment, where he wrote The Marriage of Figaro, now a museum."
+  },
+  {
+   "label": "Mozart family grand tour (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Mozart_family_grand_tour",
+   "what": "A detailed account of the 1763 to 1766 tour, city by city."
+  }
+ ],
+ "books": [
+  {
+   "title": "The Letters of Wolfgang Amadeus Mozart, Vol. 1 (1769-1781)",
+   "author": "Wolfgang Amadeus Mozart, translated by Lady Wallace",
+   "year": "1865",
+   "kind": "by-him",
+   "free": "https://www.gutenberg.org/ebooks/5307",
+   "note": "From his first Italian journey to his move to Vienna. Short, lively letters; start with the Mannheim and Paris years."
+  },
+  {
+   "title": "The Letters of Wolfgang Amadeus Mozart, Vol. 2 (1781-1791)",
+   "author": "Wolfgang Amadeus Mozart, translated by Lady Wallace",
+   "year": "1865",
+   "kind": "by-him",
+   "free": "https://archive.org/details/lettersofwolfgan02moza",
+   "note": "His Vienna years, his operas and his last letters to Constanze. Scanned 1866 American printing."
+  },
+  {
+   "title": "Mozart: A Life",
+   "author": "Maynard Solomon",
+   "year": "1995",
+   "kind": "biography",
+   "free": null,
+   "note": "A detailed modern biography, often cited on Wikipedia for his life and the late operas."
+  },
+  {
+   "title": "Mozart's Women",
+   "author": "Jane Glover",
+   "year": "2005",
+   "kind": "biography",
+   "free": null,
+   "note": "His life through his mother, sister, wife and the singers he wrote for; cited on Wikipedia for the grand tour."
+  }
+ ]
+}

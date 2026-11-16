@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "05-galapagos",
+ "panels": [
+  { "key": "01-beetles", "year": "1828" },
+  { "key": "02-beagle", "year": "1831" },
+  { "key": "03-fossils", "year": "1832" },
+  { "key": "04-andes", "year": "1835" },
+  { "key": "05-galapagos", "year": "1835" },
+  { "key": "06-notebook", "year": "1837" },
+  { "key": "07-origin", "year": "1859" },
+  { "key": "08-worms", "year": "1881" }
+ ]
+}

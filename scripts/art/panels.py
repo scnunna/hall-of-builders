@@ -4,7 +4,8 @@
 import subprocess, sys, os, random
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 PY = r"C:\Users\scnun\Projects\_monorepos\ContentStudioAI\contentcreate\engine\tools\comfyui\venv\Scripts\python.exe"
-CLIENT = r"C:\Users\scnun\Projects\_monorepos\MRS\games\babble\tools\comfy_client_run.py"
+CLIENT = os.environ.get("HOB_CLIENT") or r"C:\Users\scnun\Projects\_monorepos\MRS\games\babble\tools\comfy_client_run.py"
+STEPS, CFG, GUIDE = os.environ.get("HOB_STEPS", "28"), os.environ.get("HOB_CFG", "4.0"), os.environ.get("HOB_GUIDANCE", "4.0")
 STYLE = ("graphic novel comic book panel, bold black ink linework, cross-hatching and halftone dot shading, "
          "limited palette of deep sepia brown, warm cream paper and burnished gold highlights, dramatic cinematic lighting, "
          "strong composition, highly detailed historical illustration")
@@ -54,7 +55,7 @@ if __name__ == "__main__":
         if only and key not in only: continue
         out = os.path.join(out_dir, key + ".png")
         if os.path.exists(out) and not only: print("skip", key, flush=True); continue
-        r = subprocess.run([PY, CLIENT, "--prompt", f"{scene}, {STYLE}", "--negative", NEG, "--out", out, "--steps", "28",
-                            "--cfg", "4.0", "--width", "1216", "--height", "832", "--seed", str(random.randint(0, 2**31 - 1)), "--guidance", "4.0"],
+        r = subprocess.run([PY, CLIENT, "--prompt", f"{scene}, {STYLE}", "--negative", NEG, "--out", out, "--steps", STEPS,
+                            "--cfg", CFG, "--width", "1216", "--height", "832", "--seed", str(random.randint(0, 2**31 - 1)), "--guidance", GUIDE],
                            capture_output=True, text=True)
         print(sid, key, "ok" if r.returncode == 0 and os.path.exists(out) else "FAILED " + (r.stdout + r.stderr)[-300:], flush=True)

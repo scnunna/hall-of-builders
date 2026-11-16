@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "04-cairo",
+ "panels": [
+  { "key": "01-mansa", "year": "1312" },
+  { "key": "02-caravan", "year": "1324" },
+  { "key": "03-pyramids", "year": "1324" },
+  { "key": "04-cairo", "year": "1324" },
+  { "key": "05-scholar", "year": "1324" },
+  { "key": "06-hall", "year": "1325" },
+  { "key": "07-mosque", "year": "1327" },
+  { "key": "08-atlas", "year": "1375" }
+ ]
+}

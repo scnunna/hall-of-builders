@@ -1,0 +1,203 @@
+{
+  "sources": {
+    "w-musa": { "label": "Mansa Musa (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mansa_Musa" },
+    "w-mali": { "label": "Mali Empire (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mali_Empire" },
+    "w-sahili": { "label": "Abu Ishaq al-Sahili (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Abu_Ishaq_al-Sahili" },
+    "w-djing": { "label": "Djinguereber Mosque (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Djinguereber_Mosque" },
+    "w-catalan": { "label": "Catalan Atlas (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Catalan_Atlas" },
+    "w-timbuktu": { "label": "Timbuktu (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Timbuktu" },
+    "w-sankore": { "label": "Sankore Madrasah (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Sankore_Madrasah" },
+    "umari": { "label": "Ibn Fadl Allah al-Umari, Masalik el Absar fi Mamalik el Amsar I: L'Afrique moins l'Egypte, French tr. M. Gaudefroy-Demombynes, Paris 1927 (Internet Archive)", "url": "https://archive.org/details/india.history.resource.91094" },
+    "deslane": { "label": "Ibn Khaldun, Histoire des Berberes, vol. 2, French tr. Baron de Slane, Algiers 1854 (Internet Archive)", "url": "https://archive.org/details/bub_gb_TXVBAAAAIAAJ" },
+    "gibb": { "label": "Ibn Battuta, Travels in Asia and Africa 1325-1354, tr. H. A. R. Gibb, Routledge 1929 (Internet Archive)", "url": "https://archive.org/details/pli.kerala.rare.27987" }
+  },
+  "timeline": [
+    {
+      "date": "1280", "age": 0, "place": "Mande heartland, Mali Empire, (Mali or Guinea)",
+      "title": "Born into the royal family",
+      "text": "Musa was probably born around 1280; the real year is unknown. He belonged to the Keita family founded by Sunjata. Sources disagree about his father: oral tradition names Faga Laye, while Ibn Khaldun calls him Musa son of Abu Bakr, a relative of Sunjata.",
+      "turning": false, "kind": "life", "sources": ["w-musa", "deslane"]
+    },
+    {
+      "date": "1312", "age": null, "place": "Atlantic coast, Mali Empire, (West Africa)",
+      "title": "The king who sailed west",
+      "text": "Musa later told an Egyptian official that the king before him did not believe the ocean had no end. He sent 200 ships, then set out himself with 2,000, leaving Musa in charge. He never came back. Some historians think the story may cover a seizure of power; others take the voyage seriously. No one can be sure.",
+      "turning": false, "kind": "life", "sources": ["umari", "w-musa"]
+    },
+    {
+      "date": "1312", "age": null, "place": "Royal court, Mali Empire, (Mali or Guinea)",
+      "title": "Musa becomes mansa",
+      "text": "Musa became mansa, meaning king, around 1312, the most widely accepted date; 1307 is also possible. Where his capital stood is still debated. Niani in modern Guinea was long believed to be the capital, but archaeology has not confirmed it.",
+      "turning": true, "kind": "turning", "sources": ["w-musa", "w-mali"]
+    },
+    {
+      "date": "1320", "age": null, "place": "Mali Empire, (West Africa)",
+      "title": "An empire built on gold and trade",
+      "text": "During his reign (the year here is only a marker), Mali reached its greatest size, from the Atlantic coast to the Sahara. Its gold came mostly through tribute and trade from fields such as Bambuk and Bure. In his time, Mali supplied almost half the gold traded out of these mines to the wider world.",
+      "turning": false, "kind": "work", "sources": ["w-mali"]
+    },
+    {
+      "date": "1324", "age": null, "place": "Sahara, (West and North Africa)",
+      "title": "Setting out for Mecca",
+      "text": "In 1324 (year 724 in the Islamic calendar), Musa set out on the hajj, the pilgrimage to Mecca, a journey of about 2,700 miles. He left a son in charge at home. Ibn Khaldun reports that he used camels for such long journeys, though at home his people carried loads on their backs.",
+      "turning": true, "kind": "turning", "sources": ["w-musa", "deslane"]
+    },
+    {
+      "date": "1324", "age": null, "place": "Sahara, (West and North Africa)",
+      "title": "Eighty loads of gold",
+      "text": "A Cairo interpreter told Ibn Khaldun that Musa brought eighty loads of gold dust. Later Arabic writers also tell of thousands of servants dressed in brocade and silk. Historians treat these numbers as a way of saying \"enormous\", not as exact counts.",
+      "turning": false, "kind": "life", "sources": ["deslane", "w-musa"]
+    },
+    {
+      "date": "1324-07-19", "age": null, "place": "Cairo, Mamluk Sultanate, (Egypt)",
+      "title": "Arrival at Cairo",
+      "text": "In July 1324 his party camped for three days near the Pyramids of Giza, then crossed the Nile into Cairo on 19 July. He stayed in the Qarafa district and became friends with its governor, Ibn Amir Hajib, who later told the historian al-Umari about Mali.",
+      "turning": false, "kind": "life", "sources": ["w-musa", "umari"]
+    },
+    {
+      "date": "1324-07", "age": null, "place": "Cairo, Mamluk Sultanate, (Egypt)",
+      "title": "Meeting the sultan",
+      "text": "An official asked Musa to visit Sultan al-Nasir Muhammad. Musa first said he had come only for the pilgrimage. At court he refused to kiss the ground, then, after a quiet word from an adviser, said he would bow to God alone. The sultan rose to greet him, sat him at his side, and sent robes and horses to him and his party.",
+      "turning": false, "kind": "life", "sources": ["umari", "w-musa"]
+    },
+    {
+      "date": "1324-08", "age": null, "place": "Cairo, Mamluk Sultanate, (Egypt)",
+      "title": "Gold floods the market",
+      "text": "Musa's party spent freely for about three months. Al-Umari, writing about twelve years later, said the price of gold in Cairo fell and had not recovered since. Some Cairo traders overcharged the visitors, which left the Malians with a poor opinion of them. One modern historian argues the drop was within normal price changes.",
+      "turning": false, "kind": "life", "sources": ["umari", "w-musa"]
+    },
+    {
+      "date": "1324-10-18", "age": null, "place": "Cairo, Mamluk Sultanate, (Egypt)",
+      "title": "With the pilgrim caravan",
+      "text": "On 18 October 1324 he left Cairo with the official pilgrim caravan for the holy cities of Arabia.",
+      "turning": false, "kind": "life", "sources": ["w-musa"]
+    },
+    {
+      "date": "1324-12", "age": null, "place": "Mecca, Hejaz, (Saudi Arabia)",
+      "title": "The pilgrimage",
+      "text": "Musa performed the rites of the hajj. A guide who travelled with him said he gave generously to pilgrims and to the people of Mecca and Medina. When a fight broke out between his men and other pilgrims, he persuaded his people to stand down.",
+      "turning": false, "kind": "life", "sources": ["umari", "w-musa"]
+    },
+    {
+      "date": "1324-12", "age": null, "place": "Mecca, Hejaz, (Saudi Arabia)",
+      "title": "Meeting al-Sahili",
+      "text": "On this journey Musa met Abu Ishaq al-Sahili, a poet and scholar from Granada in Spain. Ibn Khaldun says they met at Mecca; other accounts place it on the way home. Musa enjoyed his company and invited him to Mali. He also brought back Maliki jurists.",
+      "turning": true, "kind": "turning", "sources": ["deslane", "w-sahili", "w-musa"]
+    },
+    {
+      "date": "1325", "age": null, "place": "Suez and Cairo, Mamluk Sultanate, (Egypt)",
+      "title": "A hard road home",
+      "text": "On the way back, many of his pilgrims died of cold, hunger or raids, and much of their supplies was lost. His money ran out, and he borrowed from Cairo merchants at high interest. Sources disagree on whether the lenders were ever fully repaid.",
+      "turning": false, "kind": "setback", "sources": ["w-musa"]
+    },
+    {
+      "date": "1325", "age": null, "place": "Gao and Timbuktu, Mali Empire, (Mali)",
+      "title": "Gao and Timbuktu join Mali",
+      "text": "The Timbuktu chronicle Tarikh al-Sudan says Gao and Timbuktu submitted to Musa as he passed on his way home. Ibn Khaldun credits his general Saghmanja with taking Gao. Accounts differ, and another names an earlier king.",
+      "turning": false, "kind": "work", "sources": ["w-musa", "deslane", "w-timbuktu"]
+    },
+    {
+      "date": "1325", "age": null, "place": "Royal court, Mali Empire, (Mali or Guinea)",
+      "title": "A new kind of building",
+      "text": "Musa wanted an audience hall that was solid and plastered, a kind of building new to his land. Al-Sahili built a square hall with a dome, decorated with bright colours. Musa paid him 12,000 mithqals of gold dust. Modern scholars think al-Sahili's role was mainly in planning and decoration.",
+      "turning": false, "kind": "work", "sources": ["deslane", "w-sahili", "w-musa"]
+    },
+    {
+      "date": "1327", "age": null, "place": "Timbuktu, Mali Empire, (Mali)",
+      "title": "The Djinguereber Mosque",
+      "text": "The great mosque of Timbuktu, built mostly of earth, straw and wood, is credited to Musa around 1325 to 1327. Tradition says al-Sahili designed it, but scholars now doubt this. The mosque still stands, much rebuilt over the centuries.",
+      "turning": true, "kind": "work", "sources": ["w-djing", "w-musa"]
+    },
+    {
+      "date": "1327", "age": null, "place": "Timbuktu, Mali Empire, (Mali)",
+      "title": "Scholars for Timbuktu",
+      "text": "Musa brought jurists and scholars to his lands, and Timbuktu began to grow as a centre of Islamic learning. Teaching there happened in mosques and homes, not one central university, and its great age of learning came later, in the 1400s and 1500s.",
+      "turning": false, "kind": "work", "sources": ["w-musa", "w-timbuktu", "w-sankore"]
+    },
+    {
+      "date": "1330", "age": null, "place": "Timbuktu, Mali Empire, (Mali)",
+      "title": "Timbuktu lost and won back",
+      "text": "In 1330 the Mossi kingdom captured Timbuktu. Musa took it back, built a rampart and a stone fort, and left a standing army there.",
+      "turning": false, "kind": "setback", "sources": ["w-musa"]
+    },
+    {
+      "date": "1331", "age": null, "place": "Royal court, Mali Empire, (Mali or Guinea)",
+      "title": "Letters and gifts abroad",
+      "text": "Musa sent the sultan of Egypt a book in Maghribi script with a treatise on good manners he had composed. He was also on friendly terms with the Marinid sultan Abu al-Hasan of Morocco, and the two kings exchanged rich gifts by envoys.",
+      "turning": false, "kind": "work", "sources": ["umari", "deslane"]
+    },
+    {
+      "date": "1337", "age": null, "place": "Mali Empire, (West Africa)",
+      "title": "Death of Mansa Musa",
+      "text": "Ibn Khaldun says Musa reigned 25 years. When he died is uncertain: reckoning back from later reigns gives 1332, while his envoy to Abu al-Hasan in 1337 points to 1337, the date many historians prefer. Al-Umari heard that he had hoped to give up the throne and live in Mecca. His son Maghan followed him.",
+      "turning": true, "kind": "life", "sources": ["w-musa", "deslane", "umari"]
+    },
+    {
+      "date": "1352", "age": null, "place": "Mali Empire, (West Africa)",
+      "title": "Still remembered",
+      "text": "When the traveller Ibn Battuta visited Mali in 1352 under Musa's brother Sulayman, people still praised Musa as generous and good. A governor who had made the pilgrimage with him told Ibn Battuta stories of the journey.",
+      "turning": false, "kind": "legacy", "sources": ["gibb"]
+    },
+    {
+      "date": "1375", "age": null, "place": "Majorca, Crown of Aragon, (Spain)",
+      "title": "On the map of the world",
+      "text": "The Catalan Atlas, usually dated 1375 and made by the Majorcan mapmaker Cresques Abraham, shows Musa seated and holding gold. Its caption calls him the richest and noblest lord of the region because of the gold of his lands. It is kept at the National Library of France.",
+      "turning": false, "kind": "legacy", "sources": ["w-catalan"]
+    },
+    {
+      "date": "1988", "age": null, "place": "Timbuktu, (Mali)",
+      "title": "World Heritage",
+      "text": "UNESCO listed the Djinguereber Mosque, with Timbuktu's other old mosques, as a World Heritage Site in 1988. Today Musa is often called the richest person in history, but historians say his wealth cannot be measured, and modern dollar figures are guesses.",
+      "turning": false, "kind": "legacy", "sources": ["w-djing", "w-musa"]
+    }
+  ],
+  "feature": {
+    "nav": "The Pilgrimage",
+    "title": "The pilgrimage of 1324",
+    "lead": "Musa's journey to Mecca was a long road across the Sahara and back. It made Mali famous from Cairo to Spain and brought home the people who helped build its towns.",
+    "style": "route",
+    "items": [
+      { "label": "Leaving Mali", "date": "1324", "place": "Mali Empire", "text": "Musa set out in 1324 with a huge party, leaving a son in charge. Where his court stood is still debated by historians.", "sources": ["w-musa", "w-mali"] },
+      { "label": "Across the Sahara", "date": "1324", "place": "Sahara", "text": "The caravan crossed the desert by camel. A Cairo interpreter later said Musa brought eighty loads of gold dust; the real amount is unknown.", "url": "https://archive.org/details/bub_gb_TXVBAAAAIAAJ", "sources": ["deslane", "w-musa"] },
+      { "label": "Camp by the pyramids", "date": "1324-07", "place": "Giza, Egypt", "text": "The party camped for three days near the Pyramids of Giza before entering the city.", "sources": ["w-musa"] },
+      { "label": "Into Cairo", "date": "1324-07-19", "place": "Cairo, Egypt", "text": "They crossed the Nile on 19 July. Musa stayed about three months and befriended the governor Ibn Amir Hajib.", "sources": ["w-musa", "umari"] },
+      { "label": "The sultan's hall", "date": "1324-07", "place": "Cairo, Egypt", "text": "Musa met Sultan al-Nasir Muhammad. He would bow only to God, and the sultan seated him at his side as an equal guest.", "url": "https://archive.org/details/india.history.resource.91094", "sources": ["umari", "w-musa"] },
+      { "label": "Gold in the markets", "date": "1324", "place": "Cairo, Egypt", "text": "His people spent so much that, according to al-Umari, gold lost value in Cairo for about twelve years.", "url": "https://archive.org/details/india.history.resource.91094", "sources": ["umari", "w-musa"] },
+      { "label": "The pilgrim caravan", "date": "1324-10-18", "place": "Cairo to Arabia", "text": "Musa joined the official pilgrim caravan that left Cairo on 18 October.", "sources": ["w-musa"] },
+      { "label": "Mecca and Medina", "date": "1324-12", "place": "Hejaz, Arabia", "text": "He performed the hajj and gave generously to pilgrims and the people of the holy cities. He calmed a fight between his men and other pilgrims.", "sources": ["umari", "w-musa"] },
+      { "label": "A poet from Granada", "date": "1324", "place": "Mecca, Arabia", "text": "He met the scholar Abu Ishaq al-Sahili and invited him to Mali, along with Maliki jurists. Sources differ on whether they met in Mecca or on the way home.", "sources": ["deslane", "w-sahili"] },
+      { "label": "The hard road back", "date": "1325", "place": "Suez and Cairo, Egypt", "text": "Cold, hunger and raids killed many pilgrims on the return. Musa ran short of money and borrowed from Cairo merchants.", "sources": ["w-musa"] },
+      { "label": "Gao and Timbuktu", "date": "1325", "place": "Middle Niger, Mali", "text": "On his way home, Gao and Timbuktu submitted to him, according to the Tarikh al-Sudan. Other accounts credit his general or an earlier king.", "sources": ["w-musa", "deslane"] },
+      { "label": "A domed hall", "date": "1325", "place": "Mali's royal court", "text": "Al-Sahili built Musa a plastered audience hall with a dome, new to the land. Musa rewarded him with 12,000 mithqals of gold.", "sources": ["deslane", "w-sahili"] },
+      { "label": "The great mosque", "date": "1327", "place": "Timbuktu, Mali", "text": "The earthen Djinguereber Mosque is credited to Musa around 1325 to 1327 and still stands today, much rebuilt.", "url": "https://en.wikipedia.org/wiki/Djinguereber_Mosque", "sources": ["w-djing", "w-musa"] },
+      { "label": "On the world map", "date": "1375", "place": "Majorca, Spain", "text": "Fifty years later, the Catalan Atlas showed Musa holding gold, the best-known image of his fame in Europe.", "url": "https://gallica.bnf.fr/ark:/12148/btv1b55002481n", "sources": ["w-catalan"] }
+    ]
+  },
+  "works": [
+    { "year": "1324", "type": "journey", "title": "The hajj of 1324-1325", "text": "A pilgrimage of about 2,700 miles from Mali to Mecca by way of Cairo, remembered for its size and spending. It made Mali famous across the Islamic world and Europe.", "sources": ["w-musa", "umari", "deslane"] },
+    { "year": "1324", "type": "diplomacy", "title": "Visit to Sultan al-Nasir Muhammad", "text": "A meeting in Cairo where Musa kept his religious principle, bowing to God alone, while still honouring his host. The two rulers talked at length and exchanged gifts.", "sources": ["umari", "w-musa"], "url": "https://archive.org/details/india.history.resource.91094" },
+    { "year": "1325", "type": "building", "title": "Royal audience hall", "text": "A square, domed and plastered hall at his capital, built by al-Sahili. It is the one building firmly linked to al-Sahili in the sources.", "sources": ["deslane", "w-sahili", "w-musa"] },
+    { "year": "1327", "type": "building", "title": "Djinguereber Mosque, Timbuktu", "text": "The great earthen mosque of Timbuktu, credited to Musa around 1325 to 1327. Rebuilt by Qadi al-Aqib from 1570 and part of a World Heritage Site since 1988.", "sources": ["w-djing", "w-musa"], "url": "https://en.wikipedia.org/wiki/Djinguereber_Mosque" },
+    { "year": "1325", "type": "institution", "title": "Scholars and jurists for Mali", "text": "Musa brought Maliki jurists and scholars home with him, helping Timbuktu begin to grow into a centre of Islamic learning.", "sources": ["w-musa", "w-timbuktu"] },
+    { "year": "1325", "type": "reform", "title": "Gao and Timbuktu in the empire", "text": "The trading cities of the middle Niger became part of Mali in his reign, linking the empire to the Saharan trade routes.", "sources": ["w-musa", "deslane", "w-timbuktu"] },
+    { "year": "1330", "type": "building", "title": "Timbuktu's rampart and fort", "text": "After the Mossi captured Timbuktu in 1330, Musa retook it and built a rampart and a stone fort with a standing army.", "sources": ["w-musa"] },
+    { "year": "1331", "type": "document", "title": "A treatise on good manners", "text": "A book in Maghribi script, composed by Musa on the rules of courtesy, sent to the sultan of Egypt with a greeting. Al-Umari mentions it; no copy is known to survive.", "sources": ["umari"] },
+    { "year": "1331", "type": "diplomacy", "title": "Friendship with Morocco", "text": "Envoys and rich gifts passed between Musa and the Marinid sultan Abu al-Hasan, a friendship their successors kept up.", "sources": ["deslane", "w-musa"] },
+    { "year": "1324", "type": "record", "title": "The story of the Atlantic voyage", "text": "Musa's own account, told in Cairo, of the king before him who sailed into the Atlantic and never returned. It survives only through al-Umari.", "sources": ["umari", "w-musa"] }
+  ],
+  "resources": [
+    { "label": "Al-Umari, Masalik el Absar, French tr. Gaudefroy-Demombynes 1927 (Internet Archive)", "url": "https://archive.org/details/india.history.resource.91094", "what": "The fullest eyewitness-based account of Musa in Cairo (chapter 10, pages 74-80), in French." },
+    { "label": "Ibn Khaldun, Histoire des Berberes vol. 2, tr. de Slane 1854 (Internet Archive)", "url": "https://archive.org/details/bub_gb_TXVBAAAAIAAJ", "what": "The chapter on the kings of the Black peoples (pages 105-116) covers Musa, al-Sahili and his successors, in French." },
+    { "label": "Ibn Battuta, Travels in Asia and Africa, tr. Gibb 1929 (Internet Archive)", "url": "https://archive.org/details/pli.kerala.rare.27987", "what": "Ibn Battuta's visit to Mali in 1352, with memories of Musa, in English." },
+    { "label": "Catalan Atlas (Gallica, National Library of France)", "url": "https://gallica.bnf.fr/ark:/12148/btv1b55002481n", "what": "Zoom into the original atlas and find Musa holding gold in West Africa." },
+    { "label": "Mansa Musa (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mansa_Musa", "what": "A detailed, well-referenced article that explains where the sources disagree." },
+    { "label": "Mali Empire (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mali_Empire", "what": "The empire Musa ruled, its gold trade, its capital debate and its later decline." },
+    { "label": "Djinguereber Mosque (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Djinguereber_Mosque", "what": "The mosque credited to Musa and how it has been rebuilt and restored." }
+  ],
+  "books": [
+    { "title": "Masalik el Absar fi Mamalik el Amsar, I: L'Afrique moins l'Egypte", "author": "Ibn Fadl Allah al-Umari, translated into French by M. Gaudefroy-Demombynes", "year": "1927", "kind": "biography", "free": "https://archive.org/details/india.history.resource.91094", "note": "Written about 1337 by a Cairo official who interviewed people who met Musa. Musa left no writings of his own that survive." },
+    { "title": "Histoire des Berberes et des dynasties musulmanes de l'Afrique septentrionale, vol. 2", "author": "Ibn Khaldun, translated into French by Baron de Slane", "year": "1854", "kind": "biography", "free": "https://archive.org/details/bub_gb_TXVBAAAAIAAJ", "note": "A 14th-century history that includes the kings of Mali and stories from Musa's companions." },
+    { "title": "Travels in Asia and Africa 1325-1354", "author": "Ibn Battuta, translated by H. A. R. Gibb", "year": "1929", "kind": "biography", "free": "https://archive.org/details/pli.kerala.rare.27987", "note": "Ibn Battuta's visit to Mali under Musa's brother, with stories about Musa." },
+    { "title": "African Dominion: A New History of Empire in Early and Medieval West Africa", "author": "Michael A. Gomez", "year": "2018", "kind": "biography", "free": null, "note": "A modern scholarly history of Mali and its rulers (Princeton University Press), cited in the Wikipedia article." }
+  ]
+}

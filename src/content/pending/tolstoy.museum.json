@@ -1,0 +1,1033 @@
+{
+ "sources": {
+  "w-tolstoy": {
+   "label": "Leo Tolstoy (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Leo_Tolstoy"
+  },
+  "w-warpeace": {
+   "label": "War and Peace (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/War_and_Peace"
+  },
+  "w-anna": {
+   "label": "Anna Karenina (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Anna_Karenina"
+  },
+  "w-yasnaya": {
+   "label": "Yasnaya Polyana (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Yasnaya_Polyana"
+  },
+  "w-sophia": {
+   "label": "Sophia Tolstaya (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Sophia_Tolstaya"
+  },
+  "w-confession": {
+   "label": "A Confession (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/A_Confession"
+  },
+  "w-ivan": {
+   "label": "The Death of Ivan Ilyich (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich"
+  },
+  "w-kingdom": {
+   "label": "The Kingdom of God Is Within You (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/The_Kingdom_of_God_Is_Within_You"
+  },
+  "w-resurrection": {
+   "label": "Resurrection (Tolstoy novel) (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Resurrection_(Tolstoy_novel)"
+  },
+  "w-doukhobors": {
+   "label": "Doukhobors (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Doukhobors"
+  },
+  "w-famine": {
+   "label": "Russian famine of 1891-1892 (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Russian_famine_of_1891%E2%80%931892"
+  },
+  "w-hindu": {
+   "label": "A Letter to a Hindu (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/A_Letter_to_a_Hindu"
+  },
+  "w-tolstoyfarm": {
+   "label": "Tolstoy Farm (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Tolstoy_Farm"
+  },
+  "yp-museum": {
+   "label": "Yasnaya Polyana Museum-Estate, About and History (official site)",
+   "url": "https://www.ypmuseum.ru/about?lang=en"
+  },
+  "ws-gandhi": {
+   "label": "Correspondence between Tolstoy and Gandhi (Wikisource)",
+   "url": "https://en.wikisource.org/wiki/Correspondence_between_Tolstoy_and_Gandhi"
+  },
+  "mkg-1910": {
+   "label": "Gandhi's letter to Tolstoy, Johannesburg, 15 August 1910 (mkgandhi.org, Selected Letters)",
+   "url": "https://mkgandhi.org/selectedletters/07tolstoy.php"
+  },
+  "g-warpeace": {
+   "label": "War and Peace, tr. Louise and Aylmer Maude (Project Gutenberg #2600)",
+   "url": "https://www.gutenberg.org/ebooks/2600"
+  },
+  "g-anna": {
+   "label": "Anna Karenina, tr. Constance Garnett (Project Gutenberg #1399)",
+   "url": "https://www.gutenberg.org/ebooks/1399"
+  },
+  "g-kingdom": {
+   "label": "The Kingdom of God Is Within You, tr. Constance Garnett, 1894 (Project Gutenberg #4602)",
+   "url": "https://www.gutenberg.org/ebooks/4602"
+  },
+  "g-art": {
+   "label": "What Is Art?, tr. Aylmer Maude, 1904 edition (Project Gutenberg #64908)",
+   "url": "https://www.gutenberg.org/ebooks/64908"
+  },
+  "g-tales": {
+   "label": "What Men Live By, and Other Tales, tr. Louise and Aylmer Maude (Project Gutenberg #6157)",
+   "url": "https://www.gutenberg.org/ebooks/6157"
+  },
+  "ia-23tales": {
+   "label": "Twenty-Three Tales, tr. L. and A. Maude, Oxford University Press 1906 (Internet Archive)",
+   "url": "https://archive.org/details/cihm_85206"
+  },
+  "g-hindu": {
+   "label": "A Letter to a Hindu, with an introduction by M. K. Gandhi (Project Gutenberg #7176)",
+   "url": "https://www.gutenberg.org/ebooks/7176"
+  },
+  "g-childhood": {
+   "label": "Childhood, tr. C. J. Hogarth (Project Gutenberg #2142)",
+   "url": "https://www.gutenberg.org/ebooks/2142"
+  },
+  "g-maude-life": {
+   "label": "The Life of Tolstoy: First Fifty Years, by Aylmer Maude (Project Gutenberg #52242)",
+   "url": "https://www.gutenberg.org/ebooks/52242"
+  },
+  "ia-bartlett": {
+   "label": "Tolstoy: A Russian Life, by Rosamund Bartlett, 2010 (Internet Archive record)",
+   "url": "https://archive.org/details/tolstoyrussianli0000bart_g0y7"
+  },
+  "ia-wilson": {
+   "label": "Tolstoy, by A. N. Wilson, 1988 (Internet Archive record)",
+   "url": "https://archive.org/details/tolstoy0000wils"
+  }
+ },
+ "timeline": [
+  {
+   "date": "1828-09-09",
+   "age": 0,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "Born on a country estate",
+   "text": "Lev (Leo) Tolstoy was born on 9 September 1828 (28 August in the old Russian calendar) at Yasnaya Polyana, his mother's family estate about 12 km from Tula. He was the fourth of five children of Count Nikolai Tolstoy and Princess Maria Volkonskaya.",
+   "turning": false,
+   "kind": "life",
+   "sources": [
+    "w-tolstoy",
+    "w-yasnaya"
+   ]
+  },
+  {
+   "date": "1830",
+   "age": 2,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "Orphaned young",
+   "text": "His mother died in 1830, when he was two, and his father in 1837, when he was eight. Leo and his brothers and sister were then brought up by relatives.",
+   "turning": false,
+   "kind": "setback",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1844",
+   "age": 16,
+   "place": "Kazan, Kazan Governorate, (Russia)",
+   "title": "A poor student",
+   "text": "He began studying law and oriental languages at Kazan University. His teachers described him as \"both unable and unwilling to learn\", and he left without finishing his degree.",
+   "turning": false,
+   "kind": "setback",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1847",
+   "age": 18,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "Master of Yasnaya Polyana",
+   "text": "He inherited the Yasnaya Polyana estate. In the years that followed he moved between the estate, Moscow, Tula and Saint Petersburg, and ran up gambling debts.",
+   "turning": false,
+   "kind": "life",
+   "sources": [
+    "yp-museum",
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1851",
+   "age": 22,
+   "place": "The Caucasus, (Russia)",
+   "title": "To the Caucasus",
+   "text": "After heavy gambling losses, he went with his older brother to the Caucasus and joined the army.",
+   "turning": false,
+   "kind": "life",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1852",
+   "age": 24,
+   "place": "The Caucasus, (Russia)",
+   "title": "His first book: Childhood",
+   "text": "While still a soldier he published Childhood, his first book. It was the first part of an autobiographical trilogy with Boyhood and Youth (1852 to 1856).",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-tolstoy",
+    "g-childhood"
+   ]
+  },
+  {
+   "date": "1854",
+   "age": 25,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "The family house sold for debts",
+   "text": "To pay his gambling debts he sold the central part of the manor house he was born in. Only the two side wings remained.",
+   "turning": false,
+   "kind": "setback",
+   "sources": [
+    "w-yasnaya"
+   ]
+  },
+  {
+   "date": "1855",
+   "age": 26,
+   "place": "Sevastopol, Crimea, (Ukraine)",
+   "title": "Artillery officer at Sevastopol",
+   "text": "In the Crimean War he served as an artillery officer through the 11-month siege of Sevastopol and was promoted to lieutenant for courage. His Sevastopol Sketches (1855) were based on what he saw there. He left the army after the war.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1857",
+   "age": 28,
+   "place": "Paris, Ile-de-France, (France)",
+   "title": "A public execution in Paris",
+   "text": "On his first trip to Europe he saw a public execution in Paris. It stayed with him for life. He wrote to a friend: \"Henceforth, I shall never serve any government anywhere.\"",
+   "turning": true,
+   "kind": "turning",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1859",
+   "age": 31,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "A school for peasant children",
+   "text": "He opened a school for the peasant children of his estate in a small wing of the house, later called the Kuzminsky House. The museum describes it as a totally new school, based on freedom and creativity, with no forcing of the pupils.",
+   "turning": true,
+   "kind": "work",
+   "sources": [
+    "yp-museum",
+    "w-yasnaya"
+   ]
+  },
+  {
+   "date": "1860",
+   "age": 32,
+   "place": "Western Europe",
+   "title": "His brother Nikolai dies",
+   "text": "The death of his older brother Nikolai hit him hard. It made him think about death and about starting a family of his own.",
+   "turning": false,
+   "kind": "setback",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1861",
+   "age": 32,
+   "place": "Brussels, Brabant, (Belgium)",
+   "title": "Studying schools in Europe",
+   "text": "On a second trip abroad (1860 to 1861) he met the writer Victor Hugo and, in March 1861 in Brussels, the thinker Pierre-Joseph Proudhon. That year Russia freed its serfs, and back home Tolstoy founded 13 schools for peasant children.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1862",
+   "age": 33,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "The schools are shut down",
+   "text": "He published an essay, The School at Yasnaya Polyana, explaining his methods. The schools did not last, partly because the Tsar's secret police harassed them.",
+   "turning": false,
+   "kind": "setback",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1862-09",
+   "age": 34,
+   "place": "Moscow, Moscow Governorate, (Russia)",
+   "title": "Marriage to Sophia Behrs",
+   "text": "In September 1862 he married Sophia (Sonya) Behrs, who was 18. They had 13 children, eight of whom lived past childhood. Sophia came to manage the family estate and copied out his manuscripts.",
+   "turning": false,
+   "kind": "life",
+   "sources": [
+    "w-sophia",
+    "w-tolstoy",
+    "yp-museum"
+   ]
+  },
+  {
+   "date": "1863",
+   "age": 35,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "Beginning War and Peace",
+   "text": "He published The Cossacks and began a huge novel about Russian families in the years of Napoleon. A first draft was finished that year.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-tolstoy",
+    "w-warpeace"
+   ]
+  },
+  {
+   "date": "1865",
+   "age": 36,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "\"1805\" in a magazine",
+   "text": "The opening parts appeared in the magazine The Russian Messenger from 1865 to 1867 under the title 1805. Tolstoy then rewrote the book heavily, and Sophia copied out complete manuscripts as many as seven times.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-warpeace",
+    "w-sophia"
+   ]
+  },
+  {
+   "date": "1869",
+   "age": 41,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "War and Peace is complete",
+   "text": "The full War and Peace appeared in 1869: 361 chapters following families from 1805 through Napoleon's invasion of Russia in 1812 and the battle of Borodino. Tolstoy said it was \"not a novel, even less is it a poem, and still less a historical chronicle.\"",
+   "turning": true,
+   "kind": "work",
+   "sources": [
+    "w-warpeace",
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1871",
+   "age": 43,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "Reading books for children",
+   "text": "From 1871 to 1874 he wrote fables, folk-style verse and short stories for his own school reading books, the New Azbuka (ABC) and the Russian Book for Reading.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1875",
+   "age": 46,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "Anna Karenina in parts",
+   "text": "Anna Karenina began to appear in instalments, mostly in The Russian Messenger, from 1875 to 1877. Beside Anna's tragic story runs the story of Levin, a landowner searching for meaning, who is often seen as a picture of Tolstoy himself.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-anna"
+   ]
+  },
+  {
+   "date": "1878",
+   "age": 49,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "Anna Karenina as a book, and a crisis",
+   "text": "The novel came out as a book in 1878 (sources give 1877 or 1878 for its completion). Tolstoy finished it reluctantly. In these years he fell into a deep crisis about the meaning of life.",
+   "turning": false,
+   "kind": "setback",
+   "sources": [
+    "w-anna",
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1882",
+   "age": 53,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "A Confession",
+   "text": "He wrote A Confession in 1879 to 1880, an honest account of his crisis and how he found meaning again in faith. When it appeared in a journal in 1882 the church censor cut it out. It was printed in Geneva in 1884.",
+   "turning": true,
+   "kind": "turning",
+   "sources": [
+    "w-confession",
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1884",
+   "age": 55,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "What I Believe",
+   "text": "In What I Believe he openly set out his own Christian beliefs, which had grown out of his crisis.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1886",
+   "age": 57,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "The Death of Ivan Ilyich",
+   "text": "His short novel about a judge who faces death and sees his comfortable life as hollow was published. It is counted among the finest short novels ever written.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-ivan"
+   ]
+  },
+  {
+   "date": "1891",
+   "age": 63,
+   "place": "Samara Governorate, (Russia)",
+   "title": "Famine relief",
+   "text": "During the famine of 1891 to 1892 he was the best-known volunteer in the relief effort, and he criticised how the Tsar's government and the church handled it.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-famine",
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1894",
+   "age": 65,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "The Kingdom of God Is Within You",
+   "text": "His book arguing that people should refuse violence, even in defence, was banned in Russia and first published in Germany. Constance Garnett translated it into English the same year. Mohandas Gandhi, then a young protester in South Africa, later wrote that it \"overwhelmed\" him.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-kingdom",
+    "g-kingdom"
+   ]
+  },
+  {
+   "date": "1899",
+   "age": 70,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "Resurrection, written to help others",
+   "text": "He wrote the novel Resurrection to raise money for the Doukhobors, a pacifist group persecuted for refusing military service, and gave the earnings to their move to Canada. About 7,500 Doukhobors reached Canada that year.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-resurrection",
+    "w-doukhobors"
+   ]
+  },
+  {
+   "date": "1901",
+   "age": 72,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "Excommunicated",
+   "text": "The Holy Synod of the Russian Orthodox Church excommunicated him, partly because of Resurrection. The same year he was nominated for the Nobel Peace Prize.",
+   "turning": false,
+   "kind": "setback",
+   "sources": [
+    "w-tolstoy",
+    "w-resurrection"
+   ]
+  },
+  {
+   "date": "1906",
+   "age": 78,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "He asks not to win the Nobel",
+   "text": "Nominated for the Nobel Prize in Literature every year from 1902 to 1906, he asked an acquaintance in Sweden to make sure he was not chosen, because he did not want the prize money. He never won.",
+   "turning": false,
+   "kind": "life",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1908-12-14",
+   "age": 80,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "A Letter to a Hindu",
+   "text": "He answered an Indian activist, Tarak Nath Das, with a long letter arguing that India could free itself only through love and peaceful resistance, not violence. It took seven months and 29 drafts. That year his 80th birthday was filmed and his voice recorded.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "w-hindu",
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1909-10",
+   "age": 81,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "Letters with Gandhi begin",
+   "text": "Gandhi, then leading the Indian protest in South Africa, wrote from London on 1 October 1909 to ask permission to reprint the letter. Tolstoy replied warmly on 7 October. Their letters went on until Tolstoy's death.",
+   "turning": true,
+   "kind": "turning",
+   "sources": [
+    "ws-gandhi",
+    "w-hindu",
+    "g-hindu"
+   ]
+  },
+  {
+   "date": "1910-08",
+   "age": 81,
+   "place": "Johannesburg, Transvaal, (South Africa)",
+   "title": "A farm named Tolstoy",
+   "text": "Gandhi wrote that his friend Hermann Kallenbach had named his farm after Tolstoy. Tolstoy Farm became the base of the peaceful protest campaign against unfair laws for Indians in the Transvaal.",
+   "turning": false,
+   "kind": "legacy",
+   "sources": [
+    "mkg-1910",
+    "w-tolstoyfarm"
+   ]
+  },
+  {
+   "date": "1910-09",
+   "age": 82,
+   "place": "Kochety, Oryol Governorate, (Russia)",
+   "title": "His last long letter to Gandhi",
+   "text": "On 7 September 1910 (old calendar) he wrote to Gandhi that love is the highest law of life, and that the peaceful struggle in the Transvaal was a practical proof of it.",
+   "turning": false,
+   "kind": "work",
+   "sources": [
+    "ws-gandhi"
+   ]
+  },
+  {
+   "date": "1910-11-10",
+   "age": 82,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "Leaving home",
+   "text": "His last years with Sophia were unhappy. They argued over his wish to give away his property, and their children took sides. On 28 October 1910 (old calendar), aged 82, he left home suddenly, with his daughter Alexandra and his doctor, Dušan Makovický. One account says he left after hearing Sophia search his study for his will.",
+   "turning": true,
+   "kind": "turning",
+   "sources": [
+    "yp-museum",
+    "w-sophia",
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1910-11-20",
+   "age": 82,
+   "place": "Astapovo, Ryazan Governorate, (Russia)",
+   "title": "Death at a railway station",
+   "text": "After a day's train journey south he fell gravely ill, and the stationmaster at Astapovo took him into his home. He died there of pneumonia on 20 November 1910 (7 November in the old calendar).",
+   "turning": false,
+   "kind": "life",
+   "sources": [
+    "w-tolstoy",
+    "yp-museum"
+   ]
+  },
+  {
+   "date": "1910-11-22",
+   "age": null,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "A simple grave in the forest",
+   "text": "As he had wished, he was buried in an unadorned grave on the edge of a ravine in the Old Zakaz forest at Yasnaya Polyana, at a spot his brother Nikolai had named \"the place of the green wand\". About 2,000 people came to the funeral.",
+   "turning": false,
+   "kind": "life",
+   "sources": [
+    "yp-museum",
+    "w-yasnaya",
+    "w-tolstoy"
+   ]
+  },
+  {
+   "date": "1921",
+   "age": null,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "His home becomes a museum",
+   "text": "Yasnaya Polyana was declared a state museum and nature reserve in 1921, with a library, a school and tours. Today it keeps his house, the peasant school building and his grave.",
+   "turning": false,
+   "kind": "legacy",
+   "sources": [
+    "yp-museum",
+    "w-yasnaya"
+   ]
+  },
+  {
+   "date": "1941",
+   "age": null,
+   "place": "Yasnaya Polyana, Tula Governorate, (Russia)",
+   "title": "Saved and restored",
+   "text": "In the Second World War, 110 crates of his belongings were sent east for safety before the estate was occupied for 45 days. A fire damaged the house, and after the war it was restored to look as it did in his lifetime.",
+   "turning": false,
+   "kind": "legacy",
+   "sources": [
+    "w-yasnaya"
+   ]
+  }
+ ],
+ "feature": {
+  "nav": "Books & School",
+  "title": "Books and the school",
+  "lead": "Tolstoy wrote two of the greatest novels ever, but he also taught village children and wrote plain books for them. In old age his letters on peaceful resistance reached a young Gandhi.",
+  "style": "cards",
+  "items": [
+   {
+    "label": "Childhood",
+    "date": "1852",
+    "place": "The Caucasus, Russia",
+    "text": "His first published book, written while he was a young soldier: an autobiographical novel that began a trilogy with Boyhood and Youth.",
+    "url": "https://www.gutenberg.org/ebooks/2142",
+    "sources": [
+     "w-tolstoy",
+     "g-childhood"
+    ]
+   },
+   {
+    "label": "Sevastopol Sketches",
+    "date": "1855",
+    "place": "Sevastopol, Crimea",
+    "text": "Sketches from the siege of Sevastopol in the Crimean War, where he served as an artillery officer and was promoted for courage.",
+    "sources": [
+     "w-tolstoy"
+    ]
+   },
+   {
+    "label": "The Yasnaya Polyana school",
+    "date": "1859",
+    "place": "Yasnaya Polyana, Russia",
+    "text": "A free school for the peasant children of his estate, built on freedom and creativity with no forcing of pupils. The building, the Kuzminsky House, is part of the museum today.",
+    "url": "https://www.ypmuseum.ru/about?lang=en",
+    "sources": [
+     "yp-museum",
+     "w-yasnaya"
+    ]
+   },
+   {
+    "label": "Thirteen village schools",
+    "date": "1861",
+    "place": "Around Yasnaya Polyana, Russia",
+    "text": "After the serfs were freed he opened 13 schools for peasant children and wrote about his methods. Harassment by the secret police helped close them soon after.",
+    "sources": [
+     "w-tolstoy"
+    ]
+   },
+   {
+    "label": "War and Peace",
+    "date": "1869",
+    "place": "Yasnaya Polyana, Russia",
+    "text": "Families, love and war in Russia from 1805 to Napoleon's invasion of 1812. Six years of work, many rewrites, and drafts copied out by Sophia again and again.",
+    "url": "https://www.gutenberg.org/ebooks/2600",
+    "sources": [
+     "w-warpeace",
+     "g-warpeace"
+    ]
+   },
+   {
+    "label": "The ABC books",
+    "date": "1872",
+    "place": "Yasnaya Polyana, Russia",
+    "text": "Between 1871 and 1874 he wrote fables, folk verse and short stories for his New Azbuka (ABC) and Russian Book for Reading, school books for children learning to read.",
+    "sources": [
+     "w-tolstoy"
+    ]
+   },
+   {
+    "label": "Anna Karenina",
+    "date": "1878",
+    "place": "Yasnaya Polyana, Russia",
+    "text": "Anna's tragic love story runs beside Levin's search for a good life on the land. It opens with one of the most famous first lines in fiction, about happy and unhappy families.",
+    "url": "https://www.gutenberg.org/ebooks/1399",
+    "sources": [
+     "w-anna",
+     "g-anna"
+    ]
+   },
+   {
+    "label": "A Confession",
+    "date": "1882",
+    "place": "Moscow, Russia",
+    "text": "A short, honest book about his crisis in mid-life and how he found meaning again. The church censor cut it from the journal it appeared in.",
+    "url": "https://en.wikipedia.org/wiki/A_Confession",
+    "sources": [
+     "w-confession"
+    ]
+   },
+   {
+    "label": "The Death of Ivan Ilyich",
+    "date": "1886",
+    "place": "Moscow, Russia",
+    "text": "A judge facing death sees how empty his comfortable life has been. One of the great short novels of world literature.",
+    "sources": [
+     "w-ivan"
+    ]
+   },
+   {
+    "label": "The Kingdom of God Is Within You",
+    "date": "1894",
+    "place": "Published in Germany",
+    "text": "His case for refusing all violence, banned in Russia. Gandhi called it one of the three most important modern influences on his life.",
+    "url": "https://www.gutenberg.org/ebooks/4602",
+    "sources": [
+     "w-kingdom",
+     "g-kingdom"
+    ]
+   },
+   {
+    "label": "What Is Art?",
+    "date": "1898",
+    "place": "Yasnaya Polyana, Russia",
+    "text": "A long essay arguing that true art passes real feelings from one person to others, and should be understood by ordinary people.",
+    "url": "https://www.gutenberg.org/ebooks/64908",
+    "sources": [
+     "g-art"
+    ]
+   },
+   {
+    "label": "Resurrection",
+    "date": "1899",
+    "place": "Yasnaya Polyana, Russia",
+    "text": "His last big novel, written to pay for the Doukhobors' move to Canada. It also helped bring about his excommunication.",
+    "url": "https://www.gutenberg.org/ebooks/1938",
+    "sources": [
+     "w-resurrection",
+     "w-doukhobors"
+    ]
+   },
+   {
+    "label": "Twenty-Three Tales",
+    "date": "1906",
+    "place": "Translated in England",
+    "text": "Short tales in plain language, such as What Men Live By and Three Questions, collected in English by Louise and Aylmer Maude.",
+    "url": "https://www.gutenberg.org/ebooks/6157",
+    "sources": [
+     "g-tales",
+     "ia-23tales"
+    ]
+   },
+   {
+    "label": "A Letter to a Hindu",
+    "date": "1908",
+    "place": "Yasnaya Polyana, Russia",
+    "text": "His reply to an Indian activist: freedom would come through love and peaceful resistance. Gandhi translated it into Gujarati and printed it with his own introduction.",
+    "url": "https://www.gutenberg.org/ebooks/7176",
+    "sources": [
+     "w-hindu",
+     "g-hindu"
+    ]
+   },
+   {
+    "label": "Letters with Gandhi",
+    "date": "1909-1910",
+    "place": "Yasnaya Polyana and Johannesburg",
+    "text": "Letters passed between them from October 1909 to September 1910. The last, from Tolstoy, calls love the highest law of life.",
+    "url": "https://en.wikisource.org/wiki/Correspondence_between_Tolstoy_and_Gandhi",
+    "sources": [
+     "ws-gandhi",
+     "w-hindu"
+    ]
+   },
+   {
+    "label": "Tolstoy Farm",
+    "date": "1910",
+    "place": "Transvaal, South Africa",
+    "text": "Gandhi's friend Hermann Kallenbach named his farm after Tolstoy, and it became the base of their peaceful protest campaign.",
+    "url": "https://mkgandhi.org/selectedletters/07tolstoy.php",
+    "sources": [
+     "mkg-1910",
+     "w-tolstoyfarm"
+    ]
+   }
+  ]
+ },
+ "works": [
+  {
+   "year": "1852",
+   "type": "book",
+   "title": "Childhood",
+   "text": "His first published book, the start of a trilogy with Boyhood and Youth (1852 to 1856).",
+   "sources": [
+    "w-tolstoy",
+    "g-childhood"
+   ],
+   "url": "https://www.gutenberg.org/ebooks/2142"
+  },
+  {
+   "year": "1855",
+   "type": "book",
+   "title": "Sevastopol Sketches",
+   "text": "Stories drawn from his service in the siege of Sevastopol in the Crimean War.",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "year": "1859",
+   "type": "school",
+   "title": "The Yasnaya Polyana school",
+   "text": "A school for peasant children on his estate, run on freedom and creativity rather than force.",
+   "sources": [
+    "yp-museum",
+    "w-yasnaya"
+   ]
+  },
+  {
+   "year": "1863",
+   "type": "novel",
+   "title": "The Cossacks",
+   "text": "A short novel drawn from his years as a young man in the Caucasus.",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "year": "1869",
+   "type": "novel",
+   "title": "War and Peace",
+   "text": "His epic of Russian families in the age of Napoleon, first serialised as 1805 from 1865 and published complete in 1869.",
+   "sources": [
+    "w-warpeace",
+    "g-warpeace"
+   ],
+   "url": "https://www.gutenberg.org/ebooks/2600"
+  },
+  {
+   "year": "1872",
+   "type": "book",
+   "title": "The ABC books (New Azbuka and Russian Book for Reading)",
+   "text": "Fables, folk verse and short stories he wrote for children learning to read, from 1871 to 1874.",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "year": "1878",
+   "type": "novel",
+   "title": "Anna Karenina",
+   "text": "Serialised 1875 to 1877 and published as a book in 1878. Tolstoy called it his first true novel.",
+   "sources": [
+    "w-anna",
+    "g-anna"
+   ],
+   "url": "https://www.gutenberg.org/ebooks/1399"
+  },
+  {
+   "year": "1882",
+   "type": "book",
+   "title": "A Confession",
+   "text": "His account of his mid-life crisis and search for meaning, censored in Russia and printed in Geneva in 1884.",
+   "sources": [
+    "w-confession"
+   ]
+  },
+  {
+   "year": "1884",
+   "type": "book",
+   "title": "What I Believe",
+   "text": "An open statement of the Christian beliefs he came to after his crisis.",
+   "sources": [
+    "w-tolstoy"
+   ]
+  },
+  {
+   "year": "1886",
+   "type": "novella",
+   "title": "The Death of Ivan Ilyich",
+   "text": "A judge's slow death and late awakening; a masterpiece of his later fiction.",
+   "sources": [
+    "w-ivan"
+   ]
+  },
+  {
+   "year": "1889",
+   "type": "novella",
+   "title": "The Kreutzer Sonata",
+   "text": "A short novel about jealousy and marriage. Sophia later wrote two stories in reply to it.",
+   "sources": [
+    "w-tolstoy",
+    "w-sophia"
+   ]
+  },
+  {
+   "year": "1894",
+   "type": "book",
+   "title": "The Kingdom of God Is Within You",
+   "text": "His case for nonviolence, banned in Russia and first published in Germany. It shaped Gandhi's thinking.",
+   "sources": [
+    "w-kingdom",
+    "g-kingdom"
+   ],
+   "url": "https://www.gutenberg.org/ebooks/4602"
+  },
+  {
+   "year": "1898",
+   "type": "essay",
+   "title": "What Is Art?",
+   "text": "His argument that art is the passing on of real feelings, and should speak to everyone.",
+   "sources": [
+    "g-art"
+   ],
+   "url": "https://www.gutenberg.org/ebooks/64908"
+  },
+  {
+   "year": "1899",
+   "type": "novel",
+   "title": "Resurrection",
+   "text": "A novel about guilt and making amends, written to fund the Doukhobors' emigration to Canada.",
+   "sources": [
+    "w-resurrection",
+    "w-doukhobors"
+   ],
+   "url": "https://www.gutenberg.org/ebooks/1938"
+  },
+  {
+   "year": "1903",
+   "type": "story",
+   "title": "Three Questions",
+   "text": "A short tale whose answer is: the most important time is now, and the most important person is the one in front of you. Sources give different dates for it.",
+   "sources": [
+    "g-tales",
+    "ia-23tales"
+   ],
+   "url": "https://www.gutenberg.org/ebooks/6157"
+  },
+  {
+   "year": "1908",
+   "type": "letter",
+   "title": "A Letter to a Hindu",
+   "text": "A 6,000-word letter on winning freedom through love and peaceful resistance, later printed by Gandhi.",
+   "sources": [
+    "w-hindu",
+    "g-hindu"
+   ],
+   "url": "https://www.gutenberg.org/ebooks/7176"
+  },
+  {
+   "year": "1909",
+   "type": "letters",
+   "title": "Correspondence with Gandhi",
+   "text": "Letters exchanged between October 1909 and September 1910 on nonviolence and love.",
+   "sources": [
+    "ws-gandhi",
+    "mkg-1910"
+   ],
+   "url": "https://en.wikisource.org/wiki/Correspondence_between_Tolstoy_and_Gandhi"
+  }
+ ],
+ "resources": [
+  {
+   "label": "War and Peace, tr. Louise and Aylmer Maude (Project Gutenberg #2600)",
+   "url": "https://www.gutenberg.org/ebooks/2600",
+   "what": "The full novel in the Maude translation, free to read or download."
+  },
+  {
+   "label": "Anna Karenina, tr. Constance Garnett (Project Gutenberg #1399)",
+   "url": "https://www.gutenberg.org/ebooks/1399",
+   "what": "The full novel in Constance Garnett's 1901 translation."
+  },
+  {
+   "label": "The Kingdom of God Is Within You (Project Gutenberg #4602)",
+   "url": "https://www.gutenberg.org/ebooks/4602",
+   "what": "The 1894 Garnett translation of the book that moved Gandhi."
+  },
+  {
+   "label": "What Is Art? (Project Gutenberg #64908)",
+   "url": "https://www.gutenberg.org/ebooks/64908",
+   "what": "Aylmer Maude's translation of Tolstoy's essay on art, 1904 edition."
+  },
+  {
+   "label": "What Men Live By, and Other Tales (Project Gutenberg #6157)",
+   "url": "https://www.gutenberg.org/ebooks/6157",
+   "what": "Short tales in plain language, including Three Questions, tr. Louise and Aylmer Maude."
+  },
+  {
+   "label": "Twenty-Three Tales, 1906 (Internet Archive)",
+   "url": "https://archive.org/details/cihm_85206",
+   "what": "A scan of the 1906 Oxford University Press edition of the Maudes' translation."
+  },
+  {
+   "label": "A Letter to a Hindu (Project Gutenberg #7176)",
+   "url": "https://www.gutenberg.org/ebooks/7176",
+   "what": "Tolstoy's 1908 letter on nonviolence, with Gandhi's introduction of 1909."
+  },
+  {
+   "label": "Correspondence between Tolstoy and Gandhi (Wikisource)",
+   "url": "https://en.wikisource.org/wiki/Correspondence_between_Tolstoy_and_Gandhi",
+   "what": "The letters the two men exchanged in 1909 and 1910."
+  },
+  {
+   "label": "Gandhi's Selected Letters: to Tolstoy, 15 August 1910 (mkgandhi.org)",
+   "url": "https://mkgandhi.org/selectedletters/07tolstoy.php",
+   "what": "Gandhi tells Tolstoy that a farm in South Africa has been named after him."
+  },
+  {
+   "label": "Yasnaya Polyana Museum-Estate (official site)",
+   "url": "https://www.ypmuseum.ru/about?lang=en",
+   "what": "History of the estate, the school, the house and his grave."
+  }
+ ],
+ "books": [
+  {
+   "title": "War and Peace",
+   "author": "Leo Tolstoy, translated by Louise and Aylmer Maude",
+   "year": "1869",
+   "kind": "by-him",
+   "free": "https://www.gutenberg.org/ebooks/2600",
+   "note": "Long but very readable. Start with Book One and follow the Rostov family."
+  },
+  {
+   "title": "Anna Karenina",
+   "author": "Leo Tolstoy, translated by Constance Garnett",
+   "year": "1878",
+   "kind": "by-him",
+   "free": "https://www.gutenberg.org/ebooks/1399",
+   "note": "Read the mowing chapters in Part 3 to see Levin, and Tolstoy, at his happiest."
+  },
+  {
+   "title": "What Men Live By, and Other Tales",
+   "author": "Leo Tolstoy, translated by Louise and Aylmer Maude",
+   "year": "1906",
+   "kind": "by-him",
+   "free": "https://www.gutenberg.org/ebooks/6157",
+   "note": "Short, simple stories from his later years; a good first taste of Tolstoy."
+  },
+  {
+   "title": "The Life of Tolstoy: First Fifty Years",
+   "author": "Aylmer Maude",
+   "year": "1908",
+   "kind": "biography",
+   "free": "https://www.gutenberg.org/ebooks/52242",
+   "note": "By his English translator. A second volume, Later Years, followed."
+  },
+  {
+   "title": "Tolstoy",
+   "author": "A. N. Wilson",
+   "year": "1988",
+   "kind": "biography",
+   "free": null,
+   "note": "A lively modern biography, quoted in the Wikipedia article on Tolstoy."
+  },
+  {
+   "title": "Tolstoy: A Russian Life",
+   "author": "Rosamund Bartlett",
+   "year": "2010",
+   "kind": "biography",
+   "free": null,
+   "note": "A detailed modern life story, published a century after his death."
+  }
+ ]
+}

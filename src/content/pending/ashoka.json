@@ -1,0 +1,63 @@
+{
+  "id": "ashoka",
+  "name": "Ashoka the Great",
+  "years": "c. 304 BC - 232 BC",
+  "title": "The Emperor of Dhamma",
+  "tagline": "After conquering Kalinga, he said in public that he regretted the cost. Then he carved rules of kindness, tolerance and care into rocks and pillars for his people to read.",
+  "sources": {
+    "w-ashoka": { "label": "Ashoka (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ashoka" },
+    "w-edicts": { "label": "Edicts of Ashoka (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Edicts_of_Ashoka" },
+    "w-mre": { "label": "Major Rock Edicts (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Major_Rock_Edicts" },
+    "ia-smith": { "label": "Asoka, the Buddhist Emperor of India, Vincent A. Smith, 2nd ed., Clarendon Press 1909 (Internet Archive)", "url": "https://archive.org/details/asokabuddhistem00smit" },
+    "ia-hultzsch": { "label": "Inscriptions of Asoka, new edition by E. Hultzsch, Corpus Inscriptionum Indicarum vol. 1, 1925 (Internet Archive)", "url": "https://archive.org/details/inscriptions-of-asoka" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Count the real cost",
+      "idea": "In Rock Edict 13, Ashoka did something rare for a ruler: he wrote in public that his own conquest of Kalinga had brought death, captivity and grief, and that he regretted it. He did not hide the cost of his victory. He used it to change course.",
+      "quote": { "text": "Thus arose His Sacred Majesty's remorse for having conquered the Kalingas...", "credit": "Rock Edict XIII (Shahbazgarhi text), tr. Vincent A. Smith, Asoka, p. 172 (1909)" },
+      "practice": "Think of one win in your life that cost someone else something. Write down who paid for it and one small way to make it right.",
+      "sources": ["ia-smith", "w-mre", "w-ashoka"]
+    },
+    {
+      "title": "Respect other beliefs",
+      "idea": "Ashoka followed the Buddha's teaching, but he also gave gifts to other groups, such as the Ajivika ascetics. Rock Edict 12 asks people to listen to other faiths and warns that running down other people's beliefs only harms your own.",
+      "quote": { "text": "For he who does reverence to his own sect while disparaging the sects of others wholly from attachment to his own, with intent to enhance the splendour of his own sect, in reality by such conduct inflicts the severest injury on his own sect.", "credit": "Rock Edict XII, tr. Vincent A. Smith, Asoka, p. 171 (1909)" },
+      "practice": "Learn one thing today about a belief or tradition that is not yours, from a respectful source. Say one good thing about it.",
+      "sources": ["ia-smith", "w-edicts"]
+    },
+    {
+      "title": "Care people can feel",
+      "idea": "Ashoka's edicts list plain, useful work: medical care for people and animals, medicinal plants, wells, rest houses and shade trees along the roads. Good intentions became things a traveller could touch.",
+      "quote": { "text": "On the roads, too, I have had banyan-trees planted to give shade to man and beast...", "credit": "Pillar Edict VII, tr. Vincent A. Smith, Asoka, p. 192 (1909)" },
+      "practice": "Do one small thing today that makes a shared place better for the next person, like refilling, tidying or fixing something.",
+      "sources": ["ia-smith", "w-edicts"]
+    },
+    {
+      "title": "Stay within reach",
+      "idea": "In Rock Edict 6, Ashoka told his officials to report public business to him at any hour and in any place. He said he never felt satisfied with his work, because the welfare of all people depended on effort and getting business done.",
+      "quote": { "text": "For the welfare of all folk is what I must work for — and the root of that, again, is in effort and the dispatch of business.", "credit": "Rock Edict VI, tr. Vincent A. Smith, Asoka, p. 164 (1909)" },
+      "practice": "Find one message, request or task someone is waiting on from you. Answer it or finish it today.",
+      "sources": ["ia-smith", "w-mre"]
+    },
+    {
+      "title": "Small and great",
+      "idea": "In one of his earliest inscriptions, Ashoka said that the good life was not only for important people. Anyone who made the effort could reach it, and he wanted this lesson to spread to his neighbours too.",
+      "quote": { "text": "Let small and great exert themselves.", "credit": "Minor Rock Edict I (Rupnath text), tr. Vincent A. Smith, Asoka, p. 150 (1909)" },
+      "practice": "Encourage one person today who thinks a goal is not for someone like them. Tell them one first step.",
+      "sources": ["ia-smith", "w-edicts"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Count the cost", "action": "Write down one win from your past and who else paid for it. Note one way to make it right." },
+    { "day": 2, "title": "Another view", "action": "Learn one thing about a belief or tradition that is not yours. Say one good thing about it to someone." },
+    { "day": 3, "title": "Plant shade", "action": "Do one small thing that makes a shared place better for the next person, without being asked." },
+    { "day": 4, "title": "Any hour", "action": "Clear one message or task that someone has been waiting on from you." },
+    { "day": 5, "title": "Kind to creatures", "action": "Do one kind thing for an animal today, such as putting out clean water for birds or walking a neighbour's dog." },
+    { "day": 6, "title": "Carve it in stone", "action": "Like Ashoka's edicts, write three short rules you want to live by and put them where you will see them every day.", "sources": ["w-edicts"] },
+    { "day": 7, "title": "Small and great", "action": "Encourage one person who doubts themselves. Help them take the first small step." }
+  ],
+  "reflect": "What is one victory in your life that cost someone else more than you noticed at the time, and what would you do differently now?",
+  "keepsake": "Ashoka the Great Builder Collectible"
+}

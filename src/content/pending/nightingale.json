@@ -1,0 +1,62 @@
+{
+  "id": "nightingale",
+  "name": "Florence Nightingale",
+  "years": "1820 - 1910",
+  "title": "The Nurse Who Counted",
+  "tagline": "She cared for sick soldiers by lamplight, then counted why they died and drew charts that made leaders change the rules.",
+  "sources": {
+    "w-fn": { "label": "Florence Nightingale (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Florence_Nightingale" },
+    "w-non": { "label": "Notes on Nursing (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Notes_on_Nursing" },
+    "gut-non": { "label": "Notes on Nursing: What It Is, and What It Is Not, by Florence Nightingale (Project Gutenberg #12439)", "url": "https://www.gutenberg.org/ebooks/12439" },
+    "w-pie": { "label": "Pie chart, history section on Nightingale's polar area diagram (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Pie_chart" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Learn to see",
+      "idea": "Nightingale believed good care starts with close watching. A nurse should know which signs matter, which do not, and what they say about how a patient is doing.",
+      "quote": { "text": "The most important practical lesson that can be given to nurses is to teach them what to observe--how to observe--what symptoms indicate improvement--what the reverse--which are of importance--which are of none...", "credit": "Notes on Nursing, ch. XIII, Observation of the Sick (1859)" },
+      "practice": "Pick one thing you care about, like your sleep or a plant. Watch it for a day and write down three things you notice that you never noticed before.",
+      "sources": ["gut-non", "w-non"]
+    },
+    {
+      "title": "Look past the average",
+      "idea": "She used numbers all her life, but she warned that an average can hide the real story. To find what is wrong, you must also look at the actual conditions in each place.",
+      "quote": { "text": "A want of the habit of observing conditions and an inveterate habit of taking averages are each of them often equally misleading.", "credit": "Notes on Nursing, ch. XIII, Observation of the Sick (1859)" },
+      "practice": "Look at one number in your life, like an average grade or weekly spending. Find the one day or item that pulls it up or down the most.",
+      "sources": ["gut-non"]
+    },
+    {
+      "title": "Fix the system, not just the moment",
+      "idea": "She knew one person cannot be everywhere. A good leader sets things up so the right thing happens even when she is away. That idea drove her reforms of hospitals and the army.",
+      "quote": { "text": "...let whoever is in charge keep this simple question in her head (not, how can I always do this right thing myself, but) how can I provide for this right thing to be always done?", "credit": "Notes on Nursing, ch. III, Petty Management (1859)" },
+      "practice": "Think of a task that only goes well when you remember it. Write a simple checklist or reminder so it goes well every time.",
+      "sources": ["gut-non", "w-fn"]
+    },
+    {
+      "title": "Get the basics right",
+      "idea": "Her book on nursing spends most of its pages on simple things: fresh air, light, quiet, clean rooms and good food. She saw that small daily conditions shape health more than people think.",
+      "quote": { "text": "It is the unqualified result of all my experience with the sick, that second only to their need of fresh air is their need of light...", "credit": "Notes on Nursing, ch. IX, Light (1859)" },
+      "practice": "Today, open a window for ten minutes and let daylight into the room where you spend the most time. Notice how it feels.",
+      "sources": ["gut-non", "w-non"]
+    },
+    {
+      "title": "Health is everyone's business",
+      "idea": "Nightingale wrote her nursing book for ordinary people at home, not only for experts. She believed the rules for staying well are the same rules that help the sick get better.",
+      "quote": { "text": "The same laws of health or of nursing, for they are in reality the same, obtain among the well as among the sick.", "credit": "Notes on Nursing, Introduction (1859)" },
+      "practice": "Share one simple health habit, like washing hands or airing a room, with someone at home. Explain why it helps in one sentence.",
+      "sources": ["gut-non", "w-non"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Watch closely", "action": "Choose one small thing to observe today, like your energy after meals. Write down what you see three times during the day." },
+    { "day": 2, "title": "Count it", "action": "Keep a simple tally of one habit today, like glasses of water or minutes outside. Just count, do not judge.", "sources": ["w-fn"] },
+    { "day": 3, "title": "Draw it", "action": "Turn your tally into a simple picture: bars, dots or a circle. Ask a friend what they see in it at a glance.", "sources": ["w-pie"] },
+    { "day": 4, "title": "Air and light", "action": "Open a window and let in daylight where you work or study. Notice if it changes how you feel." },
+    { "day": 5, "title": "Behind the average", "action": "Look at a week of any numbers you track. Find the one day that was very different and write why." },
+    { "day": 6, "title": "Make it automatic", "action": "Pick one task that keeps slipping. Set up a checklist or reminder so it gets done even when you forget." },
+    { "day": 7, "title": "Your report", "action": "Write five lines on what your week of watching and counting taught you, and one change you will keep." }
+  ],
+  "reflect": "What is one thing in your life you could understand better if you watched it closely and counted it for a week?",
+  "keepsake": "Florence Nightingale Builder Collectible"
+}

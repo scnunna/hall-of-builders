@@ -1,0 +1,619 @@
+{
+  "sources": {
+    "w-gutenberg": { "label": "Johannes Gutenberg (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Johannes_Gutenberg" },
+    "de-gutenberg": { "label": "Johannes Gutenberg (German Wikipedia)", "url": "https://de.wikipedia.org/wiki/Johannes_Gutenberg" },
+    "w-bible": { "label": "Gutenberg Bible (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Gutenberg_Bible" },
+    "w-press": { "label": "Printing press (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Printing_press" },
+    "w-catholicon": { "label": "Catholicon (1286) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Catholicon_(1286)" },
+    "w-fust": { "label": "Johann Fust (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Johann_Fust" },
+    "w-schoeffer": { "label": "Peter Schöffer (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Peter_Sch%C3%B6ffer" },
+    "w-museum": { "label": "Gutenberg Museum (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Gutenberg_Museum" },
+    "loc-blog": { "label": "Man Behind the Bible: Johannes Gutenberg's Life of Adventure and Art, Library of Congress blog (2023)", "url": "https://blogs.loc.gov/international-collections/2023/10/man-behind-the-bible-johannes-gutenbergs-life-of-adventure-and-art-loclr-blogint/" },
+    "loc-exhibit": { "label": "The Gutenberg Bible, Library of Congress exhibition page", "url": "https://www.loc.gov/exhibits/bibles/interactives/gutenberg/index.html" },
+    "hrc": { "label": "The Gutenberg Bible, Harry Ransom Center, University of Texas at Austin", "url": "https://www.hrc.utexas.edu/gutenberg-bible/" },
+    "rylands": { "label": "Introducing the Early European Print Collection, John Rylands Research Institute and Library (2025)", "url": "https://rylandscollections.com/2025/07/31/introducing-the-early-european-print-collection/" },
+    "sub-gd": { "label": "Gutenberg Digital: Göttingen Gutenberg Bible, Model Book and Helmasperger Instrument (SUB Göttingen)", "url": "https://gutenberg-digital.p.sub.uni-goettingen.de/vorversion/inhaltcd_en.htm" },
+    "devinne": { "label": "The Invention of Printing, Theodore Low De Vinne (1876), with English translations of the court records (Internet Archive)", "url": "https://archive.org/details/inventionofprint00deviuoft" }
+  },
+  "feature": {
+    "nav": "Print a Bible",
+    "title": "How a Bible was printed",
+    "lead": "Gutenberg's real invention was a whole chain of steps, from melting metal to selling finished books. Follow one Bible from the secret workshop to the libraries that hold the copies today.",
+    "style": "route",
+    "items": [
+      {
+        "label": "A secret in Strasbourg",
+        "date": "1439",
+        "place": "Strasbourg, Alsace, (France)",
+        "text": "Court records from 1439 speak of lead, a press, metal 'forms' and a tool of 'four pieces' that Gutenberg wanted taken apart so no one could see what it was. A goldsmith said Gutenberg had paid him about 100 guilders for work connected with printing.",
+        "url": "https://archive.org/details/inventionofprint00deviuoft",
+        "sources": ["devinne", "loc-blog"]
+      },
+      {
+        "label": "Punches and matrices",
+        "text": "Each letter was traditionally cut in reverse on the end of a hard metal punch, then struck into softer metal to make a mould for the letter's face, called a matrix. Scholars still debate exactly how Gutenberg made his: a 2002 study suggested a different method, and others disagree.",
+        "sources": ["w-gutenberg", "devinne"]
+      },
+      {
+        "label": "The hand mould",
+        "text": "A hand mould held the matrix and let a worker cast letter after letter of exactly the same height. It could be adjusted for wide letters like 'm' and narrow ones like 'i'. This made it possible to produce type in huge numbers.",
+        "sources": ["w-gutenberg", "w-press", "devinne"]
+      },
+      {
+        "label": "Type metal",
+        "text": "Gutenberg is traditionally credited with an alloy of lead, tin and antimony. It melted at a low heat, filled the mould cleanly and made letters hard enough to print many times.",
+        "sources": ["w-gutenberg", "w-press"]
+      },
+      {
+        "label": "290 letter shapes",
+        "text": "To look like fine handwriting, the Bible type had about 290 different characters, including joined letters and short forms. Narrow and wide versions let the printer make every line end evenly on the right.",
+        "sources": ["w-bible"]
+      },
+      {
+        "label": "Setting the page",
+        "text": "Workers picked letters one by one and set them into lines. The Bible may have needed up to 100,000 pieces of type, and one page took about half a day to set. The first pages had 40 lines; later the spacing was tightened to fit 42, which saved paper.",
+        "sources": ["w-gutenberg", "w-bible"]
+      },
+      {
+        "label": "Paper and vellum",
+        "text": "Most copies were printed on linen paper, probably brought from Caselle in Piedmont, Italy. About a quarter were printed on vellum, made from animal skin. The Library of Congress counts about 145 paper and 35 vellum copies.",
+        "sources": ["w-bible", "loc-exhibit"]
+      },
+      {
+        "label": "An ink like varnish",
+        "text": "Water-based inks used for woodblocks would not stick well to metal. Gutenberg used an oil-based ink, closer to a varnish. Tests found carbon plus copper, lead and titanium in it.",
+        "sources": ["w-bible", "w-press"]
+      },
+      {
+        "label": "The press",
+        "text": "Gutenberg adapted the wooden screw press used for wine and farm work. It pressed paper evenly onto the inked type, and a sliding bed let workers change sheets quickly. Later hand presses of this kind could make about 240 impressions an hour.",
+        "sources": ["w-gutenberg", "w-press"]
+      },
+      {
+        "label": "Colour by hand",
+        "text": "The workshop first tried printing red headings, then gave up and left blank spaces. Each buyer paid artists to add red and blue letters and painted decoration by hand, so no two copies look the same. A surviving model book in Göttingen shows patterns used to decorate one copy.",
+        "url": "https://gutenberg-digital.p.sub.uni-goettingen.de/vorversion/inhaltcd_en.htm",
+        "sources": ["w-bible", "sub-gd"]
+      },
+      {
+        "label": "Folding and binding",
+        "text": "Each large sheet held four pages. Sheets were folded and gathered into bundles, then bound, usually into two volumes of 1,288 pages in all. Nine copies still have bindings made in the 1400s, mostly in Mainz or Erfurt.",
+        "sources": ["w-bible"]
+      },
+      {
+        "label": "Shown at Frankfurt",
+        "date": "1455-03",
+        "place": "Frankfurt am Main, Hesse, (Germany)",
+        "text": "In March 1455 Enea Silvio Piccolomini, the future Pope Pius II, wrote that he had seen printed sections of the Bible at Frankfurt. He reported that 158 or 180 copies were made and all were already sold. A copy cost about 30 florins, around three years' pay for a clerk.",
+        "url": "https://rylandscollections.com/2025/07/31/introducing-the-early-european-print-collection/",
+        "sources": ["w-bible", "rylands"]
+      },
+      {
+        "label": "Who survives",
+        "text": "About 49 copies survive in large part. Sources differ on how many are complete: between 21 and 25. Most are in Europe and North America, with one volume in Japan.",
+        "sources": ["w-bible"]
+      },
+      {
+        "label": "Library of Congress",
+        "place": "Washington, D.C., (United States)",
+        "text": "A complete copy on vellum, bound in three volumes, bought in 1930 as part of the Otto Vollbehr collection. It is one of only three complete vellum copies.",
+        "url": "https://www.loc.gov/exhibits/bibles/interactives/gutenberg/index.html",
+        "sources": ["w-bible", "loc-exhibit"]
+      },
+      {
+        "label": "British Library",
+        "place": "London, England, (United Kingdom)",
+        "text": "Two complete copies: one on vellum, the Grenville copy, and one on paper that came with King George III's library.",
+        "sources": ["w-bible"]
+      },
+      {
+        "label": "National Library of France",
+        "place": "Paris, Île-de-France, (France)",
+        "text": "A complete vellum copy, rebound in four volumes. A note by its decorator dated 15 August 1456 is the earliest date found in any copy.",
+        "sources": ["w-bible"]
+      },
+      {
+        "label": "Göttingen University Library",
+        "place": "Göttingen, Lower Saxony, (Germany)",
+        "text": "A complete vellum copy, added to UNESCO's Memory of the World Register in 2001. The library also keeps the Helmasperger record of the Fust lawsuit and the model book, and has put all three online.",
+        "url": "https://gutenberg-digital.p.sub.uni-goettingen.de/vorversion/inhaltcd_en.htm",
+        "sources": ["w-bible", "sub-gd"]
+      },
+      {
+        "label": "Harry Ransom Center",
+        "place": "Austin, Texas, (United States)",
+        "text": "A complete paper copy in two early bindings, bought in 1978. It is always on display and has been digitized.",
+        "url": "https://www.hrc.utexas.edu/gutenberg-bible/",
+        "sources": ["hrc", "w-bible"]
+      },
+      {
+        "label": "The Morgan Library",
+        "place": "New York, New York, (United States)",
+        "text": "Three copies, more than any other institution in the world.",
+        "sources": ["w-bible"]
+      },
+      {
+        "label": "Gutenberg Museum",
+        "place": "Mainz, Rhineland-Palatinate, (Germany)",
+        "text": "In his home city, the museum founded in 1900 holds the incomplete Shuckburgh paper copy, bought in 1978, and shows a working replica of his press.",
+        "sources": ["w-bible", "w-museum"]
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1400",
+      "age": 0,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "Born in Mainz",
+      "text": "Johannes Gensfleisch zur Laden zum Gutenberg was born in Mainz sometime between about 1393 and 1406. Scholars use 1400 for convenience. His father, Friele Gensfleisch, was a patrician merchant; his mother, Else Wyrich, was a shopkeeper's daughter. The family name Gutenberg came from their house, the Hof zum Gutenberg.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-gutenberg", "loc-blog"]
+    },
+    {
+      "date": "1411",
+      "age": null,
+      "place": "Eltville, Electorate of Mainz, (Germany)",
+      "title": "A family in exile",
+      "text": "Fights between the old patrician families and the craft guilds shook Mainz. In 1411 more than a hundred patricians left the city, probably including the Gutenbergs, who likely went to nearby Eltville. They had to leave again during hunger riots in 1413.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-gutenberg"]
+    },
+    {
+      "date": "1418",
+      "age": null,
+      "place": "Erfurt, Thuringia, (Germany)",
+      "title": "Perhaps a student",
+      "text": "A student called Johannes de Altavilla (of Eltville) enrolled at the University of Erfurt in 1418. Many historians think this was Gutenberg, but it is assumed, not proven.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-gutenberg", "loc-blog"]
+    },
+    {
+      "date": "1419",
+      "age": null,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "His father dies",
+      "text": "Friele Gensfleisch died in 1419, and Johannes is named in the inheritance records. Because his mother was not of noble birth, he probably could not take over his father's place in the city's mint.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-gutenberg"]
+    },
+    {
+      "date": "1428",
+      "age": null,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "Leaving Mainz again",
+      "text": "Mainz was close to bankruptcy and the patrician families clashed with the guilds over taxes. Gutenberg probably left the city around 1430. Where he was between 1429 and 1434 is unknown.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["loc-blog"]
+    },
+    {
+      "date": "1434-03",
+      "age": null,
+      "place": "Strasbourg, Alsace, (France)",
+      "title": "A new life in Strasbourg",
+      "text": "A letter of March 1434 shows Gutenberg living in Strasbourg, where his mother's relatives lived. He seems to have worked as a goldsmith and was enrolled in the city militia.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-gutenberg", "devinne"]
+    },
+    {
+      "date": "1437",
+      "age": null,
+      "place": "Strasbourg, Alsace, (France)",
+      "title": "Teaching a craft",
+      "text": "Gutenberg taught Andreas Dritzehn, a citizen of Strasbourg, how to polish gemstones, and Dritzehn made a good profit from it. Pupils and partners began to come to him for his skills.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["devinne", "de-gutenberg"]
+    },
+    {
+      "date": "1438",
+      "age": null,
+      "place": "Strasbourg, Alsace, (France)",
+      "title": "Mirrors for pilgrims",
+      "text": "With Hans Riffe, and later Andreas Dritzehn and Andreas Heilmann, Gutenberg formed a company to make polished metal mirrors for pilgrims to the great relic show at Aachen. The show was put back a year, and the money already spent was hard to recover.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["loc-blog", "w-gutenberg", "devinne"]
+    },
+    {
+      "date": "1438-12",
+      "age": null,
+      "place": "Strasbourg, Alsace, (France)",
+      "title": "A partner dies",
+      "text": "Andreas Dritzehn fell ill around Christmas 1438 and died; the Library of Congress gives 26 December and says it was plague. He had borrowed heavily for the company's secret work. Gutenberg sent his servant to take apart a tool of 'four pieces' lying in a press so no one could see it.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["loc-blog", "devinne"]
+    },
+    {
+      "date": "1439-12-12",
+      "age": null,
+      "place": "Strasbourg, Alsace, (France)",
+      "title": "The court case that reveals the secret",
+      "text": "Dritzehn's brothers sued to join the company or get his money back. Witnesses spoke of lead, a press and metal forms, and a goldsmith said he was paid about 100 guilders for work connected with printing. The court accepted the written contract and ruled largely for Gutenberg. It is the earliest record of his printing experiments.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["devinne", "loc-blog"]
+    },
+    {
+      "date": "1440",
+      "age": null,
+      "place": "Strasbourg, Alsace, (France)",
+      "title": "Adventure and art",
+      "text": "The court records call the partners' secret 'aventur und kunst', meaning enterprise, or adventure, and art. Gutenberg may have printed his first small items with early type in these years, but how far he got in Strasbourg is not known.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-gutenberg", "loc-blog"]
+    },
+    {
+      "date": "1444",
+      "age": null,
+      "place": "Strasbourg, Alsace, (France)",
+      "title": "Four silent years",
+      "text": "Gutenberg is recorded in Strasbourg until 1444, probably in the parish of St. Arbogast outside the walls. Then no record of him survives for four years.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-gutenberg", "loc-blog"]
+    },
+    {
+      "date": "1448-10",
+      "age": null,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "Home to Mainz",
+      "text": "By October 1448 Gutenberg was back in Mainz. He borrowed money from his brother-in-law Arnold Gelthus, perhaps to set up a press.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-gutenberg", "loc-blog"]
+    },
+    {
+      "date": "1450",
+      "age": null,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "A backer and a workshop",
+      "text": "By 1450 his press was working. The merchant Johann Fust lent him 800 guilders at 6% interest, with the tools as security. The workshop was set up in the Humbrechthof. The scribe Peter Schöffer, who had worked in Paris, joined the business.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-gutenberg", "w-fust", "devinne", "loc-blog"]
+    },
+    {
+      "date": "1452",
+      "age": null,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "The Bible project begins",
+      "text": "Fust lent another 800 guilders and became a partner in what the records call 'the work of the books'. Setting the great Latin Bible began, page by page. The Library of Congress gives a different total of about 1,550 guilders lent.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-gutenberg", "w-fust", "w-bible", "loc-blog", "devinne"]
+    },
+    {
+      "date": "1454-10-22",
+      "age": null,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "The first dated print",
+      "text": "While the Bible was being made, the workshop printed indulgences, church forms with blank spaces for a buyer's name and the date. A copy filled in on 22 October 1454 is the first piece of European printing with an exact date.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-bible", "de-gutenberg", "w-gutenberg"]
+    },
+    {
+      "date": "1454-12",
+      "age": null,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "A calendar against the Turks",
+      "text": "After the fall of Constantinople in 1453, the workshop printed a small calendar pamphlet for the year 1455 calling Christian rulers to a crusade. It is known by its first line, 'Eyn manung der cristenheit widder die durken'.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["de-gutenberg"]
+    },
+    {
+      "date": "1455-03",
+      "age": null,
+      "place": "Frankfurt am Main, Hesse, (Germany)",
+      "title": "Seen at Frankfurt",
+      "text": "Enea Silvio Piccolomini, the future Pope Pius II, wrote to a cardinal that he had seen printed sections of the Bible at Frankfurt. He praised how clear they were and said 158 or 180 copies were made and already sold. Who showed them is not known; it may have been Fust.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-bible", "rylands", "w-gutenberg"]
+    },
+    {
+      "date": "1455",
+      "age": null,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "The 42-line Bible is finished",
+      "text": "The Bible was completed in about 1455: two large volumes of 1,288 pages, most pages with 42 lines in two columns. About 180 copies were printed, three quarters on paper and the rest on vellum. It was the first major book printed in Europe with metal movable type.",
+      "turning": true,
+      "kind": "work",
+      "sources": ["w-bible", "loc-exhibit", "w-gutenberg"]
+    },
+    {
+      "date": "1455-11-06",
+      "age": null,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "Fust takes him to court",
+      "text": "Fust sued for his loans plus interest, about 2,020 guilders. Gutenberg answered that the first loan was meant for tools and that Fust had said he would not charge interest. On 6 November 1455, in the dining hall of the Franciscan friary, Fust swore his oath before the notary Ulrich Helmasperger. Gutenberg did not come but sent two men to watch. Peter Schöffer was among the witnesses.",
+      "turning": true,
+      "kind": "setback",
+      "sources": ["devinne", "w-fust", "w-gutenberg", "sub-gd"]
+    },
+    {
+      "date": "1456",
+      "age": null,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "Losing the workshop",
+      "text": "The court ruled largely for Fust. Gutenberg lost control of the Bible workshop and much of its type, and was close to bankrupt. Sources differ on the details: the exact sums, and how much of his press he kept, are not certain.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-gutenberg", "w-fust", "loc-blog"]
+    },
+    {
+      "date": "1457-08-14",
+      "age": null,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "A famous book without his name",
+      "text": "Fust and Schöffer printed the Mainz Psalter, the first European book to give its printers' names and a full date. It described the new way of making books but did not mention Gutenberg.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-fust", "w-gutenberg", "w-schoeffer"]
+    },
+    {
+      "date": "1458",
+      "age": null,
+      "place": "Strasbourg, Alsace, (France)",
+      "title": "Old debts",
+      "text": "By 1458 Gutenberg had failed to pay debts owed in Strasbourg, and the city took action against him. He was nearly bankrupt.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["loc-blog"]
+    },
+    {
+      "date": "1459",
+      "age": null,
+      "place": "Bamberg, Franconia, (Germany)",
+      "title": "A second Bible, perhaps",
+      "text": "A 36-line Bible was printed, probably in Bamberg around 1458 to 1460, largely set from a copy of Gutenberg's Bible and using an older type of his. Whether he printed it or only supplied type is unknown.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-gutenberg", "loc-blog"]
+    },
+    {
+      "date": "1460",
+      "age": null,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "The Catholicon",
+      "text": "A large Latin dictionary, the Catholicon, came out in Mainz with a closing note dated 1460 praising the 'punches and matrices' that made it. It was long credited to Gutenberg, but who printed it, and even when, is still debated.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-catholicon", "w-gutenberg", "devinne"]
+    },
+    {
+      "date": "1462-10-28",
+      "age": null,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "Mainz is sacked",
+      "text": "In a war between two rival archbishops, Adolph of Nassau captured and plundered Mainz. Gutenberg was expelled from the city two days later, and many printers fled into exile.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["loc-blog", "w-gutenberg"]
+    },
+    {
+      "date": "1465-01",
+      "age": null,
+      "place": "Eltville, Electorate of Mainz, (Germany)",
+      "title": "Honoured at last",
+      "text": "Archbishop Adolph II made Gutenberg a gentleman of his court for 'agreeable and voluntary service'. He received a court robe each year and a yearly allowance of grain and wine, free of tax. Sources give the date as 17 or 18 January 1465.",
+      "turning": true,
+      "kind": "life",
+      "sources": ["w-gutenberg", "de-gutenberg", "devinne"]
+    },
+    {
+      "date": "1468",
+      "age": null,
+      "place": "Mainz, Electorate of Mainz, (Germany)",
+      "title": "His death",
+      "text": "Gutenberg died in early 1468. The often quoted date of 3 February is doubtful; the only sure record is a receipt from before 26 February 1468 for printing tools from his estate. He was buried in the Franciscan church in Mainz. The church was later torn down, and his grave is lost.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["de-gutenberg", "w-gutenberg"]
+    },
+    {
+      "date": "1499",
+      "age": null,
+      "place": "Cologne, Rhineland, (Germany)",
+      "title": "Named the first inventor",
+      "text": "The Cologne Chronicle, using what the printer Ulrich Zell told its author, called Gutenberg the first inventor of printing and said the first book printed was the Latin Bible. Later claims for other inventors, such as Laurens Coster of Haarlem, are seen today as legend.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["devinne", "w-gutenberg"]
+    },
+    {
+      "date": "1500",
+      "age": null,
+      "place": "Across Europe",
+      "title": "A continent of printers",
+      "text": "By 1500, printing had spread to about 270 European cities, and presses had made more than 20 million copies of books. Metal movable type had been used earlier in Korea, where the oldest surviving such book dates from 1377, but Gutenberg's system spread fastest.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-press", "loc-exhibit"]
+    },
+    {
+      "date": "2001",
+      "age": null,
+      "place": "Göttingen, Lower Saxony, (Germany)",
+      "title": "Memory of the World",
+      "text": "UNESCO added the Göttingen copy of the 42-line Bible to its Memory of the World Register. About 49 copies survive, and the Bible is still one of the most valuable books on earth.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-bible", "sub-gd"]
+    }
+  ],
+  "works": [
+    {
+      "year": "1438",
+      "type": "business",
+      "title": "Pilgrim mirrors for Aachen",
+      "text": "Small polished metal mirrors that pilgrims held up to catch the holy light of relics. The venture lost money when the pilgrimage was delayed.",
+      "sources": ["w-gutenberg", "loc-blog"]
+    },
+    {
+      "year": "1439",
+      "type": "invention",
+      "title": "The Strasbourg experiments",
+      "text": "A secret 'adventure and art' involving lead, a press and metal forms, known only from a 1439 court case. It is the first sign of his work on printing.",
+      "sources": ["devinne", "loc-blog"],
+      "url": "https://archive.org/details/inventionofprint00deviuoft"
+    },
+    {
+      "year": "1450",
+      "type": "invention",
+      "title": "The type-casting hand mould",
+      "text": "An adjustable mould that cast letters of exactly the same height in any width, so type could be made by the thousand.",
+      "sources": ["w-gutenberg", "w-press", "devinne"]
+    },
+    {
+      "year": "1450",
+      "type": "invention",
+      "title": "Type metal",
+      "text": "An alloy traditionally said to be lead, tin and antimony: easy to cast, and hard enough to last.",
+      "sources": ["w-gutenberg", "w-press"]
+    },
+    {
+      "year": "1450",
+      "type": "invention",
+      "title": "Oil-based printing ink",
+      "text": "A thick ink, closer to varnish, that held on metal type and gave a deep black page.",
+      "sources": ["w-bible", "w-press"]
+    },
+    {
+      "year": "1450",
+      "type": "invention",
+      "title": "The printing press",
+      "text": "A wooden screw press adapted from wine and farm presses, giving even pressure and fast sheet changes.",
+      "sources": ["w-gutenberg", "w-press"]
+    },
+    {
+      "year": "1450",
+      "type": "book",
+      "title": "Donatus school grammars",
+      "text": "Short Latin grammars for schoolchildren, printed many times in his early type. Up to 24 editions are known, most only as fragments.",
+      "sources": ["de-gutenberg"]
+    },
+    {
+      "year": "1454",
+      "type": "print",
+      "title": "Indulgences",
+      "text": "Printed church forms with blanks for a name and date. One filled in on 22 October 1454 is the first exactly dated European print.",
+      "sources": ["w-bible", "de-gutenberg"]
+    },
+    {
+      "year": "1454",
+      "type": "print",
+      "title": "The Turkish Calendar",
+      "text": "A small calendar for 1455 calling for a crusade after the fall of Constantinople, printed in his early type.",
+      "sources": ["de-gutenberg"]
+    },
+    {
+      "year": "1455",
+      "type": "book",
+      "title": "The 42-line Bible",
+      "text": "The Latin Bible in two large volumes, about 180 copies on paper and vellum. The first major book printed in Europe with metal movable type, and still admired for its beauty.",
+      "sources": ["w-bible", "loc-exhibit", "hrc"],
+      "url": "https://www.hrc.utexas.edu/gutenberg-bible/"
+    },
+    {
+      "year": "1459",
+      "type": "book",
+      "title": "The 36-line Bible (uncertain)",
+      "text": "A second Latin Bible, probably printed in Bamberg in his older type. His part in it is not known.",
+      "sources": ["w-gutenberg", "loc-blog"]
+    },
+    {
+      "year": "1460",
+      "type": "book",
+      "title": "The Catholicon (debated)",
+      "text": "A huge Latin dictionary printed in Mainz with a note dated 1460. It was long credited to Gutenberg, but scholars still disagree about who printed it and when.",
+      "sources": ["w-catholicon", "w-gutenberg"]
+    }
+  ],
+  "resources": [
+    {
+      "label": "The Gutenberg Bible, Harry Ransom Center",
+      "url": "https://www.hrc.utexas.edu/gutenberg-bible/",
+      "what": "A complete paper copy, always on view in Austin, Texas, with a digitized version you can page through."
+    },
+    {
+      "label": "Gutenberg Digital, SUB Göttingen",
+      "url": "https://gutenberg-digital.p.sub.uni-goettingen.de/vorversion/inhaltcd_en.htm",
+      "what": "All 1,282 pages of the Göttingen copy, the model book used to decorate it, and the Helmasperger court record with an English transcription."
+    },
+    {
+      "label": "The Gutenberg Bible, Library of Congress",
+      "url": "https://www.loc.gov/exhibits/bibles/interactives/gutenberg/index.html",
+      "what": "An exhibition page on the Library of Congress's complete vellum copy."
+    },
+    {
+      "label": "Man Behind the Bible, Library of Congress blog",
+      "url": "https://blogs.loc.gov/international-collections/2023/10/man-behind-the-bible-johannes-gutenbergs-life-of-adventure-and-art-loclr-blogint/",
+      "what": "A clear, dated walk through Gutenberg's life, from Mainz and Strasbourg to the Fust lawsuit and his last years."
+    },
+    {
+      "label": "The Invention of Printing, T. L. De Vinne, 1876 (Internet Archive)",
+      "url": "https://archive.org/details/inventionofprint00deviuoft",
+      "what": "A free 19th-century history by an American printer, with full English translations of the 1439 Strasbourg and 1455 Mainz court records."
+    },
+    {
+      "label": "Early European Print Collection, John Rylands Library",
+      "url": "https://rylandscollections.com/2025/07/31/introducing-the-early-european-print-collection/",
+      "what": "About the Rylands Gutenberg Bible and the 1455 Piccolomini letter that first describes the printed Bible."
+    },
+    {
+      "label": "Gutenberg Bible: surviving copies (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Gutenberg_Bible",
+      "what": "A list of the known copies, where they are kept, and which are complete, on paper or on vellum."
+    },
+    {
+      "label": "Gutenberg Museum, Mainz (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Gutenberg_Museum",
+      "what": "The museum of printing in his home city, with Gutenberg Bibles and a working replica of his press."
+    }
+  ],
+  "books": [
+    {
+      "title": "The 42-line Bible (Biblia Latina)",
+      "author": "Printed by Johannes Gutenberg and his workshop",
+      "year": "1455",
+      "kind": "by-him",
+      "free": "https://www.hrc.utexas.edu/gutenberg-bible/",
+      "note": "His great work, the Latin Vulgate Bible. View the Ransom Center's digitized copy, or the Göttingen copy on Gutenberg Digital."
+    },
+    {
+      "title": "The Invention of Printing",
+      "author": "Theodore Low De Vinne",
+      "year": "1876",
+      "kind": "biography",
+      "free": "https://archive.org/details/inventionofprint00deviuoft",
+      "note": "An older history, firmly on Gutenberg's side against Fust, but valuable for its translations of the original court records."
+    },
+    {
+      "title": "Johann Gutenberg: The Man and His Invention",
+      "author": "Albert Kapr",
+      "year": "1996",
+      "kind": "biography",
+      "free": null,
+      "note": "A detailed scholarly biography, cited throughout Wikipedia's article on Gutenberg."
+    },
+    {
+      "title": "Johannes Gutenberg: A Biography in Books",
+      "author": "Eric White",
+      "year": "2025",
+      "kind": "biography",
+      "free": null,
+      "note": "A recent life told through the books his workshop printed (Reaktion Books, London), cited by the John Rylands Library."
+    }
+  ]
+}

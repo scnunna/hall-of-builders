@@ -1,0 +1,64 @@
+{
+  "id": "mansamusa",
+  "name": "Mansa Musa",
+  "years": "c. 1280 - c. 1337",
+  "title": "The Pilgrim King",
+  "tagline": "He ruled the Mali Empire at its height, crossed the Sahara to Cairo and Mecca in 1324, and came home with scholars and builders who helped make Timbuktu a city of learning.",
+  "sources": {
+    "w-musa": { "label": "Mansa Musa (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mansa_Musa" },
+    "w-mali": { "label": "Mali Empire (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mali_Empire" },
+    "w-sahili": { "label": "Abu Ishaq al-Sahili (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Abu_Ishaq_al-Sahili" },
+    "umari": { "label": "Ibn Fadl Allah al-Umari, Masalik el Absar fi Mamalik el Amsar I: L'Afrique moins l'Egypte, French tr. M. Gaudefroy-Demombynes, Paris 1927 (Internet Archive)", "url": "https://archive.org/details/india.history.resource.91094" },
+    "deslane": { "label": "Ibn Khaldun, Histoire des Berberes, vol. 2, French tr. Baron de Slane, Algiers 1854 (Internet Archive)", "url": "https://archive.org/details/bub_gb_TXVBAAAAIAAJ" },
+    "gibb": { "label": "Ibn Battuta, Travels in Asia and Africa 1325-1354, tr. H. A. R. Gibb, Routledge 1929 (Internet Archive)", "url": "https://archive.org/details/pli.kerala.rare.27987" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Know why you are going",
+      "idea": "In Cairo, an official urged Musa to visit the sultan's palace. Musa said he had come only for the pilgrimage and did not want to mix it with anything else. A clear purpose helped him say no politely and stay on course.",
+      "quote": { "text": "Je suis venu pour faire le pèlerinage, pas pour autre chose. (Gloss: I came to make the pilgrimage, not for anything else.)", "credit": "al-Umari, Masalik al-absar ch. 10, p. 76, French tr. M. Gaudefroy-Demombynes (1927); words reported by the Cairo official Abu l-Abbas al-Mihmandar; English is our gloss" },
+      "practice": "Write one line that says what today is for. When a new request comes in, check it against that line before you say yes.",
+      "sources": ["umari", "w-musa"]
+    },
+    {
+      "title": "Listen to a wise word",
+      "idea": "When Musa met the sultan of Egypt, he refused at first to kiss the ground, as court custom asked. A wise man in his party spoke quietly to him. Musa then found a way that kept his beliefs and his manners: he bowed to God alone. Good advisers help you hold your values without starting a fight.",
+      "quote": { "text": "Hé bien ! je me prosternerai devant Allah, qui m'a créé et mis au monde. (Gloss: Very well! I will bow down before God, who created me and brought me into the world.)", "credit": "al-Umari, Masalik al-absar ch. 10, p. 77, French tr. M. Gaudefroy-Demombynes (1927), as reported by a Cairo official; English is our gloss" },
+      "practice": "Before a hard conversation today, ask one person you trust: how can I say this honestly and kindly? Use their best idea.",
+      "sources": ["umari", "w-musa"]
+    },
+    {
+      "title": "Bring skill home",
+      "idea": "Musa did not only spend on his journey. He invited the Andalusian poet and scholar Abu Ishaq al-Sahili and Maliki jurists to come back with him to Mali. He wanted a plastered, domed audience hall, a kind of building new to his land, and asked al-Sahili to make it. Inviting skilled people to teach and build was one of his lasting gifts.",
+      "quote": { "text": "Dans cette construction, il déploya toutes les ressources de son génie. (Gloss: In this building, he used every resource of his talent.)", "credit": "Ibn Khaldun, Histoire des Berberes vol. 2, p. 113, French tr. Baron de Slane (1854), quoting al-Sahili's companion Ibn Khadija; English is our gloss" },
+      "practice": "Think of one skill you want to learn. Find one person who already has it and ask them one good question this week.",
+      "sources": ["deslane", "w-musa", "w-sahili"]
+    },
+    {
+      "title": "Be remembered for fairness",
+      "idea": "The writers who came after him did not only remember his gold. Ibn Khaldun wrote that his justice was still remembered, and people in Mali told Ibn Battuta, about 15 years after his death, that he had been generous and good. A name built on fair dealing outlasts any treasure.",
+      "quote": { "text": "...before him reigned Mansa Musa, a generous and virtuous prince...", "credit": "Ibn Battuta, Travels in Asia and Africa 1325-1354, p. 329, tr. H. A. R. Gibb (1929); written by a visitor to Mali about 1352, not by Musa" },
+      "practice": "In one choice today, ask: what would be fair to everyone here, not just to me? Then do that.",
+      "sources": ["gibb", "deslane"]
+    },
+    {
+      "title": "Count the ripples",
+      "idea": "Musa's party spent so much gold in Cairo that, according to al-Umari, its value there fell and stayed lower for about twelve years. On the way home his own money ran out and he had to borrow. Big actions spread far beyond what we plan, so it pays to think ahead about the effects and the return journey.",
+      "quote": { "text": "...à cause de la grande quantité d'or qu'ils apportèrent à Misr et qu'ils y dépensèrent. (Gloss: ...because of the great amount of gold they brought to Egypt and spent there.)", "credit": "al-Umari, Masalik al-absar ch. 10, p. 79, French tr. M. Gaudefroy-Demombynes (1927); English is our gloss" },
+      "practice": "Before your next big decision, write down three people or things it will affect besides you, and one way to plan for each.",
+      "sources": ["umari", "w-musa"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Why am I going?", "action": "Write one sentence about what today is for. Check every new request against it before saying yes." },
+    { "day": 2, "title": "Ask an adviser", "action": "Before a tricky talk or message, ask someone you trust how to say it honestly and kindly." },
+    { "day": 3, "title": "Invite a teacher", "action": "Pick a skill you want. Ask one person who has it a single good question, and write down the answer." },
+    { "day": 4, "title": "Map your route", "action": "Sketch the steps of one goal like a journey, from start to finish and back. Mark one place it could go wrong." },
+    { "day": 5, "title": "Count the ripples", "action": "Before a decision, list three people or things it will affect besides you. Adjust your plan for one of them." },
+    { "day": 6, "title": "Give generously", "action": "Give something that costs no money: your time, a clear explanation, or real praise for someone's work.", "sources": ["gibb"] },
+    { "day": 7, "title": "What will last", "action": "Write down one thing you are building that could still help others in ten years. Do one small step on it today." }
+  ],
+  "reflect": "What is one journey you are on right now, and what do you want to bring back from it for other people?",
+  "keepsake": "Mansa Musa Builder Collectible"
+}

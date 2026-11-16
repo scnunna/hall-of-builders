@@ -1,0 +1,67 @@
+{
+  "id": "tagore",
+  "name": "Rabindranath Tagore",
+  "years": "1861 - 1941",
+  "title": "The Poet-Teacher",
+  "tagline": "He wrote more than two thousand songs, started a school where children learned close to nature, took up painting at sixty, and in 1913 became the first non-European to win the Nobel Prize in Literature.",
+  "sources": {
+    "w-tagore": { "label": "Rabindranath Tagore (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore" },
+    "nobel-bio": { "label": "Rabindranath Tagore, Biographical (NobelPrize.org)", "url": "https://www.nobelprize.org/prizes/literature/1913/tagore/biographical/" },
+    "pg-gitanjali": { "label": "Gitanjali (Song Offerings), Tagore's own English version, 1912 (Project Gutenberg #7164)", "url": "https://www.gutenberg.org/ebooks/7164" },
+    "pg-stray": { "label": "Stray Birds, Macmillan, New York, 1916 (Project Gutenberg #6524)", "url": "https://www.gutenberg.org/ebooks/6524" },
+    "pg-reminisc": { "label": "My Reminiscences, tr. Surendranath Tagore, Macmillan, 1917 (Project Gutenberg #22217)", "url": "https://www.gutenberg.org/ebooks/22217" },
+    "w-patha": { "label": "Patha Bhavana (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Patha_Bhavana" },
+    "w-works": { "label": "Works of Rabindranath Tagore (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Works_of_Rabindranath_Tagore" },
+    "w-jallianwala": { "label": "Jallianwala Bagh massacre (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Jallianwala_Bagh_massacre" },
+    "w-sriniketan": { "label": "Sriniketan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Sriniketan" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Free the mind",
+      "idea": "Tagore hated the rote learning of his own school days. At Santiniketan he started a school where children learned close to nature and teachers stayed close to their pupils. His most famous poem asks for a country where the mind is without fear and reason is not lost in dead habit.",
+      "quote": { "text": "Where the clear stream of reason has not lost its way into the dreary desert sand of dead habit;", "credit": "Gitanjali: Song Offerings, poem 35, Tagore's own English version (1912)" },
+      "practice": "Pick one thing you do only out of habit. Ask why you do it that way, and try one better way today.",
+      "sources": ["pg-gitanjali", "w-patha", "w-tagore"]
+    },
+    {
+      "title": "Find meaning in honest work",
+      "idea": "Managing his family's farm estates from 1890 put Tagore in close touch with ordinary working people. Later he set up an institute to help villagers solve their own problems. In Gitanjali he wrote that God is found not in a closed temple but with the farmer and the road builder.",
+      "quote": { "text": "He is there where the tiller is tilling the hard ground and where the pathmaker is breaking stones.", "credit": "Gitanjali: Song Offerings, poem 11, Tagore's own English version (1912)" },
+      "practice": "Notice one person whose work makes your day easier, like a cleaner, driver or cook. Thank them by name.",
+      "sources": ["pg-gitanjali", "nobel-bio", "w-sriniketan"]
+    },
+    {
+      "title": "Do what you can",
+      "idea": "Tagore's school began with only five students. He did not wait for a perfect plan; he started small and let it grow into a university. One of his short sayings shows a little clay lamp offering to carry on when the sun goes down.",
+      "quote": { "text": "\"Who is there to take up my duties?\" asked the setting sun. \"I shall do what I can, my Master,\" said the earthen lamp.", "credit": "Stray Birds, no. 153 (1916)" },
+      "practice": "Choose one problem around you that feels too big. Do one small, useful thing about it today.",
+      "sources": ["pg-stray", "w-patha"]
+    },
+    {
+      "title": "Keep beginning again",
+      "idea": "Tagore was a poet, songwriter, playwright, story writer and teacher. Then, at about sixty, he began to draw and paint, and his pictures were shown in Paris and London. He saw life as something that is emptied and filled again and again.",
+      "quote": { "text": "This frail vessel thou emptiest again and again, and fillest it ever with fresh life.", "credit": "Gitanjali: Song Offerings, poem 1, Tagore's own English version (1912)" },
+      "practice": "Try one creative thing you have never done before: a sketch, a short poem or a tune. Spend ten minutes on it with no goal.",
+      "sources": ["pg-gitanjali", "w-tagore", "w-works"]
+    },
+    {
+      "title": "Do not bow to cruelty",
+      "idea": "In 1919 British troops killed hundreds of unarmed people at Jallianwala Bagh in Amritsar. Tagore wrote to the Viceroy and gave back the knighthood he had received in 1915, choosing to stand with his countrymen. In Gitanjali he had prayed for strength never to bend before arrogant power.",
+      "quote": { "text": "Give me the strength never to disown the poor or bend my knees before insolent might.", "credit": "Gitanjali: Song Offerings, poem 36, Tagore's own English version (1912)" },
+      "practice": "Think of a time you stayed quiet when something unfair happened. Write down what you could say or do next time.",
+      "sources": ["pg-gitanjali", "w-jallianwala", "w-tagore"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Learn outdoors", "action": "Take something you are learning or reading and do it outside, under a tree or by a window, for twenty minutes." },
+    { "day": 2, "title": "Break a habit", "action": "Find one thing you do only because you always have. Try a better way today." },
+    { "day": 3, "title": "Thank the workers", "action": "Thank three people whose work you usually do not notice, and say what their work makes possible." },
+    { "day": 4, "title": "The earthen lamp", "action": "Pick a problem that feels too big and do one small useful thing about it.", "sources": ["pg-stray"] },
+    { "day": 5, "title": "Make a song", "action": "Tagore wrote songs for every season. Write four lines about today's weather and hum a tune to them." },
+    { "day": 6, "title": "Start fresh", "action": "Spend ten minutes on a creative skill you have never tried, like sketching or writing a short poem." },
+    { "day": 7, "title": "Your free mind", "action": "Write your own short list beginning \"Where the mind is...\" describing the place you want to help build.", "sources": ["pg-gitanjali"] }
+  ],
+  "reflect": "Where in your life are you still learning by rote, and what would it look like to learn that thing with joy?",
+  "keepsake": "Rabindranath Tagore Builder Collectible"
+}

@@ -1,0 +1,437 @@
+{
+  "sources": {
+    "w-gandhi": { "label": "Mahatma Gandhi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi" },
+    "w-saltmarch": { "label": "Salt March (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Salt_March" },
+    "w-champaran": { "label": "Champaran Satyagraha (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Champaran_Satyagraha" },
+    "w-kheda": { "label": "Kheda Satyagraha of 1918 (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Kheda_Satyagraha_of_1918" },
+    "w-rowlatt": { "label": "Rowlatt Act (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Rowlatt_Act" },
+    "w-chauri": { "label": "Chauri Chaura incident (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Chauri_Chaura_incident" },
+    "w-phoenix": { "label": "Phoenix Settlement (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Phoenix_Settlement" },
+    "w-tolstoyfarm": { "label": "Tolstoy Farm (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Tolstoy_Farm" },
+    "w-hindswaraj": { "label": "Hind Swaraj (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Hind_Swaraj" },
+    "w-sabarmati": { "label": "Sabarmati Ashram (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Sabarmati_Ashram" },
+    "w-sevagram": { "label": "Sevagram (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Sevagram" },
+    "w-irwin": { "label": "Gandhi-Irwin Pact (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Gandhi%E2%80%93Irwin_Pact" },
+    "w-poona": { "label": "Poona Pact (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Poona_Pact" },
+    "w-quitindia": { "label": "Quit India Movement (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Quit_India_Movement" },
+    "w-noakhali": { "label": "Noakhali riots (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Noakhali_riots" },
+    "w-assassination": { "label": "Assassination of Mahatma Gandhi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Assassination_of_Mahatma_Gandhi" },
+    "w-legacy": { "label": "Legacy of Mahatma Gandhi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Legacy_of_Mahatma_Gandhi" },
+    "w-idnv": { "label": "International Day of Non-Violence (Wikipedia)", "url": "https://en.wikipedia.org/wiki/International_Day_of_Non-Violence" },
+    "sahistory": { "label": "Mohandas Karamchand Gandhi, South African History Online", "url": "https://www.sahistory.org.za/people/mohandas-karamchand-gandhi" },
+    "ghp": { "label": "Gandhi Heritage Portal, Sabarmati Ashram Preservation and Memorial Trust", "url": "https://www.gandhiheritageportal.org/" },
+    "pg-homerule": { "label": "Indian Home Rule (Hind Swaraj), M. K. Gandhi, 5th ed., Ganesh & Co., Madras, 1922 (Project Gutenberg #40461)", "url": "https://www.gutenberg.org/ebooks/40461" },
+    "pg-freedom": { "label": "Freedom's Battle, M. K. Gandhi, 2nd ed. 1922 (Project Gutenberg #10366)", "url": "https://www.gutenberg.org/ebooks/10366" },
+    "pg-thirdclass": { "label": "Third Class in Indian Railways, M. K. Gandhi (Project Gutenberg #24461)", "url": "https://www.gutenberg.org/ebooks/24461" },
+    "pg-rolland": { "label": "Mahatma Gandhi, Romain Rolland, tr. Catherine D. Groth, 1924 (Project Gutenberg #61575)", "url": "https://www.gutenberg.org/ebooks/61575" },
+    "ia-rolland": { "label": "Mahatma Gandhi, Romain Rolland, 1924 English edition (Internet Archive record)", "url": "https://archive.org/details/mahatmagandhiman0000unse" }
+  },
+  "timeline": [
+    {
+      "date": "1869-10-02",
+      "age": 0,
+      "place": "Porbandar, Kathiawar, (Gujarat, India)",
+      "title": "Born in a coastal town",
+      "text": "Mohandas Karamchand Gandhi was born in Porbandar, a small princely state on the coast of western India. His father Karamchand later became chief minister (diwan) of Rajkot, and the family moved there.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-gandhi"]
+    },
+    {
+      "date": "1883-05",
+      "age": 13,
+      "place": "Rajkot, Kathiawar, (Gujarat, India)",
+      "title": "Married as a boy",
+      "text": "In an arranged marriage, as was the custom in his region, Mohandas married Kasturbai, who was about 14. They stayed together for over sixty years.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-gandhi"]
+    },
+    {
+      "date": "1888-09-04",
+      "age": 18,
+      "place": "Bombay, Bombay Presidency, (Maharashtra, India)",
+      "title": "Sailing to London",
+      "text": "Gandhi sailed from Bombay to study law in London. His caste elders expelled him from the caste for crossing the sea. In London he studied at the Inner Temple and joined the Vegetarian Society.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-gandhi"]
+    },
+    {
+      "date": "1891-06",
+      "age": 21,
+      "place": "London, (United Kingdom)",
+      "title": "A lawyer with no clients",
+      "text": "He was called to the bar in June 1891 and went home, where he learned his mother had died while he was away. He tried to practise law in Bombay but it failed, and he went back to Rajkot to draft petitions.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-gandhi"]
+    },
+    {
+      "date": "1893-06",
+      "age": 23,
+      "place": "Pietermaritzburg, Natal, (South Africa)",
+      "title": "Thrown off the train",
+      "text": "Gandhi went to South Africa in 1893 to work on a merchant's legal case. On a train journey he was put off at Pietermaritzburg station for refusing to leave a first-class compartment kept for white passengers, and spent a cold night in the station. The insult pushed him toward a life of protest.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-gandhi", "sahistory"]
+    },
+    {
+      "date": "1894-08-22",
+      "age": 24,
+      "place": "Durban, Natal, (South Africa)",
+      "title": "The Natal Indian Congress",
+      "text": "Gandhi stayed on and helped found the Natal Indian Congress to fight laws against Indians in the colony.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["sahistory", "w-gandhi"]
+    },
+    {
+      "date": "1896-09",
+      "age": 26,
+      "place": "Natal, (South Africa)",
+      "title": "A blind spot on race",
+      "text": "In these years Gandhi argued that Indians should not be classed with Black Africans, and in a September 1896 speech he complained that whites were lowering Indians to the level of Africans. Historians Ashwin Desai and Goolam Vahed call his early views on race contentious. Other scholars point out that by 1910 his newspaper was also reporting on discrimination against Africans.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-gandhi"]
+    },
+    {
+      "date": "1897-01",
+      "age": 27,
+      "place": "Durban, Natal, (South Africa)",
+      "title": "Attacked, and no charges",
+      "text": "Returning to Durban with his family, Gandhi was attacked by a white mob when he landed. He refused to press charges against his attackers.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-gandhi"]
+    },
+    {
+      "date": "1900",
+      "age": 30,
+      "place": "Natal, (South Africa)",
+      "title": "Stretcher-bearers in the Boer War",
+      "text": "Gandhi formed the Natal Indian Ambulance Corps, which served on the British side as stretcher-bearers, including at the battles of Colenso and Spion Kop.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-gandhi", "sahistory"]
+    },
+    {
+      "date": "1903-06",
+      "age": 33,
+      "place": "Durban, Natal, (South Africa)",
+      "title": "Indian Opinion",
+      "text": "Gandhi helped start the weekly newspaper Indian Opinion. It became the voice of the Indian community's campaigns and was later printed in several languages.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["sahistory", "w-gandhi", "w-phoenix"]
+    },
+    {
+      "date": "1904",
+      "age": null,
+      "place": "Inanda, near Durban, Natal, (South Africa)",
+      "title": "Phoenix Settlement",
+      "text": "Gandhi set up a farm community near Durban where everyone shared the work and the newspaper was printed. Sources disagree on the year: South African History Online gives June 1904, while the Wikipedia article on the settlement says 1903.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["sahistory", "w-phoenix", "w-tolstoyfarm"]
+    },
+    {
+      "date": "1906-09-11",
+      "age": 36,
+      "place": "Johannesburg, Transvaal, (South Africa)",
+      "title": "The birth of satyagraha",
+      "text": "At a mass meeting in Johannesburg against a new Transvaal law forcing Indians to register, the crowd pledged to disobey it peacefully and accept the punishment. This was the first use of the method Gandhi called satyagraha. South African History Online dates its first official use to 1907.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-gandhi", "sahistory"]
+    },
+    {
+      "date": "1909",
+      "age": 40,
+      "place": "At sea, between London and South Africa",
+      "title": "Writing Hind Swaraj",
+      "text": "On the ship Kildonan Castle, Gandhi wrote Hind Swaraj (Indian Home Rule) in Gujarati, as a dialogue between a Reader and an Editor. It argued for self-rule, nonviolence and a simpler way of life. The British banned the Gujarati version in India in 1910. In a later preface Gandhi himself dated the writing to 1908.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-hindswaraj", "pg-homerule", "w-gandhi"]
+    },
+    {
+      "date": "1910",
+      "age": 40,
+      "place": "Near Johannesburg, Transvaal, (South Africa)",
+      "title": "Tolstoy Farm",
+      "text": "With his friend Hermann Kallenbach, Gandhi set up Tolstoy Farm as a base for the campaign. Around 70 to 80 people lived there with no servants, doing all the cooking, cleaning and teaching themselves.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-tolstoyfarm", "sahistory", "w-gandhi"]
+    },
+    {
+      "date": "1913-10-29",
+      "age": 44,
+      "place": "Newcastle, Natal, to the Transvaal border, (South Africa)",
+      "title": "The great march",
+      "text": "Hundreds of Indian miners and their families, led by Gandhi, marched across the border into the Transvaal in protest against laws on Indians. Gandhi was arrested on 6 November. In January 1914 a deal with General Smuts met the main Indian demands.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["sahistory"]
+    },
+    {
+      "date": "1915",
+      "age": 45,
+      "place": "Bombay, (Maharashtra, India)",
+      "title": "Home to India",
+      "text": "After more than twenty years in South Africa, Gandhi returned to India at the request of the Congress leader Gopal Krishna Gokhale.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-gandhi", "sahistory"]
+    },
+    {
+      "date": "1917-04",
+      "age": 47,
+      "place": "Champaran, Bihar, (India)",
+      "title": "Champaran: the indigo farmers",
+      "text": "Invited by the farmer Rajkumar Shukla, Gandhi went to Champaran, where tenants were forced to grow indigo for British planters. When ordered to leave, he refused and accepted the risk of punishment, his first civil disobedience in India. His work led to a government inquiry on which he served; planters had to repay part of the money taken, and the forced system was ended.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-champaran", "w-gandhi"]
+    },
+    {
+      "date": "1918-03-22",
+      "age": 48,
+      "place": "Kheda, Gujarat, (India)",
+      "title": "Kheda: no tax in a bad year",
+      "text": "After floods and pests ruined the harvest, Gandhi and Vallabhbhai Patel helped farmers refuse to pay land tax. The government seized goods and crops, but in June a deal let richer farmers pay for poorer ones.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-kheda", "w-gandhi"]
+    },
+    {
+      "date": "1919-04-06",
+      "age": 49,
+      "place": "Bombay, (Maharashtra, India)",
+      "title": "The Rowlatt protest, and a halt",
+      "text": "Against a law allowing detention without trial, Gandhi called a nationwide hartal, a day of closed shops, prayer and meetings. A week later British troops fired on a crowd at Jallianwala Bagh in Amritsar. When riots broke out, Gandhi suspended the protest, saying people were not yet ready to stay nonviolent.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-rowlatt", "w-gandhi"]
+    },
+    {
+      "date": "1921-09-21",
+      "age": 51,
+      "place": "Madurai, Madras Presidency, (Tamil Nadu, India)",
+      "title": "Non-cooperation and the loincloth",
+      "text": "From 1920 Gandhi led a national campaign of non-cooperation: Indians were urged to leave British schools, courts and titles and to boycott foreign cloth. In Madurai he took to wearing only a simple loincloth.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-gandhi", "pg-freedom"]
+    },
+    {
+      "date": "1922-02-12",
+      "age": 52,
+      "place": "Chauri Chaura, United Provinces, (Uttar Pradesh, India)",
+      "title": "Calling it off",
+      "text": "On 4 February 1922 a crowd at Chauri Chaura set fire to a police station and policemen died. Gandhi stopped the whole national campaign and fasted for five days as penance. Jawaharlal Nehru and many others thought the decision was hasty and wrong.",
+      "turning": true,
+      "kind": "setback",
+      "sources": ["w-chauri", "w-gandhi"]
+    },
+    {
+      "date": "1922-03-18",
+      "age": 52,
+      "place": "Ahmedabad, Gujarat, (India)",
+      "title": "The great trial",
+      "text": "Charged with sedition for his articles in Young India, Gandhi admitted writing them and asked the court for the highest penalty. He was sentenced to six years in prison and released early, in February 1924.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-gandhi", "pg-freedom"]
+    },
+    {
+      "date": "1930-03-12",
+      "age": 60,
+      "place": "Sabarmati Ashram, Ahmedabad, Gujarat, (India)",
+      "title": "The Salt March begins",
+      "text": "Protesting the British tax on salt, Gandhi and 78 companions set out from his ashram to walk about 387 km to the sea at Dandi, stopping in villages along the way.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-saltmarch", "w-sabarmati"]
+    },
+    {
+      "date": "1930-04-06",
+      "age": 60,
+      "place": "Dandi, Gujarat, (India)",
+      "title": "A handful of salt",
+      "text": "At 8:30 in the morning Gandhi broke the law by making salt from the sea. Across India people did the same. Over 60,000 people were jailed, and Gandhi himself was arrested on the night of 4 to 5 May. Time magazine named him its Man of the Year for 1930.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-saltmarch", "w-legacy"]
+    },
+    {
+      "date": "1931-03-05",
+      "age": 61,
+      "place": "New Delhi, (India) and London, (United Kingdom)",
+      "title": "Talks with the Viceroy",
+      "text": "Gandhi and Viceroy Lord Irwin signed a pact: prisoners were freed and coastal people could collect salt, and Gandhi ended the campaign. That autumn he went to the Round Table Conference in London and stayed at Kingsley Hall in the East End. The talks did not bring self-rule.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-irwin", "w-gandhi"]
+    },
+    {
+      "date": "1932-09-24",
+      "age": 62,
+      "place": "Yerwada Central Jail, Poona, (Maharashtra, India)",
+      "title": "The Poona Pact",
+      "text": "From prison, Gandhi fasted against a British plan to give the \"Depressed Classes\" (now Dalits) separate electorates. B. R. Ambedkar, their leader, wanted separate electorates, but agreed to a compromise of reserved seats. Ambedkar remained a strong critic of Gandhi's approach to caste and untouchability.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-poona", "w-gandhi"]
+    },
+    {
+      "date": "1936-04",
+      "age": 66,
+      "place": "Sevagram, near Wardha, Central Provinces, (Maharashtra, India)",
+      "title": "A village ashram",
+      "text": "Gandhi settled in a village near Wardha on land given by Jamnalal Bajaj and called it Sevagram, \"village of service\". Simple village-style huts were built, and he lived there until his death.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-sevagram"]
+    },
+    {
+      "date": "1942-08-08",
+      "age": 72,
+      "place": "Gowalia Tank Maidan, Bombay, (Maharashtra, India)",
+      "title": "Quit India",
+      "text": "In the middle of the Second World War, Gandhi demanded that the British leave India at once, telling people to \"Do or Die\". Within hours almost all Congress leaders were jailed, and over 100,000 people were arrested. Gandhi was held in the Aga Khan Palace in Poona.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-quitindia", "w-gandhi"]
+    },
+    {
+      "date": "1944-02",
+      "age": 74,
+      "place": "Aga Khan Palace, Poona, (Maharashtra, India)",
+      "title": "Kasturba dies in prison",
+      "text": "Kasturba, imprisoned with him, died in February 1944. Gandhi himself fell ill and was released on 6 May 1944.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-gandhi"]
+    },
+    {
+      "date": "1946-11-07",
+      "age": 77,
+      "place": "Noakhali, Bengal, (Bangladesh)",
+      "title": "Walking for peace in Noakhali",
+      "text": "After religious riots in Noakhali in October 1946, Gandhi went there and toured barefoot from village to village for weeks, visiting 47 villages to calm fear and urge Hindus and Muslims to live together. He stayed about four months.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-noakhali"]
+    },
+    {
+      "date": "1947-08-15",
+      "age": 77,
+      "place": "Calcutta, West Bengal, (India)",
+      "title": "Independence and Partition",
+      "text": "India became free, and British India was divided into India and Pakistan amid terrible violence. Gandhi spent the day in Calcutta, fasting and spinning, and appealing for peace.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-gandhi"]
+    },
+    {
+      "date": "1948-01-13",
+      "age": 78,
+      "place": "New Delhi, (India)",
+      "title": "The last fast",
+      "text": "To stop the killing between communities in Delhi, Gandhi began his last fast. He ended it on 18 January.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-gandhi"]
+    },
+    {
+      "date": "1948-01-30",
+      "age": 78,
+      "place": "Birla House, New Delhi, (India)",
+      "title": "Death at a prayer meeting",
+      "text": "On his way to an evening prayer meeting open to all faiths, Gandhi was shot and killed by Nathuram Godse, a Hindu nationalist who blamed Gandhi for policies he saw as favouring Pakistan. Prime Minister Nehru told the nation by radio, \"the light has gone out of our lives\". He was cremated the next day at Raj Ghat, as a procession of over two million people followed.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-assassination", "w-gandhi"]
+    },
+    {
+      "date": "1948",
+      "age": null,
+      "place": "Oslo, (Norway)",
+      "title": "The prize not given",
+      "text": "Gandhi was nominated for the Nobel Peace Prize five times between 1937 and 1948 but never received it. In 1948 the committee gave no prize, saying there was \"no suitable living candidate\".",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-legacy"]
+    },
+    {
+      "date": "2007-06-15",
+      "age": null,
+      "place": "United Nations, New York, (United States)",
+      "title": "A world day of nonviolence",
+      "text": "The UN General Assembly made 2 October, Gandhi's birthday, the International Day of Non-Violence. His methods had already shaped Martin Luther King Jr., who said Gandhi gave him the tactics.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-idnv", "w-legacy"]
+    }
+  ],
+  "feature": {
+    "nav": "Satyagraha",
+    "title": "Experiments in satyagraha",
+    "lead": "Gandhi treated nonviolent resistance like an experiment, testing and changing it campaign by campaign. Follow the method as it grew from a train station in Natal to a whole subcontinent.",
+    "style": "route",
+    "items": [
+      { "label": "A night at the station", "date": "1893", "place": "Pietermaritzburg, (South Africa)", "text": "Put off a first-class carriage because of his colour, Gandhi decided to stay and fight unfair treatment rather than go home.", "url": "https://www.sahistory.org.za/people/mohandas-karamchand-gandhi", "sources": ["w-gandhi", "sahistory"] },
+      { "label": "Petitions and a newspaper", "date": "1894 - 1903", "place": "Durban, (South Africa)", "text": "He began with the lawyer's tools: the Natal Indian Congress, petitions, letters and the weekly Indian Opinion.", "sources": ["sahistory", "w-gandhi"] },
+      { "label": "The Johannesburg pledge", "date": "1906", "place": "Johannesburg, (South Africa)", "text": "A crowd vowed to break an unjust pass law and accept prison rather than obey. Satyagraha was born: open disobedience, no violence, and accepting the penalty.", "sources": ["w-gandhi", "sahistory"] },
+      { "label": "Communities as training grounds", "date": "1904 - 1910", "place": "Phoenix and Tolstoy Farm, (South Africa)", "text": "Shared farms where protesters and their families lived simply and did all the work themselves, so a long struggle could be sustained.", "url": "https://en.wikipedia.org/wiki/Tolstoy_Farm", "sources": ["w-phoenix", "w-tolstoyfarm"] },
+      { "label": "The miners' march", "date": "1913", "place": "Natal to Transvaal, (South Africa)", "text": "Mass marching by workers and their families forced the government to negotiate, and the main demands were met in 1914.", "sources": ["sahistory"] },
+      { "label": "Champaran", "date": "1917", "place": "Bihar, (India)", "text": "First test in India: going to see the farmers' problem first-hand, and a calm refusal to obey an order to leave.", "url": "https://en.wikipedia.org/wiki/Champaran_Satyagraha", "sources": ["w-champaran"] },
+      { "label": "Kheda", "date": "1918", "place": "Gujarat, (India)", "text": "Farmers refused land tax in a ruined harvest year and accepted seizure of their goods until officials compromised.", "sources": ["w-kheda", "w-gandhi"] },
+      { "label": "The Rowlatt hartal", "date": "1919", "place": "All India", "text": "A nationwide day of closed shops and prayer. When violence broke out he suspended it, a lesson that discipline had to come first.", "sources": ["w-rowlatt"] },
+      { "label": "Non-cooperation", "date": "1920 - 1922", "place": "All India", "text": "Millions withdrew from British schools, courts and cloth, and spun their own thread. Gandhi halted it after the violence at Chauri Chaura.", "sources": ["w-gandhi", "w-chauri", "pg-freedom"] },
+      { "label": "The Salt March", "date": "1930", "place": "Sabarmati to Dandi, Gujarat, (India)", "text": "One everyday law, broken in public by the simplest act. Walking 24 days to the sea turned a pinch of salt into a symbol the whole world watched.", "url": "https://en.wikipedia.org/wiki/Salt_March", "sources": ["w-saltmarch"] },
+      { "label": "The fast in Yerwada", "date": "1932", "place": "Poona, (India)", "text": "Gandhi used fasting as pressure on a British plan for separate electorates. It led to the Poona Pact, but Ambedkar remained a critic of his approach to caste.", "sources": ["w-poona", "w-gandhi"] },
+      { "label": "Quit India", "date": "1942", "place": "Bombay, (India)", "text": "His last mass campaign against British rule: a call for immediate independence that put him and the Congress leaders in prison.", "sources": ["w-quitindia"] },
+      { "label": "Village to village", "date": "1946 - 1947", "place": "Noakhali, (Bangladesh)", "text": "No campaign, no crowd: an old man walking barefoot through villages after riots, trying to rebuild trust between neighbours.", "sources": ["w-noakhali"] },
+      { "label": "The last fast", "date": "1948", "place": "New Delhi, (India)", "text": "Satyagraha turned inward on his own country: a fast to stop Indians killing Indians. It ended on 18 January, twelve days before his death.", "sources": ["w-gandhi", "w-assassination"] }
+    ]
+  },
+  "works": [
+    { "year": "1894", "type": "organisation", "title": "Natal Indian Congress", "text": "A political group he helped found to fight anti-Indian laws in Natal.", "sources": ["sahistory", "w-gandhi"] },
+    { "year": "1903", "type": "newspaper", "title": "Indian Opinion", "text": "A weekly newspaper for Indians in South Africa, printed at Phoenix in several languages.", "sources": ["sahistory", "w-phoenix"] },
+    { "year": "1904", "type": "community", "title": "Phoenix Settlement", "text": "A shared farm near Durban, damaged in 1985, restored in 2000, and declared a South African National Heritage Site in 2020.", "sources": ["w-phoenix", "sahistory"], "url": "https://en.wikipedia.org/wiki/Phoenix_Settlement" },
+    { "year": "1906", "type": "method", "title": "Satyagraha", "text": "His method of open, nonviolent refusal to obey unjust laws while accepting the penalty. It later shaped Martin Luther King Jr. and the young Nelson Mandela.", "sources": ["w-gandhi", "w-legacy"] },
+    { "year": "1909", "type": "book", "title": "Hind Swaraj (Indian Home Rule)", "text": "A short book in dialogue form on self-rule, nonviolence and modern civilisation. The only one of his works he translated into English himself.", "sources": ["w-hindswaraj", "pg-homerule"], "url": "https://www.gutenberg.org/ebooks/40461" },
+    { "year": "1910", "type": "community", "title": "Tolstoy Farm", "text": "A self-supporting community near Johannesburg, named after Leo Tolstoy, with a school and workshops.", "sources": ["w-tolstoyfarm"] },
+    { "year": "1917", "type": "essay", "title": "Third Class in Indian Railways", "text": "A first-hand report on how India's poorest travellers were treated, written after months of travelling third class by choice.", "sources": ["pg-thirdclass"], "url": "https://www.gutenberg.org/ebooks/24461" },
+    { "year": "1917", "type": "campaign", "title": "Champaran Satyagraha", "text": "His first campaign in India, which ended forced indigo growing in Bihar.", "sources": ["w-champaran"] },
+    { "year": "1919", "type": "newspaper", "title": "Young India", "text": "An English weekly he published from 1919 to 1932, and the source of the articles that led to his 1922 trial.", "sources": ["w-gandhi", "pg-freedom"] },
+    { "year": "1922", "type": "book", "title": "Freedom's Battle", "text": "A collection of his writings and speeches from the non-cooperation years, including his statement at his trial.", "sources": ["pg-freedom"], "url": "https://www.gutenberg.org/ebooks/10366" },
+    { "year": "1930", "type": "campaign", "title": "The Salt Satyagraha", "text": "A 24-day march to the sea and a mass breaking of the salt law, with over 60,000 people jailed.", "sources": ["w-saltmarch"], "url": "https://en.wikipedia.org/wiki/Salt_March" },
+    { "year": "1932", "type": "agreement", "title": "Poona Pact", "text": "A compromise with B. R. Ambedkar on seats for the Depressed Classes, reached after Gandhi's fast in prison.", "sources": ["w-poona"] },
+    { "year": "1936", "type": "community", "title": "Sevagram Ashram", "text": "His village home near Wardha from 1936 until his death, where Harijans worked in the common kitchen to challenge caste barriers.", "sources": ["w-sevagram"] },
+    { "year": "1942", "type": "campaign", "title": "Quit India", "text": "His call for the British to leave India at once, made in Bombay on 8 August 1942.", "sources": ["w-quitindia"] }
+  ],
+  "resources": [
+    { "label": "Indian Home Rule (Project Gutenberg #40461)", "url": "https://www.gutenberg.org/ebooks/40461", "what": "Hind Swaraj in Gandhi's own English translation, free to read online." },
+    { "label": "Freedom's Battle (Project Gutenberg #10366)", "url": "https://www.gutenberg.org/ebooks/10366", "what": "His writings and speeches of 1919 to 1922, including the statement at his trial." },
+    { "label": "Third Class in Indian Railways (Project Gutenberg #24461)", "url": "https://www.gutenberg.org/ebooks/24461", "what": "Short essays from 1916 and 1917, including his report on third-class train travel." },
+    { "label": "Gandhi Heritage Portal", "url": "https://www.gandhiheritageportal.org/", "what": "The Sabarmati Ashram trust's archive: Collected Works, photos, a day-by-day chronology and sourced quotations." },
+    { "label": "Mahatma Gandhi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi", "what": "A detailed, well sourced account of his life, campaigns and critics." },
+    { "label": "Mohandas Karamchand Gandhi (South African History Online)", "url": "https://www.sahistory.org.za/people/mohandas-karamchand-gandhi", "what": "His 21 years in South Africa, told by a South African history archive." },
+    { "label": "Salt March (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Salt_March", "what": "The march day by day, with the route and the names of the marchers." },
+    { "label": "Legacy of Mahatma Gandhi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Legacy_of_Mahatma_Gandhi", "what": "How his ideas spread, his Nobel nominations and the people he influenced." }
+  ],
+  "books": [
+    { "title": "Indian Home Rule (Hind Swaraj)", "author": "M. K. Gandhi", "year": "1909", "kind": "by-him", "free": "https://www.gutenberg.org/ebooks/40461", "note": "His key statement of ideas, written in Gujarati in 1909 and translated by himself. The free text is the 1922 Ganesh & Co. edition." },
+    { "title": "Freedom's Battle", "author": "M. K. Gandhi", "year": "1922", "kind": "by-him", "free": "https://www.gutenberg.org/ebooks/10366", "note": "Articles and speeches from the non-cooperation campaign, with his famous trial statement." },
+    { "title": "Third Class in Indian Railways", "author": "M. K. Gandhi", "year": "1917", "kind": "by-him", "free": "https://www.gutenberg.org/ebooks/24461", "note": "Short essays on train travel, education in Indian languages and other everyday questions." },
+    { "title": "Mahatma Gandhi: The Man Who Became One with the Universal Being", "author": "Romain Rolland, translated by Catherine D. Groth", "year": "1924", "kind": "biography", "free": "https://www.gutenberg.org/ebooks/61575", "note": "An early, admiring portrait by the French writer, published while Gandhi was still in mid-career." },
+    { "title": "The Good Boatman: A Portrait of Gandhi", "author": "Rajmohan Gandhi", "year": "1997", "kind": "biography", "free": null, "note": "A full-length portrait, cited in the Wikipedia article." },
+    { "title": "Great Soul: Mahatma Gandhi and His Struggle with India", "author": "Joseph Lelyveld", "year": "2011", "kind": "biography", "free": null, "note": "A modern biography, cited in the Wikipedia article." }
+  ]
+}

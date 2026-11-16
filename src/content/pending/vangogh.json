@@ -1,0 +1,66 @@
+{
+  "id": "vangogh",
+  "name": "Vincent van Gogh",
+  "years": "1853 - 1890",
+  "title": "The Colour Seeker",
+  "tagline": "He started at 27 with almost no training and sold almost nothing, yet in ten years of daily work, much of it outdoors, he taught colour to carry feeling.",
+  "sources": {
+    "w-vangogh": { "label": "Vincent van Gogh (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh" },
+    "ludovici": { "label": "The Letters of a Post-Impressionist, tr. Anthony M. Ludovici (Houghton Mifflin, 1913), Project Gutenberg #40393", "url": "https://www.gutenberg.org/ebooks/40393" },
+    "w-sorrow": { "label": "Sorrow (Van Gogh) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Sorrow_(Van_Gogh)" },
+    "w-cafe": { "label": "Café Terrace at Night (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_Terrace_at_Night" },
+    "w-bedroom": { "label": "Bedroom in Arles (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Bedroom_in_Arles" },
+    "w-redvineyard": { "label": "The Red Vineyard (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Red_Vineyard" },
+    "w-olive": { "label": "Olive Trees (Van Gogh series) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Olive_Trees_(Van_Gogh_series)" },
+    "vgm-felthat": { "label": "Self-Portrait with Grey Felt Hat (Van Gogh Museum)", "url": "https://www.vangoghmuseum.nl/en/collection/s0016V1962" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Draw it a hundred times",
+      "idea": "Vincent decided to become an artist at 27 with almost no training. He spent long months on drawing and perspective before he touched paint, and he drew the same simple things again and again until his hand knew them.",
+      "quote": { "text": "I trust I may yet be able to draw the little cradle a hundred times over resolutely.", "credit": "Letter to Theo, The Hague (1882), in The Letters of a Post-Impressionist, tr. Anthony M. Ludovici (1913)" },
+      "practice": "Pick one small object near you, like a cup or a shoe. Draw it three times today, a little slower each time.",
+      "sources": ["ludovici", "w-vangogh"]
+    },
+    {
+      "title": "Learn from the thing itself",
+      "idea": "Vincent took lessons, but he believed the best teacher was the world in front of him. He carried his easel into fields, dunes and town squares and painted on the spot, in the wind and the sun.",
+      "quote": { "text": "One should not pay so much heed to the teaching of painters as to the teaching of Nature.", "credit": "Letter to Theo, The Hague (1882), in The Letters of a Post-Impressionist, tr. Anthony M. Ludovici (1913)" },
+      "practice": "Go outside for ten minutes and look at one view. Write down five things you notice that you never noticed before.",
+      "sources": ["ludovici", "w-cafe"]
+    },
+    {
+      "title": "Let colour carry the feeling",
+      "idea": "His early pictures were dark and earthy. In Paris he studied newer painters and began to set strong colours side by side, like blue against orange. In Arles he planned whole pictures so that the colour itself would make you feel calm, warm or uneasy.",
+      "quote": { "text": "This time the colour shall do everything.", "credit": "Letter to Theo about The Bedroom, Arles (1888), in The Letters of a Post-Impressionist, tr. Anthony M. Ludovici (1913)" },
+      "practice": "Choose three colours that match how you feel today. Use them on purpose in something you make or wear.",
+      "sources": ["ludovici", "vgm-felthat", "w-bedroom"]
+    },
+    {
+      "title": "Be patient as an ox",
+      "idea": "In ten years as a painter, Vincent sold very little. The Red Vineyard is the only painting known by name that he sold in his lifetime. He kept working anyway, day after day, and joked that a painter needs the patience of an ox.",
+      "quote": { "text": "Thus one must be as patient as an ox if one would wish to cultivate the field of art.", "credit": "Letter to Émile Bernard, Arles (1888), in The Letters of a Post-Impressionist, tr. Anthony M. Ludovici (1913)" },
+      "practice": "Work for 25 minutes on something long and slow without checking if it is good yet. Just plough one more row.",
+      "sources": ["ludovici", "w-redvineyard"]
+    },
+    {
+      "title": "Show what is in your heart",
+      "idea": "Many people saw Vincent as odd and difficult. He did not answer with arguments. He answered with honest work, and he explained his aims in hundreds of letters to his brother Theo.",
+      "quote": { "text": "I should like to show by my work what the heart of such a nonentity, of such an insignificant man, conceals.", "credit": "Letter to Theo, The Hague (1882), in The Letters of a Post-Impressionist, tr. Anthony M. Ludovici (1913)" },
+      "practice": "Write down one thing you care about deeply. Make one small thing today, a note, a sketch or a meal, that shows it.",
+      "sources": ["ludovici", "w-vangogh", "w-sorrow"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "A hundred cradles", "action": "Draw one everyday object three times. Do not erase. Notice what gets easier." },
+    { "day": 2, "title": "Paint on the spot", "action": "Spend 15 minutes outside with a pencil or your notes. Sketch or describe one view exactly as it is." },
+    { "day": 3, "title": "Colour of a mood", "action": "Pick three colours for today's mood. Find them around you, or use them in something you make." },
+    { "day": 4, "title": "Write to Theo", "action": "Like Vincent writing to his brother, write a letter to someone you trust about what you are working on and why.", "sources": ["w-vangogh"] },
+    { "day": 5, "title": "Patient as an ox", "action": "Give 25 quiet minutes to one slow task without checking your phone or judging the result." },
+    { "day": 6, "title": "Same view, new light", "action": "Look at the same place in the morning and again in the evening. Note how the colours change.", "sources": ["w-olive"] },
+    { "day": 7, "title": "Show your heart", "action": "Share one thing you made this week with someone, and tell them what you were trying to show." }
+  ],
+  "reflect": "What is one thing you feel too late to start, and what would happen if you practised it a little every day for ten years?",
+  "keepsake": "Vincent van Gogh Builder Collectible"
+}

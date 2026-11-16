@@ -1,0 +1,64 @@
+{
+  "id": "gutenberg",
+  "name": "Johannes Gutenberg",
+  "years": "c. 1400 - 1468",
+  "title": "The Printer",
+  "tagline": "He joined metal casting, a new ink and a wine-style press into one system, and printed a Bible as fine as any made by hand.",
+  "sources": {
+    "w-gutenberg": { "label": "Johannes Gutenberg (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Johannes_Gutenberg" },
+    "w-bible": { "label": "Gutenberg Bible (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Gutenberg_Bible" },
+    "w-press": { "label": "Printing press (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Printing_press" },
+    "w-catholicon": { "label": "Catholicon (1286) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Catholicon_(1286)" },
+    "loc-blog": { "label": "Man Behind the Bible: Johannes Gutenberg's Life of Adventure and Art, Library of Congress blog (2023)", "url": "https://blogs.loc.gov/international-collections/2023/10/man-behind-the-bible-johannes-gutenbergs-life-of-adventure-and-art-loclr-blogint/" },
+    "devinne": { "label": "The Invention of Printing, Theodore Low De Vinne (1876), with English translations of the court records (Internet Archive)", "url": "https://archive.org/details/inventionofprint00deviuoft" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Combine what already exists",
+      "idea": "Presses, metal casting, punches and ink were all known before Gutenberg. His gift was to fit them together into one working system. The 1460 Catholicon, which may come from his workshop, boasted that it was made by punches and types working in harmony, not by pen.",
+      "quote": { "text": "...not by means of pen, or pencil, or stencil plate, but by the admirable proportion, harmony and connection of the punches and matrices.", "credit": "Colophon of the Catholicon (Mainz, 1460; printer not named, often credited to Gutenberg), tr. in T. L. De Vinne, The Invention of Printing (1876)" },
+      "practice": "Pick one task you find slow. List three tools or skills you already have. Write one way two of them could work together to make the task easier.",
+      "sources": ["w-press", "w-catholicon", "devinne"]
+    },
+    {
+      "title": "Make the copy as good as the original",
+      "idea": "Printing was not enough. Gutenberg wanted his printed pages to look as fine as the best handwriting. He used about 290 different letter shapes and careful spacing so the lines came out even. An early reader praised how clear the pages were.",
+      "quote": { "text": "The script is extremely neat and legible, not at all difficult to follow.", "credit": "Enea Silvio Piccolomini (later Pope Pius II), letter to Cardinal Carvajal, March 1455, English as quoted in Wikipedia (after Raven and Proot, 2020)" },
+      "practice": "Take one thing you made this week, like a note or a page of work. Check it slowly, word by word, and fix every small mistake you find.",
+      "sources": ["w-gutenberg", "w-bible"]
+    },
+    {
+      "title": "Agree in writing before you start",
+      "idea": "In Strasbourg Gutenberg set up a written agreement with his partners. A partner told the court that Gutenberg asked them to talk it over and be sure they all agreed. When a partner died, the written contract helped the court settle the case in Gutenberg's favour.",
+      "quote": { "text": "Consult well among yourselves, and see that you are agreed on this matter.", "credit": "Gutenberg's words as reported by Anthony Heilmann, Strasbourg court record (1439), tr. in T. L. De Vinne, The Invention of Printing (1876)" },
+      "practice": "Before your next group task, write three lines: what we are making, who does which part, and when it is due. Ask everyone to say yes to it.",
+      "sources": ["devinne", "loc-blog"]
+    },
+    {
+      "title": "Build in stages",
+      "idea": "Gutenberg spent years on experiments before the Bible. His workshop printed small things first, like school grammars, a calendar and indulgence forms, while the big Bible was slowly set page by page. Each small job tested the tools.",
+      "quote": { "text": "There are here now many things ready for use, and there are many more in progress.", "credit": "Gutenberg's words as reported by Anthony Heilmann, Strasbourg court record (1439), tr. in T. L. De Vinne, The Invention of Printing (1876)" },
+      "practice": "Choose a big goal. Write the smallest test version you could finish today, and do it.",
+      "sources": ["devinne", "w-gutenberg"]
+    },
+    {
+      "title": "Keep clear accounts",
+      "idea": "Gutenberg was a great inventor but money troubles followed him. In 1455 his backer Johann Fust took him to court over loans and interest, and Gutenberg lost control of much of the Bible workshop. The record shows how much depended on who had kept the accounts.",
+      "quote": { "text": "I, Johan Fust, have borrowed 1,550 guilders, which have been received by Johan Gutenberg, and spent on our common work.", "credit": "Johann Fust's sworn statement, Helmasperger notarial instrument (6 November 1455), tr. J. H. Hessels, in T. L. De Vinne, The Invention of Printing (1876)" },
+      "practice": "For one day, write down where your time goes, hour by hour. At night, circle the hour that helped your main goal most.",
+      "sources": ["devinne", "w-gutenberg", "loc-blog"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Combine", "action": "List three tools or skills you already have. Write one way two of them could work together to solve a problem." },
+    { "day": 2, "title": "Make a mould", "action": "Find one thing you write or do again and again. Make a simple template for it, like Gutenberg's mould made the same letter every time.", "sources": ["w-press"] },
+    { "day": 3, "title": "Proof the page", "action": "Read one piece of your work slowly, word by word. Fix every small mistake." },
+    { "day": 4, "title": "Small print first", "action": "Pick a big goal. Make the smallest test version you can finish today." },
+    { "day": 5, "title": "Agree in writing", "action": "Write three lines for a shared task: what, who and when. Ask the others to say yes." },
+    { "day": 6, "title": "Keep the account", "action": "Write down where your time goes today, hour by hour. Circle the best hour." },
+    { "day": 7, "title": "Make many copies", "action": "Write a one-page guide to something you know well. Share it with three people who could use it." }
+  ],
+  "reflect": "What is one thing you do again and again that a simple tool or template could make faster and better?",
+  "keepsake": "Johannes Gutenberg Builder Collectible"
+}

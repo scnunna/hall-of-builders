@@ -51,6 +51,14 @@ export function checkPending(id) {
     for (const s of e.sources || []) if (!known[s]) errs.push(`HOB_UNKNOWN_SOURCE: timeline[${i}] cites "${s}"`);
     for (const k of ['place', 'title', 'text', 'kind']) if (!e[k]) errs.push(`HOB_FIELD: timeline[${i}] needs "${k}"`);
   });
+  if (m.feature) {
+    const f = m.feature;
+    if (!f.nav || f.nav.length > 14) errs.push('HOB_FEATURE: feature.nav must be 1-14 characters (it is a menu label)');
+    if (!['route', 'cards'].includes(f.style)) errs.push('HOB_FEATURE: feature.style is "route" or "cards"');
+    if (!f.title || !f.lead) errs.push('HOB_FEATURE: feature needs title and lead');
+    if (!(f.items?.length >= 5 && f.items.length <= 30)) errs.push('HOB_FEATURE: feature needs 5-30 items');
+    (f.items || []).forEach((it, i) => { if (!it.label || !it.text) errs.push(`HOB_FEATURE: items[${i}] needs label and text`); if (!it.sources?.length) errs.push(`HOB_UNSOURCED: feature.items[${i}]`); for (const s of it.sources || []) if (!known[s]) errs.push(`HOB_UNKNOWN_SOURCE: feature.items[${i}] cites "${s}"`); });
+  }
   m.works.forEach((e, i) => { if (!e.sources?.length) errs.push(`HOB_UNSOURCED: works[${i}]`); for (const s of e.sources || []) if (!known[s]) errs.push(`HOB_UNKNOWN_SOURCE: works[${i}] cites "${s}"`); });
   if (m.timeline.length < 18) errs.push(`HOB_SHAPE: timeline needs at least 18 entries (found ${m.timeline.length})`);
   if (m.works.length < 8) errs.push(`HOB_SHAPE: works needs at least 8 entries (found ${m.works.length})`);

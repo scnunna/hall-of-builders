@@ -1,0 +1,63 @@
+{
+  "id": "ramanujan",
+  "name": "Srinivasa Ramanujan",
+  "years": "1887 - 1920",
+  "title": "The Self-Taught Mathematician",
+  "tagline": "With one borrowed book and no degree, he filled notebooks with thousands of new formulas, wrote to Cambridge, and changed mathematics in seven short years.",
+  "sources": {
+    "w-ramanujan": { "label": "Srinivasa Ramanujan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan" },
+    "mactutor": { "label": "Srinivasa Ramanujan, MacTutor History of Mathematics (University of St Andrews)", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ramanujan/" },
+    "w-1729": { "label": "1729 (number) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/1729_(number)" },
+    "w-hardy": { "label": "G. H. Hardy (Wikipedia)", "url": "https://en.wikipedia.org/wiki/G._H._Hardy" },
+    "ia-collected": { "label": "Collected Papers of Srinivasa Ramanujan, ed. G. H. Hardy, P. V. Seshu Aiyar and B. M. Wilson, Cambridge University Press 1927 (Internet Archive)", "url": "https://archive.org/details/pli.kerala.rare.28155" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Strike out a new path",
+      "idea": "Ramanujan failed his college exams and never earned a regular degree. He did not stop. He kept studying mathematics on his own, in his spare time, and was honest about it when he wrote to one of the best mathematicians in England.",
+      "quote": { "text": "I have not trodden through the conventional regular course which is followed in a University course, but I am striking out a new path for myself.", "credit": "Letter to G. H. Hardy, 16 January 1913, printed in Collected Papers of Srinivasa Ramanujan (1927)" },
+      "practice": "Pick one thing you want to learn that no class is teaching you. Spend 20 minutes on it today with a free book or video.",
+      "sources": ["ia-collected", "w-ramanujan"]
+    },
+    {
+      "title": "Write it down, then check it",
+      "idea": "As a teenager he worked through a borrowed book of formulas, G. S. Carr's Synopsis, trying to prove each result himself. He wrote his own discoveries in notebooks and checked them by hand. Those notebooks became his life's work.",
+      "quote": { "text": "It is a remarkable fact that frequently, on rising from bed, he would note down results and rapidly verify them, though he was not always able to supply a rigorous proof.", "credit": "P. V. Seshu Aiyar and R. Ramachandra Rao, about Ramanujan, memoir in Collected Papers of Srinivasa Ramanujan (1927)" },
+      "practice": "Start a small notebook for one subject. Each time you learn or notice something, write it down in one line, then test it once.",
+      "sources": ["ia-collected", "w-ramanujan"]
+    },
+    {
+      "title": "Learn from examples",
+      "idea": "Ramanujan often started with real numbers. He worked out many cases by hand, looked for a pattern, and only then wrote a general rule. Hardy said this is how he found his famous patterns in partitions.",
+      "quote": { "text": "He worked, far more than the majority of modern mathematicians, by induction from numerical examples; all of his congruence properties of partitions, for example, were discovered in this way.", "credit": "G. H. Hardy, about Ramanujan, obituary notice (1921), reprinted in Collected Papers of Srinivasa Ramanujan (1927)" },
+      "practice": "Before you try to solve a problem in general, work out three small examples by hand. Write down what they have in common.",
+      "sources": ["ia-collected"]
+    },
+    {
+      "title": "Make friends with your subject",
+      "idea": "Ramanujan knew numbers so well that a dull taxi number reminded him of a hidden property. Deep familiarity comes from spending time with a subject until its details feel like old friends.",
+      "quote": { "text": "No, it is a very interesting number; it is the smallest number expressible as a sum of two cubes in two different ways.", "credit": "Ramanujan's reply about the number 1729, as recalled by G. H. Hardy, obituary notice (1921), reprinted in Collected Papers of Srinivasa Ramanujan (1927)" },
+      "practice": "Pick a number you see today, such as a house number or a page number. Find three facts about it: its factors, whether it is prime, and one other pattern.",
+      "sources": ["ia-collected", "w-1729"]
+    },
+    {
+      "title": "Ask for help, humbly",
+      "idea": "Ramanujan sent his results to several Cambridge mathematicians. Two returned them without comment. He kept trying, and his letter to Hardy changed his life. He asked plainly for advice and was open about what he lacked.",
+      "quote": { "text": "Being inexperienced I would very highly value any advice you give me.", "credit": "Letter to G. H. Hardy, 16 January 1913, printed in Collected Papers of Srinivasa Ramanujan (1927)" },
+      "practice": "Write a short, polite message to someone who knows more than you about something you are working on. Show what you have done and ask one clear question.",
+      "sources": ["ia-collected", "w-ramanujan", "w-hardy"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "A new path", "action": "Choose one subject you want to learn on your own. Find one free book or lesson for it and spend 20 minutes." },
+    { "day": 2, "title": "Start the notebook", "action": "Begin a notebook for that subject. Write down three things you learned, one line each.", "sources": ["ia-collected"] },
+    { "day": 3, "title": "Three examples", "action": "Take one problem or question. Work out three small examples by hand and look for a pattern." },
+    { "day": 4, "title": "Number friend", "action": "Pick a number you see today. Find its factors and one surprising fact about it, like Ramanujan with 1729.", "sources": ["w-1729"] },
+    { "day": 5, "title": "Check your work", "action": "Go back to one rule or idea in your notebook and test it with a new example. Mark it checked or not." },
+    { "day": 6, "title": "Ask someone", "action": "Send one short, polite question about your subject to someone who knows more. Show what you have tried." },
+    { "day": 7, "title": "Look back", "action": "Read your notebook from the week. Write one sentence about the most interesting pattern you found." }
+  ],
+  "reflect": "What is one subject you love enough to keep studying even if no one is grading you?",
+  "keepsake": "Srinivasa Ramanujan Builder Collectible"
+}

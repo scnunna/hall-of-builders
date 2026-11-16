@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "06-saltmarch",
+ "panels": [
+  { "key": "01-porbandar", "year": "1869" },
+  { "key": "02-station", "year": "1893" },
+  { "key": "03-phoenix", "year": "1904" },
+  { "key": "04-champaran", "year": "1917" },
+  { "key": "05-spinning", "year": "1921" },
+  { "key": "06-saltmarch", "year": "1930" },
+  { "key": "07-noakhali", "year": "1946" },
+  { "key": "08-rajghat", "year": "1948" }
+ ]
+}

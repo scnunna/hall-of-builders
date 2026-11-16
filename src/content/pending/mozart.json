@@ -1,0 +1,62 @@
+{
+  "id": "mozart",
+  "name": "Wolfgang Amadeus Mozart",
+  "years": "1756 - 1791",
+  "title": "The Traveling Prodigy",
+  "tagline": "He spent much of his childhood on the road across Europe, learned from the music of every city, and wrote operas, symphonies and concertos that please experts and beginners alike.",
+  "sources": {
+    "w-mozart": { "label": "Wolfgang Amadeus Mozart (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart" },
+    "w-tour": { "label": "Mozart family grand tour (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mozart_family_grand_tour" },
+    "gb-letters1": { "label": "The Letters of Wolfgang Amadeus Mozart, Vol. 1, tr. Lady Wallace (Project Gutenberg #5307)", "url": "https://www.gutenberg.org/ebooks/5307" },
+    "ia-letters2": { "label": "The Letters of Wolfgang Amadeus Mozart, Vol. 2, tr. Lady Wallace (Internet Archive)", "url": "https://archive.org/details/lettersofwolfgan02moza" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Speak in your own language",
+      "idea": "Mozart knew what he was good at. Writing to his father for his birthday, he said he could not send a poem, a painting or a dance. Instead he would play his good wishes on the keyboard at a friend's house the next day.",
+      "quote": { "text": "I cannot write poetically, for I am no poet... but I can by tones, for I am a musician.", "credit": "Letter to his father, Mannheim, 8 Nov 1777 (No. 73), tr. Lady Wallace (1865)" },
+      "practice": "Think of someone you want to thank. Thank them with the skill you are best at: cook, draw, fix, build or play something for them.",
+      "sources": ["gb-letters1"]
+    },
+    {
+      "title": "Listen first, then surprise",
+      "idea": "As a child Mozart heard the music of Munich, Paris, London and Italy, and he kept learning that way as an adult. In Paris in 1778 he noticed that local symphonies always opened loudly with the whole orchestra. So he opened his softly, with two violins, and then burst into a forte. The audience loved it.",
+      "quote": { "text": "Having observed that all last as well as first allegros here begin together with all the other instruments, and generally unisono, mine commenced with only two violins, piano for the first eight bars, followed instantly by a forte.", "credit": "Letter to his father, Paris, 3 Jul 1778 (No. 107), tr. Lady Wallace (1865)" },
+      "practice": "Before you start a task, spend ten minutes studying how others usually do it. Then change one small thing on purpose.",
+      "sources": ["gb-letters1", "w-tour"]
+    },
+    {
+      "title": "Please the expert and the beginner",
+      "idea": "Mozart wanted his piano concertos to be neither too easy nor too hard. He put in passages for people who knew music well, but made sure everyone else would enjoy them too, even without knowing why.",
+      "quote": { "text": "There are particular passages from which connoisseurs alone can derive satisfaction, but still the less learned cannot, I believe, fail to be pleased, even without knowing why.", "credit": "Letter from Vienna, 28 Dec 1782 (No. 213), tr. Lady Wallace (1865)" },
+      "practice": "Explain something you know well to a friend who knows nothing about it. Keep one detail for experts, but make sure your friend follows every step.",
+      "sources": ["ia-letters2", "w-mozart"]
+    },
+    {
+      "title": "Strong feeling, clear control",
+      "idea": "In The Abduction from the Seraglio, a character flies into a rage, and the music speeds up and changes key with him. But Mozart planned even the anger carefully, so that it still sounded good. He also wrote each aria to suit the voice of the singer who would sing it.",
+      "quote": { "text": "...the music even in the most appalling situations never offend the ear, but continue to please and be melodious.", "credit": "Letter to his father, Vienna, 26 Sep 1781 (No. 172), tr. Lady Wallace (1865)" },
+      "practice": "Next time you feel strongly about something, write it down first. Then rewrite it so the other person can hear it without being hurt.",
+      "sources": ["ia-letters2"]
+    },
+    {
+      "title": "Protect your main work",
+      "idea": "At 22 Mozart turned down a plan to earn steady money by teaching many pupils in Paris. He felt it would eat the time he needed to compose. He saw composing as his real calling and guarded it.",
+      "quote": { "text": "I am a composer, and born to become a Kapellmeister, and I neither can nor ought thus to bury the talent for composition with which God has so richly endowed me.", "credit": "Letter to his father, Mannheim, 7 Feb 1778 (No. 92), tr. Lady Wallace (1865)" },
+      "practice": "Name your one most important piece of work. Block one hour this week for it, and say no to one small thing that would take that hour.",
+      "sources": ["gb-letters1"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Your own language", "action": "Thank someone today using your best skill instead of words: make, fix or play something for them." },
+    { "day": 2, "title": "Listen first", "action": "Spend ten minutes studying how others usually do one task you do. Write down what they all have in common.", "sources": ["gb-letters1"] },
+    { "day": 3, "title": "One surprise", "action": "Do that same task, but change one small thing on purpose. Notice how people react." },
+    { "day": 4, "title": "Expert and beginner", "action": "Explain something you know well to someone new to it. Keep it clear enough that they follow every step." },
+    { "day": 5, "title": "Feeling, then form", "action": "Write down something that annoyed you. Rewrite it calmly so another person could hear it without being hurt." },
+    { "day": 6, "title": "Guard the hour", "action": "Block one hour for your most important work. Say no to one thing that would take it." },
+    { "day": 7, "title": "A letter home", "action": "Like Mozart writing to his father, write a short letter to someone about what you made or learned this week.", "sources": ["gb-letters1", "ia-letters2"] }
+  ],
+  "reflect": "What is one place, person or kind of music you could learn from this month that you have never paid attention to before?",
+  "keepsake": "Wolfgang Amadeus Mozart Builder Collectible"
+}

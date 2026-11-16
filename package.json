@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "check": "node scripts/check-content.mjs",
-    "build": "node scripts/check-content.mjs && tsc --noEmit && vite build",
+    "build": "node scripts/check-content.mjs && tsc --noEmit && vite build && node scripts/prerender.mjs",
     "preview": "vite preview",
     "sync:ncg": "node scripts/sync-ncg.mjs",
     "emails": "node scripts/build-emails.mjs",

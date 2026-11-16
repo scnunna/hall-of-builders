@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "06-rose",
+ "panels": [
+  { "key": "01-calling", "year": "1837" },
+  { "key": "02-kaiserswerth", "year": "1851" },
+  { "key": "03-scutari", "year": "1854" },
+  { "key": "04-lamp", "year": "1855" },
+  { "key": "05-ledgers", "year": "1857" },
+  { "key": "06-rose", "year": "1858" },
+  { "key": "07-school", "year": "1860" },
+  { "key": "08-letters", "year": "1907" }
+ ]
+}

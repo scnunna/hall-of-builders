@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "05-jupiter",
+ "panels": [
+  { "key": "01-lamp", "year": "1581" },
+  { "key": "02-padua", "year": "1592" },
+  { "key": "03-senate", "year": "1609" },
+  { "key": "04-moon", "year": "1609" },
+  { "key": "05-jupiter", "year": "1610" },
+  { "key": "06-sunspots", "year": "1613" },
+  { "key": "07-trial", "year": "1633" },
+  { "key": "08-arcetri", "year": "1638" }
+ ]
+}

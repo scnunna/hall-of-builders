@@ -1,0 +1,614 @@
+{
+  "sources": {
+    "w-fn": { "label": "Florence Nightingale (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Florence_Nightingale" },
+    "w-non": { "label": "Notes on Nursing (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Notes_on_Nursing" },
+    "w-pie": { "label": "Pie chart, history section on Nightingale's polar area diagram (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Pie_chart" },
+    "w-seacole": { "label": "Mary Seacole (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mary_Seacole" },
+    "w-faculty": { "label": "Florence Nightingale Faculty of Nursing, Midwifery and Palliative Care (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Florence_Nightingale_Faculty_of_Nursing,_Midwifery_and_Palliative_Care" },
+    "gut-non": { "label": "Notes on Nursing: What It Is, and What It Is Not, by Florence Nightingale (Project Gutenberg #12439)", "url": "https://www.gutenberg.org/ebooks/12439" },
+    "cook1": { "label": "The Life of Florence Nightingale, vol. 1 of 2, by Sir Edward Cook, 1913 (Project Gutenberg #40057)", "url": "https://www.gutenberg.org/ebooks/40057" },
+    "ia-cook": { "label": "The Life of Florence Nightingale, vol. 1, Edward Cook, 1913 scan (Internet Archive)", "url": "https://archive.org/details/lifeflorencenigh01cook" },
+    "nam": { "label": "Florence Nightingale: The Lady with the Lamp, National Army Museum", "url": "https://www.nam.ac.uk/explore/florence-nightingale-lady-lamp" },
+    "fnm": { "label": "Florence Nightingale Museum, London (official site)", "url": "https://www.florence-nightingale.co.uk/" },
+    "lehigh": { "label": "Nightingale's Rose Diagram, Data Visualization exhibit, Lehigh University Libraries", "url": "https://exhibits.lib.lehigh.edu/exhibits/show/data_visualization/science/nightingale" },
+    "gut-seacole": { "label": "Wonderful Adventures of Mrs. Seacole in Many Lands, by Mary Seacole (Project Gutenberg #23031)", "url": "https://www.gutenberg.org/ebooks/23031" }
+  },
+  "timeline": [
+    {
+      "date": "1820-05-12",
+      "age": 0,
+      "place": "Florence, Tuscany, (Italy)",
+      "title": "Born in Florence",
+      "text": "Florence Nightingale was born on 12 May 1820 at the Villa Colombaia in Florence, while her wealthy English parents were travelling. She was named after the city. Her parents were William Edward Nightingale and Frances \"Fanny\" Smith.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-fn", "cook1"]
+    },
+    {
+      "date": "1825",
+      "age": 5,
+      "place": "Embley Park, Hampshire, (United Kingdom)",
+      "title": "Two country homes",
+      "text": "The family returned to England in 1821. In 1825 her father bought Embley Park in Hampshire. They split their time between Embley, Lea Hurst in Derbyshire and London. Her father taught his two daughters at home, adding Latin, Greek and mathematics to their lessons.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-fn", "cook1"]
+    },
+    {
+      "date": "1837-02-07",
+      "age": 16,
+      "place": "England, (United Kingdom)",
+      "title": "A sense of calling",
+      "text": "On 7 February 1837, aged 16, she wrote that she had felt a call from God to service. For years she did not know what form it would take. Her family expected her to marry and live as a wealthy lady, and they did not want her to work.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-fn", "cook1"]
+    },
+    {
+      "date": "1847",
+      "age": 27,
+      "place": "Rome, Papal States, (Italy)",
+      "title": "A friend in government",
+      "text": "On a visit to Rome she met the politician Sidney Herbert and his wife. Herbert became a lifelong friend and ally. He would later approve her mission to the war and work with her on army reform.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-fn"]
+    },
+    {
+      "date": "1850-01",
+      "age": 29,
+      "place": "Nile valley, (Egypt)",
+      "title": "Up the Nile",
+      "text": "In January 1850 she travelled up the Nile as far as Abu Simbel. She wrote about the temples there in her letters home.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-fn"]
+    },
+    {
+      "date": "1850",
+      "age": 30,
+      "place": "Kaiserswerth, Prussia, (Germany)",
+      "title": "First visit to Kaiserswerth",
+      "text": "On the way home she visited the Lutheran deaconess community at Kaiserswerth in Germany, where women were trained to care for the sick and poor. She called the experience a turning point in her life.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-fn", "cook1"]
+    },
+    {
+      "date": "1851",
+      "age": 31,
+      "place": "Kaiserswerth, Prussia, (Germany)",
+      "title": "Training at last",
+      "text": "In 1851 she went back to Kaiserswerth to train as a nurse. Cook's 1913 biography says she stayed three months; Wikipedia says four months. The same year she published her first work, a short anonymous account of the Kaiserswerth institution.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-fn", "cook1"]
+    },
+    {
+      "date": "1853-08-22",
+      "age": 33,
+      "place": "London, England, (United Kingdom)",
+      "title": "Her first job",
+      "text": "She became superintendent of the Institute for the Care of Sick Gentlewomen in Upper Harley Street, London. She ran it until October 1854, improving how it was organised and supplied.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-fn", "cook1"]
+    },
+    {
+      "date": "1854-10-21",
+      "age": 34,
+      "place": "London, England, (United Kingdom)",
+      "title": "Called to the war",
+      "text": "Britain was fighting Russia in the Crimean War, and reports of sick soldiers caused an outcry. With Sidney Herbert's approval, she left London on 21 October 1854 with 38 women volunteer nurses and 15 Catholic nuns.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-fn", "nam"]
+    },
+    {
+      "date": "1854-11",
+      "age": 34,
+      "place": "Scutari (Üsküdar), Constantinople, (Turkey)",
+      "title": "The Barrack Hospital",
+      "text": "In early November 1854 her party reached the military hospital in the Selimiye Barracks at Scutari, across the water from Constantinople. It was dirty and full of vermin, short of supplies, and most patients were sick with disease rather than wounded.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-fn", "nam"]
+    },
+    {
+      "date": "1855-02",
+      "age": 34,
+      "place": "Scutari (Üsküdar), Constantinople, (Turkey)",
+      "title": "The worst winter",
+      "text": "In the winter of 1854 to 1855, 4,077 soldiers died at Scutari. About ten times more died of diseases such as typhus, cholera and dysentery than of battle wounds. By February 1855 the hospital's death rate had reached 42 per cent.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-fn", "nam"]
+    },
+    {
+      "date": "1855-03",
+      "age": 34,
+      "place": "Scutari (Üsküdar), Constantinople, (Turkey)",
+      "title": "The sewers are cleaned",
+      "text": "In March 1855 a government Sanitary Commission arrived. It flushed the sewers and improved the air flow, and the death rate fell sharply. Nightingale never claimed this fall as her own work, and some historians say the press exaggerated her role. Her later study of these numbers convinced her that dirt and crowding, not only wounds, had killed the men.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-fn", "nam"]
+    },
+    {
+      "date": "1855",
+      "age": 35,
+      "place": "Scutari (Üsküdar), Constantinople, (Turkey)",
+      "title": "The Lady with the Lamp",
+      "text": "A report in The Times described her walking the long wards alone at night with a small lamp. Soldiers wrote home about her kindness. The name \"the Lady with the Lamp\" spread, helped by Longfellow's 1857 poem Santa Filomena. The lamp she used was a simple camp lamp.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-fn", "nam", "cook1"]
+    },
+    {
+      "date": "1855-05",
+      "age": 35,
+      "place": "Balaklava, Crimea, (Ukraine)",
+      "title": "Struck by fever",
+      "text": "On a visit to the Crimea in May 1855 she fell ill with what was called Crimean fever. The head nurse Eliza Roberts nursed her through it. Wikipedia links this illness to the poor health she had for much of her later life.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-fn"]
+    },
+    {
+      "date": "1855",
+      "age": 35,
+      "place": "Scutari (Üsküdar), Constantinople, (Turkey)",
+      "title": "Two women at Scutari",
+      "text": "Mary Seacole, a Jamaican nurse and businesswoman, had been turned down when she offered to join the nursing effort, and she believed race played a part. She went to the Crimea on her own and ran the British Hotel near Balaklava, selling supplies and treating soldiers. The two women met once at Scutari, and Seacole described a friendly meeting. Years later, in a private letter, Nightingale wrote harshly about her.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-seacole", "gut-seacole"]
+    },
+    {
+      "date": "1855-11-29",
+      "age": 35,
+      "place": "London, England, (United Kingdom)",
+      "title": "The Nightingale Fund",
+      "text": "Admirers set up the Nightingale Fund at a public meeting at Willis's Rooms in London to thank her for her work and to pay for training nurses. By June 1856 it had raised about £44,000.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-fn", "w-faculty", "nam", "cook1"]
+    },
+    {
+      "date": "1856-08",
+      "age": 36,
+      "place": "London, England, (United Kingdom)",
+      "title": "Home, quietly",
+      "text": "After the war ended she came home in August 1856, travelling as \"Miss Smith\" to avoid crowds. She was now famous, but she wanted to use her fame to change how the army cared for its soldiers.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["nam", "cook1"]
+    },
+    {
+      "date": "1856-09-21",
+      "age": 36,
+      "place": "Balmoral, Aberdeenshire, (United Kingdom)",
+      "title": "Meeting the Queen",
+      "text": "On 21 September 1856 she was introduced to Queen Victoria and Prince Albert near Balmoral. The Prince wrote in his diary that she \"put before us all the defects of our present military hospital system, and the reforms that are needed.\" The Queen backed her call for an official inquiry.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["cook1"]
+    },
+    {
+      "date": "1857-05-05",
+      "age": 36,
+      "place": "London, England, (United Kingdom)",
+      "title": "A Royal Commission",
+      "text": "On 5 May 1857 a Royal Commission on the health of the army was set up, with Sidney Herbert as chairman. She was not a member, but she shaped its work behind the scenes. She worked closely with the statistician William Farr to study the army's death rates.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["cook1"]
+    },
+    {
+      "date": "1857",
+      "age": 37,
+      "place": "London, England, (United Kingdom)",
+      "title": "Working from her room",
+      "text": "From 1857 she was often confined to bed and also suffered from depression. She kept working from her room for decades, writing thousands of letters, reports and papers and meeting officials who came to her.",
+      "turning": false,
+      "kind": "setback",
+      "sources": ["w-fn"]
+    },
+    {
+      "date": "1858",
+      "age": 38,
+      "place": "London, England, (United Kingdom)",
+      "title": "The rose diagram",
+      "text": "In her 1858 report Notes on Matters Affecting the Health, Efficiency, and Hospital Administration of the British Army, she printed a coloured polar area diagram. Each wedge was one month of the war, and its size showed how many soldiers died and why. At a glance, it showed that most deaths came from preventable disease. Copies went to Queen Victoria, ministers and army officers.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-fn", "w-pie", "lehigh", "cook1"]
+    },
+    {
+      "date": "1859",
+      "age": 39,
+      "place": "London, England, (United Kingdom)",
+      "title": "Notes on Nursing",
+      "text": "She published Notes on Nursing: What It Is, and What It Is Not, a short book of \"hints for thought\" for anyone caring for the sick at home. It covers fresh air, light, quiet, food, cleanliness and careful observation. The same year she became the first woman elected to the Royal Statistical Society.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-non", "gut-non", "w-fn", "nam"]
+    },
+    {
+      "date": "1859",
+      "age": 39,
+      "place": "London, England, (United Kingdom)",
+      "title": "Turning to India",
+      "text": "She pushed for a Royal Commission on the health of the British Army in India and sent it a long report around 1861. She never went to India, but she studied its sanitation for the rest of her life, including famine and village water.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-fn"]
+    },
+    {
+      "date": "1860-07-09",
+      "age": 40,
+      "place": "London, England, (United Kingdom)",
+      "title": "The Nightingale School opens",
+      "text": "With money from the Nightingale Fund, the Nightingale Training School opened at St Thomas' Hospital on 9 July 1860. The matron Sarah Wardroper ran it day to day. Training usually lasted one year, and from 1860 to 1903 the school certified 1,907 nurses.",
+      "turning": true,
+      "kind": "turning",
+      "sources": ["w-fn", "w-faculty", "nam"]
+    },
+    {
+      "date": "1865-05-16",
+      "age": 45,
+      "place": "Liverpool, England, (United Kingdom)",
+      "title": "Nurses for the poorest",
+      "text": "The first trained Nightingale nurses began work at the Liverpool Workhouse Infirmary, which cared for very poor people. It was an early step toward trained nursing in workhouses.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-fn"]
+    },
+    {
+      "date": "1873",
+      "age": 53,
+      "place": "London, England, (United Kingdom)",
+      "title": "Proof in the numbers",
+      "text": "She reported that after ten years of sanitary reform, deaths among soldiers in India had fallen from 69 to 18 per 1,000 a year. The same decade, nurses she mentored, such as Linda Richards, helped start trained nursing in the United States.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-fn"]
+    },
+    {
+      "date": "1875",
+      "age": 55,
+      "place": "London, England, (United Kingdom)",
+      "title": "Public health laws",
+      "text": "She had lobbied the minister James Stansfeld to strengthen public health law. Her efforts helped lead to the Public Health Acts of 1874 and 1875, which improved public health in Britain.",
+      "turning": false,
+      "kind": "work",
+      "sources": ["w-fn"]
+    },
+    {
+      "date": "1883",
+      "age": 63,
+      "place": "London, England, (United Kingdom)",
+      "title": "The Royal Red Cross",
+      "text": "She was the first person to receive the Royal Red Cross. In 1904 she was also made a Lady of Grace of the Order of St John.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-fn"]
+    },
+    {
+      "date": "1907",
+      "age": 87,
+      "place": "London, England, (United Kingdom)",
+      "title": "The Order of Merit",
+      "text": "She became the first woman to receive the Order of Merit. In 1908 the City of London gave her its honorary freedom. By then she was blind, and her work had slowed a great deal.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-fn"]
+    },
+    {
+      "date": "1910-08-13",
+      "age": 90,
+      "place": "London, England, (United Kingdom)",
+      "title": "A quiet end",
+      "text": "She died in her sleep at her home at 10 South Street, Mayfair, on 13 August 1910, aged 90. An offer of burial in Westminster Abbey was declined. She was buried at St Margaret's Church, East Wellow, near Embley, under a stone with only her initials and dates.",
+      "turning": false,
+      "kind": "life",
+      "sources": ["w-fn"]
+    },
+    {
+      "date": "1912",
+      "age": null,
+      "place": "Geneva, (Switzerland)",
+      "title": "A medal for nurses",
+      "text": "The International Committee of the Red Cross created the Florence Nightingale Medal for nurses. Since 1965, International Nurses Day has been held on her birthday, 12 May.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-fn"]
+    },
+    {
+      "date": "2016-06-30",
+      "age": null,
+      "place": "London, England, (United Kingdom)",
+      "title": "Two nurses, one debate",
+      "text": "A statue of Mary Seacole was unveiled at St Thomas' Hospital, where the Nightingale School began. Some Nightingale supporters said Seacole's role was overstated. Others said Seacole had long been overlooked and that race shaped how she was judged. Historians still debate how to honour both women fairly.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-seacole"]
+    },
+    {
+      "date": "2020",
+      "age": null,
+      "place": "England, (United Kingdom)",
+      "title": "Nightingale hospitals",
+      "text": "In her 200th birthday year, the COVID-19 pandemic disrupted the celebrations. The temporary hospitals built in England for the pandemic were named NHS Nightingale Hospitals in her honour.",
+      "turning": false,
+      "kind": "legacy",
+      "sources": ["w-fn"]
+    }
+  ],
+  "feature": {
+    "nav": "Data",
+    "title": "Data that saved lives",
+    "lead": "Nightingale is remembered for her lamp, but her strongest tools were a pen, a table of numbers and a clear chart. These are the ways she used facts to change how the sick were cared for.",
+    "style": "cards",
+    "items": [
+      {
+        "label": "Counting the dead at Scutari",
+        "date": "1854-1855",
+        "place": "Scutari, (Turkey)",
+        "text": "At the Barrack Hospital she saw that far more soldiers died of disease than of wounds. Records from that winter later became the evidence for her whole campaign: about ten times more men died of illness than of battle injuries.",
+        "sources": ["w-fn", "nam"]
+      },
+      {
+        "label": "Clean drains, fewer deaths",
+        "date": "1855",
+        "place": "Scutari, (Turkey)",
+        "text": "After the Sanitary Commission flushed the sewers and improved ventilation, death rates fell sharply. She did not claim the credit, but the lesson shaped the rest of her life: clean water, fresh air and drains save lives.",
+        "sources": ["w-fn", "nam"]
+      },
+      {
+        "label": "Front hospitals vs Scutari",
+        "date": "1855-1856",
+        "place": "Crimea, (Ukraine)",
+        "text": "Her figures showed that soldiers treated in the hospitals near the front had a death rate of about 12.5 per cent, while at Scutari it was about 37.5 per cent. Being sent to the big base hospital was more dangerous.",
+        "sources": ["nam"]
+      },
+      {
+        "label": "Working with William Farr",
+        "date": "1857",
+        "place": "London, (United Kingdom)",
+        "text": "For the Royal Commission on the health of the army she teamed up with William Farr, a leading statistician. He checked her report and diagrams and found nothing to change, praising how clearly the diagrams explained themselves.",
+        "url": "https://www.gutenberg.org/ebooks/40057",
+        "sources": ["cook1"]
+      },
+      {
+        "label": "The rose diagram",
+        "date": "1858",
+        "place": "London, (United Kingdom)",
+        "text": "Her polar area diagram gave each month of the war a wedge whose size showed deaths by cause. The large wedges for preventable disease made the problem visible at a glance. Historian Hugh Small says she may have been the first to use such charts to persuade people to make changes. She did not invent the form: André-Michel Guerry drew polar area diagrams in 1829.",
+        "url": "https://exhibits.lib.lehigh.edu/exhibits/show/data_visualization/science/nightingale",
+        "sources": ["w-pie", "lehigh", "w-fn"]
+      },
+      {
+        "label": "The \"Coxcombs\" pamphlet",
+        "date": "1858",
+        "place": "London, (United Kingdom)",
+        "text": "She wrote a short memorandum explaining the diagrams and had 2,000 copies printed. She sent it to the Queen, ministers, Members of Parliament and army doctors across Britain, India and the colonies, and sent framed copies to the War Office and the army's headquarters.",
+        "sources": ["cook1"]
+      },
+      {
+        "label": "Death in the barracks",
+        "date": "1858",
+        "place": "England, (United Kingdom)",
+        "text": "Her charts also showed the death rate of soldiers living in barracks at home, in peacetime. As she put it, \"our soldiers enlist to Death in the Barracks.\" Bad housing and hygiene were killing men who never went to war.",
+        "sources": ["cook1"]
+      },
+      {
+        "label": "First woman in the Statistical Society",
+        "date": "1859",
+        "place": "London, (United Kingdom)",
+        "text": "She became the first female member of the Royal Statistical Society. In 1874 the American Statistical Association made her an honorary member.",
+        "sources": ["w-fn", "nam", "fnm"]
+      },
+      {
+        "label": "Notes on Nursing",
+        "date": "1859",
+        "place": "London, (United Kingdom)",
+        "text": "A short, practical book for anyone caring for the sick. It asks the reader to watch closely and to judge by conditions, warning that averages alone can mislead. It is still free to read today.",
+        "url": "https://www.gutenberg.org/ebooks/12439",
+        "sources": ["w-non", "gut-non"]
+      },
+      {
+        "label": "The Nightingale School",
+        "date": "1860",
+        "place": "London, (United Kingdom)",
+        "text": "The first nursing school of its kind at St Thomas' Hospital, paid for by the Nightingale Fund. Its graduates spread trained nursing to other hospitals and countries. Today it is part of King's College London.",
+        "sources": ["w-faculty", "w-fn", "nam"]
+      },
+      {
+        "label": "Nurses in the workhouse",
+        "date": "1865",
+        "place": "Liverpool, (United Kingdom)",
+        "text": "Trained nurses began work at the Liverpool Workhouse Infirmary, bringing skilled care to people too poor to pay for it.",
+        "sources": ["w-fn"]
+      },
+      {
+        "label": "India: 69 to 18",
+        "date": "1873",
+        "place": "London, (United Kingdom)",
+        "text": "After years of studying reports from India, she announced that sanitary reform had cut soldiers' deaths there from 69 to 18 per 1,000 a year in ten years.",
+        "sources": ["w-fn"]
+      },
+      {
+        "label": "Public Health Acts",
+        "date": "1874-1875",
+        "place": "London, (United Kingdom)",
+        "text": "Her lobbying to strengthen the Public Health Bill helped lead to the Public Health Acts of 1874 and 1875, which improved public health for ordinary people.",
+        "sources": ["w-fn"]
+      },
+      {
+        "label": "An honest footnote",
+        "text": "Not every claim about her holds up. An old figure says she cut Scutari's death rate from 42 per cent to 2 per cent, but the drop came after the Sanitary Commission's work, and a civilian hospital at Renkioi did far better. Some historians say the press made her role larger than it was.",
+        "sources": ["w-fn"]
+      }
+    ]
+  },
+  "works": [
+    {
+      "year": "1851",
+      "type": "book",
+      "title": "The Institution of Kaiserswerth on the Rhine",
+      "text": "Her first published work, printed without her name. It described the deaconess community where she trained, and its care for the sick and poor.",
+      "sources": ["w-fn", "cook1"]
+    },
+    {
+      "year": "1854",
+      "type": "reform",
+      "title": "Nursing at Scutari",
+      "text": "She led a large team of women nurses in a British military hospital, working to bring supplies, cleanliness and order to the Barrack Hospital.",
+      "sources": ["w-fn", "nam"]
+    },
+    {
+      "year": "1855",
+      "type": "institution",
+      "title": "The Nightingale Fund",
+      "text": "A public fund raised in her honour. She used it to found the Nightingale Training School.",
+      "sources": ["w-fn", "w-faculty"]
+    },
+    {
+      "year": "1857",
+      "type": "report",
+      "title": "Evidence for the Royal Commission",
+      "text": "Her studies of army death rates, prepared with William Farr, were the backbone of the Royal Commission on the health of the army.",
+      "sources": ["cook1"]
+    },
+    {
+      "year": "1858",
+      "type": "book",
+      "title": "Notes on Matters Affecting the Health, Efficiency, and Hospital Administration of the British Army",
+      "text": "A long report built on her war experience. It contains her famous polar area diagram of the causes of death in the army in the East.",
+      "sources": ["w-pie", "lehigh", "w-fn"]
+    },
+    {
+      "year": "1858",
+      "type": "diagram",
+      "title": "Diagram of the Causes of Mortality in the Army in the East",
+      "text": "The \"rose\" diagram: twelve wedges, one per month, sized by deaths and coloured by cause. It made preventable disease impossible to ignore.",
+      "sources": ["w-pie", "lehigh"],
+      "url": "https://exhibits.lib.lehigh.edu/exhibits/show/data_visualization/science/nightingale"
+    },
+    {
+      "year": "1858",
+      "type": "pamphlet",
+      "title": "Mortality of the British Army (the \"Coxcombs\")",
+      "text": "A short, unsigned explanation of her diagrams, printed in 2,000 copies and sent to leaders across the empire.",
+      "sources": ["cook1"]
+    },
+    {
+      "year": "1859",
+      "type": "book",
+      "title": "Notes on Nursing: What It Is, and What It Is Not",
+      "text": "Her best-known book: plain advice on air, light, quiet, food, cleanliness and observation for anyone caring for the sick.",
+      "sources": ["w-non", "gut-non"],
+      "url": "https://www.gutenberg.org/ebooks/12439"
+    },
+    {
+      "year": "1860",
+      "type": "school",
+      "title": "Nightingale Training School, St Thomas' Hospital",
+      "text": "A one-year training school for nurses, the model for many later nursing schools. It lives on as the Florence Nightingale Faculty at King's College London.",
+      "sources": ["w-faculty", "w-fn", "nam"]
+    },
+    {
+      "year": "1861",
+      "type": "report",
+      "title": "Report on the health of the army in India",
+      "text": "Her written evidence to the Royal Commission on India, the start of decades of work on sanitation there.",
+      "sources": ["w-fn"]
+    },
+    {
+      "year": "1865",
+      "type": "reform",
+      "title": "Trained nurses in the Liverpool workhouse",
+      "text": "Nightingale nurses brought trained care to a workhouse infirmary for the very poor.",
+      "sources": ["w-fn"]
+    },
+    {
+      "year": "1874",
+      "type": "law",
+      "title": "Public Health Acts of 1874 and 1875",
+      "text": "Laws on drains, water and housing that her lobbying helped shape.",
+      "sources": ["w-fn"]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Notes on Nursing (Project Gutenberg #12439)",
+      "url": "https://www.gutenberg.org/ebooks/12439",
+      "what": "Her famous book on nursing, free to read online or download."
+    },
+    {
+      "label": "The Life of Florence Nightingale, vol. 1, by Edward Cook (Project Gutenberg #40057)",
+      "url": "https://www.gutenberg.org/ebooks/40057",
+      "what": "The authorised 1913 biography, covering 1820 to 1861, with many of her letters."
+    },
+    {
+      "label": "The Life of Florence Nightingale, vol. 1, 1913 scan (Internet Archive)",
+      "url": "https://archive.org/details/lifeflorencenigh01cook",
+      "what": "A scanned printed copy of Cook's biography, volume 1."
+    },
+    {
+      "label": "Florence Nightingale Museum, London",
+      "url": "https://www.florence-nightingale.co.uk/",
+      "what": "The museum at St Thomas' Hospital. It shows the lamp she carried and tells her story from childhood to her health campaigns."
+    },
+    {
+      "label": "Nightingale's Rose Diagram (Lehigh University Libraries)",
+      "url": "https://exhibits.lib.lehigh.edu/exhibits/show/data_visualization/science/nightingale",
+      "what": "An online exhibit showing her 1858 diagram of the causes of death in the army, with a short explanation."
+    },
+    {
+      "label": "Florence Nightingale: The Lady with the Lamp (National Army Museum)",
+      "url": "https://www.nam.ac.uk/explore/florence-nightingale-lady-lamp",
+      "what": "A short, clear account of her war work and her use of statistics."
+    },
+    {
+      "label": "Wonderful Adventures of Mrs. Seacole in Many Lands (Project Gutenberg #23031)",
+      "url": "https://www.gutenberg.org/ebooks/23031",
+      "what": "Mary Seacole's own 1857 memoir, including her time in the Crimea and her meeting with Nightingale. Read it to hear her side."
+    }
+  ],
+  "books": [
+    {
+      "title": "Notes on Nursing: What It Is, and What It Is Not",
+      "author": "Florence Nightingale",
+      "year": "1859",
+      "kind": "by-her",
+      "free": "https://www.gutenberg.org/ebooks/12439",
+      "note": "Short and practical. Start with the chapters on light and on observation of the sick."
+    },
+    {
+      "title": "The Life of Florence Nightingale (2 volumes)",
+      "author": "Sir Edward Cook",
+      "year": "1913",
+      "kind": "biography",
+      "free": "https://www.gutenberg.org/ebooks/40057",
+      "note": "The authorised biography, written from her papers for her executors (Macmillan, London). Volume 1 is linked."
+    },
+    {
+      "title": "Florence Nightingale, 1820-1910",
+      "author": "Cecil Woodham-Smith",
+      "year": "1950",
+      "kind": "biography",
+      "free": null,
+      "note": "A popular, well-written life story that relied heavily on Cook (as described on Wikipedia)."
+    },
+    {
+      "title": "Florence Nightingale: The Woman and Her Legend",
+      "author": "Mark Bostridge",
+      "year": "2008",
+      "kind": "biography",
+      "free": null,
+      "note": "A modern biography based largely on unpublished Verney family papers (as described on Wikipedia)."
+    }
+  ]
+}

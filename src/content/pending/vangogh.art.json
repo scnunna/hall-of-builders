@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "06-arles",
+ "panels": [
+  { "key": "01-goupil", "year": "1869" },
+  { "key": "02-cuesmes", "year": "1880" },
+  { "key": "03-dunes", "year": "1882" },
+  { "key": "04-nuenen", "year": "1885" },
+  { "key": "05-paris", "year": "1887" },
+  { "key": "06-arles", "year": "1888" },
+  { "key": "07-saintremy", "year": "1889" },
+  { "key": "08-letters", "year": "1890" }
+ ]
+}

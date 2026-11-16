@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "04-warandpeace",
+ "panels": [
+  { "key": "01-estate", "year": "1828" },
+  { "key": "02-sevastopol", "year": "1855" },
+  { "key": "03-school", "year": "1859" },
+  { "key": "04-warandpeace", "year": "1865" },
+  { "key": "05-famine", "year": "1891" },
+  { "key": "06-gandhi", "year": "1909" },
+  { "key": "07-departure", "year": "1910" },
+  { "key": "08-grave", "year": "1921" }
+ ]
+}

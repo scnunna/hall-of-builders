@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "07-gettysburg",
+ "panels": [
+  { "key": "01-firelight", "year": "1816" },
+  { "key": "02-flatboat", "year": "1828" },
+  { "key": "03-surveyor", "year": "1833" },
+  { "key": "04-lawbooks", "year": "1834" },
+  { "key": "05-debates", "year": "1858" },
+  { "key": "06-cooperunion", "year": "1860" },
+  { "key": "07-gettysburg", "year": "1863" },
+  { "key": "08-malice", "year": "1865" }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "04-letter",
+ "panels": [
+  { "key": "01-erode", "year": "1887" },
+  { "key": "02-carr", "year": "1903" },
+  { "key": "03-porttrust", "year": "1912" },
+  { "key": "04-letter", "year": "1913" },
+  { "key": "05-voyage", "year": "1914" },
+  { "key": "06-trinity", "year": "1916" },
+  { "key": "07-lastwork", "year": "1920" },
+  { "key": "08-lostnotebook", "year": "1976" }
+ ]
+}

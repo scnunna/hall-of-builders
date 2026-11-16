@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "05-dhauli",
+ "panels": [
+  { "key": "01-pataliputra", "year": "-0304" },
+  { "key": "02-ujjain", "year": "-0280" },
+  { "key": "03-kalinga", "year": "-0261" },
+  { "key": "04-bodhgaya", "year": "-0259" },
+  { "key": "05-dhauli", "year": "-0256" },
+  { "key": "06-mission", "year": "-0250" },
+  { "key": "07-pillar", "year": "-0237" },
+  { "key": "08-farewell", "year": "-0232" }
+ ]
+}
