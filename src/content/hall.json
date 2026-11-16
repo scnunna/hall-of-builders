@@ -143,6 +143,38 @@
       "years": "1869 - 1948",
       "status": "open",
       "hook": "He turned peaceful refusal into a method millions could use, from Durban to Dandi."
+    },
+    {
+      "id": "edison",
+      "name": "Thomas Alva Edison",
+      "title": "The Invention Factory",
+      "years": "1847 - 1931",
+      "status": "open",
+      "hook": "He built a lab to invent on purpose: the phonograph, electric light and much more."
+    },
+    {
+      "id": "austen",
+      "name": "Jane Austen",
+      "title": "The Close Observer",
+      "years": "1775 - 1817",
+      "status": "open",
+      "hook": "She wrote in a busy sitting room, signed her books \"By a Lady\", and changed the novel."
+    },
+    {
+      "id": "mansamusa",
+      "name": "Mansa Musa",
+      "title": "The Pilgrim King",
+      "years": "c. 1280 - c. 1337",
+      "status": "open",
+      "hook": "The emperor of Mali whose 1324 pilgrimage put West Africa on the world's maps."
+    },
+    {
+      "id": "victoria",
+      "name": "Queen Victoria",
+      "title": "The Long Reign",
+      "years": "1819 - 1901",
+      "status": "open",
+      "hook": "Queen for 63 years, who wrote down her days in 122 volumes of journals."
     }
   ],
   "candidates": [
