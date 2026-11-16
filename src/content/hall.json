@@ -103,6 +103,46 @@
       "years": "1809 - 1865",
       "status": "open",
       "hook": "With under a year of school, he taught himself law and wrote words that held a nation."
+    },
+    {
+      "id": "vangogh",
+      "name": "Vincent van Gogh",
+      "title": "The Colour Seeker",
+      "years": "1853 - 1890",
+      "status": "open",
+      "hook": "He began painting at 27 with no training and found a new language of colour."
+    },
+    {
+      "id": "galileo",
+      "name": "Galileo Galilei",
+      "title": "The Observer",
+      "years": "1564 - 1642",
+      "status": "open",
+      "hook": "He built a better telescope, looked up, and let what he saw settle old arguments."
+    },
+    {
+      "id": "darwin",
+      "name": "Charles Darwin",
+      "title": "The Patient Naturalist",
+      "years": "1809 - 1882",
+      "status": "open",
+      "hook": "He sailed round the world collecting facts, then spent 20 years testing one big idea."
+    },
+    {
+      "id": "beethoven",
+      "name": "Ludwig van Beethoven",
+      "title": "The Unbroken Composer",
+      "years": "1770 - 1827",
+      "status": "open",
+      "hook": "The composer who lost his hearing and wrote his greatest music anyway."
+    },
+    {
+      "id": "gandhi",
+      "name": "Mahatma Gandhi",
+      "title": "The Peaceful Rebel",
+      "years": "1869 - 1948",
+      "status": "open",
+      "hook": "He turned peaceful refusal into a method millions could use, from Durban to Dandi."
     }
   ],
   "candidates": [
