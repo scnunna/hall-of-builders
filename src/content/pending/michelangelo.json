@@ -1,0 +1,66 @@
+{
+  "id": "michelangelo",
+  "name": "Michelangelo Buonarroti",
+  "years": "1475 - 1564",
+  "title": "The Tireless Sculptor",
+  "tagline": "He saw himself as a stone carver, yet painted the Sistine ceiling, designed the dome of St Peter's, and was still carving marble six days before he died at 88.",
+  "sources": {
+    "w-michelangelo": { "label": "Michelangelo (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Michelangelo" },
+    "w-ceiling": { "label": "Sistine Chapel ceiling (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling" },
+    "w-rondanini": { "label": "Rondanini Pietà (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Rondanini_Piet%C3%A0" },
+    "w-deposition": { "label": "The Deposition (Michelangelo) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/The_Deposition_(Michelangelo)" },
+    "symonds-sonnets": { "label": "The Sonnets of Michael Angelo Buonarroti, tr. John Addington Symonds (Project Gutenberg #10314)", "url": "https://www.gutenberg.org/ebooks/10314" },
+    "symonds-life": { "label": "J. A. Symonds, The Life of Michelangelo Buonarroti (1893) (Project Gutenberg #11242)", "url": "https://www.gutenberg.org/ebooks/11242" },
+    "condivi": { "label": "Charles Holroyd, Michael Angelo Buonarroti, with Ascanio Condivi's Life of the master translated (1903) (Project Gutenberg #19332)", "url": "https://www.gutenberg.org/ebooks/19332" },
+    "vasari": { "label": "Giorgio Vasari, Lives of the Most Eminent Painters, Sculptors and Architects, vol. 9, tr. Gaston du C. de Vere (1915) (Project Gutenberg #32362)", "url": "https://www.gutenberg.org/ebooks/32362" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "See what is already in the stone",
+      "idea": "Michelangelo thought of sculpture as taking away, not adding. In one of his sonnets he says that every idea a great artist can have is already hidden inside the rough block. The work of the hand is to remove what is extra and set the figure free.",
+      "quote": { "text": "The best of artists hath no thought to show / Which the rough stone in its superfluous shell / Doth not include: to break the marble spell / Is all the hand that serves the brain can do.", "credit": "Sonnet XV, \"The Lover and the Sculptor\", tr. J. A. Symonds (1878)" },
+      "practice": "Take one messy project, a cupboard, a draft or a to-do list. Before adding anything, remove what does not belong, and see what shape is left.",
+      "sources": ["symonds-sonnets", "w-michelangelo"]
+    },
+    {
+      "title": "Take on the hard job anyway",
+      "idea": "He did not think of himself as a painter, and he tried to get out of painting the Sistine ceiling. When he had to do it, he learned fresco on a vast scale, redesigned the scaffold, and finished it in about four years.",
+      "quote": { "text": "That comes from its difficulty, and also from this not being my trade. And so I waste my time without results. God help me.", "credit": "Letter to his father Lodovico, while painting the Sistine ceiling, tr. J. A. Symonds, The Life of Michelangelo Buonarroti (1893)" },
+      "practice": "Pick one task you have been avoiding because it is \"not your thing\". Do the first small, clumsy step of it today.",
+      "sources": ["symonds-life", "w-ceiling", "w-michelangelo"]
+    },
+    {
+      "title": "Laugh at the strain",
+      "idea": "Painting the ceiling meant years of working with his head bent back and paint dripping on his face. He wrote a comic poem to a friend about how his body was being bent out of shape. Seeing the funny side helped him carry on.",
+      "quote": { "text": "My beard turns up to heaven; my nape falls in, / Fixed on my spine: my breast-bone visibly / Grows like a harp: a rich embroidery / Bedews my face from brush-drops thick and thin.", "credit": "Sonnet V, \"To Giovanni da Pistoja, on the Painting of the Sistine Chapel\", tr. J. A. Symonds (1878)" },
+      "practice": "Write four funny lines about the hardest part of your work this week. Share them with someone who knows the feeling.",
+      "sources": ["symonds-sonnets", "w-ceiling"]
+    },
+    {
+      "title": "Fix it the moment you see it",
+      "idea": "As a boy in the Medici garden, he copied an old marble faun's head. Lorenzo de' Medici joked that an old faun would not have all its teeth. As soon as Lorenzo left, the boy cut a tooth away and drilled the gum. Lorenzo laughed, and then took him into his own household.",
+      "quote": { "text": "Oh! you have made this Faun very old, and yet have left him all his teeth: do you not know that old men of that age always lack some of them?", "credit": "Lorenzo de' Medici's words as recorded by Ascanio Condivi, Life of Michelangelo (1553), tr. Charles Holroyd (1903)" },
+      "practice": "Ask one person to point out a single flaw in something you made. Fix it today, before you defend it.",
+      "sources": ["condivi", "w-michelangelo"]
+    },
+    {
+      "title": "Keep your hands working",
+      "idea": "In old age he still carved at night when he could not sleep, wearing a cap of thick paper with a candle on top to light the stone. He told friends that the hammer kept him healthy, and he worked on his last sculpture six days before he died.",
+      "quote": { "text": "...as he used to say, the exercise of the hammer kept him healthy in body.", "credit": "Giorgio Vasari, Life of Michelagnolo Buonarroti, tr. Gaston du C. de Vere (1915) (Vasari's account, not Michelangelo's own writing)" },
+      "practice": "Spend twenty minutes today making or fixing something with your hands: cooking, mending, drawing or building.",
+      "sources": ["vasari", "w-rondanini", "w-deposition"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Take away", "action": "Clear one drawer, desk or file by removing what does not belong. Notice the shape that is left.", "sources": ["symonds-sonnets"] },
+    { "day": 2, "title": "Draw to see", "action": "Draw one object near you for ten minutes. You are not making art; you are learning to look." },
+    { "day": 3, "title": "Not my trade", "action": "Start one task outside your comfort zone. Do the first small step, even badly.", "sources": ["symonds-life"] },
+    { "day": 4, "title": "The faun's tooth", "action": "Ask someone for one honest correction on your work. Fix it the same day.", "sources": ["condivi"] },
+    { "day": 5, "title": "Laugh at it", "action": "Write a short, funny poem or note about the hardest part of your week.", "sources": ["symonds-sonnets"] },
+    { "day": 6, "title": "Use your hands", "action": "Spend twenty minutes making or repairing something with your hands, and nothing else.", "sources": ["vasari"] },
+    { "day": 7, "title": "Your block", "action": "Write down the one big piece of work hidden in your life right now. Write the first three cuts you will make toward it." }
+  ],
+  "reflect": "What work have you been avoiding because it is \"not your trade\", and what is the first small cut you could make?",
+  "keepsake": "Michelangelo Buonarroti Builder Collectible"
+}

@@ -1,13 +1,13 @@
 {
-  "subject": "a slender Polish-French woman scientist of the 1890s to 1920s with ash-blond hair pinned up in a simple bun, a plain long dark dress with a high collar, a serious calm and focused face",
-  "panels": {
-    "01-flying": "a secret evening class in a modest Warsaw apartment in the 1880s, a few young women and men in plain 19th-century clothes studying books by an oil lamp, curtains drawn, one teenage girl with pinned-up hair reading intently, quiet determination",
-    "02-sorbonne": "a young version of {S} arriving at the University of Paris in 1891, a stone courtyard of the old Sorbonne, students in long coats and hats, she carries a small bag of books, autumn light, hopeful",
-    "03-electrometer": "{S} in a cramped 1897 Paris laboratory carefully reading a brass electrometer and a quartz balance, a small dish of uranium salt on a wooden bench, a notebook of figures, concentration",
-    "04-radium": "{S} and a bearded man in a dark suit standing at night inside a wooden shed with a glass roof, looking with wonder at small glass vials that glow faintly blue-green on rough pine tables, a cast-iron stove, Paris 1898",
-    "05-lecture": "{S} in a black dress giving her first lecture at a lecture-theatre blackboard at the Sorbonne in 1906, rows of students and visitors listening, equations on the board, dignified and composed",
-    "06-xraycar": "{S} in a long coat beside an early 1914 motor car fitted as a mobile X-ray unit, a dynamo and X-ray equipment in the back, outside a field hospital tent with a red cross flag, a teenage girl assistant helping, no wounds shown",
-    "07-institute": "an older {S} with grey hair in a bright 1920s laboratory at the Radium Institute in Paris, showing young women researchers in white lab coats how to use glass instruments, sunlight through tall windows",
-    "08-pantheon": "the domed Panthéon building in Paris at golden dusk, a quiet line of people with flowers at the steps, timeless and respectful, no text"
-  }
+ "subject": "a slender Polish-French woman scientist of the 1890s to 1920s with ash-blond hair pinned up in a simple bun, a plain long dark dress with a high collar, a serious calm and focused face",
+ "panels": {
+  "01-flying": "a secret evening class in a modest Warsaw apartment in the 1880s, a few young women and men in plain 19th-century clothes studying books by an oil lamp, curtains drawn, one teenage girl with pinned-up hair reading intently, quiet determination",
+  "02-sorbonne": "a young version of {S} arriving at the University of Paris in 1891, a stone courtyard of the old Sorbonne, students in long coats and hats, she carries a small bag of books, autumn light, hopeful",
+  "03-electrometer": "{S} in a cramped 1897 Paris laboratory carefully reading a brass electrometer and a quartz balance, a small dish of uranium salt on a wooden bench, a notebook of figures, concentration",
+  "04-radium": "{S} and a bearded man in a dark suit standing at night inside a wooden shed with a glass roof, looking with wonder at small glass vials that glow faintly blue-green on rough pine tables, a cast-iron stove, Paris 1898",
+  "05-lecture": "{S} in a black dress giving her first lecture at a lecture-theatre blackboard at the Sorbonne in 1906, rows of students and visitors listening, equations on the board, dignified and composed",
+  "06-xraycar": "exactly two people: {S} in a long dark coat, and her 17-year-old daughter, a teenage girl with a plain braid, standing beside an early 1914 motor car fitted as a mobile X-ray unit, a dynamo and X-ray equipment in the back, field hospital tents behind, no flags, no emblems, no symbols on the vehicle",
+  "07-institute": "an older {S} with grey hair in a bright 1920s laboratory at the Radium Institute in Paris, showing young women researchers in white lab coats how to use glass instruments, sunlight through tall windows",
+  "08-pantheon": "the Pantheon in Paris seen from the Rue Soufflot: a wide temple front with a row of tall Corinthian columns under a triangular pediment, behind it a high colonnaded drum topped by a dome and lantern, Paris limestone buildings on both sides of the street, a respectful crowd with flowers in 1995, golden evening light, not the United States Capitol"
+ }
 }

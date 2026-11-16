@@ -23,10 +23,10 @@
     },
     {
       "title": "Make the copy as good as the original",
-      "idea": "Printing was not enough. Gutenberg wanted his printed pages to look as fine as the best handwriting. He used about 290 different letter shapes and careful spacing so the lines came out even. An early reader praised how clear the pages were.",
-      "quote": { "text": "The script is extremely neat and legible, not at all difficult to follow.", "credit": "Enea Silvio Piccolomini (later Pope Pius II), letter to Cardinal Carvajal, March 1455, English as quoted in Wikipedia (after Raven and Proot, 2020)" },
+      "idea": "Printing was not enough. Gutenberg wanted his printed pages to look as fine as the best handwriting. He used about 290 different letter shapes and careful spacing so the lines came out even. An early reader praised how clear the pages were. His former partners kept that standard: their 1457 Psalter, printed in red and black, proudly said it was made without a pen.",
+      "quote": { "text": "...has been thus made by the masterly invention of printing and also of type-making, without the writing of a pen...", "credit": "Colophon of the Mainz Psalter (Fust and Schoeffer, 1457), tr. in T. L. De Vinne, The Invention of Printing (1876)" },
       "practice": "Take one thing you made this week, like a note or a page of work. Check it slowly, word by word, and fix every small mistake you find.",
-      "sources": ["w-gutenberg", "w-bible"]
+      "sources": ["w-gutenberg", "w-bible", "devinne"]
     },
     {
       "title": "Agree in writing before you start",

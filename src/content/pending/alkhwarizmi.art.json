@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "04-algebra",
+ "panels": [
+  { "key": "01-khwarazm", "year": "0780" },
+  { "key": "02-baghdad", "year": "0813" },
+  { "key": "03-library", "year": "0820" },
+  { "key": "04-algebra", "year": "0820" },
+  { "key": "05-numerals", "year": "0825" },
+  { "key": "06-observatory", "year": "0828" },
+  { "key": "07-map", "year": "0833" },
+  { "key": "08-segovia", "year": "1145" }
+ ]
+}

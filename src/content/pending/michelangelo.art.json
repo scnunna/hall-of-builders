@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "04-scaffold",
+ "panels": [
+  { "key": "01-settignano", "year": "1481" },
+  { "key": "02-faun", "year": "1489" },
+  { "key": "03-block", "year": "1501" },
+  { "key": "04-scaffold", "year": "1508" },
+  { "key": "05-siege", "year": "1529" },
+  { "key": "06-dome", "year": "1547" },
+  { "key": "07-candle", "year": "1555" },
+  { "key": "08-last", "year": "1564" }
+ ]
+}

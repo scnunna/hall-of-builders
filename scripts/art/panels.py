@@ -10,7 +10,7 @@ STYLE = ("graphic novel comic book panel, bold black ink linework, cross-hatchin
          "limited palette of deep sepia brown, warm cream paper and burnished gold highlights, dramatic cinematic lighting, "
          "strong composition, highly detailed historical illustration")
 NEG = ("text, speech bubble, letters, caption, watermark, signature, logo, modern clothing, modern objects, "
-       "photorealistic photo, 3D render, blurry, lowres, deformed hands, extra fingers, extra limbs, cropped face, gore, blood")
+       "photorealistic photo, 3D render, blurry, lowres, deformed hands, extra fingers, extra limbs, cropped face, gore, blood, United States Capitol building, Washington DC, red cross emblem, duplicate person")
 
 MUSASHI = "a lean Japanese swordsman of the early 1600s with long unkempt black hair tied back, a rough dark kimono and hakama, a long and a short sword at his hip, calm fierce eyes"
 AURELIUS = "a Roman man with short curly hair and a full curly beard, thoughtful calm face"

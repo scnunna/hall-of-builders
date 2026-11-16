@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "06-letters",
+ "panels": [
+  { "key": "01-student", "year": "1413" },
+  { "key": "02-crowned", "year": "1418" },
+  { "key": "03-worthies", "year": "1420" },
+  { "key": "04-clock", "year": "1434" },
+  { "key": "05-raingauge", "year": "1441" },
+  { "key": "06-letters", "year": "1443" },
+  { "key": "07-proclaim", "year": "1446" },
+  { "key": "08-legacy", "year": "1997" }
+ ]
+}

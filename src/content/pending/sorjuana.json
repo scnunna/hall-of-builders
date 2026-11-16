@@ -1,0 +1,60 @@
+{
+  "id": "sorjuana",
+  "name": "Sor Juana Inés de la Cruz",
+  "years": "1648 - 1695",
+  "title": "The Tenth Muse",
+  "tagline": "She taught herself almost everything, became the greatest poet of colonial Mexico from a convent library, and when Church leaders told her to stop, wrote one of the first great defences of a woman's right to learn.",
+  "sources": {
+    "w-sorjuana": { "label": "Juana Inés de la Cruz (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Juana_In%C3%A9s_de_la_Cruz" },
+    "mera": { "label": "Obras selectas de la célebre monja de Méjico, Sor Juana Inés de la Cruz, ed. Juan León Mera, Quito 1873 (Internet Archive)", "url": "https://archive.org/details/obrasselectasdel00juan" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Study to be less ignorant",
+      "idea": "Sor Juana said she did not study to show off, to write or to teach, but only to know a little more each day. She treated learning as a lifelong habit, not a prize to win.",
+      "quote": { "text": "Yo no estudio para escribir ni menos para enseñar, que fuera en mí desmedida soberbia, sino solo por ver si con estudiar ignoro menos. (Gloss: I do not study in order to write, still less to teach, which would be great pride in me, but only to see whether by studying I may be less ignorant.)", "credit": "Respuesta a Sor Filotea (1691), Spanish text from Obras selectas, ed. J. L. Mera (1873), p. 350; English is our gloss" },
+      "practice": "Pick one thing you do not understand well. Spend 15 minutes today learning about it, just to know a little more.",
+      "sources": ["mera", "w-sorjuana"]
+    },
+    {
+      "title": "Give yourself a deadline",
+      "idea": "As a girl learning Latin grammar, she cut her hair short and promised herself to learn a set lesson before it grew back. If she had not learned it, she cut it again. She made her own deadlines and kept them.",
+      "quote": { "text": "...que no me parecía razón que estuviese vestida de cabellos cabeza que estaba tan desnuda de noticias, que era mas apetecible adorno. (Gloss: ...for it did not seem right to me that a head so bare of knowledge, which is the finer ornament, should be dressed in hair.)", "credit": "Respuesta a Sor Filotea (1691), Spanish text from Obras selectas, ed. J. L. Mera (1873), p. 353; English is our gloss" },
+      "practice": "Choose one small thing to learn by a set day this week. Write the day on a note where you will see it.",
+      "sources": ["mera"]
+    },
+    {
+      "title": "Turn play into an experiment",
+      "idea": "Sor Juana could not stop wondering about what she saw. Watching two girls spin a top, she had flour sifted on the floor to see the shape of its path. It was not a circle but a spiral that opened as the top slowed down.",
+      "quote": { "text": "...hice traer harina y cernerla, para que en bailando el trompo encima se conociese si eran círculos perfectos ó no los que describía con su movimiento. (Gloss: ...I had flour brought and sifted, so that when the top spun on it we could see whether the circles it traced were perfect or not.)", "credit": "Respuesta a Sor Filotea (1691), Spanish text from Obras selectas, ed. J. L. Mera (1873), p. 372; English is our gloss" },
+      "practice": "Notice one everyday thing you have never questioned. Ask why it works that way, and try one simple test to find out.",
+      "sources": ["mera"]
+    },
+    {
+      "title": "Philosophy in the kitchen",
+      "idea": "Even cooking taught her science: why an egg holds together in oil but falls apart in syrup, why yolk and white behave differently. She joked that kitchen wisdom was all women were allowed, then showed how much it could teach.",
+      "quote": { "text": "Si Aristóteles hubiera guisado, mucho mas hubiera escrito. (Gloss: If Aristotle had cooked, he would have written much more.)", "credit": "Respuesta a Sor Filotea (1691), Spanish text from Obras selectas, ed. J. L. Mera (1873), p. 373; English is our gloss" },
+      "practice": "While you cook or do a chore today, notice one thing that changes, like boiling or melting. Write down one question it raises.",
+      "sources": ["mera", "w-sorjuana"]
+    },
+    {
+      "title": "Keep the light on",
+      "idea": "She was scolded many times for loving study, and in 1690 a bishop published her private critique of a sermon with a public rebuke. She answered with the Respuesta, explaining that her love of learning was a natural impulse she could not put out.",
+      "quote": { "text": "...ni agenas reprehensiones (que he tenido muchas) ni propias reflexas (que he tenido no pocas) han bastado á que deje de seguir este natural impulso que Dios puso en mí. (Gloss: ...neither the scolding of others, and I have had much, nor my own second thoughts, and I have had more than a few, have been enough to stop me following this natural impulse that God put in me.)", "credit": "Respuesta a Sor Filotea (1691), Spanish text from Obras selectas, ed. J. L. Mera (1873), p. 350; English is our gloss" },
+      "practice": "Write down one interest you have been told is not for you. Spend a little time on it this week anyway, in a way that harms no one.",
+      "sources": ["mera", "w-sorjuana"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Ignore less", "action": "Spend 15 minutes learning about something you do not understand, only to know more." },
+    { "day": 2, "title": "Your own deadline", "action": "Choose one small thing to learn by the end of the week. Write the date where you will see it." },
+    { "day": 3, "title": "The spinning top", "action": "Watch something move, like a coin spinning or water draining. Draw the path it makes." },
+    { "day": 4, "title": "Kitchen science", "action": "Cook or watch something being cooked. Write one question about what changed and why.", "sources": ["mera"] },
+    { "day": 5, "title": "A borrowed library", "action": "Visit a library or online archive and open one old book you would never normally read." },
+    { "day": 6, "title": "Write a reply", "action": "Think of an idea you disagree with. Write a calm, clear, respectful reply, as she did in the Respuesta.", "sources": ["w-sorjuana"] },
+    { "day": 7, "title": "Your sonnet", "action": "Write 14 short lines about something you learned this week. They do not have to rhyme." }
+  ],
+  "reflect": "What do you love to learn that someone once told you was not for you, and what would it take to keep learning it?",
+  "keepsake": "Sor Juana Inés de la Cruz Builder Collectible"
+}

@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "07-respuesta",
+ "panels": [
+  { "key": "01-reading", "year": "1651" },
+  { "key": "02-library", "year": "1655" },
+  { "key": "03-scholars", "year": "1665" },
+  { "key": "04-convent", "year": "1669" },
+  { "key": "05-spinningtop", "year": "1680", "near": true },
+  { "key": "06-stage", "year": "1683" },
+  { "key": "07-respuesta", "year": "1691" },
+  { "key": "08-nursing", "year": "1695" }
+ ]
+}

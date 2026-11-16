@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "04-lamp",
+ "panels": [
+  { "key": "01-newsboy", "year": "1862" },
+  { "key": "02-menlo", "year": "1876" },
+  { "key": "03-phonograph", "year": "1877" },
+  { "key": "04-lamp", "year": "1879" },
+  { "key": "05-pearlstreet", "year": "1882" },
+  { "key": "06-kinetoscope", "year": "1891" },
+  { "key": "07-battery", "year": "1901" },
+  { "key": "08-jubilee", "year": "1929" }
+ ]
+}

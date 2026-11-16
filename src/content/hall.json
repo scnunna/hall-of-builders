@@ -23,14 +23,52 @@
       "years": "1856 - 1943",
       "status": "open",
       "hook": "The inventor known for his work on alternating current."
+    },
+    {
+      "id": "cleopatra",
+      "name": "Cleopatra VII",
+      "title": "The Scholar Queen",
+      "years": "69 BC - 30 BC",
+      "status": "open",
+      "hook": "The last Ptolemaic ruler of Egypt, who spoke many languages and ruled for 21 years."
+    },
+    {
+      "id": "davinci",
+      "name": "Leonardo da Vinci",
+      "title": "The Curious Mind",
+      "years": "1452 - 1519",
+      "status": "open",
+      "hook": "The painter of the Mona Lisa who filled thousands of notebook pages with questions."
+    },
+    {
+      "id": "shivaji",
+      "name": "Chhatrapati Shivaji Maharaj",
+      "title": "The Founder King",
+      "years": "c. 1630 - 1680",
+      "status": "open",
+      "hook": "Founder of the Maratha state, builder of hill forts and a navy, crowned in 1674."
+    },
+    {
+      "id": "curie",
+      "name": "Marie Skłodowska-Curie",
+      "title": "The Radium Pioneer",
+      "years": "1867 - 1934",
+      "status": "open",
+      "hook": "The scientist who discovered polonium and radium and won two Nobel Prizes."
+    },
+    {
+      "id": "shakespeare",
+      "name": "William Shakespeare",
+      "title": "The Playwright",
+      "years": "1564 - 1616",
+      "status": "open",
+      "hook": "The actor and part-owner of a theatre who wrote about 39 plays and 154 sonnets."
     }
   ],
   "candidates": [
-    "Leonardo da Vinci",
     "Benjamin Franklin",
     "Sun Tzu",
     "Alexander the Great",
-    "Cleopatra",
     "Genghis Khan",
     "Napoleon Bonaparte",
     "Julius Caesar",

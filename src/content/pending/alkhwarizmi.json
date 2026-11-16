@@ -1,0 +1,62 @@
+{
+  "id": "alkhwarizmi",
+  "name": "Muhammad ibn Musa al-Khwarizmi",
+  "years": "c. 780 - c. 850",
+  "title": "The Method Maker",
+  "tagline": "In Baghdad's House of Wisdom he turned hard sums into clear, step-by-step methods anyone could follow, so clear that \"algebra\" and \"algorithm\" still carry his book's title and his name.",
+  "sources": {
+    "w-khwarizmi": { "label": "Muhammad ibn Musa al-Khwarizmi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi" },
+    "mactutor": { "label": "Al-Khwarizmi, biography (MacTutor History of Mathematics, University of St Andrews)", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/" },
+    "w-aljabr": { "label": "Al-Jabr (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Al-Jabr" },
+    "rosen": { "label": "The Algebra of Mohammed ben Musa, ed. and tr. Frederic Rosen, London 1831 (Internet Archive)", "url": "https://archive.org/details/algebraofmohamme00khuwuoft" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Solve the problems people really have",
+      "idea": "Al-Khwarizmi did not write algebra as a puzzle for experts. He said he kept to what was easiest and most useful: dividing an inheritance, settling trade and lawsuits, measuring land and digging canals. About half of his book works through inheritance cases.",
+      "quote": { "text": "...confining it to what is easiest and most useful in arithmetic, such as men constantly require in cases of inheritance, legacies, partition, law-suits, and trade...", "credit": "The Algebra of Mohammed ben Musa, preface, p. 3, tr. Frederic Rosen (1831)" },
+      "practice": "Pick one thing you know well. Write down one real problem it could solve for someone you know this week.",
+      "sources": ["rosen", "w-aljabr", "mactutor"]
+    },
+    {
+      "title": "Start from the simplest parts",
+      "idea": "He began his book by asking what people need when they calculate, and broke it down to its smallest parts: numbers made of units, and three kinds of quantity (roots, squares and plain numbers). Every harder problem was built from those pieces.",
+      "quote": { "text": "When I considered what people generally want in calculating, I found that it always is a number.", "credit": "The Algebra of Mohammed ben Musa, p. 5, tr. Frederic Rosen (1831)" },
+      "practice": "Take one problem you are stuck on. List its smallest parts on paper, then solve just the first part.",
+      "sources": ["rosen", "mactutor"]
+    },
+    {
+      "title": "Reduce it to a standard case",
+      "idea": "He sorted all the equations he needed into six standard types, and gave one clear recipe for each. Instead of treating every problem as new, you first turn it into a case you already know how to solve. That idea, a fixed series of steps, is what we now call an algorithm.",
+      "quote": { "text": "...one square, and ten roots of the same, amount to thirty-nine dirhems...", "credit": "The Algebra of Mohammed ben Musa, p. 8, tr. Frederic Rosen (1831)" },
+      "practice": "Write a step-by-step recipe for one task you do often, so someone else could do it without asking you.",
+      "sources": ["rosen", "w-aljabr", "mactutor"]
+    },
+    {
+      "title": "Show why it works",
+      "idea": "He did not only give rules. For the harder cases he drew a figure, a square with strips added to its sides, to show why the method is right. This picture is the 'completing the square' still taught in schools.",
+      "quote": { "text": "...in which a figure will be given for each case, to point out the reasons for halving.", "credit": "The Algebra of Mohammed ben Musa, p. 13, tr. Frederic Rosen (1831)" },
+      "practice": "Explain one rule you follow to someone else, and add a simple drawing that shows why it works.",
+      "sources": ["rosen", "mactutor"]
+    },
+    {
+      "title": "Build on others, kindly",
+      "idea": "Al-Khwarizmi drew on Indian and Greek learning that was being gathered and translated in Baghdad. In his preface he honoured scholars who make knowledge easier to reach, and those who correct others' mistakes without arrogance.",
+      "quote": { "text": "...others again discovered mistakes in preceding works, and arranged that which was confused, or adjusted what was irregular, and corrected the faults of their fellow-labourers, without arrogance towards them...", "credit": "The Algebra of Mohammed ben Musa, preface, pp. 2-3, tr. Frederic Rosen (1831)" },
+      "practice": "Find one small mistake or confusing step in shared notes or instructions. Fix it, and tell the author kindly.",
+      "sources": ["rosen", "w-khwarizmi"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "A real problem", "action": "Write down one everyday problem, such as splitting a bill or planning time, that a clear method would help with." },
+    { "day": 2, "title": "Smallest parts", "action": "Break one task you are stuck on into its smallest parts. Do only the first part today." },
+    { "day": 3, "title": "Write a recipe", "action": "Write a numbered, step-by-step method for something you do often. Test it by following it exactly.", "sources": ["w-khwarizmi"] },
+    { "day": 4, "title": "Solve his puzzle", "action": "Try his example: a square plus ten of its roots makes 39. Halve 10, square it, add 39, take the root, subtract 5. Check that you get 3.", "sources": ["rosen"] },
+    { "day": 5, "title": "Draw the why", "action": "Explain one rule to someone using a simple drawing that shows why it works." },
+    { "day": 6, "title": "Fix kindly", "action": "Improve one confusing set of notes or instructions and thank the person who wrote them." },
+    { "day": 7, "title": "Your method book", "action": "Collect this week's recipes on one page. Give it a title, like al-Khwarizmi's short book." }
+  ],
+  "reflect": "Which problem in your life keeps coming back, and what simple step-by-step method could solve it every time?",
+  "keepsake": "Muhammad ibn Musa al-Khwarizmi Builder Collectible"
+}

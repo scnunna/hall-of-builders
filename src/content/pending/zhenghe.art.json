@@ -1,0 +1,14 @@
+{
+ "style": "Graphic-novel ink, halftone, sepia and gold. AI-generated with Flux.2 Klein; an artistic interpretation, not a historical record.",
+ "splash": "03-fleet",
+ "panels": [
+  { "key": "01-yunnan", "year": "1371" },
+  { "key": "02-prince", "year": "1399" },
+  { "key": "03-fleet", "year": "1405" },
+  { "key": "04-calicut", "year": "1407", "near": true },
+  { "key": "05-galle", "year": "1409" },
+  { "key": "06-malindi", "year": "1417" },
+  { "key": "07-inscription", "year": "1431" },
+  { "key": "08-lastvoyage", "year": "1432" }
+ ]
+}

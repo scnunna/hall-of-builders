@@ -1,0 +1,63 @@
+{
+  "id": "zhenghe",
+  "name": "Zheng He",
+  "years": "1371 - 1433/35",
+  "title": "The Ocean Admiral",
+  "tagline": "Captured as a boy, he rose to command the largest fleets of his age, sailing seven times from China to India, Arabia and East Africa, and bringing tens of thousands of sailors home.",
+  "sources": {
+    "w-zhenghe": { "label": "Zheng He (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Zheng_He" },
+    "w-voyages": { "label": "Ming treasure voyages (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ming_treasure_voyages" },
+    "w-galle": { "label": "Galle Trilingual Inscription (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Galle_Trilingual_Inscription" },
+    "ws-changle": { "label": "天妃靈應之記, the Changle inscription of 1431, original Chinese text (Chinese Wikisource)", "url": "https://zh.wikisource.org/wiki/%E5%A4%A9%E5%A6%83%E9%9D%88%E6%87%89%E4%B9%8B%E8%A8%98" },
+    "ws-liujiagang": { "label": "婁東劉家港天妃宮石刻通番事蹟記, the Liujiagang inscription of 1431, original Chinese text (Chinese Wikisource)", "url": "https://zh.wikisource.org/wiki/%E5%A9%81%E6%9D%B1%E5%8A%89%E5%AE%B6%E6%B8%AF%E5%A4%A9%E5%A6%83%E5%AE%AE%E7%9F%B3%E5%88%BB%E9%80%9A%E7%95%AA%E4%BA%8B%E8%B9%9F%E8%A8%98" }
+  },
+  "story": [],
+  "principles": [
+    {
+      "title": "Respect the size of the sea",
+      "idea": "Zheng He and his officers never pretended the ocean was easy. Their inscription begins with how huge and dangerous it is. Because they took the danger seriously, they planned huge fleets with treasure ships, supply ships, soldiers and interpreters, and made the round trip seven times.",
+      "quote": { "text": "觀夫海洋，洪濤接天，巨浪如山。(Gloss: Look at the ocean: great waves reach the sky, and huge billows rise like mountains.)", "credit": "Changle inscription (1431), set up by Zheng He and his fellow envoys, original classical Chinese; English is our gloss" },
+      "practice": "Before a big task, write down honestly the three hardest things about it. Next to each, write one way to prepare.",
+      "sources": ["ws-changle", "w-voyages"]
+    },
+    {
+      "title": "Keep moving, day and night",
+      "idea": "Once the plan was set, the fleet kept a steady pace across the open sea. The officers wrote that with sails high they crossed the wild waves as if walking on a wide road. Steady progress turns a frightening journey into a road you can travel.",
+      "quote": { "text": "而我之雲帆高張，晝夜星馳，涉彼狂瀾，若履通衢者。(Gloss: Yet our cloud-like sails were raised high, and we sped on day and night like shooting stars, crossing those wild waves as if walking a broad road.)", "credit": "Changle inscription (1431), original classical Chinese; English is our gloss" },
+      "practice": "Pick one long task. Do a small, fixed amount of it every day this week, even on days you do not feel like it.",
+      "sources": ["ws-changle"]
+    },
+    {
+      "title": "Write down where you have been",
+      "idea": "Near the end of his career, Zheng He set his voyages in stone: the dates, the countries and the distances. His interpreter Ma Huan and others wrote books about the lands they saw. Because they recorded it, we still know where the fleets went.",
+      "quote": { "text": "大小凡三十餘國，涉滄溟十萬餘里。(Gloss: In all, more than thirty countries, large and small, and more than one hundred thousand li across the open sea.)", "credit": "Changle inscription (1431), original classical Chinese; English is our gloss" },
+      "practice": "At the end of today, write three lines: where you went, what you did, and one thing you learned.",
+      "sources": ["ws-changle", "w-voyages"]
+    },
+    {
+      "title": "Make the way safe for others",
+      "idea": "The fleets were armed. They defeated the pirate fleet of Chen Zuyi and fought in Sri Lanka and Sumatra, and the inscription says so plainly. Its aim, as the officers described it, was safe sea lanes so that people could trade and work in peace.",
+      "quote": { "text": "海道由是而清寧，番人賴之以安業。(Gloss: Because of this the sea routes became clear and calm, and the foreign peoples could rely on it to go about their work in peace.)", "credit": "Liujiagang inscription (1431), set up by Zheng He and his fellow envoys, original classical Chinese; English is our gloss" },
+      "practice": "Notice one small thing that makes a shared space unsafe or hard to use, like a blocked path or a messy shared file. Fix it.",
+      "sources": ["ws-liujiagang", "w-voyages", "w-zhenghe"]
+    },
+    {
+      "title": "Respect every port",
+      "idea": "Zheng He was born a Muslim and honoured the sea goddess Tianfei. At Galle in Sri Lanka his fleet left a stone in three languages giving gifts to the Buddha, to Allah and to a Hindu god. At home, his officers repaired the goddess's temple each time they passed.",
+      "quote": { "text": "若劉家港之行宮，創造有年，每至於斯，卽爲葺理。(Gloss: As for the temple at Liujiagang, built years ago, each time we came here we repaired it.)", "credit": "Liujiagang inscription (1431), original classical Chinese; English is our gloss" },
+      "practice": "Learn one custom or greeting from a culture different from yours, and use it respectfully this week.",
+      "sources": ["ws-liujiagang", "w-galle", "w-zhenghe"]
+    }
+  ],
+  "challenge": [
+    { "day": 1, "title": "Name the waves", "action": "Write down the three hardest parts of a big task you face, and one way to prepare for each." },
+    { "day": 2, "title": "Pack the fleet", "action": "Make a checklist of everything you need for one trip or project before you start. Tick it off as you pack.", "sources": ["w-voyages"] },
+    { "day": 3, "title": "Steady sails", "action": "Do a small, fixed amount of one long task today, and plan to do the same tomorrow." },
+    { "day": 4, "title": "Learn a greeting", "action": "Learn how to say hello and thank you in a language spoken by someone in your community, and use it." },
+    { "day": 5, "title": "Clear the lane", "action": "Fix one small thing that makes a shared space harder for others to use." },
+    { "day": 6, "title": "Repair what you rely on", "action": "Mend, clean or tidy one tool or place you use often, as his crews repaired the temple at each visit.", "sources": ["ws-liujiagang"] },
+    { "day": 7, "title": "Your logbook", "action": "Write a short log of your week: where you went, what you did and what you learned. Keep it." }
+  ],
+  "reflect": "What is the biggest 'ocean' in front of you right now, and what would you need to cross it and come safely back?",
+  "keepsake": "Zheng He Builder Collectible"
+}
