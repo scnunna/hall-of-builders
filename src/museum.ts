@@ -84,8 +84,15 @@ export function museumHTML(id: string, name: string, years: string, m: Museum, a
         <p class="m-scroll">Scroll to walk through the life <span aria-hidden="true">&darr;</span></p>
       </div>
     </section>
-    <div class="m-bar" aria-hidden="true"><span class="m-year">${fmtY(first)}</span><span class="m-track"><span class="m-fill"></span></span><span class="m-end">${fmtY(last)}</span></div>`,
-    timeline: `<section class="wrap m-life" id="life"><h2 class="sec">A life, ${esc(life)}</h2><p class="muted small">${esc(art.style)}</p><div class="spine">${events}</div></section>`,
+    <div class="m-bar" role="region" aria-label="Story player">
+      <button class="mp-btn mp-play" type="button" aria-pressed="false" aria-label="Play the life story"><svg class="i-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4.5v15l12-7.5z"/></svg><svg class="i-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 4.5h4v15h-4zM13.5 4.5h4v15h-4z"/></svg></button>
+      <span class="m-year" aria-hidden="true">${fmtY(first)}</span><span class="m-track" aria-hidden="true"><span class="m-fill"></span></span><span class="m-end" aria-hidden="true">${fmtY(last)}</span>
+      <label class="sr" for="mp-speed">Reading speed</label><select id="mp-speed" class="mp-speed">${[0.75, 1, 1.25, 1.5, 2].map((v) => `<option value="${v}"${v === 1 ? ' selected' : ''}>${v}x</option>`).join('')}</select>
+      <button class="mp-btn mp-voice" type="button" aria-pressed="true" aria-label="Narration voice on"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9.5h4l5-4.5v14l-5-4.5H4z"/><path class="wave" d="M16 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+    </div>`,
+    timeline: `<section class="wrap m-life" id="life"><h2 class="sec">A life, ${esc(life)}</h2>
+      <div class="mp-intro"><button class="btn btn-gold mp-start" type="button">&#9654; Play the story</button><p class="muted small">Narration reads each moment aloud and scrolls the timeline for you. Tap any picture to pause. Change the speed or turn the voice off in the player at the bottom.</p></div>
+      <p class="muted small">${esc(art.style)}</p><div class="spine">${events}</div></section>`,
     works: `<section class="wrap band" id="works"><h2 class="sec">The life's work</h2><div class="works">${works}</div></section>`,
     patents,
     books: `<section class="wrap" id="books"><h2 class="sec">Read more</h2><p class="muted small">Their own books come first, with free public-domain copies where they exist. Some links may become affiliate links; it never changes what we recommend. <a href="#/legal/disclosures">Disclosures</a></p><ul class="books">${books}</ul></section>`,
@@ -93,8 +100,85 @@ export function museumHTML(id: string, name: string, years: string, m: Museum, a
   };
 }
 
+// ---------- Story player: optional narration + auto-scroll through the timeline ----------
+// Uses the browser's own speech engine (free, nothing is sent anywhere). Without a voice it runs as a timed slideshow.
+let stopPlayer = () => {};
+let hashHooked = false;
+const store = {
+  get: (k: string) => { try { return localStorage.getItem(k); } catch { return null; } },
+  set: (k: string, v: string) => { try { localStorage.setItem(k, v); } catch { /* private mode */ } },
+};
+
+function initPlayer(root: HTMLElement, reduce: boolean) {
+  stopPlayer();
+  const bar = root.querySelector<HTMLElement>('.m-bar'); const tiles = Array.from(root.querySelectorAll<HTMLElement>('#life .ev'));
+  if (!bar || !tiles.length) return;
+  const playBtn = bar.querySelector<HTMLButtonElement>('.mp-play')!, voiceBtn = bar.querySelector<HTMLButtonElement>('.mp-voice')!, speedSel = bar.querySelector<HTMLSelectElement>('#mp-speed')!;
+  const synth = 'speechSynthesis' in window ? window.speechSynthesis : null;
+  let voice = !!synth && store.get('hob.voice') !== 'off';
+  const saved = store.get('hob.speed'); if (saved && [...speedSel.options].some((o) => o.value === saved)) speedSel.value = saved;
+  let playing = false, idx = 0, run = 0, timer = 0;
+  const speed = () => Number(speedSel.value) || 1;
+  const textOf = (t: HTMLElement) => {
+    const y = t.querySelector('.ev-meta b')?.textContent || ''; const h = t.querySelector('h3')?.textContent || '';
+    const ps = t.querySelectorAll('.ev-body > p, .sp-text > p'); const p = ps[ps.length - 1]?.cloneNode(true) as HTMLElement | undefined;
+    p?.querySelectorAll('.cite').forEach((c) => c.remove());
+    return `${y}. ${h}. ${(p?.textContent || '').replace(/\s+/g, ' ').trim()}`;
+  };
+  const sync = () => {
+    playBtn.setAttribute('aria-pressed', String(playing)); playBtn.setAttribute('aria-label', playing ? 'Pause the life story' : 'Play the life story');
+    bar.classList.toggle('playing', playing);
+    voiceBtn.hidden = !synth; voiceBtn.setAttribute('aria-pressed', String(voice)); voiceBtn.setAttribute('aria-label', voice ? 'Narration voice on' : 'Narration voice off');
+    root.querySelectorAll('.mp-start').forEach((b) => { b.innerHTML = playing ? '&#10074;&#10074; Pause the story' : '&#9654; Play the story'; });
+  };
+  const clear = () => { run++; clearTimeout(timer); synth?.cancel(); tiles.forEach((t) => t.classList.remove('reading')); };
+  const next = (id: number) => { if (id !== run || !playing) return; idx++; step(); };
+  const step = () => {
+    if (idx >= tiles.length) { pause(); idx = 0; return; }
+    clear(); const id = run; const t = tiles[idx];
+    t.classList.add('reading'); t.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'center' });
+    const text = textOf(t);
+    if (voice && synth) {
+      // Sentence by sentence: short utterances stop browsers from cutting long speech off.
+      const parts = text.match(/[^.!?]+[.!?]*/g) || [text]; let k = 0;
+      const say = () => {
+        if (id !== run || !playing) return;
+        if (k >= parts.length) { timer = window.setTimeout(() => next(id), 500); return; }
+        const u = new SpeechSynthesisUtterance(parts[k++].trim()); u.rate = speed(); u.lang = 'en-US';
+        u.onend = say; u.onerror = () => { if (id === run && playing) timer = window.setTimeout(() => next(id), 1500); };
+        synth.speak(u);
+      };
+      timer = window.setTimeout(say, reduce ? 0 : 650);
+    } else {
+      const words = text.split(/\s+/).length;   // silent slideshow: about 200 words a minute at 1x
+      timer = window.setTimeout(() => next(id), 1200 + (words / (3.3 * speed())) * 1000);
+    }
+  };
+  const play = () => {
+    if (synth) synth.speak(new SpeechSynthesisUtterance(''));   // unlocks speech inside the tap on iOS
+    const at = tiles.findIndex((t) => t.getBoundingClientRect().bottom > innerHeight * 0.3);
+    if (idx === 0 && at > 0) idx = at;   // start from where the reader is
+    playing = true; sync(); step();
+  };
+  function pause() { playing = false; clear(); sync(); }
+  const toggle = () => (playing ? pause() : play());
+  playBtn.addEventListener('click', toggle);
+  root.querySelectorAll('.mp-start').forEach((b) => b.addEventListener('click', toggle));
+  voiceBtn.addEventListener('click', () => { voice = !voice; store.set('hob.voice', voice ? 'on' : 'off'); sync(); if (playing) step(); });
+  speedSel.addEventListener('change', () => { store.set('hob.speed', speedSel.value); if (playing && !voice) step(); });
+  // Tap any picture, or scroll by hand, to pause.
+  root.addEventListener('click', (e) => { if (playing && (e.target as Element).closest('img, .ev-img, .sp-img, .m-splash-img')) pause(); });
+  const manual = (e: Event) => { if (playing && !(e.target as Element)?.closest?.('.m-bar, .mp-intro')) pause(); };
+  const keys = (e: KeyboardEvent) => { if (playing && ['ArrowDown', 'ArrowUp', 'PageDown', 'PageUp', 'Home', 'End'].includes(e.key)) pause(); };
+  addEventListener('wheel', manual, { passive: true }); addEventListener('touchstart', manual, { passive: true }); addEventListener('keydown', keys);
+  stopPlayer = () => { pause(); removeEventListener('wheel', manual); removeEventListener('touchstart', manual); removeEventListener('keydown', keys); };
+  if (!hashHooked) { hashHooked = true; addEventListener('hashchange', () => stopPlayer()); }
+  sync();
+}
+
 export function initMuseum(root: HTMLElement) {
   const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  initPlayer(root, reduce);
   // Patent search + filter
   const q = root.querySelector<HTMLInputElement>('#pq');
   if (q) {
