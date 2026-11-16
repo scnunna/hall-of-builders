@@ -287,6 +287,46 @@
       "years": "1847 - 1922",
       "status": "open",
       "hook": "A teacher of deaf students who learned how to send the human voice down a wire."
+    },
+    {
+      "id": "mozart",
+      "name": "Wolfgang Amadeus Mozart",
+      "title": "The Traveling Prodigy",
+      "years": "1756 - 1791",
+      "status": "open",
+      "hook": "He toured Europe from age six and wrote music that pleases experts and beginners alike."
+    },
+    {
+      "id": "michelangelo",
+      "name": "Michelangelo Buonarroti",
+      "title": "The Tireless Sculptor",
+      "years": "1475 - 1564",
+      "status": "open",
+      "hook": "The sculptor who painted a ceiling he called \"not my trade\" and carved until 88."
+    },
+    {
+      "id": "ashoka",
+      "name": "Ashoka the Great",
+      "title": "The Emperor of Dhamma",
+      "years": "c. 304 BC - 232 BC",
+      "status": "open",
+      "hook": "After one terrible war, he carved regret and kindness into rocks across India."
+    },
+    {
+      "id": "tagore",
+      "name": "Rabindranath Tagore",
+      "title": "The Poet-Teacher",
+      "years": "1861 - 1941",
+      "status": "open",
+      "hook": "Poet, songwriter, painter and teacher who built a school under the trees."
+    },
+    {
+      "id": "ramanujan",
+      "name": "Srinivasa Ramanujan",
+      "title": "The Self-Taught Mathematician",
+      "years": "1887 - 1920",
+      "status": "open",
+      "hook": "A Madras clerk whose notebooks of formulas still surprise mathematicians today."
     }
   ],
   "candidates": [
