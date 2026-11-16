@@ -175,6 +175,46 @@
       "years": "1819 - 1901",
       "status": "open",
       "hook": "Queen for 63 years, who wrote down her days in 122 volumes of journals."
+    },
+    {
+      "id": "rumi",
+      "name": "Jalal al-Din Rumi",
+      "title": "The Reed's Song",
+      "years": "1207 - 1273",
+      "status": "open",
+      "hook": "A Konya teacher whose friendship and grief became the Divan and the Masnavi."
+    },
+    {
+      "id": "elizabeth",
+      "name": "Elizabeth I",
+      "title": "The Learned Queen",
+      "years": "1533 - 1603",
+      "status": "open",
+      "hook": "The scholar queen who ruled England for 44 years through danger and war."
+    },
+    {
+      "id": "lovelace",
+      "name": "Ada Lovelace",
+      "title": "The Visionary",
+      "years": "1815 - 1852",
+      "status": "open",
+      "hook": "Her 1843 Notes saw that a calculating machine could work with more than numbers."
+    },
+    {
+      "id": "tubman",
+      "name": "Harriet Tubman",
+      "title": "The Conductor",
+      "years": "c. 1822 - 1913",
+      "status": "open",
+      "hook": "She escaped slavery, then went back again and again to guide others to freedom."
+    },
+    {
+      "id": "douglass",
+      "name": "Frederick Douglass",
+      "title": "The Free Voice",
+      "years": "c. 1818 - 1895",
+      "status": "open",
+      "hook": "He taught himself to read, escaped slavery and became a great speaker and editor."
     }
   ],
   "candidates": [
@@ -191,9 +231,6 @@
     "Cornelius Vanderbilt",
     "Thomas Edison",
     "Marie Curie",
-    "Ada Lovelace",
-    "Harriet Tubman",
-    "Frederick Douglass",
     "Madam C.J. Walker"
   ]
 }
