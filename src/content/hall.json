@@ -215,6 +215,38 @@
       "years": "c. 1818 - 1895",
       "status": "open",
       "hook": "He taught himself to read, escaped slavery and became a great speaker and editor."
+    },
+    {
+      "id": "confucius",
+      "name": "Confucius",
+      "title": "The Teacher",
+      "years": "c. 551 BC - 479 BC",
+      "status": "open",
+      "hook": "The teacher whose sayings, collected as the Analects, shaped China for 2,000 years."
+    },
+    {
+      "id": "twain",
+      "name": "Mark Twain",
+      "title": "The Storyteller",
+      "years": "1835 - 1910",
+      "status": "open",
+      "hook": "River pilot turned writer who lost a fortune, then paid back every debt."
+    },
+    {
+      "id": "ibnsina",
+      "name": "Ibn Sina (Avicenna)",
+      "title": "The Physician Philosopher",
+      "years": "c. 980 - 1037",
+      "status": "open",
+      "hook": "Physician and philosopher who wrote The Canon of Medicine."
+    },
+    {
+      "id": "dostoevsky",
+      "name": "Fyodor Dostoevsky",
+      "title": "The Deep Heart",
+      "years": "1821 - 1881",
+      "status": "open",
+      "hook": "Faced a firing squad, survived Siberia, and wrote Crime and Punishment."
     }
   ],
   "candidates": [
@@ -225,7 +257,6 @@
     "Julius Caesar",
     "Archimedes",
     "Seneca",
-    "Confucius",
     "Andrew Carnegie",
     "John D. Rockefeller",
     "Cornelius Vanderbilt",

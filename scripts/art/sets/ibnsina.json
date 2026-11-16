@@ -1,13 +1,13 @@
 {
-  "subject": "a Persian scholar and physician of the early 11th century with a neatly trimmed dark beard, a white turban and long layered robes of Central Asian style, thoughtful calm eyes",
-  "panels": {
-    "01-bukhara": "the city of Bukhara in Central Asia around 980 AD at golden hour, mud-brick walls, domes and a citadel, a caravan of camels arriving, orchards and a river, wide establishing shot, medieval Samanid era",
-    "02-lessons": "a ten-year-old Persian boy in a simple robe and small cap sitting cross-legged at a low wooden reading stand with an open handwritten manuscript, an elderly bearded teacher in a turban beside him, a quiet sunlit study room in Bukhara, around 990 AD, respectful and studious",
-    "03-young-doctor": "a sixteen-year-old Persian youth in a turban and robe kneeling beside a resting patient on a floor cushion, gently feeling the patient's pulse at the wrist, older physicians in turbans watching and taking notes, oil lamp, Bukhara around 996 AD, calm and dignified, not graphic",
-    "04-library": "{S} as a young man of seventeen walking in wonder through a royal library of several rooms filled with stacked wooden chests overflowing with manuscripts and scrolls, light from high windows, Samanid palace in Bukhara around 997 AD",
-    "05-bookseller": "{S} as a young man at a busy medieval Bukhara book market stall, a bookseller holding out a small cheap handwritten book to him, piles of manuscripts, morning light, around 998 AD, a moment of discovery",
-    "06-vizier": "{S} at night in a lamplit room in Hamadan around 1015 AD, dictating from notes to a circle of seated students who write on paper with reed pens, stacks of manuscripts, warm lamp glow, scholarly atmosphere",
-    "07-canon": "{S} writing a large handwritten medical book at a low desk by oil lamp light, open manuscripts with drawings of medicinal plants around him, a student copying pages nearby, Persian room with carved wooden window, around 1025 AD, quiet focus",
-    "08-legacy": "a Renaissance European university lecture hall in the late 1400s, a professor in a dark gown reading from a large printed Latin medical book at a wooden lectern, rows of students in period dress listening and taking notes, tall arched windows, golden light"
-  }
+ "subject": "a Persian scholar and physician of the early 11th century with a neatly trimmed dark beard, a white turban and long layered robes of Central Asian style, thoughtful calm eyes",
+ "panels": {
+  "01-bukhara": "the city of Bukhara in Central Asia around 980 AD at golden hour, mud-brick walls, domes and a citadel, a caravan of camels arriving, orchards and a river, wide establishing shot, medieval Samanid era",
+  "02-lessons": "a ten-year-old Persian boy in a simple robe and small cap sitting cross-legged at a low wooden reading stand with an open handwritten manuscript, an elderly bearded teacher in a turban beside him, a quiet sunlit study room in Bukhara, around 990 AD, respectful and studious",
+  "03-young-doctor": "a sixteen-year-old Persian youth in a turban and robe kneeling beside a resting patient on a floor cushion, gently feeling the patient's pulse at the wrist, older physicians in turbans watching and taking notes, oil lamp, Bukhara around 996 AD, calm and dignified, not graphic",
+  "04-library": "{S} as a young man of seventeen walking in wonder through a royal library of several rooms filled with stacked wooden chests overflowing with manuscripts and scrolls, light from high windows, Samanid palace in Bukhara around 997 AD",
+  "05-bookseller": "{S} as a young man at a busy medieval Bukhara book market stall, a bookseller holding out a small cheap handwritten book to him, piles of manuscripts, morning light, around 998 AD, a moment of discovery",
+  "06-vizier": "{S} at night in a lamplit room in Hamadan around 1015 AD, dictating from notes to a circle of seated students who write on paper with reed pens, stacks of manuscripts, warm lamp glow, scholarly atmosphere, lit by small open-flame clay oil lamps of the 11th century, no glass lamps",
+  "07-canon": "{S} writing a large handwritten medical book at a low desk by oil lamp light, open manuscripts with drawings of medicinal plants around him, a student copying pages nearby, Persian room with carved wooden window, around 1025 AD, quiet focus, lit by small open-flame clay oil lamps of the 11th century, no glass lamps",
+  "08-legacy": "a Renaissance European university lecture hall in the late 1400s, a professor in a dark gown reading from a large printed Latin medical book at a wooden lectern, rows of students in period dress listening and taking notes, tall arched windows, golden light"
+ }
 }
