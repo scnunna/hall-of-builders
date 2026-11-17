@@ -1,13 +1,13 @@
 {
-  "subject": "a 9th-century Persian scholar of the Abbasid court, about forty, with a short dark beard and intelligent patient eyes, wearing a dark blue wool robe over a white tunic and a modest white turban, ink-stained fingers",
-  "panels": {
-    "01-khwarazm": "an irrigated oasis town in Central Asia around 780, mud-brick walls and canals among green fields, a boy drawing squares and lines in the sand with a stick beside a canal while farmers measure a field with a rope, mountains far away, early Abbasid era",
-    "02-baghdad": "a wide view of the round city of Baghdad on the Tigris in 813, domes and walls, boats on the river, palm groves, caravans arriving with bundles of books and scrolls, golden morning light, Abbasid Caliphate",
-    "03-library": "{S} walking between tall wooden shelves of manuscripts and scrolls in a great Baghdad library around 820, translators at low desks copying Greek and Sanskrit texts into Arabic, oil lamps and arches, calm busy scholarship",
-    "04-algebra": "{S} seated cross-legged at a low desk around 820, writing in a manuscript with a reed pen, beside him a large drawing of a square with strips added to its sides traced on a wax board, a student watching closely, lamplight in a Baghdad study, no readable text",
-    "05-numerals": "{S} teaching a small group of merchants and students around 825 by writing rows of simple digits on a dust board with his finger, a set of scales and coins on a cloth nearby, courtyard with a fountain, Abbasid Baghdad, no readable text",
-    "06-observatory": "{S} with other scholars on the rooftop of an observatory in Baghdad at night around 828, measuring a star with a large brass astrolabe, a long wall quadrant, the starry sky above the city, quiet wonder",
-    "07-map": "{S} and two assistants bent over a large parchment on a table in 833, plotting coastlines and cities as dots from long tables of numbers, compasses and rulers, partly drawn world map, warm lamplight, no readable text",
-    "08-segovia": "a 12th-century English monk-scholar in a dark habit translating an Arabic manuscript into Latin at a desk in a stone room in Segovia in 1145, an Arabic-speaking helper reading aloud beside him, a candle and pile of books, no readable text"
-  }
+ "subject": "a 9th-century Persian scholar of the Abbasid court, about forty, with a short dark beard and intelligent patient eyes, wearing a dark blue wool robe over a white tunic and a modest white turban, ink-stained fingers",
+ "panels": {
+  "01-khwarazm": "an irrigated oasis town in Central Asia around 780, mud-brick walls and canals among green fields, a boy drawing squares and lines in the sand with a stick beside a canal while farmers measure a field with a rope, mountains far away, early Abbasid era",
+  "02-baghdad": "a wide view of the round city of Baghdad on the Tigris in 813, domes and walls, boats on the river, palm groves, caravans arriving with bundles of books and scrolls, golden morning light, Abbasid Caliphate",
+  "03-library": "{S} walking between tall wooden shelves of manuscripts and scrolls in a great Baghdad library around 820, translators at low desks copying Greek and Sanskrit texts into Arabic, oil lamps and arches, calm busy scholarship",
+  "04-algebra": "{S} seated cross-legged at a low desk around 820, writing in a manuscript with a reed pen, beside him a large drawing of a square with strips added to its sides traced on a wax board, a student watching closely, lamplight in a Baghdad study, no readable text",
+  "05-numerals": "{S} teaching a small group of merchants and students around 825 by writing rows of simple digits on a dust board with his finger, a set of scales and coins on a cloth nearby, courtyard with a fountain, Abbasid Baghdad, no readable text",
+  "06-observatory": "{S} on a flat roof observatory in Baghdad at night around 830, holding up a flat brass astrolabe to measure a star, beside him a large stone wall quadrant with a sighting rod, assistants writing tables by an open-flame oil lamp, starry sky, no telescope, no tubes, no lenses",
+  "07-map": "{S} and two assistants bent over a large parchment on a table in 833, plotting coastlines and cities as dots from long tables of numbers, compasses and rulers, partly drawn world map, warm lamplight, no readable text",
+  "08-segovia": "a 12th-century English monk-scholar in a dark habit translating an Arabic manuscript into Latin at a desk in a stone room in Segovia in 1145, an Arabic-speaking helper reading aloud beside him, a candle and pile of books, no readable text"
+ }
 }
