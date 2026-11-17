@@ -359,6 +359,46 @@
       "years": "c. 1400 - 1468",
       "status": "open",
       "hook": "He cast metal letters by the thousand and printed the Bible that began Europe's book age."
+    },
+    {
+      "id": "archimedes",
+      "name": "Archimedes of Syracuse",
+      "title": "The Great Measurer",
+      "years": "c. 287 BC - 212 BC",
+      "status": "open",
+      "hook": "He found nature's rules with levers and water, then proved them with geometry."
+    },
+    {
+      "id": "nightingale",
+      "name": "Florence Nightingale",
+      "title": "The Nurse Who Counted",
+      "years": "1820 - 1910",
+      "status": "open",
+      "hook": "She led nurses in a war hospital, then used numbers and charts to change health care."
+    },
+    {
+      "id": "tolstoy",
+      "name": "Leo Tolstoy",
+      "title": "The Truth Seeker",
+      "years": "1828 - 1910",
+      "status": "open",
+      "hook": "Wrote War and Peace, taught peasant children, and inspired Gandhi's nonviolence."
+    },
+    {
+      "id": "walker",
+      "name": "Madam C. J. Walker",
+      "title": "The Founder",
+      "years": "1867 - 1919",
+      "status": "open",
+      "hook": "From the washtub to her own factory, she trained thousands of women to earn."
+    },
+    {
+      "id": "zhenghe",
+      "name": "Zheng He",
+      "title": "The Ocean Admiral",
+      "years": "1371 - 1433/35",
+      "status": "open",
+      "hook": "The Ming admiral who led seven great fleets across the Indian Ocean and back."
     }
   ],
   "candidates": [
@@ -367,7 +407,6 @@
     "Genghis Khan",
     "Napoleon Bonaparte",
     "Julius Caesar",
-    "Archimedes",
     "Seneca",
     "Andrew Carnegie",
     "John D. Rockefeller",
