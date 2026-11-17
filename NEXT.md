@@ -29,3 +29,16 @@ deployed from the NAIC monorepo branch `claude/hall-of-builders` (ncg-site, `npm
 - GitHub repo secrets FTP_HOST / FTP_USER / FTP_PASSWORD to switch on the nightly midnight publish.
 - Domain + mailbox (until then: lead collection only). Affiliate IDs (Bookshop.org, Amazon US/CA). Legal review.
 - Medusa install on the VPS (capacity confirmed: ~7 GB free RAM, 41 GB disk) after the Tesla approval.
+
+## Update 2026-11-16: 50 Sections live
+- All 50 Sections are live (sitemap lists 50 + lobby). Each has a timeline with 8-12 graphic-novel panels, works,
+  5 sourced principles, a 7-day challenge, books, resources and (for the newer 25) a signature "feature" section.
+- New: story player (narration + auto-scroll), mobile scaling + mobile e2e, SEO pages per Section (/hall/<id>/),
+  sitemap.xml, llms.txt, BC dates.
+- Pipeline: research -> src/content/pending/<id>.* + scripts/art/sets/<id>.json -> `node scripts/check-content.mjs --pending <id>`
+  -> `python scripts/art/panels.py <id>` -> `node scripts/art/publish-art.mjs <id>` -> `node scripts/promote.mjs <id>`
+  -> `npm run build` -> e2e -> `npm run sync:ncg` -> NAIC deploy. (`promote.mjs --undo <id>` moves a Section back.)
+- Art review: the image model drifts to anachronisms (electric lamps, typewriters, galleons, Capitol domes, duplicate people,
+  fake text). The global negative list in scripts/art/panels.py covers these; still review every contact sheet by eye.
+- Waiting on the owner: rebrand choice + domain, Search Console/Bing sitemap submission, root robots.txt, FTP secrets for
+  the nightly action, affiliate IDs, legal review.
